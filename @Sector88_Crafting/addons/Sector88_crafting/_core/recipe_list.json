@@ -1,0 +1,38 @@
+{
+    "Directory": "Sector88",
+    "LoadSubdirectories": 1,
+    "Enabled": 1,
+    "Recipes": [
+        "Guns/12ga/craft_12ga_shotguns.json",
+        "Guns/22/pistols_22.json",
+        "Guns/22/rifles_22.json",
+
+        "Guns/300BLK/craft_300blk_rifles.json",
+        "Guns/300WM/craft_300wm_rifles.json",
+        "Guns/308/craft_308_rifles.json",
+
+        "Guns/338/craft_338_rifles.json",
+        "Guns/380/craft_380_guns.json",
+        "Guns/408/craft_408_rifles.json",
+
+        "Guns/45ACP/craft_45acp_guns.json",
+        "Guns/45ACP/craft_45acp_smgs.json",
+
+        "Guns/50BMG/craft_50bmg_rifles.json",
+
+        "Guns/545/craft_545_rifles.json",
+        "Guns/556/craft_556_rifles.json",
+
+        "Guns/762x25/craft_762x25_guns.json",
+        "Guns/762x25/craft_762x25_smgs.json",
+
+        "Guns/762x39/craft_762x39_rifles.json",
+        "Guns/762x54R/craft_762x54r_rifles.json",
+
+        "Guns/939/craft_939_rifles.json",
+
+        "Guns/9mm/craft_9mm_guns.json",
+        "Guns/9mm/craft_9mm_smgs.json"
+    ]
+}
+

@@ -1,0 +1,28 @@
+{
+    "Name": "Craft Sporter 22",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_22", "Amount": 1 },
+            { "ClassName": "LowerReceiver_22", "Amount": 1 },
+            { "ClassName": "Bolt_22", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Sporter22", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Barrel_22", "Amount": 1 },
+            { "ClassName": "LowerReceiver_22", "Amount": 1 },
+            { "ClassName": "Bolt_22", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

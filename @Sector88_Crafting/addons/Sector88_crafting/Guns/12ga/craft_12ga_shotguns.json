@@ -1,0 +1,45 @@
+{
+    "Name": "Craft 12 Gauge Shotguns",
+    "ActionType": "Craft",
+    "CraftingTime": 8,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_12ga", "Amount": 1 },
+            { "ClassName": "UpperReceiver_12ga", "Amount": 1 },
+            { "ClassName": "LowerReceiver_12ga", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Mp133Shotgun", "Amount": 1 },
+            { "ClassName": "Izh18Shotgun", "Amount": 1 },
+            { "ClassName": "Saiga12K", "Amount": 1 },
+            { "ClassName": "DoubleBarrelShotgun", "Amount": 1 },
+            { "ClassName": "SawedoffIzh43", "Amount": 1 },
+
+            { "ClassName": "Expansion_M1014", "Amount": 1 },
+            { "ClassName": "Expansion_SPAS12", "Amount": 1 },
+            { "ClassName": "Expansion_M870", "Amount": 1 },
+
+            { "ClassName": "AJW_Mossberg590", "Amount": 1 },
+            { "ClassName": "AJW_Mossberg590_Short", "Amount": 1 },
+            { "ClassName": "AJW_Rem870", "Amount": 1 },
+            { "ClassName": "AJW_Rem870_Tactical", "Amount": 1 },
+            { "ClassName": "AJW_Saiga12K_Custom", "Amount": 1 },
+            { "ClassName": "AJW_KSG", "Amount": 1 },
+            { "ClassName": "AJW_SPAS12", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_12ga", "Amount": 1 },
+            { "ClassName": "UpperReceiver_12ga", "Amount": 1 },
+            { "ClassName": "LowerReceiver_12ga", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

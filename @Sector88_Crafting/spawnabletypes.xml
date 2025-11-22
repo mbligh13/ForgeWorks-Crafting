@@ -1,0 +1,176 @@
+<spawnabletypes>
+    <!-- ===================================================== -->
+    <!-- SECTION 2 — CORE MATERIALS (SPRINGS & METAL)          -->
+    <!-- ===================================================== -->
+
+    <type name="S88_Spring_Small">
+        <cargo chance="0.50"/>
+        <attachments chance="0.30"/>
+        <lootmax>0</lootmax>
+        <lootmin>0</lootmin>
+        <damage min="0" max="0"/>
+    </type>
+
+    <type name="S88_Spring_Large">
+        <cargo chance="0.30"/>
+        <attachments chance="0.10"/>
+        <lootmax>0</lootmax>
+        <lootmin>0</lootmin>
+    </type>
+
+    <type name="S88_SheetMetal_Small">
+        <cargo chance="0.60"/>
+        <attachments chance="0.40"/>
+        <lootmax>0</lootmax>
+        <lootmin>0</lootmin>
+    </type>
+
+    <type name="S88_SheetMetal_Large">
+        <cargo chance="0.20"/>
+        <attachments chance="0.05"/>
+        <lootmax>0</lootmax>
+        <lootmin>0</lootmin>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 3 — BARRELS (TIERED BY RARITY)                -->
+    <!-- ===================================================== -->
+
+    <type name="Barrel_22">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="Barrel_9mm">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="Barrel_45ACP">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="Barrel_762x25">
+        <cargo chance="0.15"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <!-- Intermediate rifle calibers -->
+    <type name="Barrel_556">
+        <cargo chance="0.10"/>
+        <attachments chance="0.05"/>
+    </type>
+
+    <type name="Barrel_300BLK">
+        <cargo chance="0.08"/>
+        <attachments chance="0.04"/>
+    </type>
+
+    <type name="Barrel_762x39">
+        <cargo chance="0.10"/>
+        <attachments chance="0.05"/>
+    </type>
+
+    <type name="Barrel_939">
+        <cargo chance="0.06"/>
+        <attachments chance="0.03"/>
+    </type>
+
+    <!-- DMR -->
+    <type name="Barrel_762x54">
+        <cargo chance="0.04"/>
+        <attachments chance="0.02"/>
+    </type>
+
+    <type name="Barrel_308">
+        <cargo chance="0.03"/>
+        <attachments chance="0.02"/>
+    </type>
+
+    <type name="Barrel_300WM">
+        <cargo chance="0.03"/>
+        <attachments chance="0.02"/>
+    </type>
+
+    <!-- Elite -->
+    <type name="Barrel_338">
+        <cargo chance="0.02"/>
+        <attachments chance="0.01"/>
+    </type>
+
+    <!-- Ultra -->
+    <type name="Barrel_408">
+        <cargo chance="0.01"/>
+        <attachments chance="0.005"/>
+    </type>
+
+    <type name="Barrel_50">
+        <cargo chance="0.01"/>
+        <attachments chance="0.005"/>
+    </type>
+
+    <!-- Historical -->
+    <type name="Barrel_8mm">
+        <cargo chance="0.10"/>
+        <attachments chance="0.05"/>
+    </type>
+
+    <!-- Shotgun -->
+    <type name="Barrel_12Gauge">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 4 — RECEIVERS                                 -->
+    <!-- ===================================================== -->
+
+    <!-- Lower Receivers -->
+    <type name="LowerReceiver_556"><cargo chance="0.06"/></type>
+    <type name="LowerReceiver_762x39"><cargo chance="0.06"/></type>
+    <type name="LowerReceiver_300BLK"><cargo chance="0.04"/></type>
+    <type name="LowerReceiver_939"><cargo chance="0.03"/></type>
+    <type name="LowerReceiver_308"><cargo chance="0.02"/></type>
+    <type name="LowerReceiver_762x54"><cargo chance="0.02"/></type>
+    <type name="LowerReceiver_300WM"><cargo chance="0.02"/></type>
+    <type name="LowerReceiver_338"><cargo chance="0.01"/></type>
+    <type name="LowerReceiver_408"><cargo chance="0.005"/></type>
+    <type name="LowerReceiver_50"><cargo chance="0.005"/></type>
+    <type name="LowerReceiver_12Gauge"><cargo chance="0.04"/></type>
+
+    <!-- Upper Receivers -->
+    <type name="UpperReceiver_556"><cargo chance="0.06"/></type>
+    <type name="UpperReceiver_762x39"><cargo chance="0.06"/></type>
+    <type name="UpperReceiver_300BLK"><cargo chance="0.04"/></type>
+    <type name="UpperReceiver_939"><cargo chance="0.03"/></type>
+    <type name="UpperReceiver_308"><cargo chance="0.02"/></type>
+    <type name="UpperReceiver_762x54"><cargo chance="0.02"/></type>
+    <type name="UpperReceiver_300WM"><cargo chance="0.02"/></type>
+    <type name="UpperReceiver_338"><cargo chance="0.01"/></type>
+    <type name="UpperReceiver_408"><cargo chance="0.005"/></type>
+    <type name="UpperReceiver_50"><cargo chance="0.005"/></type>
+    <type name="UpperReceiver_12Gauge"><cargo chance="0.04"/></type>
+    <!-- ===================================================== -->
+    <!-- SECTION 5 — BOLT ASSEMBLIES                           -->
+    <!-- ===================================================== -->
+
+    <type name="Bolt_22"><cargo chance="0.25"/></></type>
+	<type name="Bolt_762x54"><cargo chance="0.03"/></type>
+    <type name="Bolt_308"><cargo chance="0.02"/></type>
+    <type name="Bolt_300WM"><cargo chance="0.02"/></type>
+    <type name="Bolt_338"><cargo chance="0.01"/></type>
+    <type name="Bolt_408"><cargo chance="0.005"/></type>
+    <type name="Bolt_50"><cargo chance="0.005"/></type>
+    <type name="Bolt_8mm"><cargo chance="0.03"/></type>
+    <!-- ===================================================== -->
+    <!-- TIER 8 VAULT — CONTAINER-BOUND LEGENDARY LOOT         -->
+    <!-- ===================================================== -->
+
+    <type name="MetalCase_S88Vault">
+        <attachments chance="1.0">
+            <item name="BarrelLiner_MatchGrade" chance="0.25"/>
+            <item name="BoltAssembly_Precision" chance="0.25"/>
+            <item name="ReceiverBracket_Reinforced" chance="0.25"/>
+            <item name="Spring_Elite" chance="0.25"/>
+        </attachments>
+    </type>
+</spawnabletypes>

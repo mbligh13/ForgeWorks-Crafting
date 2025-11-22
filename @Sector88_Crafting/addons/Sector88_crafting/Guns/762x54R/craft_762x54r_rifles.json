@@ -1,0 +1,56 @@
+{
+    "Name": "Craft 7.62x54R Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 12,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_762x54R", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x54R", "Amount": 1 },
+            { "ClassName": "Bolt_762x54R", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Mosin9130", "Amount": 1 },
+            { "ClassName": "Mosin9130_Black", "Amount": 1 },
+            { "ClassName": "Mosin9130_Green", "Amount": 1 },
+            { "ClassName": "SVD", "Amount": 1 },
+
+            { "ClassName": "Expansion_SVD", "Amount": 1 },
+            { "ClassName": "Expansion_SV98", "Amount": 1 },
+            { "ClassName": "Expansion_Mosin", "Amount": 1 },
+
+            { "ClassName": "AJW_Mosin_Modern", "Amount": 1 },
+            { "ClassName": "AJW_Mosin_Sniper", "Amount": 1 },
+            { "ClassName": "AJW_Mosin_Sawedoff", "Amount": 1 },
+
+            { "ClassName": "AJW_SVD_Wood", "Amount": 1 },
+            { "ClassName": "AJW_SVD_Black", "Amount": 1 },
+            { "ClassName": "AJW_SVD_Modern", "Amount": 1 },
+            { "ClassName": "AJW_SVD_Tactical", "Amount": 1 },
+
+            { "ClassName": "AJW_Dragunov_Modern", "Amount": 1 },
+            { "ClassName": "AJW_Dragunov_Sniper", "Amount": 1 },
+
+            { "ClassName": "AJW_Tiger_Black", "Amount": 1 },
+            { "ClassName": "AJW_Tiger_Wood", "Amount": 1 },
+            { "ClassName": "AJW_Tiger_Modern", "Amount": 1 },
+
+            { "ClassName": "AJW_SV98_Black", "Amount": 1 },
+            { "ClassName": "AJW_SV98_Green", "Amount": 1 },
+            { "ClassName": "AJW_SV98_Tan", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_762x54R", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x54R", "Amount": 1 },
+            { "ClassName": "Bolt_762x54R", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

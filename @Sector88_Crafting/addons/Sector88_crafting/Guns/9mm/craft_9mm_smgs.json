@@ -1,0 +1,44 @@
+{
+    "Name": "Craft 9mm SMGs",
+    "ActionType": "Craft",
+    "CraftingTime": 6,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_9mm", "Amount": 1 },
+            { "ClassName": "UpperReceiver_9mm", "Amount": 1 },
+            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "MP5", "Amount": 1 },
+            { "ClassName": "MP5K", "Amount": 1 },
+
+            { "ClassName": "Expansion_MPX", "Amount": 1 },
+            { "ClassName": "Expansion_MPX_SD", "Amount": 1 },
+
+            { "ClassName": "AJW_Uzi", "Amount": 1 },
+            { "ClassName": "AJW_Uzi_Tactical", "Amount": 1 },
+            { "ClassName": "AJW_Uzi_SD", "Amount": 1 },
+            
+            { "ClassName": "AJW_MP9", "Amount": 1 },
+            { "ClassName": "AJW_MP9_SpecOps", "Amount": 1 },
+            { "ClassName": "AJW_MP9_SD", "Amount": 1 },
+
+            { "ClassName": "AJW_MPX_Custom", "Amount": 1 },
+            { "ClassName": "AJW_PP19Vityaz", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_9mm", "Amount": 1 },
+            { "ClassName": "UpperReceiver_9mm", "Amount": 1 },
+            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

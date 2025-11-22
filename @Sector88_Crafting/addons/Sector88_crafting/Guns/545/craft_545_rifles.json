@@ -1,0 +1,55 @@
+{
+    "Name": "Craft 5.45x39 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 10,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_545", "Amount": 1 },
+            { "ClassName": "UpperReceiver_545", "Amount": 1 },
+            { "ClassName": "LowerReceiver_545", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "AK74", "Amount": 1 },
+            { "ClassName": "AKS74U", "Amount": 1 },
+
+            { "ClassName": "Expansion_AK74", "Amount": 1 },
+            { "ClassName": "Expansion_AKS74U", "Amount": 1 },
+            { "ClassName": "Expansion_AK74M", "Amount": 1 },
+
+            { "ClassName": "AJW_AK74_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK74_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK74_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_AK74M_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK74M_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK74M_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_AK105_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK105_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK105_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_AKS74U_Black", "Amount": 1 },
+            { "ClassName": "AJW_AKS74U_BD", "Amount": 1 },
+            { "ClassName": "AJW_AKS74U_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_RPK74", "Amount": 1 },
+            { "ClassName": "AJW_RPK74_Tactical", "Amount": 1 },
+            { "ClassName": "AJW_RPK74M", "Amount": 1 },
+            { "ClassName": "AJW_RPK16", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_545", "Amount": 1 },
+            { "ClassName": "UpperReceiver_545", "Amount": 1 },
+            { "ClassName": "LowerReceiver_545", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

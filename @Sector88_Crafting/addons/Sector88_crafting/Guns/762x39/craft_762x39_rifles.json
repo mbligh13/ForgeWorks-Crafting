@@ -1,0 +1,54 @@
+{
+    "Name": "Craft 7.62x39 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 10,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_762x39", "Amount": 1 },
+            { "ClassName": "UpperReceiver_762x39", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x39", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "SKS", "Amount": 1 },
+            { "ClassName": "AKM", "Amount": 1 },
+
+            { "ClassName": "Expansion_AKM", "Amount": 1 },
+            { "ClassName": "Expansion_AKMS", "Amount": 1 },
+
+            { "ClassName": "AJW_AKMS_BD", "Amount": 1 },
+            { "ClassName": "AJW_AKMS_Black", "Amount": 1 },
+
+            { "ClassName": "AJW_AKM_BD", "Amount": 1 },
+            { "ClassName": "AJW_AKM_Black", "Amount": 1 },
+
+            { "ClassName": "AJW_AK103_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK103_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK103_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_AK104_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK104_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK104_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_AK15_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK15_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK15_Wood", "Amount": 1 },
+
+            { "ClassName": "AJW_SKS_Modern", "Amount": 1 },
+            { "ClassName": "AJW_SKS_Tactical", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_762x39", "Amount": 1 },
+            { "ClassName": "UpperReceiver_762x39", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x39", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

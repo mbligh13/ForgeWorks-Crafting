@@ -1,0 +1,44 @@
+{
+    "Name": "Craft .45 ACP Pistols",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_45ACP", "Amount": 1 },
+            { "ClassName": "UpperReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Colt1911", "Amount": 1 },
+            { "ClassName": "FNX45", "Amount": 1 },
+
+            { "ClassName": "Expansion_M1911", "Amount": 1 },
+            { "ClassName": "Expansion_M1911_Gold", "Amount": 1 },
+            { "ClassName": "Expansion_M1911_Snow", "Amount": 1 },
+
+            { "ClassName": "AJW_1911A1", "Amount": 1 },
+            { "ClassName": "AJW_1911_Custom", "Amount": 1 },
+            { "ClassName": "AJW_FNP45", "Amount": 1 },
+            { "ClassName": "AJW_HK45", "Amount": 1 },
+            { "ClassName": "AJW_HK45C", "Amount": 1 },
+            { "ClassName": "AJW_CM_TaranTactical45", "Amount": 1 },
+            { "ClassName": "AJW_SigP220", "Amount": 1 },
+            { "ClassName": "AJW_ColtCombatCommander", "Amount": 1 },
+            { "ClassName": "AJW_M45A1", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_45ACP", "Amount": 1 },
+            { "ClassName": "UpperReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

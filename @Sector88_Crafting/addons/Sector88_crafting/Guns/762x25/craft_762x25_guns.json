@@ -1,0 +1,30 @@
+{
+    "Name": "Craft 7.62x25 Tokarev Pistols",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_762x25", "Amount": 1 },
+            { "ClassName": "UpperReceiver_762x25", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "AJW_TT33", "Amount": 1 },
+            { "ClassName": "AJW_TTCustom", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_762x25", "Amount": 1 },
+            { "ClassName": "UpperReceiver_762x25", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

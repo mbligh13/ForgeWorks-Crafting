@@ -1,0 +1,43 @@
+{
+    "Name": "Craft 9mm Pistols",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_9mm", "Amount": 1 },
+            { "ClassName": "UpperReceiver_9mm", "Amount": 1 },
+            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Glock19", "Amount": 1 },
+            { "ClassName": "CZ75", "Amount": 1 },
+
+            { "ClassName": "Expansion_M9", "Amount": 1 },
+            { "ClassName": "Expansion_P99", "Amount": 1 },
+
+            { "ClassName": "AJW_CZP09_OD", "Amount": 1 },
+            { "ClassName": "AJW_Beretta92FS_Black", "Amount": 1 },
+            { "ClassName": "AJW_Beretta92FS_Inox", "Amount": 1 },
+            { "ClassName": "AJW_CM_TaranTactical_Black", "Amount": 1 },
+            { "ClassName": "AJW_CM_TaranTactical_FDE", "Amount": 1 },
+            { "ClassName": "AJW_DWX", "Amount": 1 },
+            { "ClassName": "AJW_P99", "Amount": 1 },
+            { "ClassName": "AJW_Glock17", "Amount": 1 },
+            { "ClassName": "AJW_MP443", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_9mm", "Amount": 1 },
+            { "ClassName": "UpperReceiver_9mm", "Amount": 1 },
+            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

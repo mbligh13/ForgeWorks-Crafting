@@ -1,0 +1,28 @@
+{
+    "Name": "Craft .380 ACP Pistols",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_380", "Amount": 1 },
+            { "ClassName": "UpperReceiver_380", "Amount": 1 },
+            { "ClassName": "LowerReceiver_380", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "MakarovIJ70", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Barrel_380", "Amount": 1 },
+            { "ClassName": "UpperReceiver_380", "Amount": 1 },
+            { "ClassName": "LowerReceiver_380", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

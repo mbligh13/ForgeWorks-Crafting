@@ -1,0 +1,29 @@
+{
+    "Name": "Craft .408 Sniper Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 10,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_408", "Amount": 1 },
+            { "ClassName": "Bolt_408", "Amount": 1 },
+            { "ClassName": "LowerReceiver_408", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "CheyTacM200_408", "Amount": 1 },
+            { "ClassName": "M200_408", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Barrel_408", "Amount": 1 },
+            { "ClassName": "Bolt_408", "Amount": 1 },
+            { "ClassName": "LowerReceiver_408", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

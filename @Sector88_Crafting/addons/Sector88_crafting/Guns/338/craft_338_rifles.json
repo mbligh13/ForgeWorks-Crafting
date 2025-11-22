@@ -1,0 +1,30 @@
+{
+    "Name": "Craft .338 Sniper Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 8,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_338", "Amount": 1 },
+            { "ClassName": "Bolt_338", "Amount": 1 },
+            { "ClassName": "LowerReceiver_338", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "OrsisT5000_338", "Amount": 1 },
+            { "ClassName": "AXMC_338", "Amount": 1 },
+            { "ClassName": "SRSA1_338", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Barrel_338", "Amount": 1 },
+            { "ClassName": "Bolt_338", "Amount": 1 },
+            { "ClassName": "LowerReceiver_338", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

@@ -1,0 +1,50 @@
+{
+    "Name": "Craft .300 Blackout Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 10,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_300BLK", "Amount": 1 },
+            { "ClassName": "UpperReceiver_300BLK", "Amount": 1 },
+            { "ClassName": "LowerReceiver_300BLK", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "AJW_AR300_Black", "Amount": 1 },
+            { "ClassName": "AJW_AR300_FDE", "Amount": 1 },
+            { "ClassName": "AJW_AR300_Rattle", "Amount": 1 },
+            { "ClassName": "AJW_AR300_Grey", "Amount": 1 },
+
+            { "ClassName": "AJW_AR300_SBR_Black", "Amount": 1 },
+            { "ClassName": "AJW_AR300_SBR_FDE", "Amount": 1 },
+            { "ClassName": "AJW_AR300_SBR_Rattle", "Amount": 1 },
+            { "ClassName": "AJW_AR300_SBR_Grey", "Amount": 1 },
+
+            { "ClassName": "AJW_HoneyBadger", "Amount": 1 },
+            { "ClassName": "AJW_HoneyBadger_Tan", "Amount": 1 },
+            { "ClassName": "AJW_HoneyBadger_Blackout", "Amount": 1 },
+
+            { "ClassName": "AJW_SIG_MC300", "Amount": 1 },
+            { "ClassName": "AJW_SIG_MC300_Black", "Amount": 1 },
+            { "ClassName": "AJW_SIG_MC300_FDE", "Amount": 1 },
+            { "ClassName": "AJW_SIG_MC300_Rattle", "Amount": 1 },
+
+            { "ClassName": "AJW_PDW300", "Amount": 1 },
+            { "ClassName": "AJW_PDW300_FDE", "Amount": 1 },
+            { "ClassName": "AJW_PDW300_Black", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_300BLK", "Amount": 1 },
+            { "ClassName": "UpperReceiver_300BLK", "Amount": 1 },
+            { "ClassName": "LowerReceiver_300BLK", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+    <!-- ===================================================== -->
+    <!-- SECTION 1 — SHARED CRAFTING MATERIALS (SPRINGS/METAL) -->
+    <!-- ===================================================== -->
+
+    <!-- Small Spring — Commonly used, early/mid tier -->
+    <type name="S88_Spring_Small">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" />
+        <category name="tools"/>
+        <usage name="Loot"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+
+    <!-- Large Spring — Rare, mid/high tier -->
+    <type name="S88_Spring_Large">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>150</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" />
+        <category name="tools"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <!-- Sheet Metal Small — common, used heavily for mags -->
+    <type name="S88_SheetMetal_Small">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" />
+        <category name="tools"/>
+        <usage name="Loot"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <!-- Sheet Metal Large — rare, used for drums and upgrades -->
+    <type name="S88_SheetMetal_Large">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>250</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" />
+        <category name="tools"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 2 — BARRELS (ALL CALIBERS, TIERED RARITY)      -->
+    <!-- ===================================================== -->
+
+    <!-- TIER 3 — PISTOL CALIBER BARRELS -->
+    <type name="Barrel_22">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3" />
+    </type>
+
+    <type name="Barrel_9mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3" />
+    </type>
+
+    <type name="Barrel_45ACP">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="Barrel_762x25">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+
+    <!-- TIER 4–5 — INTERMEDIATE RIFLE CALIBERS -->
+    <type name="Barrel_556">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="Barrel_300BLK">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>250</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="Barrel_762x39">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="Barrel_939">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>300</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier5"/>
+    </type>
+
+
+    <!-- TIER 5–6 — DMR RIFLE BARRELS -->
+    <type name="Barrel_762x54">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>350</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="Barrel_308">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>400</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="Barrel_300WM">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>450</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier6"/>
+    </type>
+
+
+    <!-- TIER 7 — ELITE SNIPER BARRELS -->
+    <type name="Barrel_338">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>600</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier7"/>
+    </type>
+
+
+    <!-- TIER 8 — ULTRA-SNIPER BARRELS -->
+    <type name="Barrel_408">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>800</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+    <type name="Barrel_50">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>900</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+
+    <!-- SPECIALTY HISTORICAL -->
+    <type name="Barrel_8mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>250</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+
+    <!-- SHOTGUN BARRELS (Tier 3–4) -->
+    <type name="Barrel_12Gauge">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <cost>150</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 3 — LOWER RECEIVERS (ALL CALIBERS)            -->
+    <!-- ===================================================== -->
+
+    <!-- TIER 3 — PISTOL CALIBERS -->
+    <type name="LowerReceiver_22">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="LowerReceiver_9mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>110</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="LowerReceiver_45ACP">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="LowerReceiver_762x25">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+
+    <!-- TIER 4–5 — INTERMEDIATE RIFLES -->
+    <type name="LowerReceiver_556">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="LowerReceiver_300BLK">
+        <nominal>1</nominal>
+        <lifetime>7200</llifetime>
+        <cost>220</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="LowerReceiver_762x39">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>180</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="LowerReceiver_939">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>260</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier5"/>
+    </type>
+
+
+    <!-- TIER 5–6 — DMR CALIBERS -->
+    <type name="LowerReceiver_762x54">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>300</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="LowerReceiver_308">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>330</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="LowerReceiver_300WM">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>380</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier6"/>
+    </type>
+
+
+    <!-- TIER 7 — ELITE SNIPER CALIBERS -->
+    <type name="LowerReceiver_338">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>450</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier7"/>
+    </type>
+
+
+    <!-- TIER 8 — ULTRA CALIBERS -->
+    <type name="LowerReceiver_408">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>550</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+    <type name="LowerReceiver_50">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>650</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+
+    <!-- SPECIALTY HISTORICAL -->
+    <type name="LowerReceiver_8mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+
+    <!-- SHOTGUNS (Tier 3–4) -->
+    <type name="LowerReceiver_12Gauge">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <cost>160</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 4 — UPPER RECEIVERS (ALL CALIBERS)            -->
+    <!-- ===================================================== -->
+
+    <!-- TIER 3 — PISTOL CALIBERS -->
+    <type name="UpperReceiver_22">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3" />
+    </type>
+
+    <type name="UpperReceiver_9mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>110</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3" />
+    </type>
+
+    <type name="UpperReceiver_45ACP">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3" />
+    </type>
+
+    <type name="UpperReceiver_762x25">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3" />
+    </type>
+
+
+    <!-- TIER 4–5 — INTERMEDIATE RIFLE CALIBERS -->
+    <type name="UpperReceiver_556">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="UpperReceiver_300BLK">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>220</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="UpperReceiver_762x39">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>180</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="UpperReceiver_939">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>260</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier5"/>
+    </type>
+
+
+    <!-- TIER 5–6 — DMR CALIBERS -->
+    <type name="UpperReceiver_762x54">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>300</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="UpperReceiver_308">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>330</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier6"/>
+    </type>
+
+    <type name="UpperReceiver_300WM">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>380</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier6"/>
+    </type>
+
+
+    <!-- TIER 7 — ELITE SNIPER CALIBERS -->
+    <type name="UpperReceiver_338">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>450</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier7"/>
+    </type>
+
+
+    <!-- TIER 8 — ULTRA CALIBERS -->
+    <type name="UpperReceiver_408">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>550</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier8"/>
+    </type>
+
+    <type name="UpperReceiver_50">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>650</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier8"/>
+    </type>
+
+
+    <!-- SPECIALTY HISTORICAL -->
+    <type name="UpperReceiver_8mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+
+    <!-- SHOTGUN UPPERS (Tier 3–4) -->
+    <type name="UpperReceiver_12Gauge">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <cost>160</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 5 — BOLT ASSEMBLIES (DMR / SNIPER CALIBERS)   -->
+    <!-- ===================================================== -->
+	<type name="Bolt_22">
+		<nominal>6</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>50</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1"/>
+		<category name="tools"/>
+		<usage name="S88_IndustrialLoot"/>
+		<usage name="S88_MilitaryLoot"/>
+		<tier>1</tier>
+		<tier>2</tier>
+	</type>
+
+    <!-- TIER 5–6 — DMR BOLTS -->
+    <type name="Bolt_762x54">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>320</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="Bolt_308">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>350</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier6"/>
+    </type>
+
+    <type name="Bolt_300WM">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>400</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier6"/>
+    </type>
+
+
+    <!-- TIER 7 — ELITE SNIPER BOLTS -->
+    <type name="Bolt_338">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>550</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier7"/>
+    </type>
+
+
+    <!-- TIER 8 — ULTRA SNIPER BOLTS -->
+    <type name="Bolt_408">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>700</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+    <type name="Bolt_50">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>800</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+
+    <!-- SPECIALTY HISTORICAL -->
+    <type name="Bolt_8mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>220</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+    <!-- ===================================================== -->
+    <!-- SECTION 6 — ULTRA-RARE UPGRADE PARTS (TIER 8 ONLY)    -->
+    <!-- ===================================================== -->
+
+    <!-- MATCH-GRADE BARREL LINER -->
+    <type name="BarrelLiner_MatchGrade">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <cost>1000</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier8" />
+    </type>
+
+    <!-- PRECISION BOLT ASSEMBLY -->
+    <type name="BoltAssembly_Precision">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <cost>1000</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier8" />
+    </type>
+
+    <!-- REINFORCED RECEIVER BRACKET -->
+    <type name="ReceiverBracket_Reinforced">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <cost>1200</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier8" />
+    </type>
+
+    <!-- ELITE BUFFER SPRING (LEGENDARY) -->
+    <type name="Spring_Elite">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <cost>1500</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier8" />
+    </type>
+	<!-- S88Vault -->
+	<type name="MetalCase_S88Vault">
+		<nominal>1</nominal>
+		<lifetime>10800</lifetime>
+		<cost>1000</cost>
+		<flags count_in_map="1"/>
+		<usage name="S88_VaultLoot"/>
+		<value name="Tier8"/>
+	</type>
+	<type name="ExpansionKeyCard_Level5">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<cost>2000</cost>
+		<flags count_in_map="1"/>
+		<usage name="Loot"/>
+		<value name="Tier8"/>
+	</type>
+
+</types>

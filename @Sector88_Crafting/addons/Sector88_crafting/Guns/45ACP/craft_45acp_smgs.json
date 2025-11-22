@@ -1,0 +1,37 @@
+{
+    "Name": "Craft .45 ACP SMGs",
+    "ActionType": "Craft",
+    "CraftingTime": 6,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_45ACP", "Amount": 1 },
+            { "ClassName": "UpperReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "UMP45", "Amount": 1 },
+
+            { "ClassName": "AJW_Vector45", "Amount": 1 },
+            { "ClassName": "AJW_Vector45_Black", "Amount": 1 },
+            { "ClassName": "AJW_Vector45_Tactical", "Amount": 1 },
+
+            { "ClassName": "AJW_Uzi45", "Amount": 1 },
+            { "ClassName": "AJW_Uzi45_SD", "Amount": 1 },
+            { "ClassName": "AJW_Uzi45_Tactical", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_45ACP", "Amount": 1 },
+            { "ClassName": "UpperReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

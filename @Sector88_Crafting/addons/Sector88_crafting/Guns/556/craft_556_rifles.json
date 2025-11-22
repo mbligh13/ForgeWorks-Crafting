@@ -1,0 +1,68 @@
+{
+    "Name": "Craft 5.56 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 8,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_556", "Amount": 1 },
+            { "ClassName": "UpperReceiver_556", "Amount": 1 },
+            { "ClassName": "LowerReceiver_556", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "M4A1", "Amount": 1 },
+
+            { "ClassName": "AJW_Car15_BD", "Amount": 1 },
+            { "ClassName": "AJW_AK101_Black", "Amount": 1 },
+            { "ClassName": "AJW_AK102_Black", "Amount": 1 },
+
+            { "ClassName": "AJW_M4A1", "Amount": 1 },
+            { "ClassName": "AJW_M4A1_FDE", "Amount": 1 },
+            { "ClassName": "AJW_M4A1_Rattle", "Amount": 1 },
+            { "ClassName": "AJW_M4A1_AOR2", "Amount": 1 },
+
+            { "ClassName": "AJW_M4A1_10", "Amount": 1 },
+            { "ClassName": "AJW_M4A1_10_FDE", "Amount": 1 },
+            { "ClassName": "AJW_M4A1_10_Rattle", "Amount": 1 },
+            { "ClassName": "AJW_M4A1_10_AOR2", "Amount": 1 },
+
+            { "ClassName": "AJW_MCX_Grey", "Amount": 1 },
+            { "ClassName": "AJW_MCX_FDE", "Amount": 1 },
+            { "ClassName": "AJW_MCX_Rattlecan", "Amount": 1 },
+            { "ClassName": "AJW_MCX_Black", "Amount": 1 },
+
+            { "ClassName": "AJW_ACR_Black", "Amount": 1 },
+            { "ClassName": "AJW_ACR_Tan", "Amount": 1 },
+            { "ClassName": "AJW_ACR_RG", "Amount": 1 },
+
+            { "ClassName": "AJW_DMK12_Black", "Amount": 1 },
+            { "ClassName": "AJW_DMK12_FDE", "Amount": 1 },
+
+            { "ClassName": "AJW_HK416_14_Black", "Amount": 1 },
+            { "ClassName": "AJW_HK416_14_FDE", "Amount": 1 },
+            { "ClassName": "AJW_HK416_10_Black", "Amount": 1 },
+            { "ClassName": "AJW_HK416_10_FDE", "Amount": 1 },
+
+            { "ClassName": "AJW_SCARL_TAN", "Amount": 1 },
+            { "ClassName": "AJW_SCARL_Black", "Amount": 1 },
+
+            { "ClassName": "AJW_MK12_Black", "Amount": 1 },
+            { "ClassName": "AJW_MK12_FDE", "Amount": 1 }
+
+            /* Add Expansion 5.56 rifles here once you confirm their classnames */
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_556", "Amount": 1 },
+            { "ClassName": "UpperReceiver_556", "Amount": 1 },
+            { "ClassName": "LowerReceiver_556", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

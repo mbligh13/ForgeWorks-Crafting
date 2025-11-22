@@ -1,0 +1,61 @@
+{
+    "Name": "Craft .308 Winchester Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 12,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_308", "Amount": 1 },
+            { "ClassName": "UpperReceiver_308", "Amount": 1 },
+            { "ClassName": "LowerReceiver_308", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "FAL", "Amount": 1 },
+            { "ClassName": "M70_Tundra", "Amount": 1 },
+
+            { "ClassName": "Expansion_FAL", "Amount": 1 },
+            { "ClassName": "Expansion_FAL_Compact", "Amount": 1 },
+            { "ClassName": "Expansion_SCAR_H", "Amount": 1 },
+            { "ClassName": "Expansion_SCAR_H_Black", "Amount": 1 },
+            { "ClassName": "Expansion_SCAR_H_Tan", "Amount": 1 },
+
+            { "ClassName": "AJW_SCARH_Black", "Amount": 1 },
+            { "ClassName": "AJW_SCARH_Tan", "Amount": 1 },
+            { "ClassName": "AJW_SCARH_Mk17", "Amount": 1 },
+            { "ClassName": "AJW_SCARH_Mk17_Black", "Amount": 1 },
+            { "ClassName": "AJW_SCARH_Mk17_FDE", "Amount": 1 },
+            { "ClassName": "AJW_SCARH_Mk17_Rattle", "Amount": 1 },
+
+            { "ClassName": "AJW_AR10_Black", "Amount": 1 },
+            { "ClassName": "AJW_AR10_FDE", "Amount": 1 },
+            { "ClassName": "AJW_AR10_Rattle", "Amount": 1 },
+            { "ClassName": "AJW_AR10_Grey", "Amount": 1 },
+
+            { "ClassName": "AJW_DMR308_Black", "Amount": 1 },
+            { "ClassName": "AJW_DMR308_FDE", "Amount": 1 },
+            { "ClassName": "AJW_DMR308_Rattle", "Amount": 1 },
+
+            { "ClassName": "AJW_M70_Black", "Amount": 1 },
+            { "ClassName": "AJW_M70_Wood", "Amount": 1 },
+            { "ClassName": "AJW_M70_Tactical", "Amount": 1 },
+            { "ClassName": "AJW_M70_LongRange", "Amount": 1 },
+
+            { "ClassName": "AJW_Mk14_Mod0", "Amount": 1 },
+            { "ClassName": "AJW_Mk14_Mod1", "Amount": 1 },
+            { "ClassName": "AJW_Mk14_Sniper", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_308", "Amount": 1 },
+            { "ClassName": "UpperReceiver_308", "Amount": 1 },
+            { "ClassName": "LowerReceiver_308", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

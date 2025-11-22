@@ -1,0 +1,49 @@
+{
+    "Name": "Craft .300 Win Mag Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 14,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_300WM", "Amount": 1 },
+            { "ClassName": "LowerReceiver_300WM", "Amount": 1 },
+            { "ClassName": "Bolt_300WM", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Expansion_AWM", "Amount": 1 },
+            { "ClassName": "Expansion_AWM_Black", "Amount": 1 },
+            { "ClassName": "Expansion_AWM_Green", "Amount": 1 },
+
+            { "ClassName": "AJW_AXMC_300WM_Black", "Amount": 1 },
+            { "ClassName": "AJW_AXMC_300WM_FDE", "Amount": 1 },
+            { "ClassName": "AJW_AXMC_300WM_Tan", "Amount": 1 },
+            { "ClassName": "AJW_AXMC_300WM_Green", "Amount": 1 },
+
+            { "ClassName": "AJW_MSR_300WM_Black", "Amount": 1 },
+            { "ClassName": "AJW_MSR_300WM_FDE", "Amount": 1 },
+            { "ClassName": "AJW_MSR_300WM_Grey", "Amount": 1 },
+            { "ClassName": "AJW_MSR_300WM_Camo", "Amount": 1 },
+
+            { "ClassName": "AJW_M700_300WM_Black", "Amount": 1 },
+            { "ClassName": "AJW_M700_300WM_Wood", "Amount": 1 },
+            { "ClassName": "AJW_M700_300WM_Tactical", "Amount": 1 },
+
+            { "ClassName": "AJW_Savage110_300WM_Black", "Amount": 1 },
+            { "ClassName": "AJW_Savage110_300WM_FDE", "Amount": 1 },
+            { "ClassName": "AJW_Savage110_300WM_Wood", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_300WM", "Amount": 1 },
+            { "ClassName": "LowerReceiver_300WM", "Amount": 1 },
+            { "ClassName": "Bolt_300WM", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

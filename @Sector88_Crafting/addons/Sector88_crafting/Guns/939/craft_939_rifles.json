@@ -1,0 +1,40 @@
+{
+    "Name": "Craft 9x39 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 8,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_939", "Amount": 1 },
+            { "ClassName": "UpperReceiver_939", "Amount": 1 },
+            { "ClassName": "LowerReceiver_939", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "ASVAL", "Amount": 1 },
+            { "ClassName": "VSS", "Amount": 1 },
+
+            { "ClassName": "Expansion_ASVAL", "Amount": 1 },
+            { "ClassName": "Expansion_VSS", "Amount": 1 },
+
+            { "ClassName": "AJW_ASVAL", "Amount": 1 },
+            { "ClassName": "AJW_ASVAL_Tactical", "Amount": 1 },
+            { "ClassName": "AJW_VSS", "Amount": 1 },
+            { "ClassName": "AJW_VSS_Tactical", "Amount": 1 },
+            { "ClassName": "AJW_VSK94", "Amount": 1 },
+            { "ClassName": "AJW_VSK94_Tactical", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_939", "Amount": 1 },
+            { "ClassName": "UpperReceiver_939", "Amount": 1 },
+            { "ClassName": "LowerReceiver_939", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeGun"]
+}

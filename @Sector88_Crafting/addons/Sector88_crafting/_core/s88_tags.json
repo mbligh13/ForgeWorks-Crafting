@@ -1,0 +1,16 @@
+{
+    "Tags": [
+        "S88_MakeGun",
+        "S88_MakeMagazine",
+        "S88_MakeReceiver",
+        "S88_MakeBarrel",
+        "S88_MakeBolt",
+        "S88_MakeUpgrade",
+        "S88_MakeAttachment",
+
+        "S88_BreakGun",
+        "S88_BreakMagazine",
+        "S88_UpgradeWeapon"
+    ]
+}
+
