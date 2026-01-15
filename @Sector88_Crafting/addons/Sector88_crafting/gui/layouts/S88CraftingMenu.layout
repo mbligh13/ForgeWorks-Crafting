@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Sector 88 Crafting Menu Layout -->
+<!-- Similar to the Expansion crafting workbench interface -->
+<window name="S88CraftingMenuRoot" width="1.0" height="1.0">
+    
+    <!-- Dark overlay background -->
+    <widget name="Overlay" type="ImageWidget" 
+            pos="0 0" size="1 1" 
+            stretch="true" 
+            color="0 0 0" 
+            alpha="0.85"/>
+    
+    <!-- Main container panel -->
+    <frame name="MainPanel" 
+           pos="0.05 0.05" 
+           size="0.9 0.9" 
+           halign="left_ref" 
+           valign="top_ref">
+        
+        <!-- Left side: Category tabs and recipe list -->
+        <frame name="LeftPanel" 
+               pos="0 0" 
+               size="0.25 1.0">
+            
+            <!-- Header: All Recipes -->
+            <widget name="LeftHeader" type="TextWidget"
+                    pos="0 0" size="1 0.05"
+                    text="All recipes"
+                    font="gui/fonts/MetronBook22"
+                    style="shadow"
+                    halign="left_ref"/>
+            
+            <!-- Category Tabs Container -->
+            <widget name="CategoryTabber" type="TabberWidget"
+                    pos="0 0.06" size="1 0.94">
+                
+                <!-- Tab 1: Pistols -->
+                <widget name="TabPistols" type="ButtonWidget"
+                        text="Pistols"
+                        size="0.5 0.08"
+                        font="gui/fonts/MetronBook18"/>
+                
+                <!-- Tab 2: SMGs -->
+                <widget name="TabSMGs" type="ButtonWidget"
+                        text="SMGs"
+                        size="0.5 0.08"
+                        font="gui/fonts/MetronBook18"/>
+                
+                <!-- Tab 3: Rifles -->
+                <widget name="TabRifles" type="ButtonWidget"
+                        text="Rifles"
+                        size="0.5 0.08"
+                        font="gui/fonts/MetronBook18"/>
+                
+                <!-- Tab 4: Snipers -->
+                <widget name="TabSnipers" type="ButtonWidget"
+                        text="Snipers"
+                        size="0.5 0.08"
+                        font="gui/fonts/MetronBook18"/>
+                
+                <!-- Tab 5: Shotguns -->
+                <widget name="TabShotguns" type="ButtonWidget"
+                        text="Shotguns"
+                        size="0.5 0.08"
+                        font="gui/fonts/MetronBook18"/>
+                
+                <!-- Tab 6: Magazines -->
+                <widget name="TabMagazines" type="ButtonWidget"
+                        text="Magazines"
+                        size="0.5 0.08"
+                        font="gui/fonts/MetronBook18"/>
+            </widget>
+            
+            <!-- Recipe Grid (scrollable list of recipe icons) -->
+            <widget name="RecipeScrollArea" type="ScrollWidget"
+                    pos="0 0.15" size="1 0.85">
+                
+                <widget name="RecipeGrid" type="GridSpacerWidget"
+                        pos="0 0" size="1 1"
+                        columns="3" 
+                        rows="10"
+                        spacing_horizontal="0.01"
+                        spacing_vertical="0.01"/>
+            </widget>
+        </frame>
+        
+        <!-- Center: Item Preview Area -->
+        <frame name="CenterPanel" 
+               pos="0.27 0" 
+               size="0.45 1.0">
+            
+            <!-- Recipe Name Header -->
+            <widget name="RecipeHeader" type="TextWidget"
+                    pos="0 0" size="1 0.05"
+                    text="Posb recipe"
+                    font="gui/fonts/MetronBook22"
+                    style="shadow"
+                    halign="left_ref"/>
+            
+            <!-- Item Name -->
+            <widget name="ItemNameText" type="TextWidget"
+                    pos="0.7 0" size="0.3 0.05"
+                    text="KA-M"
+                    font="gui/fonts/MetronBold24"
+                    style="shadow"
+                    halign="right_ref"/>
+            
+            <!-- Item Preview Image (Large weapon preview) -->
+            <widget name="ItemPreviewFrame" type="FrameWidget"
+                    pos="0.02 0.07" size="0.96 0.5"
+                    hexcolor="#2A2A2AFF">
+                
+                <widget name="ItemPreviewImage" type="ImageWidget"
+                        pos="0.05 0.05" size="0.9 0.9"
+                        stretch="keep_aspect"
+                        filter="false"/>
+                        
+                <!-- Item count badge -->
+                <widget name="ItemCountBadge" type="TextWidget"
+                        pos="0.9 0.02" size="0.08 0.08"
+                        text="1"
+                        font="gui/fonts/MetronBold20"
+                        style="shadow"
+                        halign="center_ref"
+                        valign="center_ref"/>
+            </widget>
+            
+            <!-- Materials Required Section -->
+            <frame name="MaterialsSection"
+                   pos="0.02 0.6" size="0.96 0.28">
+                
+                <!-- Materials Grid (horizontal slots) -->
+                <widget name="MaterialsGrid" type="GridSpacerWidget"
+                        pos="0 0" size="1 1"
+                        columns="6"
+                        rows="1"
+                        spacing_horizontal="0.02"/>
+            </frame>
+            
+            <!-- Required Attachments Text -->
+            <widget name="AttachmentsText" type="TextWidget"
+                    pos="0.02 0.9" size="0.7 0.05"
+                    text="Attachments: BPGrinder,BPCutting_saw,BPDrill"
+                    font="gui/fonts/MetronBook16"
+                    style="shadow"
+                    hexcolor="#CCCCCCFF"/>
+            
+            <!-- CRAFT Button -->
+            <widget name="CraftButton" type="ButtonWidget"
+                    pos="0.75 0.85" size="0.23 0.13"
+                    text="CRAFT"
+                    font="gui/fonts/MetronBold24"
+                    hexcolor="#AA0000FF"
+                    style="shadow">
+                
+                <widget name="CraftButtonOverlay" type="ImageWidget"
+                        pos="0 0" size="1 1"
+                        texture="set:dayz_gui image:button_craft"
+                        stretch="true"/>
+            </widget>
+        </frame>
+        
+        <!-- Right Panel: Subcategory Filters (optional) -->
+        <frame name="RightPanel"
+               pos="0.74 0" size="0.26 1.0">
+            
+            <!-- Subcategory Header -->
+            <widget name="SubcategoryHeader" type="TextWidget"
+                    pos="0 0" size="1 0.05"
+                    text="Caliber Filter"
+                    font="gui/fonts/MetronBook20"
+                    style="shadow"/>
+            
+            <!-- Subcategory List -->
+            <widget name="SubcategoryScroll" type="ScrollWidget"
+                    pos="0 0.06" size="1 0.94">
+                
+                <widget name="SubcategoryList" type="GridSpacerWidget"
+                        pos="0 0" size="1 1"
+                        columns="1"
+                        rows="20"
+                        spacing_vertical="0.005"/>
+            </widget>
+        </frame>
+        
+    </frame>
+    
+    <!-- Close Button (ESC hint) -->
+    <widget name="CloseHint" type="TextWidget"
+            pos="0.9 0.02" size="0.08 0.03"
+            text="[ESC] Close"
+            font="gui/fonts/MetronBook14"
+            style="shadow"
+            hexcolor="#888888FF"
+            halign="right_ref"/>
+    
+    <!-- Crafting Time Display -->
+    <widget name="CraftingTimeText" type="TextWidget"
+            pos="0.02 0.95" size="0.2 0.03"
+            text="Time: 0s"
+            font="gui/fonts/MetronBook16"
+            style="shadow"
+            hexcolor="#AAAAAAFF"/>
+
+</window>

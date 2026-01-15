@@ -32,7 +32,44 @@
         "Guns/939/craft_939_rifles.json",
 
         "Guns/9mm/craft_9mm_guns.json",
-        "Guns/9mm/craft_9mm_smgs.json"
+        "Guns/9mm/craft_9mm_smgs.json",
+
+        "Magazines/AR/craft_ar_magazines.json",
+        "Magazines/AR/craft_ar_magazines_highcap.json",
+        "Magazines/AR/craft_ar_drums.json",
+        "Magazines/Pistols/craft_pistol_magazines.json",
+        "Magazines/Pistols/craft_pistol_magazines_45.json",
+        "Magazines/SMGs/craft_smg_magazines.json",
+        "Magazines/SMGs/craft_smg_magazines_extended.json",
+        "Magazines/LMG/craft_lmg_magazines.json",
+
+        "Breakdown/Guns/break_12ga.json",
+        "Breakdown/Guns/break_22_guns.json",
+        "Breakdown/Guns/break_300blk_rifles.json",
+        "Breakdown/Guns/break_300wm_rifles.json",
+        "Breakdown/Guns/break_308_rifles.json",
+        "Breakdown/Guns/break_338_rifles.json",
+        "Breakdown/Guns/break_380_guns.json",
+        "Breakdown/Guns/break_408_rifles.json",
+        "Breakdown/Guns/break_45acp_guns.json",
+        "Breakdown/Guns/break_45acp_smgs.json",
+        "Breakdown/Guns/break_50bmg_rifles.json",
+        "Breakdown/Guns/break_545_rifles.json",
+        "Breakdown/Guns/break_556_rifles.json",
+        "Breakdown/Guns/break_762x25_guns.json",
+        "Breakdown/Guns/break_762x25_smgs.json",
+        "Breakdown/Guns/break_762x39_rifles.json",
+        "Breakdown/Guns/break_762x54r_rifles.json",
+        "Breakdown/Guns/break_939_rifles.json",
+        "Breakdown/Guns/break_9mm_guns.json",
+        "Breakdown/Guns/break_9mm_smgs.json",
+        "Breakdown/Magazines/break_magazines_small.json",
+        "Breakdown/Magazines/break_magazines_large.json",
+
+        "Upgrades/craft_barrel_liner.json",
+        "Upgrades/craft_precision_bolt.json",
+        "Upgrades/craft_receiver_bracket.json",
+        "Upgrades/craft_elite_spring.json"
     ]
 }
 

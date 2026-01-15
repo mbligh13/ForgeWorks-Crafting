@@ -1,0 +1,27 @@
+{
+    "Name": "Break 12ga Shotguns",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "MP133Shotgun", "Amount": 1 },
+            { "ClassName": "Izh18Shotgun", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_12Gauge", "Amount": 1 },
+            { "ClassName": "UpperReceiver_12Gauge", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "MP133Shotgun", "Amount": 1 },
+            { "ClassName": "Izh18Shotgun", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

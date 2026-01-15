@@ -1,0 +1,39 @@
+{
+    "Name": "Craft Standard AR Magazines (10-30 Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 5,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "S88_SheetMetal_Small", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Mag_STANAG_30Rnd", "Amount": 1 },
+            { "ClassName": "Mag_CMAG_20Rnd", "Amount": 1 },
+            { "ClassName": "Mag_CMAG_10Rnd", "Amount": 1 },
+            { "ClassName": "AK101_Mag_30Rnd", "Amount": 1 },
+            { "ClassName": "AK74_Mag_30Rnd", "Amount": 1 },
+            { "ClassName": "AKM_Mag_30Rnd", "Amount": 1 },
+
+            { "ClassName": "AJW_Pmag10_556", "Amount": 1 },
+            { "ClassName": "AJW_Pmag20_556", "Amount": 1 },
+            { "ClassName": "AJW_Pmag30_556", "Amount": 1 },
+            { "ClassName": "AJW_STANAGmag10_black", "Amount": 1 },
+            { "ClassName": "AJW_STANAGmag20_black", "Amount": 1 },
+            { "ClassName": "AJW_STANAGmag30_black", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "S88_SheetMetal_Small", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeMagazine"]
+}

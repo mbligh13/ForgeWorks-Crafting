@@ -1,0 +1,30 @@
+{
+    "Name": "Break 9mm SMGs",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "MP5K", "Amount": 1 },
+            { "ClassName": "CZ61", "Amount": 1 },
+            { "ClassName": "PP19Bizon", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_9mm", "Amount": 1 },
+            { "ClassName": "UpperReceiver_9mm", "Amount": 1 },
+            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "MP5K", "Amount": 1 },
+            { "ClassName": "CZ61", "Amount": 1 },
+            { "ClassName": "PP19Bizon", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

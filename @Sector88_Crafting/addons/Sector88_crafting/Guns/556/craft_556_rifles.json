@@ -53,8 +53,6 @@
 
             { "ClassName": "AJW_MK12_Black", "Amount": 1 },
             { "ClassName": "AJW_MK12_FDE", "Amount": 1 }
-
-            /* Add Expansion 5.56 rifles here once you confirm their classnames */
         ],
 
         "Delete": [

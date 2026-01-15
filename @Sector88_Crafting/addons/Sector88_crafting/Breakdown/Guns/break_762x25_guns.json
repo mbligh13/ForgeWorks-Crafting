@@ -1,0 +1,25 @@
+{
+    "Name": "Break 7.62x25 Guns",
+    "ActionType": "Craft",
+    "CraftingTime": 3,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "TT33", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_762x25", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "TT33", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

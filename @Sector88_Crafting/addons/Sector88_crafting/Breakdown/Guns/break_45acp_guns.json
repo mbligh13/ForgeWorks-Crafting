@@ -1,0 +1,27 @@
+{
+    "Name": "Break .45 ACP Guns",
+    "ActionType": "Craft",
+    "CraftingTime": 3,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "FNX45", "Amount": 1 },
+            { "ClassName": "Colt1911", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_45ACP", "Amount": 1 },
+            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "FNX45", "Amount": 1 },
+            { "ClassName": "Colt1911", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

@@ -1,0 +1,25 @@
+{
+    "Name": "Break .380 Pistols",
+    "ActionType": "Craft",
+    "CraftingTime": 3,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Derringer", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_380", "Amount": 1 },
+            { "ClassName": "LowerReceiver_380", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Derringer", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

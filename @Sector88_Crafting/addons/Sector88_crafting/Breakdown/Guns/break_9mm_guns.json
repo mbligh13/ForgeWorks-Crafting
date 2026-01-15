@@ -1,0 +1,29 @@
+{
+    "Name": "Break 9mm Pistols",
+    "ActionType": "Craft",
+    "CraftingTime": 3,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Glock19", "Amount": 1 },
+            { "ClassName": "CZ75", "Amount": 1 },
+            { "ClassName": "P1", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_9mm", "Amount": 1 },
+            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Glock19", "Amount": 1 },
+            { "ClassName": "CZ75", "Amount": 1 },
+            { "ClassName": "P1", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Craft LMG Belts/Boxes (100-200 Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 15,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "S88_SheetMetal_Large", "Amount": 2 },
+            { "ClassName": "S88_Spring_Large", "Amount": 2 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Belt_PKM_100Rnd", "Amount": 1 },
+
+            { "ClassName": "AJW_Box_M249_100", "Amount": 1 },
+            { "ClassName": "AJW_Box_M249_200", "Amount": 1 },
+            { "ClassName": "AJW_Box_M60_100", "Amount": 1 },
+            { "ClassName": "AJW_Belt_PKM_100", "Amount": 1 },
+            { "ClassName": "AJW_Belt_PKP_200", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "S88_SheetMetal_Large", "Amount": 2 },
+            { "ClassName": "S88_Spring_Large", "Amount": 2 }
+        ]
+    },
+
+    "Tags": ["S88_MakeMagazine"]
+}

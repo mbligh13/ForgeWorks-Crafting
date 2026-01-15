@@ -1,0 +1,26 @@
+{
+    "Name": "Break 5.56 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 4,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "M4A1", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_556", "Amount": 1 },
+            { "ClassName": "UpperReceiver_556", "Amount": 1 },
+            { "ClassName": "LowerReceiver_556", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "M4A1", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_BreakGun"]
+}

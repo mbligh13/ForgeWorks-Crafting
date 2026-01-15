@@ -115,9 +115,29 @@
         <value name="Tier3"/>
     </type>
 
+    <type name="Barrel_380">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
 
     <!-- TIER 4–5 — INTERMEDIATE RIFLE CALIBERS -->
     <type name="Barrel_556">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="Barrel_545">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -281,9 +301,29 @@
         <value name="Tier3"/>
     </type>
 
+    <type name="LowerReceiver_380">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
 
     <!-- TIER 4–5 — INTERMEDIATE RIFLES -->
     <type name="LowerReceiver_556">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="LowerReceiver_545">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -447,9 +487,29 @@
         <value name="Tier3" />
     </type>
 
+    <type name="UpperReceiver_380">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+
 
     <!-- TIER 4–5 — INTERMEDIATE RIFLE CALIBERS -->
     <type name="UpperReceiver_556">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>200</cost>
+        <flags count_in_map="1" />
+        <usage name="Loot" />
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </type>
+
+    <type name="UpperReceiver_545">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>

@@ -1,0 +1,30 @@
+{
+    "Name": "Craft Extended Pistol Magazines (20-33 Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 5,
+    "Animation": "WorkOnBench",
+    "Workbench": "ExpansionWorkbench",
+
+    "Ingredients": {
+        "X": [
+            { "ClassName": "S88_SheetMetal_Small", "Amount": 2 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "AJW_Mag_1911_15", "Amount": 1 },
+            { "ClassName": "AJW_Mag_P226_20", "Amount": 1 },
+            { "ClassName": "AJW_Mag_Glock9_33", "Amount": 1 },
+            { "ClassName": "AJW_Mag_M9_32", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "S88_SheetMetal_Small", "Amount": 2 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["S88_MakeMagazine"]
+}
