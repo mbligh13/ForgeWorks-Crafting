@@ -7,9 +7,9 @@
 
     "Ingredients": {
         "X": [
-            { "ClassName": "Barrel_762x25", "Amount": 1 },
-            { "ClassName": "UpperReceiver_762x25", "Amount": 1 },
-            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+            { "ClassName": "PistolReceiver_762x25", "Amount": 1 },
+            { "ClassName": "PistolHandle_762x25", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 
@@ -20,9 +20,9 @@
         ],
 
         "Delete": [
-            { "ClassName": "Barrel_762x25", "Amount": 1 },
-            { "ClassName": "UpperReceiver_762x25", "Amount": 1 },
-            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+            { "ClassName": "PistolReceiver_762x25", "Amount": 1 },
+            { "ClassName": "PistolHandle_762x25", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 

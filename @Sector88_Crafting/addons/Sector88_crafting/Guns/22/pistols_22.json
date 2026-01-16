@@ -7,9 +7,9 @@
 
     "Ingredients": {
         "X": [
-            { "ClassName": "Barrel_22", "Amount": 1 },
-            { "ClassName": "UpperReceiver_22", "Amount": 1 },
-            { "ClassName": "LowerReceiver_22", "Amount": 1 }
+            { "ClassName": "PistolReceiver_22", "Amount": 1 },
+            { "ClassName": "PistolHandle_22", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 
@@ -19,9 +19,9 @@
             { "ClassName": "AJW_FKBRNO22", "Amount": 1 }
         ],
         "Delete": [
-            { "ClassName": "Barrel_22", "Amount": 1 },
-            { "ClassName": "UpperReceiver_22", "Amount": 1 },
-            { "ClassName": "LowerReceiver_22", "Amount": 1 }
+            { "ClassName": "PistolReceiver_22", "Amount": 1 },
+            { "ClassName": "PistolHandle_22", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 

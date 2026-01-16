@@ -70,8 +70,104 @@
         <value name="Tier5"/>
         <value name="Tier6"/>
     </type>
+    <!-- ===================================================== -->    <!-- SECTION 1B — PISTOL PARTS (RECEIVER & HANDLE)         -->
     <!-- ===================================================== -->
-    <!-- SECTION 2 — BARRELS (ALL CALIBERS, TIERED RARITY)      -->
+
+    <!-- TIER 3 — PISTOL RECEIVERS -->
+    <type name="PistolReceiver_22">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolReceiver_9mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>110</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolReceiver_45ACP">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolReceiver_762x25">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolReceiver_380">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <!-- TIER 3 — PISTOL HANDLES -->
+    <type name="PistolHandle_22">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolHandle_9mm">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>110</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolHandle_45ACP">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolHandle_762x25">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>120</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="PistolHandle_380">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <cost>100</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <!-- ===================================================== -->    <!-- SECTION 2 — BARRELS (ALL CALIBERS, TIERED RARITY)      -->
     <!-- ===================================================== -->
 
     <!-- TIER 3 — PISTOL CALIBER BARRELS -->
@@ -635,6 +731,9 @@
     <!-- ===================================================== -->
     <!-- SECTION 5 — BOLT ASSEMBLIES (DMR / SNIPER CALIBERS)   -->
     <!-- ===================================================== -->
+    
+    <!-- Bolt_22 DISABLED - No config.cpp class definition exists -->
+    <!--
 	<type name="Bolt_22">
 		<nominal>6</nominal>
 		<lifetime>7200</lifetime>
@@ -650,6 +749,7 @@
 		<tier>1</tier>
 		<tier>2</tier>
 	</type>
+    -->
 
     <!-- TIER 5–6 — DMR BOLTS -->
     <type name="Bolt_762x54">

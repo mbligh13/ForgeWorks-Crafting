@@ -7,9 +7,9 @@
 
     "Ingredients": {
         "X": [
-            { "ClassName": "Barrel_762x54R", "Amount": 1 },
-            { "ClassName": "LowerReceiver_762x54R", "Amount": 1 },
-            { "ClassName": "Bolt_762x54R", "Amount": 1 }
+            { "ClassName": "Barrel_762x54", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x54", "Amount": 1 },
+            { "ClassName": "Bolt_762x54", "Amount": 1 }
         ]
     },
 
@@ -46,9 +46,9 @@
         ],
 
         "Delete": [
-            { "ClassName": "Barrel_762x54R", "Amount": 1 },
-            { "ClassName": "LowerReceiver_762x54R", "Amount": 1 },
-            { "ClassName": "Bolt_762x54R", "Amount": 1 }
+            { "ClassName": "Barrel_762x54", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x54", "Amount": 1 },
+            { "ClassName": "Bolt_762x54", "Amount": 1 }
         ]
     },
 

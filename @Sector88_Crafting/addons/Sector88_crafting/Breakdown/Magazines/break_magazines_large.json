@@ -18,7 +18,7 @@
 
     "Result": {
         "Create": [
-            { "ClassName": "S88_SheetMetal_Small", "Amount": 1 },
+            { "ClassName": "S88_SheetMetal_Large", "Amount": 1 },
             { "ClassName": "S88_Spring_Large", "Amount": 1 }
         ],
         "Delete": [

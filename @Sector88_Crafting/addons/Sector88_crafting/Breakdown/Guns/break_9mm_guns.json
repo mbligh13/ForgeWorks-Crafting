@@ -15,8 +15,9 @@
 
     "Result": {
         "Create": [
-            { "ClassName": "Barrel_9mm", "Amount": 1 },
-            { "ClassName": "LowerReceiver_9mm", "Amount": 1 }
+            { "ClassName": "PistolReceiver_9mm", "Amount": 1 },
+            { "ClassName": "PistolHandle_9mm", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ],
         "Delete": [
             { "ClassName": "Glock19", "Amount": 1 },

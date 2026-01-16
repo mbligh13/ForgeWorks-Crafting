@@ -126,6 +126,115 @@ class CfgVehicles
         weight = 200;
         itemSize[] = {2,2};
     };
+
+// =====================================================
+// SECTION 2B — PISTOL PARTS (RECEIVER & HANDLE)
+// =====================================================
+
+    // ---------------------------
+    // BASE PISTOL RECEIVER CLASS
+    // ---------------------------
+
+    class S88_PistolReceiver_Base: S88_PartBase
+    {
+        scope = 0;
+        model = "\sector88_weaponparts\data\models\pistol_receiver.p3d";
+        inventoryIcon[] = {"sector88_weaponparts\data\icons\pistol_receiver"};
+        weight = 250;
+        itemSize[] = {2,1};
+    };
+
+    // ---------------------------
+    // PISTOL CALIBER RECEIVERS
+    // ---------------------------
+
+    class PistolReceiver_22: S88_PistolReceiver_Base
+    {
+        scope = 2;
+        displayName = "Pistol Receiver (.22 LR)";
+        descriptionShort = "A compact .22 LR pistol receiver frame used for small-caliber handguns.";
+    };
+
+    class PistolReceiver_9mm: S88_PistolReceiver_Base
+    {
+        scope = 2;
+        displayName = "Pistol Receiver (9×19mm)";
+        descriptionShort = "A 9×19mm pistol receiver compatible with most modern handgun platforms.";
+    };
+
+    class PistolReceiver_45ACP: S88_PistolReceiver_Base
+    {
+        scope = 2;
+        displayName = "Pistol Receiver (.45 ACP)";
+        descriptionShort = "A heavy-frame .45 ACP pistol receiver designed for large-caliber handguns.";
+    };
+
+    class PistolReceiver_762x25: S88_PistolReceiver_Base
+    {
+        scope = 2;
+        displayName = "Pistol Receiver (7.62×25)";
+        descriptionShort = "A 7.62×25 Tokarev pistol receiver used in historical military sidearms.";
+    };
+
+    class PistolReceiver_380: S88_PistolReceiver_Base
+    {
+        scope = 2;
+        displayName = "Pistol Receiver (.380 ACP)";
+        descriptionShort = "A compact .380 ACP pistol receiver for pocket and concealment pistols.";
+    };
+
+    // ---------------------------
+    // BASE PISTOL HANDLE CLASS
+    // ---------------------------
+
+    class S88_PistolHandle_Base: S88_PartBase
+    {
+        scope = 0;
+        model = "\sector88_weaponparts\data\models\pistol_handle.p3d";
+        inventoryIcon[] = {"sector88_weaponparts\data\icons\pistol_handle"};
+        weight = 200;
+        itemSize[] = {1,2};
+    };
+
+    // ---------------------------
+    // PISTOL CALIBER HANDLES
+    // ---------------------------
+
+    class PistolHandle_22: S88_PistolHandle_Base
+    {
+        scope = 2;
+        displayName = "Pistol Handle (.22 LR)";
+        descriptionShort = "A lightweight grip and trigger assembly for .22 LR pistols.";
+    };
+
+    class PistolHandle_9mm: S88_PistolHandle_Base
+    {
+        scope = 2;
+        displayName = "Pistol Handle (9×19mm)";
+        descriptionShort = "A polymer or metal pistol grip designed for 9×19mm handguns.";
+    };
+
+    class PistolHandle_45ACP: S88_PistolHandle_Base
+    {
+        scope = 2;
+        displayName = "Pistol Handle (.45 ACP)";
+        descriptionShort = "A reinforced pistol grip for handling the recoil of .45 ACP rounds.";
+    };
+
+    class PistolHandle_762x25: S88_PistolHandle_Base
+    {
+        scope = 2;
+        displayName = "Pistol Handle (7.62×25)";
+        descriptionShort = "A wooden or bakelite grip from classic Tokarev-pattern pistols.";
+    };
+
+    class PistolHandle_380: S88_PistolHandle_Base
+    {
+        scope = 2;
+        displayName = "Pistol Handle (.380 ACP)";
+        descriptionShort = "A compact grip for small-frame .380 ACP pistols.";
+    };
+
 // =====================================================
 // SECTION 3 — BARREL DEFINITIONS (ALL CALIBERS)
 // =====================================================

@@ -7,9 +7,9 @@
 
     "Ingredients": {
         "X": [
-            { "ClassName": "Barrel_380", "Amount": 1 },
-            { "ClassName": "UpperReceiver_380", "Amount": 1 },
-            { "ClassName": "LowerReceiver_380", "Amount": 1 }
+            { "ClassName": "PistolReceiver_380", "Amount": 1 },
+            { "ClassName": "PistolHandle_380", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 
@@ -18,9 +18,9 @@
             { "ClassName": "MakarovIJ70", "Amount": 1 }
         ],
         "Delete": [
-            { "ClassName": "Barrel_380", "Amount": 1 },
-            { "ClassName": "UpperReceiver_380", "Amount": 1 },
-            { "ClassName": "LowerReceiver_380", "Amount": 1 }
+            { "ClassName": "PistolReceiver_380", "Amount": 1 },
+            { "ClassName": "PistolHandle_380", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 

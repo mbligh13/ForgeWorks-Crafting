@@ -13,8 +13,9 @@
 
     "Result": {
         "Create": [
-            { "ClassName": "Barrel_380", "Amount": 1 },
-            { "ClassName": "LowerReceiver_380", "Amount": 1 }
+            { "ClassName": "PistolReceiver_380", "Amount": 1 },
+            { "ClassName": "PistolHandle_380", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ],
         "Delete": [
             { "ClassName": "Derringer", "Amount": 1 }

@@ -15,7 +15,8 @@
     "Result": {
         "Create": [
             { "ClassName": "Barrel_12Gauge", "Amount": 1 },
-            { "ClassName": "UpperReceiver_12Gauge", "Amount": 1 }
+            { "ClassName": "UpperReceiver_12Gauge", "Amount": 1 },
+            { "ClassName": "LowerReceiver_12Gauge", "Amount": 1 }
         ],
         "Delete": [
             { "ClassName": "MP133Shotgun", "Amount": 1 },

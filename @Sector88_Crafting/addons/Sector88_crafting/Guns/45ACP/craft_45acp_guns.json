@@ -7,9 +7,9 @@
 
     "Ingredients": {
         "X": [
-            { "ClassName": "Barrel_45ACP", "Amount": 1 },
-            { "ClassName": "UpperReceiver_45ACP", "Amount": 1 },
-            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+            { "ClassName": "PistolReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "PistolHandle_45ACP", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 
@@ -34,9 +34,9 @@
         ],
 
         "Delete": [
-            { "ClassName": "Barrel_45ACP", "Amount": 1 },
-            { "ClassName": "UpperReceiver_45ACP", "Amount": 1 },
-            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+            { "ClassName": "PistolReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "PistolHandle_45ACP", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ]
     },
 

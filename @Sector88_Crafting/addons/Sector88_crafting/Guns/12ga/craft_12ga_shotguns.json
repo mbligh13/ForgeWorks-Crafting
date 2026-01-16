@@ -7,9 +7,9 @@
 
     "Ingredients": {
         "X": [
-            { "ClassName": "Barrel_12ga", "Amount": 1 },
-            { "ClassName": "UpperReceiver_12ga", "Amount": 1 },
-            { "ClassName": "LowerReceiver_12ga", "Amount": 1 }
+            { "ClassName": "Barrel_12Gauge", "Amount": 1 },
+            { "ClassName": "UpperReceiver_12Gauge", "Amount": 1 },
+            { "ClassName": "LowerReceiver_12Gauge", "Amount": 1 }
         ]
     },
 
@@ -35,9 +35,9 @@
         ],
 
         "Delete": [
-            { "ClassName": "Barrel_12ga", "Amount": 1 },
-            { "ClassName": "UpperReceiver_12ga", "Amount": 1 },
-            { "ClassName": "LowerReceiver_12ga", "Amount": 1 }
+            { "ClassName": "Barrel_12Gauge", "Amount": 1 },
+            { "ClassName": "UpperReceiver_12Gauge", "Amount": 1 },
+            { "ClassName": "LowerReceiver_12Gauge", "Amount": 1 }
         ]
     },
 

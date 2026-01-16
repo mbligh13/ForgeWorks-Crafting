@@ -27,7 +27,8 @@
 
     "Result": {
         "Create": [
-            { "ClassName": "S88_Spring_Small", "Amount": 1 }
+            { "ClassName": "S88_Spring_Small", "Amount": 1 },
+            { "ClassName": "S88_SheetMetal_Small", "Amount": 1 }
         ],
         "Delete": [
             { "ClassName": "Mag_STANAG_30Rnd", "Amount": 1 },

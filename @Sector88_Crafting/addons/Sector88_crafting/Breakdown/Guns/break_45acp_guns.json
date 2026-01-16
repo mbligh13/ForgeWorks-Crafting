@@ -14,8 +14,9 @@
 
     "Result": {
         "Create": [
-            { "ClassName": "Barrel_45ACP", "Amount": 1 },
-            { "ClassName": "LowerReceiver_45ACP", "Amount": 1 }
+            { "ClassName": "PistolReceiver_45ACP", "Amount": 1 },
+            { "ClassName": "PistolHandle_45ACP", "Amount": 1 },
+            { "ClassName": "S88_Spring_Small", "Amount": 1 }
         ],
         "Delete": [
             { "ClassName": "FNX45", "Amount": 1 },
