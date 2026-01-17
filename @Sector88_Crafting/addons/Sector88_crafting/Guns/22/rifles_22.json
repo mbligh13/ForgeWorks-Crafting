@@ -1,11 +1,8 @@
 {
     "Name": "Craft Sporter 22",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 75,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_22", "Amount": 1 },
             { "ClassName": "LowerReceiver_22", "Amount": 1 },

@@ -45,8 +45,8 @@ class ActionS88OpenCraftingMenu : ActionContinuousBase
         if (!targetObject)
             return false;
             
-        // Only allow interaction with ExpansionPropWorkbench (admin-placed workbench)
-        if (targetObject.IsKindOf("ExpansionPropWorkbench"))
+        // Only allow interaction with S88CraftingWorkbench
+        if (targetObject.IsKindOf("S88CraftingWorkbench"))
             return true;
             
         return false;
@@ -111,10 +111,8 @@ class ActionS88OpenCraftingMenuQuick : ActionInteractBase
         if (!targetObject)
             return false;
             
+        // Only S88CraftingWorkbench
         if (targetObject.IsKindOf("S88CraftingWorkbench"))
-            return true;
-            
-        if (targetObject.IsKindOf("Workbench"))
             return true;
             
         return false;

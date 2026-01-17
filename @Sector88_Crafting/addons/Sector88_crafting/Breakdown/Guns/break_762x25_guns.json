@@ -1,11 +1,8 @@
 {
     "Name": "Break 7.62x25 Guns",
     "ActionType": "Craft",
-    "CraftingTime": 3,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 35,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "TT33", "Amount": 1 }
         ]

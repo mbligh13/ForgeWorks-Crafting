@@ -1,11 +1,8 @@
 {
     "Name": "Break .50 BMG Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 10,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 300,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Expansion_M82A1", "Amount": 1 }
         ]

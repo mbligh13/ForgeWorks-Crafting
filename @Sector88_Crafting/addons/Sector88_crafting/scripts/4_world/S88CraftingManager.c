@@ -23,20 +23,20 @@ class S88CraftingManager
     
     void RequestCraft(S88CraftingRecipe recipe, PlayerBase player, Object workbench)
     {
-        if (!recipe || !player)
+        if (!recipe || !player || !workbench)
             return;
             
-        // Validate player has materials
-        if (!ValidateMaterials(recipe, player, workbench))
+        // Validate workbench has materials (not player)
+        if (!ValidateMaterials(recipe, workbench))
         {
-            NotifyPlayer(player, "Missing required materials!");
+            NotifyPlayer(player, "Insufficient materials in workbench!");
             return;
         }
         
-        // Validate player has required tool attachments at workbench
-        if (!ValidateWorkbenchAttachments(recipe, workbench))
+        // Validate workbench has space for crafted item
+        if (!ValidateInventorySpace(recipe, workbench))
         {
-            NotifyPlayer(player, "Workbench missing required tools: " + recipe.GetRequiredAttachments());
+            NotifyPlayer(player, "Workbench inventory is full! Remove items before crafting.");
             return;
         }
         
@@ -57,17 +57,16 @@ class S88CraftingManager
         NotifyPlayer(player, "Crafting " + recipe.GetDisplayName() + "...");
     }
     
-    protected bool ValidateMaterials(S88CraftingRecipe recipe, PlayerBase player, Object workbench)
+    protected bool ValidateMaterials(S88CraftingRecipe recipe, Object workbench)
     {
+        if (!workbench)
+            return false;
+            
         array<ref S88CraftingIngredient> ingredients = recipe.GetIngredients();
         
         foreach (S88CraftingIngredient ingredient : ingredients)
         {
-            int available = CountPlayerItems(player, ingredient.GetClassName());
-            
-            // Also count items in workbench
-            if (workbench)
-                available += CountObjectItems(workbench, ingredient.GetClassName());
+            int available = CountObjectItems(workbench, ingredient.GetClassName());
                 
             if (available < ingredient.GetAmount())
                 return false;
@@ -76,66 +75,33 @@ class S88CraftingManager
         return true;
     }
     
-    protected bool ValidateWorkbenchAttachments(S88CraftingRecipe recipe, Object workbench)
+    protected bool ValidateInventorySpace(S88CraftingRecipe recipe, Object workbench)
     {
-        string required = recipe.GetRequiredAttachments();
-        if (required == "")
-            return true;
-            
         if (!workbench)
             return false;
             
         ItemBase workbenchItem = ItemBase.Cast(workbench);
-        if (!workbenchItem)
+        if (!workbenchItem || !workbenchItem.GetInventory())
             return false;
             
-        // Parse required attachments
-        TStringArray attachments = new TStringArray;
-        required.Split(",", attachments);
+        // Check if workbench has space for result items
+        array<string> results = recipe.GetResults();
         
-        foreach (string attachment : attachments)
+        foreach (string resultClass : results)
         {
-            attachment = attachment.Trim();
-            if (!HasAttachment(workbenchItem, attachment))
+            // Test if item can fit in inventory
+            if (!workbenchItem.GetInventory().CanAddEntityInCargoEx(null, 0, 0, 0, false, false))
+            {
                 return false;
+            }
         }
         
         return true;
     }
     
-    protected bool HasAttachment(ItemBase item, string attachmentClass)
-    {
-        if (!item || !item.GetInventory())
-            return false;
-            
-        int slotCount = item.GetInventory().GetAttachmentSlotsCount();
-        for (int i = 0; i < slotCount; i++)
-        {
-            EntityAI attached = item.GetInventory().GetAttachmentFromIndex(i);
-            if (attached && attached.GetType() == attachmentClass)
-                return true;
-        }
-        
-        return false;
-    }
+    // No tool validation needed - workbench is just a focus object
     
-    protected int CountPlayerItems(PlayerBase player, string className)
-    {
-        if (!player || !player.GetInventory())
-            return 0;
-            
-        int count = 0;
-        array<EntityAI> items = new array<EntityAI>;
-        player.GetInventory().EnumerateInventory(InventoryTraversalType.PREORDER, items);
-        
-        foreach (EntityAI item : items)
-        {
-            if (item.GetType() == className)
-                count++;
-        }
-        
-        return count;
-    }
+    // Only workbench inventory is checked
     
     protected int CountObjectItems(Object obj, string className)
     {
@@ -171,14 +137,14 @@ class S88CraftingManager
         if (!player || !recipe)
             return;
             
-        // Remove ingredients from player/workbench
-        RemoveIngredients(recipe, player, workbench);
+        // Remove ingredients from workbench
+        RemoveIngredients(recipe, workbench);
         
         // Spawn crafted item(s)
         SpawnResults(recipe, player, workbench);
         
         // Notify player
-        NotifyPlayer(player, recipe.GetDisplayName() + " crafted successfully!");
+        NotifyPlayer(player, "Crafting complete! " + recipe.GetDisplayName() + " is in the workbench.");
         
         // Play completion sound
         GetGame().GetSoundScene().Play("craft_complete_SoundSet", player.GetPosition());
@@ -201,24 +167,20 @@ class S88CraftingManager
         }
     }
     
-    protected void RemoveIngredients(S88CraftingRecipe recipe, PlayerBase player, Object workbench)
+    protected void RemoveIngredients(S88CraftingRecipe recipe, Object workbench)
     {
+        if (!workbench)
+            return;
+            
+        ItemBase workbenchItem = ItemBase.Cast(workbench);
+        if (!workbenchItem)
+            return;
+            
         array<ref S88CraftingIngredient> ingredients = recipe.GetIngredients();
         
         foreach (S88CraftingIngredient ingredient : ingredients)
         {
-            int toRemove = ingredient.GetAmount();
-            
-            // First try to remove from player
-            toRemove = RemoveItemsFromInventory(player, ingredient.GetClassName(), toRemove);
-            
-            // Then remove remainder from workbench
-            if (toRemove > 0 && workbench)
-            {
-                ItemBase workbenchItem = ItemBase.Cast(workbench);
-                if (workbenchItem)
-                    RemoveItemsFromInventory(workbenchItem, ingredient.GetClassName(), toRemove);
-            }
+            RemoveItemsFromInventory(workbenchItem, ingredient.GetClassName(), ingredient.GetAmount());
         }
     }
     
@@ -249,31 +211,23 @@ class S88CraftingManager
     
     protected void SpawnResults(S88CraftingRecipe recipe, PlayerBase player, Object workbench)
     {
+        if (!workbench)
+            return;
+            
+        ItemBase workbenchItem = ItemBase.Cast(workbench);
+        if (!workbenchItem || !workbenchItem.GetInventory())
+            return;
+            
         array<string> results = recipe.GetResults();
         
         foreach (string resultClass : results)
         {
-            // Try to spawn in player hands first
-            if (player && player.GetHumanInventory().CanAddEntityInHands(null))
+            // Spawn in workbench inventory only (space was pre-validated)
+            EntityAI result = workbenchItem.GetInventory().CreateInInventory(resultClass);
+            if (!result)
             {
-                EntityAI result = player.GetHumanInventory().CreateInHands(resultClass);
-                if (result)
-                    continue;
-            }
-            
-            // Try to spawn in player inventory
-            if (player && player.GetInventory())
-            {
-                EntityAI result = player.GetInventory().CreateInInventory(resultClass);
-                if (result)
-                    continue;
-            }
-            
-            // Spawn on ground near player
-            if (player)
-            {
-                vector pos = player.GetPosition();
-                GetGame().CreateObject(resultClass, pos, false, false, true);
+                // This shouldn't happen due to pre-validation, but log if it does
+                Print("[S88] ERROR: Failed to spawn " + resultClass + " in workbench after crafting!");
             }
         }
     }

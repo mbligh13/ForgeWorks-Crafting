@@ -1,11 +1,8 @@
 {
     "Name": "Craft .300 Blackout Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 10,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 100,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_300BLK", "Amount": 1 },
             { "ClassName": "UpperReceiver_300BLK", "Amount": 1 },

@@ -1,11 +1,8 @@
 {
     "Name": "Salvage Small Magazines (7-30 Rounds)",
     "ActionType": "Craft",
-    "CraftingTime": 2,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 40,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Mag_STANAG_30Rnd", "Amount": 1 },
             { "ClassName": "Mag_CMAG_20Rnd", "Amount": 1 },

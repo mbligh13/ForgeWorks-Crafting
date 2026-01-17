@@ -1,11 +1,8 @@
 {
     "Name": "Craft 9x39 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 8,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 100,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_939", "Amount": 1 },
             { "ClassName": "UpperReceiver_939", "Amount": 1 },

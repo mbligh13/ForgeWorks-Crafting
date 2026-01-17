@@ -1,11 +1,8 @@
 {
     "Name": "Break 7.62x54R Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 5,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 150,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Mosin9130", "Amount": 1 },
             { "ClassName": "SVD", "Amount": 1 }

@@ -1,11 +1,8 @@
 {
     "Name": "Craft .408 Sniper Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 10,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 240,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_408", "Amount": 1 },
             { "ClassName": "Bolt_408", "Amount": 1 },

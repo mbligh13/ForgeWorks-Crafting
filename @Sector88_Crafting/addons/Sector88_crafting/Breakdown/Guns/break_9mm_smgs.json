@@ -1,11 +1,8 @@
 {
     "Name": "Break 9mm SMGs",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "MP5K", "Amount": 1 },
             { "ClassName": "CZ61", "Amount": 1 },

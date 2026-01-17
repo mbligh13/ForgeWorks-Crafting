@@ -1,11 +1,8 @@
 {
     "Name": "Craft 5.56 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 8,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 90,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_556", "Amount": 1 },
             { "ClassName": "UpperReceiver_556", "Amount": 1 },

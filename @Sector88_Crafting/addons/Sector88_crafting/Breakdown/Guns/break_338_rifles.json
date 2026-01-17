@@ -1,11 +1,8 @@
 {
     "Name": "Break .338 Lapua Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 6,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 210,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Expansion_AWM", "Amount": 1 }
         ]

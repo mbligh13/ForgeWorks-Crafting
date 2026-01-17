@@ -1,11 +1,8 @@
 {
     "Name": "Break 7.62x39 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 90,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "AKM", "Amount": 1 },
             { "ClassName": "SKS", "Amount": 1 },

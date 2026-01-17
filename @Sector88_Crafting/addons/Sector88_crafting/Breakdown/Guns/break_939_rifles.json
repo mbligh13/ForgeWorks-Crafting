@@ -1,11 +1,8 @@
 {
     "Name": "Break 9x39 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 5,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 100,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "VSS", "Amount": 1 },
             { "ClassName": "ASVAL", "Amount": 1 }

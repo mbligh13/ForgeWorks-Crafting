@@ -1,11 +1,8 @@
 {
     "Name": "Craft Standard AR Magazines (10-30 Rounds)",
     "ActionType": "Craft",
-    "CraftingTime": 5,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 40,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "S88_SheetMetal_Small", "Amount": 1 },
             { "ClassName": "S88_Spring_Small", "Amount": 1 }

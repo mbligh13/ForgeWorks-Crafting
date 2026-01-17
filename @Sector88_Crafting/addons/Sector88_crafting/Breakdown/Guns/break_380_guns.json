@@ -1,11 +1,8 @@
 {
     "Name": "Break .380 Pistols",
     "ActionType": "Craft",
-    "CraftingTime": 3,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 30,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Derringer", "Amount": 1 }
         ]

@@ -1,11 +1,8 @@
 {
     "Name": "Craft 9mm SMGs",
     "ActionType": "Craft",
-    "CraftingTime": 6,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_9mm", "Amount": 1 },
             { "ClassName": "UpperReceiver_9mm", "Amount": 1 },

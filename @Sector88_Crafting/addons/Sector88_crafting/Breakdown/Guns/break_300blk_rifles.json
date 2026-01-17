@@ -1,11 +1,8 @@
 {
     "Name": "Break .300 Blackout Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 100,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Expansion_MCX", "Amount": 1 }
         ]

@@ -1,11 +1,8 @@
 {
     "Name": "Craft .308 Winchester Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 12,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 150,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_308", "Amount": 1 },
             { "ClassName": "UpperReceiver_308", "Amount": 1 },

@@ -1,11 +1,8 @@
 {
     "Name": "Craft 7.62x54R Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 12,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 150,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_762x54", "Amount": 1 },
             { "ClassName": "LowerReceiver_762x54", "Amount": 1 },

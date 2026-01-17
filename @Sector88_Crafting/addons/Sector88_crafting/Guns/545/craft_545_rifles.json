@@ -1,11 +1,8 @@
 {
     "Name": "Craft 5.45x39 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 10,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 90,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_545", "Amount": 1 },
             { "ClassName": "UpperReceiver_545", "Amount": 1 },

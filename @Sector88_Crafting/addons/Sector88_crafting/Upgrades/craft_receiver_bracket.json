@@ -1,11 +1,8 @@
 {
     "Name": "Craft Reinforced Receiver Bracket",
     "ActionType": "Craft",
-    "CraftingTime": 12,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 270,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "S88_SheetMetal_Large", "Amount": 3 },
             { "ClassName": "LowerReceiver_556", "Amount": 1 },

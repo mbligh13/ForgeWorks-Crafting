@@ -1,11 +1,8 @@
 {
     "Name": "Break .45 ACP Guns",
     "ActionType": "Craft",
-    "CraftingTime": 3,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 2500,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "FNX45", "Amount": 1 },
             { "ClassName": "Colt1911", "Amount": 1 }

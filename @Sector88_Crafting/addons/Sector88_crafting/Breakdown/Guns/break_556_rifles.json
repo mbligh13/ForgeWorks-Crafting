@@ -1,11 +1,8 @@
 {
     "Name": "Break 5.56 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 90,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "M4A1", "Amount": 1 }
         ]

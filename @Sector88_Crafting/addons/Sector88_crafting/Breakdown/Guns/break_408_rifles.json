@@ -1,11 +1,8 @@
 {
     "Name": "Break .408 CheyTac Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 8,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 240,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Expansion_M200", "Amount": 1 }
         ]

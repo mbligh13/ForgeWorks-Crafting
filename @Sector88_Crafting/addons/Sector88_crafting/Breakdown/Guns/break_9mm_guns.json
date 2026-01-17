@@ -1,11 +1,8 @@
 {
     "Name": "Break 9mm Pistols",
     "ActionType": "Craft",
-    "CraftingTime": 3,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 2000,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Glock19", "Amount": 1 },
             { "ClassName": "CZ75", "Amount": 1 },

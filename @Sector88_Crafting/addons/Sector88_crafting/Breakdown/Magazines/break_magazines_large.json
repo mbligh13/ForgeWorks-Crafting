@@ -1,11 +1,8 @@
 {
     "Name": "Salvage Extended/Drum Magazines (40-100+ Rounds)",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Mag_CMAG_40Rnd", "Amount": 1 },
             { "ClassName": "Mag_CMAG_60Rnd", "Amount": 1 },

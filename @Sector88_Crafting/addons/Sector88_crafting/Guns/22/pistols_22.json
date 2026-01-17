@@ -1,11 +1,8 @@
 {
     "Name": "Craft .22 Pistols",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 40,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "PistolReceiver_22", "Amount": 1 },
             { "ClassName": "PistolHandle_22", "Amount": 1 },

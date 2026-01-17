@@ -1,11 +1,8 @@
 {
     "Name": "Break .45 ACP SMGs",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "UMP45", "Amount": 1 }
         ]

@@ -1,11 +1,8 @@
 {
     "Name": "Craft 9mm Pistols",
     "ActionType": "Craft",
-    "CraftingTime": 4,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 3500,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "PistolReceiver_9mm", "Amount": 1 },
             { "ClassName": "PistolHandle_9mm", "Amount": 1 },

@@ -39,16 +39,10 @@ class CfgVehicles
         heavyItem = 1;
         
         // Inventory
-        itemsCargoSize[] = {10, 5};
+        itemsCargoSize[] = {10, 10};
         
-        // Attachment slots for tools
-        attachments[] = {
-            "BPGrinder",
-            "BPCutting_saw", 
-            "BPDrill",
-            "BPHammer",
-            "BPWrench"
-        };
+        // No attachment slots needed - workbench is just a focus object
+        attachments[] = {};
         
         class DamageSystem
         {
@@ -68,22 +62,7 @@ class CfgVehicles
             };
         };
         
-        class GUIInventoryAttachmentsProps
-        {
-            class Tools
-            {
-                name = "Tools";
-                description = "";
-                attachmentSlots[] = {
-                    "BPGrinder",
-                    "BPCutting_saw",
-                    "BPDrill",
-                    "BPHammer",
-                    "BPWrench"
-                };
-                icon = "set:dayz_inventory image:cat_common_cargo";
-            };
-        };
+        // No attachment slots needed
         
         // Actions
         class AnimEvents
@@ -109,18 +88,10 @@ class CfgVehicles
         descriptionShort = "A military-grade workbench with precision tools.";
         
         // More cargo space
-        itemsCargoSize[] = {12, 6};
+        itemsCargoSize[] = {12, 12};
         
-        // Additional attachment slots
-        attachments[] = {
-            "BPGrinder",
-            "BPCutting_saw",
-            "BPDrill",
-            "BPHammer",
-            "BPWrench",
-            "BPVise",
-            "BPPress"
-        };
+        // No attachment slots needed
+        attachments[] = {};
     };
     
     // ============================================
@@ -133,59 +104,11 @@ class CfgVehicles
         descriptionShort = "A basic workbench for simple crafting.";
         
         // Less cargo space
-        itemsCargoSize[] = {8, 4};
+        itemsCargoSize[] = {8, 8};
         
-        // Fewer attachment slots
-        attachments[] = {
-            "BPGrinder",
-            "BPHammer",
-            "BPWrench"
-        };
+        // No attachment slots needed
+        attachments[] = {};
     };
 };
 
-class CfgSlots
-{
-    class Slot_BPGrinder
-    {
-        name = "BPGrinder";
-        displayName = "Grinder";
-        ghostIcon = "set:dayz_inventory image:grinder";
-    };
-    class Slot_BPCutting_saw
-    {
-        name = "BPCutting_saw";
-        displayName = "Cutting Saw";
-        ghostIcon = "set:dayz_inventory image:hacksaw";
-    };
-    class Slot_BPDrill
-    {
-        name = "BPDrill";
-        displayName = "Drill";
-        ghostIcon = "set:dayz_inventory image:drill";
-    };
-    class Slot_BPHammer
-    {
-        name = "BPHammer";
-        displayName = "Hammer";
-        ghostIcon = "set:dayz_inventory image:hammer";
-    };
-    class Slot_BPWrench
-    {
-        name = "BPWrench";
-        displayName = "Wrench";
-        ghostIcon = "set:dayz_inventory image:wrench";
-    };
-    class Slot_BPVise
-    {
-        name = "BPVise";
-        displayName = "Vise";
-        ghostIcon = "set:dayz_inventory image:vise";
-    };
-    class Slot_BPPress
-    {
-        name = "BPPress";
-        displayName = "Press";
-        ghostIcon = "set:dayz_inventory image:press";
-    };
-};
+// No attachment slots needed for crafting

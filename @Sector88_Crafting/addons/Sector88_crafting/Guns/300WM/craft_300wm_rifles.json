@@ -1,11 +1,8 @@
 {
     "Name": "Craft .300 Win Mag Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 14,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 180,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_300WM", "Amount": 1 },
             { "ClassName": "LowerReceiver_300WM", "Amount": 1 },

@@ -1,11 +1,8 @@
 {
     "Name": "Craft 7.62x39 Rifles",
     "ActionType": "Craft",
-    "CraftingTime": 10,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 90,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "Barrel_762x39", "Amount": 1 },
             { "ClassName": "UpperReceiver_762x39", "Amount": 1 },

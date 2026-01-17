@@ -72,32 +72,7 @@ class S88CraftingWorkbench extends ItemBase
         return true;
     }
     
-    // Check if player has required tools attached to workbench
-    bool HasRequiredTools(string toolList)
-    {
-        if (toolList == "")
-            return true;
-            
-        TStringArray tools = new TStringArray;
-        toolList.Split(",", tools);
-        
-        foreach (string tool : tools)
-        {
-            tool = tool.Trim();
-            if (!HasToolAttached(tool))
-                return false;
-        }
-        
-        return true;
-    }
-    
-    protected bool HasToolAttached(string toolClass)
-    {
-        if (!GetInventory())
-            return false;
-            
-        int slots = GetInventory().GetAttachmentSlotsCount();
-        for (int i = 0; i < slots; i++)
+    // No tool checking needed - workbench is just a focus object for the GUI
         {
             EntityAI attachment = GetInventory().GetAttachmentFromIndex(i);
             if (attachment)

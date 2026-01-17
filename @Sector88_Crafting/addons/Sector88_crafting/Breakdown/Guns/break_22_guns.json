@@ -1,11 +1,8 @@
 {
     "Name": "Break .22 LR Guns",
     "ActionType": "Craft",
-    "CraftingTime": 3,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 1500,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "AmphibiaS", "Amount": 1 },
             { "ClassName": "MKII", "Amount": 1 },

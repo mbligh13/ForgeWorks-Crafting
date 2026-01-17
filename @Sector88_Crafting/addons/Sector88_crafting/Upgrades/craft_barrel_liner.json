@@ -1,11 +1,8 @@
 {
     "Name": "Craft Match-Grade Barrel Liner",
     "ActionType": "Craft",
-    "CraftingTime": 15,
-    "Animation": "WorkOnBench",
-    "Workbench": "ExpansionWorkbench",
-
-    "Ingredients": {
+    "CraftingTime": 300,
+    "Animation": "WorkOnBench",    "Ingredients": {
         "X": [
             { "ClassName": "S88_SheetMetal_Large", "Amount": 2 },
             { "ClassName": "S88_Spring_Large", "Amount": 1 },
