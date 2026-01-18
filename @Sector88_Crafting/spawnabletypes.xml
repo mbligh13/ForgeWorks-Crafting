@@ -1,5 +1,61 @@
 <spawnabletypes>
     <!-- ===================================================== -->
+    <!-- SECTION 1B — PISTOL PARTS (RECEIVER & HANDLE)         -->
+    <!-- ===================================================== -->
+
+    <!-- TIER 3 — PISTOL RECEIVERS -->
+    <type name="PistolReceiver_22">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolReceiver_9mm">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolReceiver_45ACP">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolReceiver_762x25">
+        <cargo chance="0.15"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolReceiver_380">
+        <cargo chance="0.25"/>
+        <attachments chance="0.15"/>
+    </type>
+
+    <!-- TIER 3 — PISTOL HANDLES -->
+    <type name="PistolHandle_22">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolHandle_9mm">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolHandle_45ACP">
+        <cargo chance="0.20"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolHandle_762x25">
+        <cargo chance="0.15"/>
+        <attachments chance="0.10"/>
+    </type>
+
+    <type name="PistolHandle_380">
+        <cargo chance="0.25"/>
+        <attachments chance="0.15"/>
+    </type>
+
+    <!-- ===================================================== -->
     <!-- SECTION 2 — CORE MATERIALS (SPRINGS & METAL)          -->
     <!-- ===================================================== -->
 
@@ -121,7 +177,13 @@
     <!-- SECTION 4 — RECEIVERS                                 -->
     <!-- ===================================================== -->
 
-    <!-- Lower Receivers -->
+    <!-- Lower Receivers — Pistol/SMG Calibers (Tier 3) -->
+    <type name="LowerReceiver_22"><cargo chance="0.08"/></type>
+    <type name="LowerReceiver_9mm"><cargo chance="0.08"/></type>
+    <type name="LowerReceiver_45ACP"><cargo chance="0.08"/></type>
+    <type name="LowerReceiver_762x25"><cargo chance="0.08"/></type>
+
+    <!-- Lower Receivers — Rifle Calibers (Tier 4-5) -->
     <type name="LowerReceiver_556"><cargo chance="0.06"/></type>
     <type name="LowerReceiver_545"><cargo chance="0.06"/></type>
     <type name="LowerReceiver_762x39"><cargo chance="0.06"/></type>
@@ -133,9 +195,16 @@
     <type name="LowerReceiver_338"><cargo chance="0.01"/></type>
     <type name="LowerReceiver_408"><cargo chance="0.005"/></type>
     <type name="LowerReceiver_50"><cargo chance="0.005"/></type>
+    <type name="LowerReceiver_8mm"><cargo chance="0.06"/></type>
     <type name="LowerReceiver_12Gauge"><cargo chance="0.04"/></type>
 
-    <!-- Upper Receivers -->
+    <!-- Upper Receivers — Pistol/SMG Calibers (Tier 3) -->
+    <type name="UpperReceiver_22"><cargo chance="0.08"/></type>
+    <type name="UpperReceiver_9mm"><cargo chance="0.08"/></type>
+    <type name="UpperReceiver_45ACP"><cargo chance="0.08"/></type>
+    <type name="UpperReceiver_762x25"><cargo chance="0.08"/></type>
+
+    <!-- Upper Receivers — Rifle Calibers (Tier 4-5) -->
     <type name="UpperReceiver_556"><cargo chance="0.06"/></type>
     <type name="UpperReceiver_545"><cargo chance="0.06"/></type>
     <type name="UpperReceiver_762x39"><cargo chance="0.06"/></type>
@@ -147,6 +216,7 @@
     <type name="UpperReceiver_338"><cargo chance="0.01"/></type>
     <type name="UpperReceiver_408"><cargo chance="0.005"/></type>
     <type name="UpperReceiver_50"><cargo chance="0.005"/></type>
+    <type name="UpperReceiver_8mm"><cargo chance="0.06"/></type>
     <type name="UpperReceiver_12Gauge"><cargo chance="0.04"/></type>
 
     <!-- .380 ACP Receivers -->
@@ -165,6 +235,43 @@
     <type name="Bolt_408"><cargo chance="0.005"/></type>
     <type name="Bolt_50"><cargo chance="0.005"/></type>
     <type name="Bolt_8mm"><cargo chance="0.03"/></type>
+    <!-- ===================================================== -->
+    <!-- SECTION 6 — ULTRA-RARE UPGRADE PARTS (TIER 8 ONLY)    -->
+    <!-- ===================================================== -->
+
+    <!-- MATCH-GRADE BARREL LINER -->
+    <type name="BarrelLiner_MatchGrade">
+        <cargo chance="0.01"/>
+        <attachments chance="0.005"/>
+    </type>
+
+    <!-- PRECISION BOLT ASSEMBLY -->
+    <type name="BoltAssembly_Precision">
+        <cargo chance="0.01"/>
+        <attachments chance="0.005"/>
+    </type>
+
+    <!-- REINFORCED RECEIVER BRACKET -->
+    <type name="ReceiverBracket_Reinforced">
+        <cargo chance="0.01"/>
+        <attachments chance="0.005"/>
+    </type>
+
+    <!-- ELITE BUFFER SPRING (LEGENDARY) -->
+    <type name="Spring_Elite">
+        <cargo chance="0.01"/>
+        <attachments chance="0.005"/>
+    </type>
+
+    <!-- ===================================================== -->
+    <!-- SECTION 7 — EXPANSION KEYCARD                         -->
+    <!-- ===================================================== -->
+
+    <type name="ExpansionKeyCard_Level5">
+        <cargo chance="0.005"/>
+        <attachments chance="0.002"/>
+    </type>
+
     <!-- ===================================================== -->
     <!-- TIER 8 VAULT — CONTAINER-BOUND LEGENDARY LOOT         -->
     <!-- ===================================================== -->
