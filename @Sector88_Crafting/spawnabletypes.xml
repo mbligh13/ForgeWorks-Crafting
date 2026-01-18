@@ -228,7 +228,7 @@
     <!-- SECTION 5 — BOLT ASSEMBLIES                           -->
     <!-- ===================================================== -->
 
-	<type name="Bolt_762x54"><cargo chance="0.03"/></type>
+    <type name="Bolt_762x54"><cargo chance="0.03"/></type>
     <type name="Bolt_308"><cargo chance="0.02"/></type>
     <type name="Bolt_300WM"><cargo chance="0.02"/></type>
     <type name="Bolt_338"><cargo chance="0.01"/></type>
