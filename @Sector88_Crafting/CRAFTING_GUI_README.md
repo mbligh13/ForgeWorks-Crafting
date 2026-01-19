@@ -3,12 +3,12 @@
 ## Overview
 This mod adds a custom crafting GUI system that allows players to craft weapons, magazines, and other items at workbenches.
 
-## Features
-- **Tabbed Interface**: Categories for Pistols, SMGs, Rifles, Snipers, Shotguns, and Magazines
+## Features (current)
+- **Tabbed Interface**: Pistols, SMGs, Rifles, Snipers, Shotguns, Magazines
+- **Workbench-only materials**: All required parts must be inside the workbench inventory (player inventory is ignored)
 - **Material Tracking**: Real-time display of required materials with color-coded availability
-- **Tool Requirements**: Workbench must have proper tools attached (Grinder, Drill, Saw, etc.)
-- **Crafting Timer**: Time-based crafting with cancellation if player moves away
-- **Vanilla Workbench Support**: Works with existing in-game workbenches
+- **Crafting Timer**: Time-based crafting; cancels if player moves away
+- **Simple bench**: Workbench is only a GUI focus object (no attached tool requirements)
 
 ## Installation
 
@@ -64,30 +64,34 @@ Edit `config/workbenches/positions.json` to add custom workbench spawn locations
 ```
 
 ## Adding New Recipes
-Edit `S88RecipeManager.c` and add recipes in the appropriate Load function:
+- Recipes live in JSON under `addons/Sector88_crafting/` (e.g., `Guns/556/craft_556_rifles.json`).
+- No tool requirements are needed; only ingredients matter.
+- Example JSON structure:
 
-```csharp
-ref S88CraftingRecipe myWeapon = new S88CraftingRecipe();
-myWeapon.SetName("craft_my_weapon");
-myWeapon.SetDisplayName("My Custom Weapon");
-myWeapon.SetCategory("Rifles");
-myWeapon.SetSubCategory("5.56x45");
-myWeapon.SetCraftingTime(8);
-myWeapon.SetRequiredAttachments("BPGrinder,BPCutting_saw,BPDrill");
-myWeapon.AddIngredient("Barrel_556", 1);
-myWeapon.AddIngredient("UpperReceiver_556", 1);
-myWeapon.AddIngredient("LowerReceiver_556", 1);
-myWeapon.AddResult("MyCustomWeapon_ClassName");
-AddRecipe(myWeapon);
+```json
+{
+    "Name": "Craft 5.56 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 40,
+    "Animation": "WorkOnBench",
+    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_556", "Amount": 1 },
+            { "ClassName": "UpperReceiver_556", "Amount": 1 },
+            { "ClassName": "LowerReceiver_556", "Amount": 1 }
+        ]
+    },
+    "Result": {
+        "Create": [ { "ClassName": "M4A1", "Amount": 1 } ],
+        "Delete": [
+            { "ClassName": "Barrel_556", "Amount": 1 },
+            { "ClassName": "UpperReceiver_556", "Amount": 1 },
+            { "ClassName": "LowerReceiver_556", "Amount": 1 }
+        ]
+    },
+    "Tags": ["S88_MakeGun"]
+}
 ```
-
-## Required Tools
-The following tools can be attached to workbenches:
-- **BPGrinder** - Required for most crafting
-- **BPCutting_saw** - Required for rifles and larger items
-- **BPDrill** - Required for precision work
-- **BPHammer** - Basic tool
-- **BPWrench** - Basic tool
 
 ## Admin Commands
 Spawn a workbench at player position (requires admin scripts):
@@ -113,7 +117,7 @@ S88WorkbenchSpawner.SpawnAtPosition(Vector(1000, 0, 1000), Vector(0, 0, 0));
 
 ### Crafting fails silently
 - Check that all ingredient class names match exactly
-- Verify workbench has required tool attachments
+- Verify required materials are inside the workbench inventory (not the player)
 - Check player is within 3 meters of workbench
 
 ## Dependencies
