@@ -1,0 +1,24 @@
+{
+    "Name": "Craft Elite Buffer Spring",
+    "ActionType": "Craft",
+    "CraftingTime": 240,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "FW_Spring_Large", "Amount": 3 },
+            { "ClassName": "FW_SheetMetal_Small", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Spring_Elite", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "FW_Spring_Large", "Amount": 3 },
+            { "ClassName": "FW_SheetMetal_Small", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_MakeUpgrade"]
+}

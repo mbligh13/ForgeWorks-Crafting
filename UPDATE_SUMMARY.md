@@ -1,53 +1,59 @@
-# Sector88 Weapon Crafting Mod - Update Summary
+# ForgeWorks Weapon Crafting Mod - Rebrand Summary
 
-## Changes Made
+## Changes Made - ForgeWorks Rebrand
 
-### ✅ Configuration Files Updated
+This mod has been completely rebranded from "Sector88" to "ForgeWorks" with the new "FW_" prefix throughout.
 
-1. **config_workbench.cpp**
-   - Removed all attachment slot definitions (BPGrinder, BPCutting_saw, BPDrill, etc.)
-   - Set `attachments[] = {};` for all three workbench variants
-   - Removed CfgSlots section entirely
-   - Workbench now acts purely as a focus object for the GUI
+### ✅ All Code & Configuration Updated
 
-2. **config.cpp (sector88_weaponparts)**  
-   - Large sheet metal now uses small sheet metal model (already correct)
+1. **mod.cpp & meta.cpp**
+   - Project name: "ForgeWorks - Weapon Crafting"
+   - Mod directory: @ForgeWorks_Crafting
+   - Author: Rook (Steam ID: 76561198074746423)
+   - Credits: Sector 88 Dev Team
 
-### ✅ Script Files Updated
+2. **config.cpp (forgeworks_weaponparts)**  
+   - All 82+ weapon part classes renamed from S88_ to FW_ prefix
+   - Base classes: FW_PartBase, FW_Spring_Small/Large, FW_SheetMetal_Small/Large
+   - Part classes: FW_Barrel_Base, FW_LowerReceiver_Base, FW_UpperReceiver_Base, FW_Bolt_Base, FW_Upgrade_Base
+   - All child classes now inherit from FW_ base classes
 
-3. **ActionS88OpenCraftingMenu.c**
-   - Removed ExpansionPropWorkbench references
-   - Only works with S88CraftingWorkbench now
-   - Simplified ActionCondition methods
+3. **types.xml & spawnabletypes.xml**
+   - Workbenches: FWCraftingWorkbench (3 variants)
+   - Materials: FW_Spring_Small, FW_Spring_Large, FW_SheetMetal_Small, FW_SheetMetal_Large
+   - Usage tags: FW_IndustrialLoot, FW_MilitaryLoot
 
-4. **S88CraftingManager.c**
-   - Removed `ValidateWorkbenchAttachments()` method
-   - Removed `HasAttachment()` method  
-   - Removed `CountPlayerItems()` method
-   - Modified `ValidateMaterials()` to ONLY check workbench inventory
-   - Modified `RemoveIngredients()` to ONLY remove from workbench
-   - Modified `SpawnResults()` to ONLY spawn items in workbench inventory
-   - Updated `RequestCraft()` to remove tool validation
-   - No tool validation needed anymore
+4. **JSON Recipe Files (58 files)**
+   - All S88_ class names replaced with FW_
+   - Tags updated: FW_MakeGun, FW_MakeMagazine, FW_BreakGun, FW_BreakMagazine, FW_MakeUpgrade
+   - Total replacements: 120
 
-5. **S88CraftingWorkbench.c**
-   - Removed `HasRequiredTools()` method
-   - Removed `HasToolAttached()` method  
-   - Workbench is now just a GUI focus object
+5. **Script Files (.c - 12 files)**
+   - All class names updated: FWCraftingMenu, FWCraftingWorkbench, FWCraftingManager, etc.
+   - Constants updated: FW_MENU_CRAFTING
+   - Layout path: ForgeWorks_Crafting/gui/layouts/
+   - Total replacements: 185
 
-### ⚠️ MANUAL STEPS REQUIRED
+6. **config_workbench.cpp**
+   - Base class: FWCraftingWorkbench
+   - Variants: FWCraftingWorkbench_Military, FWCraftingWorkbench_Civilian
+   - Display names updated to ForgeWorks branding
 
-**You need to run these two Python scripts to complete the update:**
+### 📝 Previous Updates (Still Valid)
 
-```bash
-cd /workspaces/Sector88-Weapon-Crafting
-python3 update_json_files.py
-python3 update_recipe_manager.py
-```
+**Configuration:**
+- Workbench acts as GUI focus object only (no tool attachments)
+- All materials must be in workbench inventory
+- Large sheet metal uses correct model
 
-These scripts will:
+**Scripts:**
+- ActionFWOpenCraftingMenu.c - Simplified condition checks
+- FWCraftingManager.c - Workbench-only inventory validation
+- FWCraftingWorkbench.c - Removed tool validation methods
 
-1. **update_json_files.py** - Remove `"Workbench": "ExpansionWorkbench",` from ~68 JSON recipe files
+### ⚠️ MIGRATION NOTES
+
+If updating from Sector88 version:
 2. **update_recipe_manager.py** - Remove all `.SetRequiredAttachments()` calls from S88RecipeManager.c
 
 ## How The System Now Works

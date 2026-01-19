@@ -1,0 +1,26 @@
+{
+    "Name": "Craft Precision Bolt Assembly",
+    "ActionType": "Craft",
+    "CraftingTime": 300,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "FW_SheetMetal_Large", "Amount": 2 },
+            { "ClassName": "FW_Spring_Large", "Amount": 2 },
+            { "ClassName": "Bolt_308", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "BoltAssembly_Precision", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "FW_SheetMetal_Large", "Amount": 2 },
+            { "ClassName": "FW_Spring_Large", "Amount": 2 },
+            { "ClassName": "Bolt_308", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_MakeUpgrade"]
+}

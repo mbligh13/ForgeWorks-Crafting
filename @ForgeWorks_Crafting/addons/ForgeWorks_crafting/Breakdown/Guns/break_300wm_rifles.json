@@ -1,0 +1,23 @@
+{
+    "Name": "Break .300 WinMag Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 180,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "Winchester70", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_300WM", "Amount": 1 },
+            { "ClassName": "Bolt_300WM", "Amount": 1 },
+            { "ClassName": "LowerReceiver_300WM", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Winchester70", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_BreakGun"]
+}

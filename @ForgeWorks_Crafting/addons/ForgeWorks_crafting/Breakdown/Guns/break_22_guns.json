@@ -1,0 +1,27 @@
+{
+    "Name": "Break .22 LR Guns",
+    "ActionType": "Craft",
+    "CraftingTime": 1500,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "AmphibiaS", "Amount": 1 },
+            { "ClassName": "MKII", "Amount": 1 },
+            { "ClassName": "Sporter22", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "PistolReceiver_22", "Amount": 1 },
+            { "ClassName": "PistolHandle_22", "Amount": 1 },
+            { "ClassName": "FW_Spring_Small", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "AmphibiaS", "Amount": 1 },
+            { "ClassName": "MKII", "Amount": 1 },
+            { "ClassName": "Sporter22", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_BreakGun"]
+}

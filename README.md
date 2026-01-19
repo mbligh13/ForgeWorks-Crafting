@@ -1,5 +1,5 @@
-# Sector88-Weapon-Crafting
-Weapon crafting system for the Sector 88 server
+# ForgeWorks-Weapon-Crafting
+Weapon crafting system for ForgeWorks
 
 ## Overview
 A comprehensive weapon crafting mod that allows players to craft weapons, magazines, and upgrades at workbenches using component parts. All materials must be placed in the workbench inventory to craft items.
@@ -15,7 +15,7 @@ A comprehensive weapon crafting mod that allows players to craft weapons, magazi
 ## How It Works
 
 ### Crafting Process:
-1. Place an **S88CraftingWorkbench** in the world
+1. Place an **FWCraftingWorkbench** in the world
 2. Put required materials **INTO the workbench inventory**
 3. Interact with workbench to open crafting GUI
 4. Select category (Pistols/SMGs/Rifles/Snipers/Shotguns/Magazines)

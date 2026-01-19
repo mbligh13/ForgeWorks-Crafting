@@ -1,0 +1,23 @@
+{
+    "Name": "Break .338 Lapua Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 210,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "Expansion_AWM", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_338", "Amount": 1 },
+            { "ClassName": "Bolt_338", "Amount": 1 },
+            { "ClassName": "LowerReceiver_338", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Expansion_AWM", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_BreakGun"]
+}

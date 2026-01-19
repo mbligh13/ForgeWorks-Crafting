@@ -1,0 +1,26 @@
+{
+    "Name": "Craft Drum Magazines (75-100+ Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 120,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "FW_SheetMetal_Large", "Amount": 2 },
+            { "ClassName": "FW_Spring_Large", "Amount": 2 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "AJW_Drum100_556", "Amount": 1 },
+            { "ClassName": "AJW_Drum75_762", "Amount": 1 },
+            { "ClassName": "AJW_RPKdrum_75", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "FW_SheetMetal_Large", "Amount": 2 },
+            { "ClassName": "FW_Spring_Large", "Amount": 2 }
+        ]
+    },
+
+    "Tags": ["FW_MakeMagazine"]
+}

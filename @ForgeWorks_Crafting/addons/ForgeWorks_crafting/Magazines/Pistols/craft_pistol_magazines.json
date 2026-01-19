@@ -1,0 +1,35 @@
+{
+    "Name": "Craft Standard Pistol Magazines (7-17 Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 40,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "FW_SheetMetal_Small", "Amount": 1 },
+            { "ClassName": "FW_Spring_Small", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Mag_FNX45_15Rnd", "Amount": 1 },
+            { "ClassName": "Mag_Glock_15Rnd", "Amount": 1 },
+            { "ClassName": "Mag_CZ75_15Rnd", "Amount": 1 },
+            { "ClassName": "Mag_P1_8Rnd", "Amount": 1 },
+            { "ClassName": "Mag_MKII_10Rnd", "Amount": 1 },
+            { "ClassName": "Mag_1911_7Rnd", "Amount": 1 },
+            { "ClassName": "Mag_Deagle_9Rnd", "Amount": 1 },
+
+            { "ClassName": "AJW_Mag_Glock9_17", "Amount": 1 },
+            { "ClassName": "AJW_Mag_M9_15", "Amount": 1 },
+            { "ClassName": "AJW_Mag_P226_15", "Amount": 1 },
+            { "ClassName": "AJW_Mag_1911_7", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "FW_SheetMetal_Small", "Amount": 1 },
+            { "ClassName": "FW_Spring_Small", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_MakeMagazine"]
+}

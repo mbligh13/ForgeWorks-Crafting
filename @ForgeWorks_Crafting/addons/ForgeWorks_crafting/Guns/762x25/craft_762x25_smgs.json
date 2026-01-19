@@ -1,0 +1,26 @@
+{
+    "Name": "Craft 7.62x25 SMGs",
+    "ActionType": "Craft",
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_762x25", "Amount": 1 },
+            { "ClassName": "UpperReceiver_762x25", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            /* No 7.62x25 SMGs exist in your modset */
+        ],
+
+        "Delete": [
+            { "ClassName": "Barrel_762x25", "Amount": 1 },
+            { "ClassName": "UpperReceiver_762x25", "Amount": 1 },
+            { "ClassName": "LowerReceiver_762x25", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_MakeGun"]
+}
