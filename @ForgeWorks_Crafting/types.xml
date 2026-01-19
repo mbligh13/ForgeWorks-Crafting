@@ -108,7 +108,7 @@
     <!-- ===================================================== -->
 
     <!-- TIER 3 — PISTOL RECEIVERS -->
-    <type name="PistolReceiver_22">
+    <type name="FW_PistolReceiver_22">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -117,7 +117,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolReceiver_9mm">
+    <type name="FW_PistolReceiver_9mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>110</cost>
@@ -126,7 +126,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolReceiver_45ACP">
+    <type name="FW_PistolReceiver_45ACP">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -135,7 +135,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolReceiver_762x25">
+    <type name="FW_PistolReceiver_762x25">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -144,7 +144,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolReceiver_380">
+    <type name="FW_PistolReceiver_380">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -155,7 +155,7 @@
     </type>
 
     <!-- TIER 3 — PISTOL HANDLES -->
-    <type name="PistolHandle_22">
+    <type name="FW_PistolHandle_22">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -164,7 +164,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolHandle_9mm">
+    <type name="FW_PistolHandle_9mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>110</cost>
@@ -173,7 +173,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolHandle_45ACP">
+    <type name="FW_PistolHandle_45ACP">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -182,7 +182,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolHandle_762x25">
+    <type name="FW_PistolHandle_762x25">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -191,7 +191,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="PistolHandle_380">
+    <type name="FW_PistolHandle_380">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -205,7 +205,7 @@
     <!-- ===================================================== -->
 
     <!-- TIER 3 — PISTOL CALIBER BARRELS -->
-    <type name="Barrel_22">
+    <type name="FW_Barrel_22">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -216,7 +216,7 @@
         <value name="Tier3" />
     </type>
 
-    <type name="Barrel_9mm">
+    <type name="FW_Barrel_9mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <min>0</min>
@@ -226,7 +226,7 @@
         <value name="Tier3" />
     </type>
 
-    <type name="Barrel_45ACP">
+    <type name="FW_Barrel_45ACP">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <min>0</min>
@@ -236,7 +236,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="Barrel_762x25">
+    <type name="FW_Barrel_762x25">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -245,7 +245,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="Barrel_380">
+    <type name="FW_Barrel_380">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -257,7 +257,7 @@
 
 
     <!-- TIER 4–5 — INTERMEDIATE RIFLE CALIBERS -->
-    <type name="Barrel_556">
+    <type name="FW_Barrel_556">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -267,7 +267,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="Barrel_545">
+    <type name="FW_Barrel_545">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -277,7 +277,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="Barrel_300BLK">
+    <type name="FW_Barrel_300BLK">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>250</cost>
@@ -287,7 +287,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="Barrel_762x39">
+    <type name="FW_Barrel_762x39">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -297,7 +297,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="Barrel_939">
+    <type name="FW_Barrel_939">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>300</cost>
@@ -308,7 +308,7 @@
 
 
     <!-- TIER 5–6 — DMR RIFLE BARRELS -->
-    <type name="Barrel_762x54">
+    <type name="FW_Barrel_762x54">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>350</cost>
@@ -318,7 +318,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="Barrel_308">
+    <type name="FW_Barrel_308">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>400</cost>
@@ -327,7 +327,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="Barrel_300WM">
+    <type name="FW_Barrel_300WM">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>450</cost>
@@ -338,7 +338,7 @@
 
 
     <!-- TIER 7 — ELITE SNIPER BARRELS -->
-    <type name="Barrel_338">
+    <type name="FW_Barrel_338">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>600</cost>
@@ -349,7 +349,7 @@
 
 
     <!-- TIER 8 — ULTRA-SNIPER BARRELS -->
-    <type name="Barrel_408">
+    <type name="FW_Barrel_408">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>800</cost>
@@ -358,7 +358,7 @@
         <value name="Tier8"/>
     </type>
 
-    <type name="Barrel_50">
+    <type name="FW_Barrel_50">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>900</cost>
@@ -369,7 +369,7 @@
 
 
     <!-- SPECIALTY HISTORICAL -->
-    <type name="Barrel_8mm">
+    <type name="FW_Barrel_8mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>250</cost>
@@ -381,7 +381,7 @@
 
 
     <!-- SHOTGUN BARRELS (Tier 3–4) -->
-    <type name="Barrel_12Gauge">
+    <type name="FW_Barrel_12Gauge">
         <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <cost>150</cost>
@@ -395,7 +395,7 @@
     <!-- ===================================================== -->
 
     <!-- TIER 3 — PISTOL CALIBERS -->
-    <type name="LowerReceiver_22">
+    <type name="FW_LowerReceiver_22">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -404,7 +404,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="LowerReceiver_9mm">
+    <type name="FW_LowerReceiver_9mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>110</cost>
@@ -413,7 +413,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="LowerReceiver_45ACP">
+    <type name="FW_LowerReceiver_45ACP">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -422,7 +422,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="LowerReceiver_762x25">
+    <type name="FW_LowerReceiver_762x25">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -431,7 +431,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="LowerReceiver_380">
+    <type name="FW_LowerReceiver_380">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -443,7 +443,7 @@
 
 
     <!-- TIER 4–5 — INTERMEDIATE RIFLES -->
-    <type name="LowerReceiver_556">
+    <type name="FW_LowerReceiver_556">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -453,7 +453,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="LowerReceiver_545">
+    <type name="FW_LowerReceiver_545">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -463,7 +463,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="LowerReceiver_300BLK">
+    <type name="FW_LowerReceiver_300BLK">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>220</cost>
@@ -473,7 +473,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="LowerReceiver_762x39">
+    <type name="FW_LowerReceiver_762x39">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>180</cost>
@@ -483,7 +483,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="LowerReceiver_939">
+    <type name="FW_LowerReceiver_939">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>260</cost>
@@ -494,7 +494,7 @@
 
 
     <!-- TIER 5–6 — DMR CALIBERS -->
-    <type name="LowerReceiver_762x54">
+    <type name="FW_LowerReceiver_762x54">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>300</cost>
@@ -504,7 +504,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="LowerReceiver_308">
+    <type name="FW_LowerReceiver_308">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>330</cost>
@@ -513,7 +513,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="LowerReceiver_300WM">
+    <type name="FW_LowerReceiver_300WM">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>380</cost>
@@ -524,7 +524,7 @@
 
 
     <!-- TIER 7 — ELITE SNIPER CALIBERS -->
-    <type name="LowerReceiver_338">
+    <type name="FW_LowerReceiver_338">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>450</cost>
@@ -535,7 +535,7 @@
 
 
     <!-- TIER 8 — ULTRA CALIBERS -->
-    <type name="LowerReceiver_408">
+    <type name="FW_LowerReceiver_408">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>550</cost>
@@ -544,7 +544,7 @@
         <value name="Tier8"/>
     </type>
 
-    <type name="LowerReceiver_50">
+    <type name="FW_LowerReceiver_50">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>650</cost>
@@ -555,7 +555,7 @@
 
 
     <!-- SPECIALTY HISTORICAL -->
-    <type name="LowerReceiver_8mm">
+    <type name="FW_LowerReceiver_8mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -567,7 +567,7 @@
 
 
     <!-- SHOTGUNS (Tier 3–4) -->
-    <type name="LowerReceiver_12Gauge">
+    <type name="FW_LowerReceiver_12Gauge">
         <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <cost>160</cost>
@@ -581,7 +581,7 @@
     <!-- ===================================================== -->
 
     <!-- TIER 3 — PISTOL CALIBERS -->
-    <type name="UpperReceiver_22">
+    <type name="FW_UpperReceiver_22">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -590,7 +590,7 @@
         <value name="Tier3" />
     </type>
 
-    <type name="UpperReceiver_9mm">
+    <type name="FW_UpperReceiver_9mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>110</cost>
@@ -599,7 +599,7 @@
         <value name="Tier3" />
     </type>
 
-    <type name="UpperReceiver_45ACP">
+    <type name="FW_UpperReceiver_45ACP">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -608,7 +608,7 @@
         <value name="Tier3" />
     </type>
 
-    <type name="UpperReceiver_762x25">
+    <type name="FW_UpperReceiver_762x25">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>120</cost>
@@ -617,7 +617,7 @@
         <value name="Tier3" />
     </type>
 
-    <type name="UpperReceiver_380">
+    <type name="FW_UpperReceiver_380">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>100</cost>
@@ -629,7 +629,7 @@
 
 
     <!-- TIER 4–5 — INTERMEDIATE RIFLE CALIBERS -->
-    <type name="UpperReceiver_556">
+    <type name="FW_UpperReceiver_556">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -639,7 +639,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="UpperReceiver_545">
+    <type name="FW_UpperReceiver_545">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -649,7 +649,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="UpperReceiver_300BLK">
+    <type name="FW_UpperReceiver_300BLK">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>220</cost>
@@ -659,7 +659,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="UpperReceiver_762x39">
+    <type name="FW_UpperReceiver_762x39">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>180</cost>
@@ -669,7 +669,7 @@
         <value name="Tier5"/>
     </type>
 
-    <type name="UpperReceiver_939">
+    <type name="FW_UpperReceiver_939">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>260</cost>
@@ -680,7 +680,7 @@
 
 
     <!-- TIER 5–6 — DMR CALIBERS -->
-    <type name="UpperReceiver_762x54">
+    <type name="FW_UpperReceiver_762x54">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>300</cost>
@@ -690,7 +690,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="UpperReceiver_308">
+    <type name="FW_UpperReceiver_308">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>330</cost>
@@ -699,7 +699,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="UpperReceiver_300WM">
+    <type name="FW_UpperReceiver_300WM">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>380</cost>
@@ -710,7 +710,7 @@
 
 
     <!-- TIER 7 — ELITE SNIPER CALIBERS -->
-    <type name="UpperReceiver_338">
+    <type name="FW_UpperReceiver_338">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>450</cost>
@@ -721,7 +721,7 @@
 
 
     <!-- TIER 8 — ULTRA CALIBERS -->
-    <type name="UpperReceiver_408">
+    <type name="FW_UpperReceiver_408">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>550</cost>
@@ -730,7 +730,7 @@
         <value name="Tier8"/>
     </type>
 
-    <type name="UpperReceiver_50">
+    <type name="FW_UpperReceiver_50">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>650</cost>
@@ -741,7 +741,7 @@
 
 
     <!-- SPECIALTY HISTORICAL -->
-    <type name="UpperReceiver_8mm">
+    <type name="FW_UpperReceiver_8mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>200</cost>
@@ -753,7 +753,7 @@
 
 
     <!-- SHOTGUN UPPERS (Tier 3–4) -->
-    <type name="UpperReceiver_12Gauge">
+    <type name="FW_UpperReceiver_12Gauge">
         <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <cost>160</cost>
@@ -768,7 +768,7 @@
     
     <!-- Bolt_22 DISABLED - No config.cpp class definition exists -->
     <!--
-	<type name="Bolt_22">
+	<type name="FW_Bolt_22">
 		<nominal>6</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -786,7 +786,7 @@
     -->
 
     <!-- TIER 5–6 — DMR BOLTS -->
-    <type name="Bolt_762x54">
+    <type name="FW_Bolt_762x54">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>320</cost>
@@ -796,7 +796,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="Bolt_308">
+    <type name="FW_Bolt_308">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>350</cost>
@@ -805,7 +805,7 @@
         <value name="Tier6"/>
     </type>
 
-    <type name="Bolt_300WM">
+    <type name="FW_Bolt_300WM">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>400</cost>
@@ -816,7 +816,7 @@
 
 
     <!-- TIER 7 — ELITE SNIPER BOLTS -->
-    <type name="Bolt_338">
+    <type name="FW_Bolt_338">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>550</cost>
@@ -827,7 +827,7 @@
 
 
     <!-- TIER 8 — ULTRA SNIPER BOLTS -->
-    <type name="Bolt_408">
+    <type name="FW_Bolt_408">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>700</cost>
@@ -836,7 +836,7 @@
         <value name="Tier8"/>
     </type>
 
-    <type name="Bolt_50">
+    <type name="FW_Bolt_50">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>800</cost>
@@ -847,7 +847,7 @@
 
 
     <!-- SPECIALTY HISTORICAL -->
-    <type name="Bolt_8mm">
+    <type name="FW_Bolt_8mm">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <cost>220</cost>
@@ -861,7 +861,7 @@
     <!-- ===================================================== -->
 
     <!-- MATCH-GRADE BARREL LINER -->
-    <type name="BarrelLiner_MatchGrade">
+    <type name="FW_BarrelLiner_MatchGrade">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <cost>1000</cost>
@@ -871,7 +871,7 @@
     </type>
 
     <!-- PRECISION BOLT ASSEMBLY -->
-    <type name="BoltAssembly_Precision">
+    <type name="FW_BoltAssembly_Precision">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <cost>1000</cost>
@@ -881,7 +881,7 @@
     </type>
 
     <!-- REINFORCED RECEIVER BRACKET -->
-    <type name="ReceiverBracket_Reinforced">
+    <type name="FW_ReceiverBracket_Reinforced">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <cost>1200</cost>
@@ -891,7 +891,7 @@
     </type>
 
     <!-- ELITE BUFFER SPRING (LEGENDARY) -->
-    <type name="Spring_Elite">
+    <type name="FW_Spring_Elite">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <cost>1500</cost>

@@ -142,35 +142,35 @@ class CfgVehicles
     // PISTOL CALIBER RECEIVERS
     // ---------------------------
 
-    class PistolReceiver_22: FW_PistolReceiver_Base
+    class FW_PistolReceiver_22: FW_PistolReceiver_Base
     {
         scope = 2;
         displayName = "Pistol Receiver (.22 LR)";
         descriptionShort = "A compact .22 LR pistol receiver frame used for small-caliber handguns.";
     };
 
-    class PistolReceiver_9mm: FW_PistolReceiver_Base
+    class FW_PistolReceiver_9mm: FW_PistolReceiver_Base
     {
         scope = 2;
         displayName = "Pistol Receiver (9×19mm)";
         descriptionShort = "A 9×19mm pistol receiver compatible with most modern handgun platforms.";
     };
 
-    class PistolReceiver_45ACP: FW_PistolReceiver_Base
+    class FW_PistolReceiver_45ACP: FW_PistolReceiver_Base
     {
         scope = 2;
         displayName = "Pistol Receiver (.45 ACP)";
         descriptionShort = "A heavy-frame .45 ACP pistol receiver designed for large-caliber handguns.";
     };
 
-    class PistolReceiver_762x25: FW_PistolReceiver_Base
+    class FW_PistolReceiver_762x25: FW_PistolReceiver_Base
     {
         scope = 2;
         displayName = "Pistol Receiver (7.62×25)";
         descriptionShort = "A 7.62×25 Tokarev pistol receiver used in historical military sidearms.";
     };
 
-    class PistolReceiver_380: FW_PistolReceiver_Base
+    class FW_PistolReceiver_380: FW_PistolReceiver_Base
     {
         scope = 2;
         displayName = "Pistol Receiver (.380 ACP)";
@@ -195,35 +195,35 @@ class CfgVehicles
     // PISTOL CALIBER HANDLES
     // ---------------------------
 
-    class PistolHandle_22: FW_PistolHandle_Base
+    class FW_PistolHandle_22: FW_PistolHandle_Base
     {
         scope = 2;
         displayName = "Pistol Handle (.22 LR)";
         descriptionShort = "A lightweight grip and trigger assembly for .22 LR pistols.";
     };
 
-    class PistolHandle_9mm: FW_PistolHandle_Base
+    class FW_PistolHandle_9mm: FW_PistolHandle_Base
     {
         scope = 2;
         displayName = "Pistol Handle (9×19mm)";
         descriptionShort = "A polymer or metal pistol grip designed for 9×19mm handguns.";
     };
 
-    class PistolHandle_45ACP: FW_PistolHandle_Base
+    class FW_PistolHandle_45ACP: FW_PistolHandle_Base
     {
         scope = 2;
         displayName = "Pistol Handle (.45 ACP)";
         descriptionShort = "A reinforced pistol grip for handling the recoil of .45 ACP rounds.";
     };
 
-    class PistolHandle_762x25: FW_PistolHandle_Base
+    class FW_PistolHandle_762x25: FW_PistolHandle_Base
     {
         scope = 2;
         displayName = "Pistol Handle (7.62×25)";
         descriptionShort = "A wooden or bakelite grip from classic Tokarev-pattern pistols.";
     };
 
-    class PistolHandle_380: FW_PistolHandle_Base
+    class FW_PistolHandle_380: FW_PistolHandle_Base
     {
         scope = 2;
         displayName = "Pistol Handle (.380 ACP)";
@@ -252,35 +252,35 @@ class CfgVehicles
     // TIER 3 — PISTOL CALIBERS
     // ---------------------------
 
-    class Barrel_22: FW_Barrel_Base
+    class FW_Barrel_22: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.22 LR)";
         descriptionShort = "A lightweight .22 LR barrel, suitable for small-caliber improvised or low-tier pistols.";
     };
 
-    class Barrel_9mm: FW_Barrel_Base
+    class FW_Barrel_9mm: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (9×19mm)";
         descriptionShort = "A 9×19mm pistol-caliber barrel. Balanced, compact, and widely compatible with modern platforms.";
     };
 
-    class Barrel_45ACP: FW_Barrel_Base
+    class FW_Barrel_45ACP: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.45 ACP)";
         descriptionShort = "A .45 ACP barrel intended for mid-tier handguns and compact SMGs.";
     };
 
-    class Barrel_762x25: FW_Barrel_Base
+    class FW_Barrel_762x25: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (7.62×25 Tokarev)";
         descriptionShort = "A 7.62×25 barrel compatible with specialty SMGs and certain historical sidearms.";
     };
 
-    class Barrel_380: FW_Barrel_Base
+    class FW_Barrel_380: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.380 ACP)";
@@ -291,35 +291,35 @@ class CfgVehicles
     // TIER 4–5 — INTERMEDIATE CALIBERS
     // ---------------------------
 
-    class Barrel_556: FW_Barrel_Base
+    class FW_Barrel_556: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (5.56×45)";
         descriptionShort = "A 5.56×45 NATO barrel. Standard for modern AR-platform rifles.";
     };
 
-    class Barrel_545: FW_Barrel_Base
+    class FW_Barrel_545: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (5.45×39)";
         descriptionShort = "A 5.45×39 barrel used in AK-74 pattern rifles. Lightweight and accurate.";
     };
 
-    class Barrel_300BLK: FW_Barrel_Base
+    class FW_Barrel_300BLK: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.300 Blackout)";
         descriptionShort = "A .300 Blackout barrel designed for suppressed AR builds and close-quarters rifles.";
     };
 
-    class Barrel_762x39: FW_Barrel_Base
+    class FW_Barrel_762x39: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (7.62×39)";
         descriptionShort = "A rugged 7.62×39 barrel used in AK-pattern weapons and mid-tier battle rifles.";
     };
 
-    class Barrel_939: FW_Barrel_Base
+    class FW_Barrel_939: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (9×39)";
@@ -330,21 +330,21 @@ class CfgVehicles
     // TIER 5–6 — DMR CALIBERS
     // ---------------------------
 
-    class Barrel_762x54: FW_Barrel_Base
+    class FW_Barrel_762x54: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (7.62×54R)";
         descriptionShort = "A high-pressure sniper-grade barrel chambered in 7.62×54R.";
     };
 
-    class Barrel_308: FW_Barrel_Base
+    class FW_Barrel_308: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.308 Winchester)";
         descriptionShort = "A precision .308 Win barrel suited for DMR and battle rifle builds.";
     };
 
-    class Barrel_300WM: FW_Barrel_Base
+    class FW_Barrel_300WM: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.300 Winchester Magnum)";
@@ -355,7 +355,7 @@ class CfgVehicles
     // TIER 7 — ELITE SNIPER CALIBERS
     // ---------------------------
 
-    class Barrel_338: FW_Barrel_Base
+    class FW_Barrel_338: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.338 Lapua Magnum)";
@@ -366,14 +366,14 @@ class CfgVehicles
     // TIER 8 — ULTRA CALIBERS
     // ---------------------------
 
-    class Barrel_408: FW_Barrel_Base
+    class FW_Barrel_408: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.408 CheyTac)";
         descriptionShort = "An ultra-high-performance .408 CheyTac barrel. Extremely rare and valuable.";
     };
 
-    class Barrel_50: FW_Barrel_Base
+    class FW_Barrel_50: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (.50 BMG)";
@@ -384,7 +384,7 @@ class CfgVehicles
     // SPECIALTY / HISTORICAL CALIBERS
     // ---------------------------
 
-    class Barrel_8mm: FW_Barrel_Base
+    class FW_Barrel_8mm: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Barrel (8mm)";
@@ -395,7 +395,7 @@ class CfgVehicles
     // SHOTGUNS — 12 GAUGE
     // ---------------------------
 
-    class Barrel_12Gauge: FW_Barrel_Base
+    class FW_Barrel_12Gauge: FW_Barrel_Base
     {
         scope = 2;
         displayName = "Shotgun Barrel (12 Gauge)";
@@ -423,7 +423,7 @@ class CfgVehicles
     // TIER 3 — PISTOL CALIBERS
     // ---------------------------
 
-    class LowerReceiver_22: FW_LowerReceiver_Base
+    class FW_LowerReceiver_22: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.22 LR)";
@@ -431,7 +431,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_9mm: FW_LowerReceiver_Base
+    class FW_LowerReceiver_9mm: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (9×19mm)";
@@ -439,7 +439,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_45ACP: FW_LowerReceiver_Base
+    class FW_LowerReceiver_45ACP: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.45 ACP)";
@@ -447,7 +447,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_762x25: FW_LowerReceiver_Base
+    class FW_LowerReceiver_762x25: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (7.62×25)";
@@ -455,7 +455,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_380: FW_LowerReceiver_Base
+    class FW_LowerReceiver_380: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.380 ACP)";
@@ -467,7 +467,7 @@ class CfgVehicles
     // TIER 4–5 — INTERMEDIATE CALIBERS
     // ---------------------------
 
-    class LowerReceiver_556: FW_LowerReceiver_Base
+    class FW_LowerReceiver_556: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (5.56×45)";
@@ -475,7 +475,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_545: FW_LowerReceiver_Base
+    class FW_LowerReceiver_545: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (5.45×39)";
@@ -483,7 +483,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_300BLK: FW_LowerReceiver_Base
+    class FW_LowerReceiver_300BLK: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.300 Blackout)";
@@ -491,7 +491,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_762x39: FW_LowerReceiver_Base
+    class FW_LowerReceiver_762x39: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (7.62×39)";
@@ -499,7 +499,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_939: FW_LowerReceiver_Base
+    class FW_LowerReceiver_939: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (9×39)";
@@ -511,7 +511,7 @@ class CfgVehicles
     // TIER 5–6 — DMR CALIBERS
     // ---------------------------
 
-    class LowerReceiver_762x54: FW_LowerReceiver_Base
+    class FW_LowerReceiver_762x54: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (7.62×54R)";
@@ -519,7 +519,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_308: FW_LowerReceiver_Base
+    class FW_LowerReceiver_308: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.308 Winchester)";
@@ -527,7 +527,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_300WM: FW_LowerReceiver_Base
+    class FW_LowerReceiver_300WM: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.300 WinMag)";
@@ -539,7 +539,7 @@ class CfgVehicles
     // TIER 7 — ELITE SNIPER CALIBERS
     // ---------------------------
 
-    class LowerReceiver_338: FW_LowerReceiver_Base
+    class FW_LowerReceiver_338: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.338 Lapua)";
@@ -551,7 +551,7 @@ class CfgVehicles
     // TIER 8 — ULTRA CALIBERS
     // ---------------------------
 
-    class LowerReceiver_408: FW_LowerReceiver_Base
+    class FW_LowerReceiver_408: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.408 CheyTac)";
@@ -559,7 +559,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class LowerReceiver_50: FW_LowerReceiver_Base
+    class FW_LowerReceiver_50: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (.50 BMG)";
@@ -571,7 +571,7 @@ class CfgVehicles
     // SPECIALTY / HISTORICAL CALIBERS
     // ---------------------------
 
-    class LowerReceiver_8mm: FW_LowerReceiver_Base
+    class FW_LowerReceiver_8mm: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Lower Receiver (8mm)";
@@ -583,7 +583,7 @@ class CfgVehicles
     // SHOTGUNS — 12 GAUGE
     // ---------------------------
 
-    class LowerReceiver_12Gauge: FW_LowerReceiver_Base
+    class FW_LowerReceiver_12Gauge: FW_LowerReceiver_Base
     {
         scope = 2;
         displayName = "Shotgun Lower Receiver (12 Gauge)";
@@ -612,7 +612,7 @@ class CfgVehicles
     // TIER 3 — PISTOL CALIBERS
     // ---------------------------
 
-    class UpperReceiver_22: FW_UpperReceiver_Base
+    class FW_UpperReceiver_22: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.22 LR)";
@@ -620,7 +620,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_9mm: FW_UpperReceiver_Base
+    class FW_UpperReceiver_9mm: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (9×19mm)";
@@ -628,7 +628,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_45ACP: FW_UpperReceiver_Base
+    class FW_UpperReceiver_45ACP: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.45 ACP)";
@@ -636,7 +636,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_762x25: FW_UpperReceiver_Base
+    class FW_UpperReceiver_762x25: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (7.62×25)";
@@ -644,7 +644,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_380: FW_UpperReceiver_Base
+    class FW_UpperReceiver_380: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.380 ACP)";
@@ -656,7 +656,7 @@ class CfgVehicles
     // TIER 4–5 — INTERMEDIATE RIFLE CALIBERS
     // ---------------------------
 
-    class UpperReceiver_556: FW_UpperReceiver_Base
+    class FW_UpperReceiver_556: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (5.56×45)";
@@ -664,7 +664,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_545: FW_UpperReceiver_Base
+    class FW_UpperReceiver_545: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (5.45×39)";
@@ -672,7 +672,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_300BLK: FW_UpperReceiver_Base
+    class FW_UpperReceiver_300BLK: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.300 Blackout)";
@@ -680,7 +680,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_762x39: FW_UpperReceiver_Base
+    class FW_UpperReceiver_762x39: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (7.62×39)";
@@ -688,7 +688,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_939: FW_UpperReceiver_Base
+    class FW_UpperReceiver_939: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (9×39)";
@@ -700,7 +700,7 @@ class CfgVehicles
     // TIER 5–6 — DMR CALIBERS
     // ---------------------------
 
-    class UpperReceiver_762x54: FW_UpperReceiver_Base
+    class FW_UpperReceiver_762x54: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (7.62×54R)";
@@ -708,7 +708,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_308: FW_UpperReceiver_Base
+    class FW_UpperReceiver_308: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.308 Winchester)";
@@ -716,7 +716,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_300WM: FW_UpperReceiver_Base
+    class FW_UpperReceiver_300WM: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.300 WinMag)";
@@ -728,7 +728,7 @@ class CfgVehicles
     // TIER 7 — ELITE SNIPER CALIBERS
     // ---------------------------
 
-    class UpperReceiver_338: FW_UpperReceiver_Base
+    class FW_UpperReceiver_338: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.338 Lapua)";
@@ -740,7 +740,7 @@ class CfgVehicles
     // TIER 8 — ULTRA CALIBERS
     // ---------------------------
 
-    class UpperReceiver_408: FW_UpperReceiver_Base
+    class FW_UpperReceiver_408: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.408 CheyTac)";
@@ -748,7 +748,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class UpperReceiver_50: FW_UpperReceiver_Base
+    class FW_UpperReceiver_50: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (.50 BMG)";
@@ -760,7 +760,7 @@ class CfgVehicles
     // SPECIALTY / HISTORICAL CALIBERS
     // ---------------------------
 
-    class UpperReceiver_8mm: FW_UpperReceiver_Base
+    class FW_UpperReceiver_8mm: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Upper Receiver (8mm)";
@@ -772,7 +772,7 @@ class CfgVehicles
     // SHOTGUNS — 12 GAUGE (NO BOLT)
     // ---------------------------
 
-    class UpperReceiver_12Gauge: FW_UpperReceiver_Base
+    class FW_UpperReceiver_12Gauge: FW_UpperReceiver_Base
     {
         scope = 2;
         displayName = "Shotgun Upper Receiver (12 Gauge)";
@@ -801,7 +801,7 @@ class CfgVehicles
     // TIER 5–6 — DMR CALIBERS
     // ---------------------------
 
-    class Bolt_762x54: FW_Bolt_Base
+    class FW_Bolt_762x54: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (7.62×54R)";
@@ -809,7 +809,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class Bolt_308: FW_Bolt_Base
+    class FW_Bolt_308: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (.308 Winchester)";
@@ -817,7 +817,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class Bolt_300WM: FW_Bolt_Base
+    class FW_Bolt_300WM: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (.300 WinMag)";
@@ -829,7 +829,7 @@ class CfgVehicles
     // TIER 7 — ELITE SNIPER CALIBERS
     // ---------------------------
 
-    class Bolt_338: FW_Bolt_Base
+    class FW_Bolt_338: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (.338 Lapua Magnum)";
@@ -841,7 +841,7 @@ class CfgVehicles
     // TIER 8 — ULTRA SNIPER CALIBERS
     // ---------------------------
 
-    class Bolt_408: FW_Bolt_Base
+    class FW_Bolt_408: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (.408 CheyTac)";
@@ -849,7 +849,7 @@ class CfgVehicles
         // Use model materials; no hiddenSelections override
     };
 
-    class Bolt_50: FW_Bolt_Base
+    class FW_Bolt_50: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (.50 BMG)";
@@ -861,7 +861,7 @@ class CfgVehicles
     // SPECIALTY / HISTORICAL
     // ---------------------------
 
-    class Bolt_8mm: FW_Bolt_Base
+    class FW_Bolt_8mm: FW_Bolt_Base
     {
         scope = 2;
         displayName = "Bolt Assembly (8mm)";
@@ -910,7 +910,7 @@ class CfgVehicles
     // MATCH-GRADE BARREL LINER
     // ---------------------------
 
-    class BarrelLiner_MatchGrade: FW_Upgrade_Base
+    class FW_BarrelLiner_MatchGrade: FW_Upgrade_Base
     {
         scope = 2;
         displayName = "Match-Grade Barrel Liner";
@@ -922,7 +922,7 @@ class CfgVehicles
     // PRECISION BOLT ASSEMBLY
     // ---------------------------
 
-    class BoltAssembly_Precision: FW_Upgrade_Base
+    class FW_BoltAssembly_Precision: FW_Upgrade_Base
     {
         scope = 2;
         displayName = "Precision Bolt Assembly";
@@ -934,7 +934,7 @@ class CfgVehicles
     // REINFORCED RECEIVER BRACKET
     // ---------------------------
 
-    class ReceiverBracket_Reinforced: FW_Upgrade_Base
+    class FW_ReceiverBracket_Reinforced: FW_Upgrade_Base
     {
         scope = 2;
         displayName = "Reinforced Receiver Bracket";
@@ -946,7 +946,7 @@ class CfgVehicles
     // ELITE BUFFER SPRING
     // ---------------------------
 
-    class Spring_Elite: FW_Upgrade_Base
+    class FW_Spring_Elite: FW_Upgrade_Base
     {
         scope = 2;
         displayName = "Elite Buffer Spring";
