@@ -3,14 +3,15 @@ class CfgMods
     class Sector88_Crafting
     {
         dir = "@Sector88_Crafting";
-        picture = "";
+        picture = "Sector88_Weapon Crafting.paa";
         action = "";
         hideName = 0;
-        hidePicture = 1;
-        name = "Sector 88 Crafting";
+        hidePicture = 0;
+        name = "Sector 88 Weapon Crafting";
+        description = "Weapon crafting system with 68+ recipes across 8 tiers; full details on the Steam page.";
         credits = "Sector 88 Dev Team";
-        author = "Sector 88";
-        authorID = "";
+        author = "Rook";
+        authorID = "76561198074746423";
         version = "1.0.0";
         extra = 0;
         type = "mod";
