@@ -262,26 +262,4 @@
         <cargo chance="0.01"/>
         <attachments chance="0.005"/>
     </type>
-
-    <!-- ===================================================== -->
-    <!-- SECTION 7 — EXPANSION KEYCARD                         -->
-    <!-- ===================================================== -->
-
-    <type name="ExpansionKeyCard_Level5">
-        <cargo chance="0.005"/>
-        <attachments chance="0.002"/>
-    </type>
-
-    <!-- ===================================================== -->
-    <!-- TIER 8 VAULT — CONTAINER-BOUND LEGENDARY LOOT         -->
-    <!-- ===================================================== -->
-
-    <type name="MetalCase_S88Vault">
-        <attachments chance="1.0">
-            <item name="BarrelLiner_MatchGrade" chance="0.25"/>
-            <item name="BoltAssembly_Precision" chance="0.25"/>
-            <item name="ReceiverBracket_Reinforced" chance="0.25"/>
-            <item name="Spring_Elite" chance="0.25"/>
-        </attachments>
-    </type>
 </spawnabletypes>

@@ -2,6 +2,40 @@
 <types>
 
     <!-- ===================================================== -->
+    <!-- SECTION 0 — CRAFTING WORKBENCHES                      -->
+    <!-- ===================================================== -->
+
+    <!-- Standard Crafting Workbench -->
+    <type name="S88CraftingWorkbench">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <cost>5000</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+    <!-- Military Crafting Workbench -->
+    <type name="S88CraftingWorkbench_Military">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <cost>5000</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+    <!-- Civilian Crafting Workbench -->
+    <type name="S88CraftingWorkbench_Civilian">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <cost>5000</cost>
+        <flags count_in_map="1"/>
+        <usage name="Loot"/>
+        <value name="Tier8"/>
+    </type>
+
+    <!-- ===================================================== -->
     <!-- SECTION 1 — SHARED CRAFTING MATERIALS (SPRINGS/METAL) -->
     <!-- ===================================================== -->
 
@@ -431,7 +465,7 @@
 
     <type name="LowerReceiver_300BLK">
         <nominal>1</nominal>
-        <lifetime>7200</llifetime>
+        <lifetime>7200</lifetime>
         <cost>220</cost>
         <flags count_in_map="1"/>
         <usage name="Loot"/>
@@ -865,22 +899,5 @@
         <usage name="Loot" />
         <value name="Tier8" />
     </type>
-	<!-- S88Vault -->
-	<type name="MetalCase_S88Vault">
-		<nominal>1</nominal>
-		<lifetime>10800</lifetime>
-		<cost>1000</cost>
-		<flags count_in_map="1"/>
-		<usage name="S88_VaultLoot"/>
-		<value name="Tier8"/>
-	</type>
-	<type name="ExpansionKeyCard_Level5">
-		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
-		<cost>2000</cost>
-		<flags count_in_map="1"/>
-		<usage name="Loot"/>
-		<value name="Tier8"/>
-	</type>
 
 </types>

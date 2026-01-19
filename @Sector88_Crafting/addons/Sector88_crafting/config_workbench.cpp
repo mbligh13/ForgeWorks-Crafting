@@ -31,7 +31,8 @@ class CfgVehicles
         scope = 2;
         displayName = "Sector 88 Workbench";
         descriptionShort = "A well-equipped workbench for crafting weapons and equipment.";
-        model = "\DZ\gear\camping\WorkBench.p3d";
+        // Use the custom Sector88 workbench model from the mod's models folder
+        model = "\sector88_weaponparts\data\models\work_bench.p3d";
         
         // Physics
         physLayer = "item_large";

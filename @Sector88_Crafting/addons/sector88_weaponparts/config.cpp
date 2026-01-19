@@ -5,7 +5,7 @@ class CfgPatches
         units[] = {};
         weapons[] = {};
         requiredVersion = 0.1;
-        requiredAddons[] = { "DZ_Data" };
+        requiredAddons[] = {"DZ_Data"};
     };
 };
 
@@ -73,7 +73,8 @@ class CfgVehicles
         displayName = "Small Spring";
         descriptionShort = "A small tension spring used in crafting lower-tier magazines and pistol-caliber firearm components.";
         model = "\sector88_weaponparts\data\models\small_spring.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\small_spring"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 50;
         itemSize[] = {1,1};
     };
@@ -84,7 +85,8 @@ class CfgVehicles
         displayName = "Large Spring";
         descriptionShort = "A heavy-duty spring used in crafting high-capacity magazines and advanced rifle components.";
         model = "\sector88_weaponparts\data\models\large_spring.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\large_spring"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 80;
         itemSize[] = {1,2};
     };
@@ -99,7 +101,8 @@ class CfgVehicles
         displayName = "Small Sheet Metal";
         descriptionShort = "Light sheet metal used for crafting magazine bodies and firearm internals.";
         model = "\sector88_weaponparts\data\models\small_sheet_metal.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\small_sheetmetal"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 100;
         itemSize[] = {2,1};
     };
@@ -110,20 +113,9 @@ class CfgVehicles
         displayName = "Large Sheet Metal";
         descriptionShort = "Reinforced sheet metal used for heavy magazines, advanced receivers, and high-caliber firearm components.";
         model = "\sector88_weaponparts\data\models\small_sheet_metal.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\small_sheetmetal"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 150;
-        itemSize[] = {2,2};
-    };
-
-    // ---------------------------
-    // BASE CLASS FOR MAG BODIES
-    // ---------------------------
-
-    class S88_MagBody_Base: S88_PartBase
-    {
-        scope = 0;
-        model = "\dz\weapons\ammunition\data\ammobox_556.p3d";
-        weight = 200;
         itemSize[] = {2,2};
     };
 
@@ -138,8 +130,10 @@ class CfgVehicles
     class S88_PistolReceiver_Base: S88_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\pistol_receiver.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\pistol_receiver"};
+        // Corrected model path to existing file name
+        model = "\sector88_weaponparts\data\models\pistol_reciever.p3d";
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 250;
         itemSize[] = {2,1};
     };
@@ -191,7 +185,8 @@ class CfgVehicles
     {
         scope = 0;
         model = "\sector88_weaponparts\data\models\pistol_handle.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\pistol_handle"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 200;
         itemSize[] = {1,2};
     };
@@ -247,7 +242,8 @@ class CfgVehicles
     {
         scope = 0;
         model = "\sector88_weaponparts\data\models\barrel.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\barrel"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 350;
         itemSize[] = {3,1};
     };
@@ -417,7 +413,8 @@ class CfgVehicles
     {
         scope = 0;
         model = "\sector88_weaponparts\data\models\lower_receiver.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\lower_receiver"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 350;
         itemSize[] = {2,2};
     };
@@ -431,7 +428,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.22 LR)";
         descriptionShort = "A lower receiver configured for .22 LR platforms. Used in light pistols and training weapons.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_9mm: S88_LowerReceiver_Base
@@ -439,7 +436,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (9×19mm)";
         descriptionShort = "A lower receiver built for 9×19mm pistols and SMG platforms.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_45ACP: S88_LowerReceiver_Base
@@ -447,7 +444,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.45 ACP)";
         descriptionShort = "A lower receiver engineered for .45 ACP platforms. Compatible with mid-tier handguns and compact carbines.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_762x25: S88_LowerReceiver_Base
@@ -455,7 +452,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (7.62×25)";
         descriptionShort = "A 7.62×25 lower receiver used for specialty SMG and pistol conversions.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_380: S88_LowerReceiver_Base
@@ -463,7 +460,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.380 ACP)";
         descriptionShort = "A compact lower receiver for .380 ACP pocket pistols.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -475,7 +472,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (5.56×45)";
         descriptionShort = "A lower receiver for 5.56×45 AR-platform rifles. Widely compatible with modern parts.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_545: S88_LowerReceiver_Base
@@ -483,7 +480,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (5.45×39)";
         descriptionShort = "A lower receiver for 5.45×39 AK-74 pattern rifles. Standard Soviet-era configuration.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_300BLK: S88_LowerReceiver_Base
@@ -491,7 +488,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.300 Blackout)";
         descriptionShort = "A specialized lower receiver for .300 Blackout rifles, typically used in suppressed configurations.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_762x39: S88_LowerReceiver_Base
@@ -499,7 +496,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (7.62×39)";
         descriptionShort = "A rugged lower receiver built for AK-pattern rifles and 7.62×39 conversions.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_939: S88_LowerReceiver_Base
@@ -507,7 +504,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (9×39)";
         descriptionShort = "A heavy-duty lower receiver for 9×39 integrally suppressed rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -519,7 +516,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (7.62×54R)";
         descriptionShort = "A precision lower receiver for classic 7.62×54R marksman rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_308: S88_LowerReceiver_Base
@@ -527,7 +524,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.308 Winchester)";
         descriptionShort = "A lower receiver built for .308 Win battle rifles and designated marksman platforms.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_300WM: S88_LowerReceiver_Base
@@ -535,7 +532,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.300 WinMag)";
         descriptionShort = "A reinforced lower receiver engineered to handle the high pressure of .300 WinMag.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -547,7 +544,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.338 Lapua)";
         descriptionShort = "A precision-machined lower receiver for .338 Lapua Magnum sniper systems.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -559,7 +556,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.408 CheyTac)";
         descriptionShort = "An extremely rare lower receiver calibrated for .408 CheyTac anti-personnel rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class LowerReceiver_50: S88_LowerReceiver_Base
@@ -567,7 +564,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (.50 BMG)";
         descriptionShort = "A reinforced .50 BMG lower receiver designed for anti-materiel platforms.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -579,7 +576,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Lower Receiver (8mm)";
         descriptionShort = "A lower receiver for classic 8mm bolt-action rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -591,7 +588,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Shotgun Lower Receiver (12 Gauge)";
         descriptionShort = "A 12-gauge lower receiver for pump-action and semi-automatic shotguns.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 // =====================================================
 // SECTION 5 — UPPER RECEIVERS (ALL CALIBERS)
@@ -605,7 +602,8 @@ class CfgVehicles
     {
         scope = 0;
         model = "\sector88_weaponparts\data\models\upper_receiver.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\upper_receiver"};
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 380;
         itemSize[] = {2,2};
     };
@@ -619,7 +617,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.22 LR)";
         descriptionShort = "A .22 LR upper receiver designed for lightweight small-caliber pistol builds.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_9mm: S88_UpperReceiver_Base
@@ -627,7 +625,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (9×19mm)";
         descriptionShort = "A 9×19mm upper receiver used for various pistol-caliber builds and compact SMGs.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_45ACP: S88_UpperReceiver_Base
@@ -635,7 +633,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.45 ACP)";
         descriptionShort = "A .45 ACP upper receiver compatible with heavy-frame pistols and SMGs.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_762x25: S88_UpperReceiver_Base
@@ -643,7 +641,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (7.62×25)";
         descriptionShort = "An upper receiver built for the fast, high-velocity 7.62×25 cartridge.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_380: S88_UpperReceiver_Base
@@ -651,7 +649,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.380 ACP)";
         descriptionShort = "A compact upper receiver for .380 ACP pocket pistols and derringers.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -663,7 +661,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (5.56×45)";
         descriptionShort = "A 5.56×45 NATO upper receiver, standard in many AR-platform rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_545: S88_UpperReceiver_Base
@@ -671,7 +669,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (5.45×39)";
         descriptionShort = "A 5.45×39 upper receiver for AK-74 pattern rifles. Lightweight and reliable.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_300BLK: S88_UpperReceiver_Base
@@ -679,7 +677,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.300 Blackout)";
         descriptionShort = "A .300 Blackout upper receiver optimized for suppressed builds.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_762x39: S88_UpperReceiver_Base
@@ -687,7 +685,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (7.62×39)";
         descriptionShort = "A 7.62×39 upper receiver designed for AK-pattern and hybrid rifle systems.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_939: S88_UpperReceiver_Base
@@ -695,7 +693,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (9×39)";
         descriptionShort = "A heavy-duty upper receiver compatible with suppressed 9×39 rifle systems.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -707,7 +705,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (7.62×54R)";
         descriptionShort = "A hardened upper receiver intended for long-range 7.62×54R marksman rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_308: S88_UpperReceiver_Base
@@ -715,7 +713,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.308 Winchester)";
         descriptionShort = "A .308 Win upper receiver engineered for precision DMR and battle rifle builds.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_300WM: S88_UpperReceiver_Base
@@ -723,7 +721,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.300 WinMag)";
         descriptionShort = "A reinforced upper receiver capable of handling the high-pressure .300 WinMag cartridge.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -735,7 +733,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.338 Lapua)";
         descriptionShort = "A precision-crafted upper receiver made for elite .338 Lapua Magnum sniper systems.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -747,7 +745,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.408 CheyTac)";
         descriptionShort = "An extremely rare and powerful upper receiver for .408 CheyTac platforms.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class UpperReceiver_50: S88_UpperReceiver_Base
@@ -755,7 +753,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (.50 BMG)";
         descriptionShort = "A massive reinforced upper receiver intended for .50 BMG anti-materiel rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -767,7 +765,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Upper Receiver (8mm)";
         descriptionShort = "An upper receiver for powerful 8mm historical rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -779,7 +777,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Shotgun Upper Receiver (12 Gauge)";
         descriptionShort = "A 12-gauge upper receiver compatible with pump-action and semi-automatic shotgun builds.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\upper_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 // =====================================================
 // SECTION 6 — BOLT ASSEMBLIES (DMR & SNIPER CALIBERS)
@@ -792,8 +790,9 @@ class CfgVehicles
     class S88_Bolt_Base: S88_PartBase
     {
         scope = 0;
-        model = "\dz\weapons\attachments\data\bolt.p3d";
-        inventoryIcon[] = {"sector88_weaponparts\data\icons\bolt"};
+        model = "\sector88_weaponparts\data\models\bolt.p3d";
+        // Empty to allow engine to use model InvView
+        inventoryIcon[] = {};
         weight = 200;
         itemSize[] = {1,2};
     };
@@ -807,7 +806,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (7.62×54R)";
         descriptionShort = "A bolt assembly designed for powerful 7.62×54R marksman rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class Bolt_308: S88_Bolt_Base
@@ -815,7 +814,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (.308 Winchester)";
         descriptionShort = "A precision-machined bolt assembly for .308 Win DMR platforms.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class Bolt_300WM: S88_Bolt_Base
@@ -823,7 +822,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (.300 WinMag)";
         descriptionShort = "A reinforced bolt assembly capable of handling high-pressure .300 WinMag loads.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -835,7 +834,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (.338 Lapua Magnum)";
         descriptionShort = "A precision bolt assembly used in elite .338 Lapua Magnum sniper systems.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -847,7 +846,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (.408 CheyTac)";
         descriptionShort = "An extremely rare bolt assembly engineered for .408 CheyTac anti-personnel rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     class Bolt_50: S88_Bolt_Base
@@ -855,7 +854,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (.50 BMG)";
         descriptionShort = "A massive bolt assembly used in .50 BMG anti-materiel rifle platforms.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -867,7 +866,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Bolt Assembly (8mm)";
         descriptionShort = "A traditional bolt assembly for powerful 8mm historical rifles.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 // =====================================================
 // SECTION 7 — MAGAZINE CRAFTING (LOGIC ONLY, NO ITEMS)
@@ -916,7 +915,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Match-Grade Barrel Liner";
         descriptionShort = "A premium-grade barrel liner engineered with exceptional precision. Install inside a rifle barrel to increase accuracy and bullet velocity.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\barrel.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -928,7 +927,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Precision Bolt Assembly";
         descriptionShort = "A finely machined bolt assembly designed for improved cycling and smoother bolt operation.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\bolt.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -940,7 +939,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Reinforced Receiver Bracket";
         descriptionShort = "A high-strength support bracket used to reinforce a rifle’s receiver, reducing wear and recoil.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\lower_receiver.paa"};
+        // Use model materials; no hiddenSelections override
     };
 
     // ---------------------------
@@ -952,7 +951,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Elite Buffer Spring";
         descriptionShort = "A top-tier buffer spring crafted from advanced alloys, allowing smoother recoil control and faster semi-auto shot recovery.";
-        hiddenSelectionsTextures[] = {"\sector88_weaponparts\data\icons\large_spring.paa"};
+        // Use model materials; no hiddenSelections override
         weight = 80;
         itemSize[] = {1,2};
     };
