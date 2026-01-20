@@ -39,7 +39,7 @@ class TexGen7
 };
 class Stage1
 {
-	texture = "E:\Sector88 Server\Mod Assets\Workbench Assets\blueprint\blueprint_NOHQ.paa";
+	texture = "ForgeWorks - Crafting\addons\forgeworks_weaponparts\data\models\workbench_parts\blueprint_NOHQ.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -87,7 +87,7 @@ class Stage4
 };
 class Stage5
 {
-	texture = "E:\Sector88 Server\Mod Assets\Workbench Assets\blueprint\blueprint_SMDI.paa";
+	texture = "ForgeWorks - Crafting\addons\forgeworks_weaponparts\data\models\workbench_parts\blueprint_SMDI.paa";
 	uvSource = "tex";
 	class uvTransform
 	{

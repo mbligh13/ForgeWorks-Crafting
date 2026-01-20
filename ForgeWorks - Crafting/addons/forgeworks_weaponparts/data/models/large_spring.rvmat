@@ -39,7 +39,7 @@ class TexGen7
 };
 class Stage1
 {
-	texture = "P:\Sector88_Crafting\addons\sector88_weaponparts\data\models\large_spring_nohq.paa";
+	texture = "ForgeWorks - Crafting\addons\ForgeWorks_weaponparts\data\models\large_spring_nohq.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -87,7 +87,7 @@ class Stage4
 };
 class Stage5
 {
-	texture = "P:\Sector88_Crafting\addons\sector88_weaponparts\data\models\large_spring_smdi.paa";
+	texture = "ForgeWorks - Crafting\addons\ForgeWorks_weaponparts\data\models\large_spring_smdi.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
