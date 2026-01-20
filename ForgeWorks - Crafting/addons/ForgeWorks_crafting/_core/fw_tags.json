@@ -1,0 +1,16 @@
+{
+    "Tags": [
+        "FW_MakeGun",
+        "FW_MakeMagazine",
+        "FW_MakeReceiver",
+        "FW_MakeBarrel",
+        "FW_MakeBolt",
+        "FW_MakeUpgrade",
+        "FW_MakeAttachment",
+
+        "FW_BreakGun",
+        "FW_BreakMagazine",
+        "FW_UpgradeWeapon"
+    ]
+}
+
