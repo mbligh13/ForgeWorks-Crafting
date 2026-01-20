@@ -1,4 +1,4 @@
-// Sector 88 - Player Action Registration
+// ForgeWorks - Player Action Registration
 // Path: scripts/4_world/entities/FWPlayerBase.c
 // This modded class adds the crafting action to the player so it works on any workbench
 

@@ -16,7 +16,7 @@ class FWPluginCrafting extends PluginBase
     {
         super.OnInit();
         
-        Print("[Sector88] Crafting Plugin Initializing...");
+        Print("[ForgeWorks] Crafting Plugin Initializing...");
         
         // Initialize managers
         m_RecipeManager = FWRecipeManager.GetInstance();
@@ -25,7 +25,7 @@ class FWPluginCrafting extends PluginBase
         // Load workbench positions from config
         LoadWorkbenchPositions();
         
-        Print("[Sector88] Crafting Plugin Initialized!");
+        Print("[ForgeWorks] Crafting Plugin Initialized!");
     }
     
     void LoadWorkbenchPositions()
@@ -36,7 +36,7 @@ class FWPluginCrafting extends PluginBase
         if (FileExist(configPath))
         {
             JsonFileLoader<array<ref FWWorkbenchPosition>>.JsonLoadFile(configPath, m_WorkbenchPositions);
-            Print("[Sector88] Loaded " + m_WorkbenchPositions.Count() + " workbench positions");
+            Print("[ForgeWorks] Loaded " + m_WorkbenchPositions.Count() + " workbench positions");
         }
     }
     
@@ -61,7 +61,7 @@ class FWPluginCrafting extends PluginBase
         if (workbench)
         {
             workbench.SetOrientation(orientation);
-            Print("[Sector88] Spawned workbench at " + position.ToString());
+            Print("[ForgeWorks] Spawned workbench at " + position.ToString());
         }
     }
     

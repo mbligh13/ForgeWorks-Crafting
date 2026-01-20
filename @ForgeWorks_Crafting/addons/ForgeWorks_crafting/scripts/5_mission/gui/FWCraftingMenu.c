@@ -1,4 +1,4 @@
-// Sector 88 Crafting Workbench - Main Menu Controller
+// ForgeWorks Crafting Workbench - Main Menu Controller
 // Path: scripts/5_mission/gui/FWCraftingMenu.c
 
 class FWCraftingMenu extends UIScriptedMenu

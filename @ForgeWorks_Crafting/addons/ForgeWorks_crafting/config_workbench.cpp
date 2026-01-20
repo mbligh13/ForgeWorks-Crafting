@@ -31,8 +31,8 @@ class CfgVehicles
         scope = 2;
         displayName = "ForgeWorks Workbench";
         descriptionShort = "A well-equipped workbench for crafting weapons and equipment.";
-        // Use the custom Sector88 workbench model from the mod's models folder
-        model = "\sector88_weaponparts\data\models\work_bench.p3d";
+        // Use the custom forgeworks workbench model from the mod's models folder
+        model = "\forgeworks_weaponparts\data\models\work_bench.p3d";
         
         // Physics
         physLayer = "item_large";

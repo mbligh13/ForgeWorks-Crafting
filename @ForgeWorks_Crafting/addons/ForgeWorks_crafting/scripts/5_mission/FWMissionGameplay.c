@@ -1,4 +1,4 @@
-// Sector 88 - Mission Integration
+// ForgeWorks - Mission Integration
 // Path: scripts/5_mission/FWMissionGameplay.c
 
 modded class MissionGameplay

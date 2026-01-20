@@ -72,7 +72,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Small Spring";
         descriptionShort = "A small tension spring used in crafting lower-tier magazines and pistol-caliber firearm components.";
-        model = "\sector88_weaponparts\data\models\small_spring.p3d";
+        model = "\forgeworks_weaponparts\data\models\small_spring.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 50;
@@ -84,7 +84,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Large Spring";
         descriptionShort = "A heavy-duty spring used in crafting high-capacity magazines and advanced rifle components.";
-        model = "\sector88_weaponparts\data\models\large_spring.p3d";
+        model = "\forgeworks_weaponparts\data\models\large_spring.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 80;
@@ -100,7 +100,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Small Sheet Metal";
         descriptionShort = "Light sheet metal used for crafting magazine bodies and firearm internals.";
-        model = "\sector88_weaponparts\data\models\small_sheet_metal.p3d";
+        model = "\forgeworks_weaponparts\data\models\small_sheet_metal.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 100;
@@ -112,7 +112,7 @@ class CfgVehicles
         scope = 2;
         displayName = "Large Sheet Metal";
         descriptionShort = "Reinforced sheet metal used for heavy magazines, advanced receivers, and high-caliber firearm components.";
-        model = "\sector88_weaponparts\data\models\small_sheet_metal.p3d";
+        model = "\forgeworks_weaponparts\data\models\small_sheet_metal.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 150;
@@ -131,7 +131,7 @@ class CfgVehicles
     {
         scope = 0;
         // Corrected model path to existing file name
-        model = "\sector88_weaponparts\data\models\pistol_reciever.p3d";
+        model = "\forgeworks_weaponparts\data\models\pistol_reciever.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 250;
@@ -184,7 +184,7 @@ class CfgVehicles
     class FW_PistolHandle_Base: FW_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\pistol_handle.p3d";
+        model = "\forgeworks_weaponparts\data\models\pistol_handle.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 200;
@@ -241,7 +241,7 @@ class CfgVehicles
     class FW_Barrel_Base: FW_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\barrel.p3d";
+        model = "\forgeworks_weaponparts\data\models\barrel.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 350;
@@ -412,7 +412,7 @@ class CfgVehicles
     class FW_LowerReceiver_Base: FW_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\lower_receiver.p3d";
+        model = "\forgeworks_weaponparts\data\models\lower_receiver.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 350;
@@ -601,7 +601,7 @@ class CfgVehicles
     class FW_UpperReceiver_Base: FW_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\upper_receiver.p3d";
+        model = "\forgeworks_weaponparts\data\models\upper_receiver.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 380;
@@ -790,7 +790,7 @@ class CfgVehicles
     class FW_Bolt_Base: FW_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\bolt.p3d";
+        model = "\forgeworks_weaponparts\data\models\bolt.p3d";
         // Empty to allow engine to use model InvView
         inventoryIcon[] = {};
         weight = 200;
@@ -888,7 +888,7 @@ class CfgVehicles
 //
 // Item definitions are therefore not required here.
 // All logic will live in JSON recipes under:
-//   config/ExpansionMod/Crafting/Sector88/
+//   config/ExpansionMod/Crafting/forgeworks/
 //
 // =====================================================
 // SECTION 8 — ULTRA-RARE UPGRADE PARTS (TIER 8 ONLY)
@@ -901,7 +901,7 @@ class CfgVehicles
     class FW_Upgrade_Base: FW_PartBase
     {
         scope = 0;
-        model = "\sector88_weaponparts\data\models\lower_receiver.p3d";
+        model = "\forgeworks_weaponparts\data\models\lower_receiver.p3d";
         weight = 150;
         itemSize[] = {2,1};
     };

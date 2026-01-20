@@ -3,11 +3,11 @@ class CfgMods
     class ForgeWorks_Crafting
     {
         dir = "@ForgeWorks_Crafting";
-        picture = "ForgeWorks_Weapon_Crafting.paa";
+        picture = "ForgeWorks_Crafting.paa";
         action = "";
         hideName = 0;
         hidePicture = 0;
-        name = "ForgeWorks - Weapon Crafting";
+        name = "ForgeWorks - Crafting";
         description = "Weapon crafting system with 68+ recipes across 8 tiers; full details on the Steam page.";
         credits = "Sector 88 Dev Team";
         author = "Rook";
