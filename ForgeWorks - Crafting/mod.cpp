@@ -1,8 +1,8 @@
 class CfgMods
 {
-    class ForgeWorks_Crafting
+    class ForgeWorks - Crafting
     {
-        dir = "@ForgeWorks_Crafting";
+        dir = "ForgeWorks - Crafting";
         picture = "ForgeWorks_Crafting.paa";
         action = "";
         hideName = 0;
@@ -23,17 +23,17 @@ class CfgMods
             class gameScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorks_Crafting/scripts/3_game" };
+                files[] = { "ForgeWorks - Crafting/addons/ForgeWorks_crafting/scripts/3_game" };
             };
             class worldScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorks_Crafting/scripts/4_world" };
+                files[] = { "ForgeWorks - Crafting/addons/ForgeWorks_crafting/scripts/4_world" };
             };
             class missionScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorks_Crafting/scripts/5_mission" };
+                files[] = { "ForgeWorks - Crafting/addons/ForgeWorks_crafting/scripts/5_mission" };
             };
         };
     };
