@@ -39,7 +39,7 @@ class TexGen7
 };
 class Stage1
 {
-	texture = "ForgeWorks - Crafting\addons\forgeworks_weaponparts\data\models\workbench_parts\workbench_frame_NOHQ.paa"
+	texture = "ForgeWorksCrafting\addons\forgeworks_weaponparts\data\models\workbench_parts\workbench_frame_NOHQ.paa"
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -87,7 +87,7 @@ class Stage4
 };
 class Stage5
 {
-	texture = "ForgeWorks - Crafting\addons\forgeworks_weaponparts\data\models\workbench_parts\workbench_frame_SMDI.paa";
+	texture = "ForgeWorksCrafting\addons\forgeworks_weaponparts\data\models\workbench_parts\workbench_frame_SMDI.paa";
 	uvSource = "tex";
 	class uvTransform
 	{

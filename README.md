@@ -1,30 +1,41 @@
-# ForgeWorks-Weapon-Crafting
-Weapon crafting system for ForgeWorks
+# ForgeWorksCrafting Development
 
-## Overview
-A comprehensive weapon crafting mod that allows players to craft weapons, magazines, and upgrades at workbenches using component parts. All materials must be placed in the workbench inventory to craft items.
+## Quick Links
 
-## Key Features
-- **68+ Recipes**: Craft pistols, SMGs, rifles, snipers, shotguns, magazines, and upgrades
-- **Part-Based System**: Requires barrels, receivers, bolts, springs, and metal sheets
-- **Tiered Rarity**: From common pistol parts (Tier 1) to ultra-rare .50 BMG components (Tier 8)
-- **Breakdown System**: Disassemble weapons back into component parts
-- **Simple Crafting**: Place materials in workbench, open GUI, select recipe, craft
-- **No Tool Requirements**: Workbench is just a focus object for the GUI
+- **Build Instructions:** `Development Tools/BUILD_INSTRUCTIONS.md`
+- **Troubleshooting:** `Development Tools/TROUBLESHOOTING.md`
+- **Structure Guide:** `Development Tools/STRUCTURE_SUMMARY.md`
+- **Development Tools:** See `Development Tools/DEV_ORGANIZATION.md`
 
-## How It Works
+## Repository Structure
 
-### Crafting Process:
-1. Place an **FWCraftingWorkbench** in the world
-2. Put required materials **INTO the workbench inventory**
-3. Interact with workbench to open crafting GUI
-4. Select category (Pistols/SMGs/Rifles/Snipers/Shotguns/Magazines)
-5. Select recipe and click "Craft"
-6. Wait for crafting timer (stay within 3m)
-7. Crafted item appears in workbench inventory
+```
+ForgeWorks-Crafting/
+├── Development Tools/          ← All development scripts, docs, and tools
+│   ├── *.py                   (Python automation scripts)
+│   ├── *.md                   (Development documentation)
+│   └── build_mod.sh           (Build script)
+│
+└── ForgeWorksCrafting/         ← Actual mod distribution folder
+    ├── mod.cpp                (Mod configuration)
+    ├── meta.cpp               (Workshop metadata)
+    ├── *.xml                  (Server configuration)
+    └── addons/                (To be packed into PBOs)
+        ├── ForgeWorks_crafting/
+        └── forgeworks_weaponparts/
+```
 
-### Important Notes:
-- ✅ Materials MUST be in workbench inventory (not player inventory)
-- ✅ No tools or attachments required
-- ✅ Crafted items spawn in workbench inventory
-- ✅ Player must stay within 3 meters during crafting
+## For Developers
+
+All development work, scripts, and documentation should be placed in the `Development Tools/` folder. See `Development Tools/DEV_ORGANIZATION.md` for details.
+
+## For Distribution
+
+Only the `ForgeWorksCrafting/` folder should be distributed. Never include `Development Tools/` in releases.
+
+## Quick Start
+
+1. **Making changes:** Edit files in `ForgeWorksCrafting/`
+2. **Building PBOs:** Use `Development Tools/build_mod.sh` or DayZ Tools
+3. **Testing:** See `Development Tools/TROUBLESHOOTING.md`
+4. **Documentation:** All dev docs are in `Development Tools/`

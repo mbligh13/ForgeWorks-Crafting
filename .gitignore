@@ -1,0 +1,50 @@
+# DayZ Mod Development - ForgeWorksCrafting
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Development Tools temporary files
+Development Tools/__pycache__/
+Development Tools/*.pyc
+Development Tools/temp/
+Development Tools/test_output/
+Development Tools/*.log
+
+# Build outputs (if building locally)
+*.pbo
+*.bisign
+*.ebo
+build_temp/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Don't ignore the Development Tools folder itself - it's for version control
+!Development Tools/
+
+# But ignore its temporary/cache files
+Development Tools/cache/
+Development Tools/*.cache
+
+# Server testing files (if you test locally)
+server_test/
+test_server/
+
+# Personal notes (optional - remove if you want to share notes)
+# **/NOTES.md
+# **/TODO.md
