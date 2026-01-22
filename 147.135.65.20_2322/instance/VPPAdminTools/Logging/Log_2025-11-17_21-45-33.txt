@@ -1,0 +1,163 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-17_21-45-33
+====================================================================================
+21:45:33 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:45:33 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:45:33 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:45:33 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:45:33 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:45:33 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:45:33 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:45:33 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:45:33 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:45:33 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:45:33 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:45:33 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:45:33 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:45:33 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:45:33 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:45:33 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:45:33 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:45:33 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:45:33 | [PermissionManager] Adding Super Admin (76561198378002588)
+21:45:33 | [PermissionManager] Loaded UserGroups.json
+21:45:33 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:45:33 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:45:33 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:45:33 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:45:33 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:45:33 | Building Sets Loaded: 0
+21:45:33 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:47:38 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+21:47:51 | "Skullcruncher32" (steamid=76561198378002588) gave godmode to (steamid=76561198378002588)
+21:48:35 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Vest_TacTecV2_FK)
+21:49:3 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Mechanix_Gloves_Tan)
+21:49:8 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_WarBelt_MC)
+21:49:11 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_Safariland_Holster_MC)
+21:49:20 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Vest_TacTecV2_Tan)
+21:49:41 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OpscoreV2_Helmet_Tan)
+21:49:54 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Ballistic_Mask_Sammy)
+21:50:3 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Opscore_Pants_MC)
+21:50:17 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OpscoreV2_Shirt_Rolled_MC)
+21:50:23 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_Boots_Tan)
+21:51:26 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Opscore_Arid)
+21:51:58 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_Vest_TacTecV2_FK" (pos=<16026.062500, 4.040855, 9408.927734>)
+21:52:0 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Headtorch_Grey" (pos=<16025.641602, 4.042096, 9408.855469>)
+21:52:2 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CanvasPantsMidi_Grey" (pos=<16026.723633, 4.042164, 9408.913086>)
+21:52:3 | "Skullcruncher32" (steamid=76561198378002588) deleted object "AthleticShoes_Green" (pos=<16026.720703, 4.041284, 9408.916016>)
+21:52:4 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TShirt_Black" (pos=<16026.722656, 4.042164, 9408.914063>)
+21:52:6 | "Skullcruncher32" (steamid=76561198378002588) deleted object "DrysackBag_Yellow" (pos=<16027.628906, 4.141602, 9408.963867>)
+21:52:40 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_Opscore_Arid" (pos=<16030.297852, 4.039084, 9407.836914>)
+21:52:59 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_MagPouches_Brown)
+21:53:7 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_LargeUtility_Pouch_Brown)
+21:53:12 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Medkit_Pouch_Brown)
+21:53:27 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_PVS31_Wide_FDE)
+21:53:51 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OpscoreV2_BatteryPack_Tan)
+21:53:54 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OpscoreV2_Headphones_Tan)
+21:55:14 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_MagPouches_Brown" (pos=<16031.425781, 4.140483, 9407.608398>)
+21:55:19 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_LargeUtility_Pouch_Brown" (pos=<16031.232422, 4.140321, 9407.656250>)
+21:55:23 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_Medkit_Pouch_Brown" (pos=<16031.210938, 4.119893, 9407.650391>)
+21:55:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_AdminPouch_Tan)
+21:55:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_WB_IFAK_Tan)
+21:55:59 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_LargeUtility_Pouch_Brown)
+21:56:0 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Utility_Pouch_Brown)
+21:56:32 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_Utility_Pouch_Brown" (pos=<16032.023438, 4.135000, 9407.407227>)
+21:56:33 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_LargeUtility_Pouch_Brown" (pos=<16032.124023, 4.140321, 9407.385742>)
+21:56:35 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_OCV2_WB_IFAK_Tan" (pos=<16032.189453, 4.041730, 9407.360352>)
+21:56:41 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_UtilityPouch_Tan)
+21:56:55 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_AFAK_MC)
+21:57:18 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_WB_IFAK_Tan)
+21:57:23 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_WB_DropPouch_MC)
+21:57:23 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_WB_DropPouch_MC)
+21:57:34 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_OCV2_WB_DropPouch_MC" (pos=<16032.730469, 4.038433, 9407.131836>)
+21:58:37 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_MG42" (pos=<16040.369141, 4.073540, 9403.800781>)
+21:59:15 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_MarlinTactical_Black)
+21:59:15 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_MarlinTactical_Black)
+21:59:36 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_Kimber1911)
+21:59:46 | "Skullcruncher32" (steamid=76561198378002588) deleted object "AJW_MarlinTactical_Black" (pos=<16040.297852, 4.191864, 9403.797852>)
+22:0:9 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_Mag_Kimber1911_9Rnd)
+22:0:23 | "Skullcruncher32" (steamid=76561198378002588) gave unlimited ammo to (steamid=76561198378002588)
+22:0:58 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AmmoBox_357_20Rnd)
+22:1:11 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Paper" (pos=<16039.638672, 4.044231, 9403.970703>)
+22:1:51 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_ZmbM_Clown)
+22:2:44 | "Skullcruncher32" (steamid=76561198378002588) deleted object "AJW_MarlinTactical_Black" (pos=<16053.925781, 4.060626, 9397.915039>)
+22:2:53 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Ammo_357" (pos=<16054.769531, 4.060911, 9397.347656>)
+22:2:54 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_ZmbM_Clown" (pos=<16054.101563, 4.080000, 9396.479492>)
+22:4:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_EVO3_FDE)
+22:4:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_EVO3_Stock_Standard_FDE)
+22:4:38 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_CZEVO3_Barrel_Long)
+22:4:47 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_Mag_EVO3_35rnd)
+22:5:50 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+22:6:6 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.

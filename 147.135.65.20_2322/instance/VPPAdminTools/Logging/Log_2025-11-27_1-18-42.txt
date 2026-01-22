@@ -1,0 +1,357 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-27_1-18-42
+====================================================================================
+1:18:42 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+1:18:42 | [PermissionManager] Perm (FreeCamera) has been registered!
+1:18:42 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuItemManager) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuServerManager) has been registered!
+1:18:42 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+1:18:42 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+1:18:42 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+1:18:42 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+1:18:42 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+1:18:42 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+1:18:42 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+1:18:42 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+1:18:42 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+1:18:42 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuBansManager) has been registered!
+1:18:42 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+1:18:42 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+1:18:42 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+1:18:42 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+1:18:42 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+1:18:42 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+1:18:42 | [PermissionManager] Adding Super Admin (76561198378002588)
+1:18:42 | [PermissionManager] Adding Super Admin (76561198074746423)
+1:18:42 | [PermissionManager] Adding Super Admin (76561199830923778)
+1:18:42 | [PermissionManager] Loaded UserGroups.json
+1:18:42 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+1:18:42 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+1:18:42 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+1:18:42 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+1:18:42 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+1:18:42 | Building Sets Loaded: 1
+1:18:42 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+1:22:49 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+1:23:35 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+1:25:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2455.889648, 52.134857, 2625.745850>)
+1:25:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2457.982910, 52.061813, 2630.818359>)
+1:25:22 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2460.075439, 51.988705, 2635.886719>)
+1:25:22 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2462.169922, 51.915581, 2640.961182>)
+1:25:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2459.165771, 52.176277, 2636.750244>)
+1:25:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2457.002197, 52.163532, 2629.769775>)
+1:25:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2455.301758, 52.153465, 2624.283447>)
+1:25:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2453.037598, 52.139961, 2616.976074>)
+1:25:59 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2450.783936, 52.126404, 2609.699951>)
+1:28:6 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<213.768997, 287.590057, 4429.339844>)
+1:28:6 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=213.769,0,4429.34)
+1:29:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<217.880188, 289.263000, 4448.944824>)
+1:29:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<211.983017, 288.061157, 4456.857422>)
+1:29:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<208.168594, 287.968140, 4462.016113>)
+1:29:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<203.374115, 287.380554, 4468.511230>)
+1:29:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<198.922165, 286.804016, 4469.256836>)
+1:29:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<194.080765, 285.990723, 4469.066406>)
+1:30:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<197.883179, 286.649872, 4466.156738>)
+1:30:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<202.386520, 287.262970, 4463.447754>)
+1:30:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<207.778046, 287.663391, 4460.212402>)
+1:30:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<211.116318, 288.090790, 4458.851563>)
+1:30:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<214.243118, 288.829681, 4457.697266>)
+1:30:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<217.506744, 289.189362, 4457.513184>)
+1:30:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<221.646225, 289.462158, 4456.931152>)
+1:30:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<224.767990, 289.594086, 4456.225586>)
+1:30:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<230.074188, 289.626129, 4454.199707>)
+1:30:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<235.861160, 289.786133, 4451.177734>)
+1:30:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<240.256927, 290.205658, 4446.612305>)
+1:30:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<245.780792, 290.661346, 4440.072754>)
+1:30:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<251.238663, 291.177917, 4433.208496>)
+1:30:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<261.133881, 291.182678, 4420.986816>)
+1:30:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<272.749298, 290.664856, 4409.893555>)
+1:30:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<268.129547, 290.899689, 4416.344727>)
+1:30:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<275.003265, 290.696655, 4411.535645>)
+1:30:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<281.835449, 290.071625, 4406.208984>)
+1:30:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<295.119843, 287.518158, 4391.449219>)
+1:30:5 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<302.346161, 285.672272, 4380.328613>)
+1:30:5 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<309.100220, 283.171417, 4365.788086>)
+1:30:5 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<310.321350, 283.991150, 4362.215820>)
+1:30:20 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<281.155121, 287.067200, 4375.955566>)
+1:30:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<275.791840, 288.216736, 4379.198730>)
+1:30:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<272.007355, 289.244659, 4382.045898>)
+1:30:22 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<268.536591, 289.431549, 4380.233887>)
+1:30:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<264.579285, 289.470398, 4378.480957>)
+1:30:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<262.367004, 290.201477, 4379.224121>)
+1:30:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<258.418732, 290.178619, 4380.586914>)
+1:30:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<254.208557, 289.986084, 4382.097168>)
+1:30:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<251.536575, 290.036591, 4383.053711>)
+1:30:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<247.901001, 289.917938, 4384.387207>)
+1:30:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<242.391907, 289.409698, 4386.397461>)
+1:30:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<238.269150, 289.119507, 4387.901855>)
+1:30:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<234.745621, 289.070648, 4389.182129>)
+1:30:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<231.150497, 289.527435, 4391.816895>)
+1:30:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<227.655136, 289.833282, 4393.247559>)
+1:31:6 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<251.690582, 291.046417, 4412.080078>)
+1:32:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<252.824844, 291.615662, 4428.805664>)
+1:32:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<257.442261, 291.580933, 4423.796875>)
+1:32:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<262.992737, 291.152496, 4418.459473>)
+1:32:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<269.239380, 290.798340, 4414.595703>)
+1:32:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<272.931671, 290.709564, 4412.283691>)
+1:32:5 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<277.264069, 290.646179, 4409.502930>)
+1:32:5 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<283.710022, 289.229462, 4406.317383>)
+1:32:6 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<286.704254, 288.738434, 4402.142090>)
+1:32:6 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<289.424927, 288.447113, 4398.342773>)
+1:32:6 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<292.161682, 288.142181, 4394.609863>)
+1:32:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<294.866882, 287.671234, 4390.211914>)
+1:32:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<297.881622, 286.987518, 4385.124512>)
+1:32:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<301.301514, 286.069702, 4379.595215>)
+1:32:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<304.106903, 285.550812, 4375.087402>)
+1:32:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<300.158783, 286.230988, 4378.733398>)
+1:32:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<298.135651, 286.953278, 4383.445313>)
+1:32:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<295.733063, 287.486664, 4389.091309>)
+1:32:10 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<293.241547, 287.960846, 4392.906738>)
+1:32:10 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<290.497498, 288.355835, 4396.679199>)
+1:32:10 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<287.581787, 288.567230, 4401.598145>)
+1:32:10 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<284.820770, 288.944244, 4406.041992>)
+1:32:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<282.297302, 289.357819, 4409.924805>)
+1:32:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<279.477539, 289.818085, 4411.996094>)
+1:32:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<276.160736, 290.343506, 4413.600098>)
+1:32:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<273.449585, 290.604767, 4414.925781>)
+1:32:12 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<269.057251, 290.852692, 4417.060059>)
+1:32:12 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<264.634399, 290.973694, 4419.197266>)
+1:32:12 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<261.301880, 291.169281, 4420.812012>)
+1:32:13 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<257.666626, 291.436096, 4419.261230>)
+1:32:13 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<253.013245, 291.155060, 4416.287598>)
+1:32:13 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<249.690002, 290.979828, 4412.073242>)
+1:32:14 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<248.748138, 291.086823, 4407.179688>)
+1:32:14 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<243.604843, 291.247192, 4404.955078>)
+1:32:15 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<239.739380, 291.636108, 4404.025391>)
+1:32:15 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<234.224213, 290.785431, 4407.966797>)
+1:32:16 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<229.442245, 289.478790, 4414.034668>)
+1:32:16 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<224.920746, 288.218536, 4420.222656>)
+1:32:16 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<221.835724, 287.857788, 4424.687988>)
+1:32:16 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<220.139816, 288.345795, 4427.377441>)
+1:32:17 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<218.904282, 288.876678, 4429.740723>)
+1:32:17 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<217.787994, 289.436523, 4432.617188>)
+1:32:17 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<215.032471, 287.693878, 4442.174805>)
+1:32:17 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<214.046112, 287.950348, 4446.822754>)
+1:32:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<213.057236, 287.975159, 4451.225098>)
+1:32:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<211.901306, 288.015930, 4456.702637>)
+1:32:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<210.864609, 288.241364, 4460.445313>)
+1:32:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<209.272186, 287.834991, 4466.317383>)
+1:36:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1053.979858, 11.021822, 9899.313477>)
+1:36:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1066.779907, 19.465519, 9867.126953>)
+1:38:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1832.354736, 142.130005, 1417.980347>)
+1:38:36 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1837.030640, 142.130005, 1404.274048>)
+1:38:36 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1842.211060, 142.129990, 1390.123413>)
+1:38:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1847.960083, 142.129990, 1375.429199>)
+1:38:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1853.863281, 142.130005, 1361.169067>)
+1:38:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1859.876465, 142.130005, 1347.655884>)
+1:38:38 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1865.798706, 142.130005, 1334.434692>)
+1:38:38 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1871.719971, 142.130005, 1321.214233>)
+1:38:38 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1877.638184, 142.130005, 1307.992554>)
+1:38:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1883.553711, 142.130005, 1294.770264>)
+1:38:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1889.468262, 142.130020, 1281.547119>)
+1:38:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1895.372070, 142.129990, 1267.639526>)
+1:38:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1901.274414, 142.130020, 1253.732910>)
+1:38:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1907.179077, 142.129990, 1239.826660>)
+1:38:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1913.090942, 142.129211, 1225.910156>)
+1:38:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1919.020752, 142.121292, 1211.945801>)
+1:38:45 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+1:38:46 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+1:38:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1928.210815, 142.119995, 1189.566406>)
+1:38:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1935.545288, 142.119995, 1174.755859>)
+1:38:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1935.539551, 142.119995, 1174.764648>)
+1:38:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1942.866577, 142.120010, 1159.967773>)
+1:38:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1948.882324, 142.119995, 1164.971802>)
+1:38:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1954.900391, 142.119873, 1169.972900>)
+1:38:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1960.549805, 142.119995, 1174.661865>)
+1:38:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1965.918457, 142.120010, 1179.236938>)
+1:38:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1968.200562, 142.119995, 1187.031738>)
+1:38:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1970.385132, 142.119995, 1192.730347>)
+1:38:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1972.642944, 142.120010, 1200.469482>)
+1:38:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1974.903564, 142.119995, 1208.220947>)
+1:38:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1976.755005, 142.119995, 1214.562500>)
+1:38:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1977.357056, 142.119995, 1216.616455>)
+1:38:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1979.000244, 142.119995, 1222.236938>)
+1:38:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1980.541870, 142.119980, 1227.500122>)
+1:38:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1974.429443, 142.119995, 1237.663574>)
+1:38:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1967.884277, 142.108902, 1247.775513>)
+1:38:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1967.898560, 142.109100, 1247.724731>)
+1:38:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1961.404663, 142.110992, 1257.752808>)
+1:38:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1954.868164, 142.100540, 1267.817749>)
+1:38:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1948.449951, 142.119995, 1277.702026>)
+1:39:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1916.500122, 1171.879150, 1667.439209>)
+1:39:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1975.638916, 153.211792, 1260.152832>)
+1:39:12 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1881.616333, 142.129990, 1375.187256>)
+1:39:13 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1875.124878, 142.130020, 1382.752441>)
+1:39:44 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1853.601563, 142.130005, 1406.192017>)
+1:39:44 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1861.352173, 142.130020, 1381.495605>)
+1:39:45 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1869.106567, 142.130020, 1356.793457>)
+1:39:45 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1876.863159, 142.130005, 1332.086426>)
+1:39:45 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1876.863281, 142.130020, 1332.085693>)
+1:39:45 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1884.615601, 142.130005, 1307.387085>)
+1:39:46 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1892.361694, 142.130020, 1282.705811>)
+1:39:47 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1900.121338, 142.130020, 1258.002563>)
+1:39:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1894.288696, 142.129990, 1270.057373>)
+1:39:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1888.626221, 142.130005, 1283.644531>)
+1:39:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1883.154297, 142.130005, 1297.896729>)
+1:39:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1877.659912, 142.129990, 1312.164063>)
+1:39:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1872.297729, 142.130005, 1326.379761>)
+1:39:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1867.163086, 142.130020, 1339.993286>)
+1:39:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1863.559326, 142.129990, 1348.804810>)
+1:39:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1859.957153, 142.129990, 1357.614990>)
+1:39:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1860.390137, 142.130020, 1364.524658>)
+1:39:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1859.717651, 142.130005, 1371.830322>)
+1:39:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1859.162109, 142.130005, 1377.869629>)
+1:39:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1858.500610, 142.130020, 1385.055664>)
+1:39:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1858.119019, 142.130020, 1389.189697>)
+1:39:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1857.161011, 142.130005, 1397.339355>)
+1:39:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1855.769287, 142.130005, 1402.914429>)
+1:39:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1852.653931, 142.130005, 1413.588257>)
+1:39:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1847.802490, 142.130005, 1425.049438>)
+1:39:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1841.075806, 142.130005, 1440.582642>)
+1:39:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1833.967529, 142.130005, 1456.898438>)
+1:39:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1824.846680, 142.130005, 1477.838501>)
+1:39:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1815.729858, 142.130005, 1498.776001>)
+1:39:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1806.617554, 142.129990, 1519.710205>)
+1:39:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1806.623169, 142.130005, 1519.704712>)
+1:39:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1797.515137, 142.130005, 1540.634766>)
+1:39:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1788.415283, 142.130005, 1561.557251>)
+1:39:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1779.712891, 142.129990, 1581.560059>)
+1:41:12 | [WeatherManager] Send Data Count is 1
+1:41:17 | [Weather Manager] ApplyWeatherSetting to: clear
+1:41:17 | [TimeManager] Applying preset 8/10/2025 10:58
+1:42:16 | "Skullcruncher32" (steamid=76561198378002588) gave unlimited ammo to (steamid=76561198378002588)
+1:42:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1161.389038, 47.888206, 4136.897949>)
+1:42:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1156.618408, 48.156593, 4144.833984>)
+1:42:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1151.862915, 48.399673, 4153.220215>)
+1:42:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1147.482910, 48.612896, 4161.136230>)
+1:42:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1137.560181, 49.086250, 4182.295898>)
+1:42:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1126.082520, 49.394554, 4205.399414>)
+1:42:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1110.454468, 49.153629, 4235.984375>)
+1:42:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1096.592163, 49.248055, 4262.988281>)
+1:42:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1085.066895, 49.802208, 4284.045410>)
+1:42:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1073.964111, 50.400040, 4303.554688>)
+1:42:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1070.331055, 50.581570, 4309.012695>)
+1:42:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1062.191162, 49.757145, 4302.230957>)
+1:42:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1053.105713, 48.399754, 4297.070801>)
+1:42:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1041.682251, 46.637043, 4293.187012>)
+1:42:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1034.687134, 46.334923, 4290.817383>)
+1:42:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1026.399536, 46.371323, 4289.798340>)
+1:42:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1011.791809, 46.402386, 4289.830078>)
+1:42:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1003.924316, 47.211376, 4289.853027>)
+1:42:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<998.139038, 48.218803, 4290.314941>)
+1:42:42 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<992.700562, 49.292850, 4290.861816>)
+1:42:42 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<988.515076, 49.961643, 4291.306641>)
+1:42:42 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<981.552124, 50.492970, 4291.819824>)
+1:42:43 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<973.603882, 50.346302, 4288.420410>)
+1:42:43 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<968.570251, 50.684734, 4285.123535>)
+1:42:43 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<962.731934, 50.912868, 4281.012207>)
+1:42:44 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<957.103149, 51.058327, 4277.053223>)
+1:42:44 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<950.695190, 51.180447, 4272.545898>)
+1:42:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<974.237000, 50.104271, 4274.796875>)
+1:42:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<991.233887, 48.670826, 4273.350586>)
+1:42:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1007.958313, 47.288265, 4271.925781>)
+1:42:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1020.785217, 46.504803, 4276.625488>)
+1:42:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1030.978149, 46.227348, 4280.367188>)
+1:42:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1036.817139, 46.282146, 4282.506836>)
+1:42:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1044.177124, 46.503025, 4285.560547>)
+1:42:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1048.143921, 46.961632, 4288.161621>)
+1:42:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1049.129517, 47.117661, 4289.097656>)
+1:42:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1052.859131, 47.915894, 4291.984375>)
+1:42:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1056.119141, 48.615036, 4294.510254>)
+1:42:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1059.664063, 49.242523, 4297.256836>)
+1:42:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1063.953979, 49.827774, 4300.581543>)
+1:42:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1068.914917, 50.256870, 4304.427734>)
+1:42:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1069.533081, 50.605740, 4310.043457>)
+1:42:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1070.239502, 50.934601, 4315.054688>)
+1:42:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1067.529419, 51.111019, 4320.606445>)
+1:42:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1065.731323, 50.995876, 4321.583496>)
+1:42:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1064.127441, 50.964340, 4323.895508>)
+1:42:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1059.414917, 50.964573, 4331.618652>)
+1:42:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1057.385376, 50.949371, 4334.765625>)
+1:42:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1052.159546, 50.893616, 4343.636719>)
+1:42:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1049.633789, 50.926819, 4347.927734>)
+1:42:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1044.390137, 50.865330, 4356.834473>)
+1:42:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1040.236816, 50.831409, 4363.892090>)
+1:42:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1035.079224, 50.799385, 4372.655762>)
+1:44:17 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1030.525757, 50.755058, 4381.345703>)
+1:44:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1025.533691, 50.686745, 4390.577148>)
+1:44:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1021.489258, 50.616402, 4397.611328>)
+1:44:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1015.057373, 50.519558, 4408.622070>)
+1:44:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1009.641724, 50.704269, 4417.898926>)
+1:44:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1005.954834, 51.210403, 4424.225586>)
+1:44:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1002.052307, 51.805294, 4431.172852>)
+1:44:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<998.735168, 52.230728, 4437.128906>)
+1:44:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<994.695618, 52.570820, 4444.362793>)
+1:44:22 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+1:44:38 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.

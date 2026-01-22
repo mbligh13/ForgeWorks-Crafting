@@ -1,0 +1,683 @@
+====================================================================
+                      2025/11/23 01:01:30 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 117.423
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+01:01:30 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+01:01:30 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sGunplay_constraints.json ] doesn't exists
+01:01:30 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sGunplay_constraints.json ]
+01:01:30 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Gunplay config constraint file : $profile:\sUDE\config\sGunplay_constraints.json
+01:01:30 [ii] │	│	├ Done
+01:01:30 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<7712450>
+01:01:30 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+01:01:30 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sVisual_constraints.json ] doesn't exists
+01:01:30 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sVisual_constraints.json ]
+01:01:30 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Visual config constraint file : $profile:\sUDE\config\sVisual_constraints.json
+01:01:30 [ii] │	│	├ Done
+01:01:30 [ii] │	├ Done -> SUserConfigConstraints_Visual<8dee4710>
+====================================================================
+                      2025/11/23 01:33:40 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 118.451
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+01:33:40 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+01:33:40 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<8b272b40>
+01:33:40 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+01:33:40 [ii] │	├ Done -> SUserConfigConstraints_Visual<a5b23d0>
+====================================================================
+                      2025/11/23 02:26:23 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 119.381
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+02:26:23 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+02:26:23 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<fa04140>
+02:26:23 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+02:26:23 [ii] │	├ Done -> SUserConfigConstraints_Visual<8e666c70>
+====================================================================
+                      2025/11/23 03:07:27 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 120.842
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+03:07:27 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+03:07:27 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<6189bcd0>
+03:07:27 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+03:07:27 [ii] │	├ Done -> SUserConfigConstraints_Visual<9c8fbd70>
+====================================================================
+                      2025/11/23 03:23:08 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 121.035
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+03:23:08 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+03:23:08 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<e0a6c8f0>
+03:23:08 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+03:23:08 [ii] │	├ Done -> SUserConfigConstraints_Visual<8aba15a0>
+====================================================================
+                      2025/11/23 10:01:34 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 134.429
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+10:01:34 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+10:01:34 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<56232fe0>
+10:01:34 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+10:01:34 [ii] │	├ Done -> SUserConfigConstraints_Visual<8a89b080>
+====================================================================
+                      2025/11/23 10:19:06 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 121.172
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+10:19:06 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+10:19:06 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<e270cd0>
+10:19:06 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+10:19:06 [ii] │	├ Done -> SUserConfigConstraints_Visual<8cf31050>
+====================================================================
+                      2025/11/23 10:26:12 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 116.578
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+10:26:12 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+10:26:12 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<43ff87e0>
+10:26:12 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+10:26:12 [ii] │	├ Done -> SUserConfigConstraints_Visual<8eea7000>
+====================================================================
+                      2025/11/23 10:32:55 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 121.677
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+10:32:55 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+10:32:55 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<bb10830>
+10:32:55 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+10:32:55 [ii] │	├ Done -> SUserConfigConstraints_Visual<9cb3fb60>
+====================================================================
+                      2025/11/23 10:41:22 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 120.591
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @Shark Spawner
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+              
+--------------------------------------------------------------------
+
+10:41:22 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+10:41:22 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<8bdb8c70>
+10:41:22 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+10:41:22 [ii] │	├ Done -> SUserConfigConstraints_Visual<88482ce0>
+====================================================================
+                      2025/11/23 10:56:50 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 120.546
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+                  	- @Modular Dungeon
+            
+--------------------------------------------------------------------
+
+10:56:50 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+10:56:50 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<b597e80>
+10:56:50 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+10:56:50 [ii] │	├ Done -> SUserConfigConstraints_Visual<c37737e0>
+====================================================================
+                      2025/11/23 14:07:14 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 104.778
+                  World name    : SKTP_PlagueIsle
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Plague Isle
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Plague Isle - Buildings Mod
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+                  	- @Modular Dungeon
+            
+--------------------------------------------------------------------
+
+14:07:14 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+14:07:14 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<608ff920>
+14:07:14 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+14:07:14 [ii] │	├ Done -> SUserConfigConstraints_Visual<8d61d8e0>
+====================================================================
+                      2025/11/23 19:29:11 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 97.33
+                  World name    : arsteinen
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Arsteinen
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Arsteinen Assets
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+                  	- @Modular Dungeon
+                  	- @Nin
+--------------------------------------------------------------------
+
+19:29:11 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+19:29:11 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<c01ccca0>
+19:29:11 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+19:29:11 [ii] │	├ Done -> SUserConfigConstraints_Visual<7a8a3a90>
+====================================================================
+                      2025/11/23 21:10:12 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 80.324
+                  World name    : arsteinen
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Arsteinen
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Arsteinen Assets
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+                  	- @Modular Dungeon
+                  	- @Nin
+--------------------------------------------------------------------
+
+21:10:12 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+21:10:12 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<b8bdb6e0>
+21:10:12 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+21:10:12 [ii] │	├ Done -> SUserConfigConstraints_Visual<fd4b5780>
+====================================================================
+                      2025/11/23 21:42:36 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : NS1005162
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 90.656
+                  World name    : arsteinen
+                  Game version  : 1.28.160123
+                  Mods          : 
+                  	- @CF
+                  	- @Arsteinen
+                  	- @Dabs Framework
+                  	- @VPPAdminTools
+                  	- @TerjeCore
+                  	- @TerjeMedicine
+                  	- @TerjeSkills
+                  	- @TerjeStartScreen
+                  	- @TerjeCompatibilityVPP
+                  	- @Arsteinen Assets
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Animations
+                  	- @AJs Items
+                  	- @AJs Weapons
+                  	- @Nemsis Craftingpack All in One
+                  	- @CookZ
+                  	- @DayZ Shark
+                  	- @BaseBuildingPlus
+                  	- @BBP Hotfix Enhanced Item Positioning and Stability
+                  	- @BodyBags
+                  	- @BuildingsMegaModPack
+                  	- @CZ Optics
+                  	- @Improvised Weapons
+                  	- @MDC 3
+                  	- @Modular Dungeon
+                  	- @Nin
+--------------------------------------------------------------------
+
+21:42:36 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+21:42:36 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<83d024f0>
+21:42:36 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+21:42:36 [ii] │	├ Done -> SUserConfigConstraints_Visual<8211ced0>

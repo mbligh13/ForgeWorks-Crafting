@@ -1,0 +1,2787 @@
+=====================================================================
+== C:\TCAFiles\Users\gunners\1580\DayZServer_x64.exe
+== "C:\TCAFiles\Users\gunners\1580\DayZServer_x64.exe" "-ip=147.135.65.20" "-port=2322" "-config=serverdz.cfg" "-bepath=C:\TCAFiles\Users\gunners\1580\Battleye" "-profiles=C:\TCAFiles\Users\gunners\1580\instance" "-autoinit" "-serverMod=@Shark Spawner;@Waraeger Armory Mega Asset Pack;@Map Assets - MutatedMods;@Arsteinen Assets" "-mod=@CF;@Arsteinen;@VPPAdminTools;@TerjeCore;@TerjeMedicine;@TerjeSkills;@TerjeStartScreen;@TerjeCompatibilityVPP;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@DayZ-Expansion-Animations;@AJs Items;@AJs Weapons;@Nemsis Craftingpack All in One;@CookZ;@DayZ Shark;@BaseBuildingPlus;@BBP Hotfix Enhanced Item Positioning and Stability;@BodyBags;@BuildingsMegaModPack;@CZ Optics;@Improvised Weapons;@Modular Dungeon;@RedFalcon Watercraft;@Search For Loot Improved;@sFramework;@sGunplay;@sVisual;@CannabisPlus;@Realistic Suppressors;@Fishy Buildings;@Central European Asset Pack;@Three Kings King of the Hill;@MMG - Mightys Military Gear;@Combinable Items;@RaG_Viking_Pack;@Escape From Tarkov;@RUSForma_vehicles;@TraderPlus;@TraderX;@Ninjins-PvP-PvE;@PvZmoD_CustomisableZombies;@PvZmoD_Spawn_System;@DayZ Editor Loader;@BoomLay's Things;@BuilderItems;@TeleportMod;@Automated Turrets;@BBPItemPack;@Furniture Pack;@Imperium Assets;@Megaloot Tunnels;@OV_AllinOne;@Dabs Framework;@RaG_Core;@RaG_BaseItems;@Sector88_Crafting" "-noFilePatching" "-adminLog"
+=====================================================================
+Exe timestamp: 2025/12/08 07:44:59
+Current time:  2025/12/20 06:01:04
+Version 1.28.161464
+=====================================================================
+
+ 6:01:04.785 [Inputs] Loading inputs default "bin/constants.xml"
+ 6:01:04.788 [Inputs] Loading inputs default "bin/specific.xml"
+ 6:01:04.790 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 6:01:04.790 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 6:01:04.790 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+ 6:01:04.790 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 6:01:04.790 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 6:01:04.791 [Inputs] Loading inputs default "LIVEN/PvZmoD_CustomisableZombies/inputs.xml"
+ 6:01:04.791 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+ 6:01:04.792 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 6:01:04.792 [Inputs] Loading inputs default "NinjinsPvPPvE/data/inputs.xml"
+ 6:01:04.792 [Inputs] Loading inputs default "trerik4/scripts/inputs.xml"
+ 6:01:04.793 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 6:01:04.794 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+ 6:01:04.795 [Inputs] Loading inputs default "RFWC_Core/modded_Inputs.xml"
+ 6:01:04.795 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 6:01:04.795 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 6:01:04.795 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+ 6:01:04.796 [Inputs] Loading inputs default "DayZExpansion/Market/Scripts/Data/Inputs.xml"
+ 6:01:04.796 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+ 6:01:04.797 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 6:01:04.797 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+ 6:01:04.797 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 6:01:04.798 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+ 6:01:04.798 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 6:01:04.798 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+ 6:01:04.800 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+ 6:01:04.800 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+ 6:01:04.800 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 6:01:04.801 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+ 6:01:04.801 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 6:01:04.801 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+ 6:01:04.801 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 6:01:04.802 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+ 6:01:04.802 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\gunners\1580\instance\Users\Survivor\Server.core.xml"
+ 6:01:04.809 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\gunners\1580\instance\Users\Survivor\Server.core.xml"
+ 6:02:16.747 Hostname of server: "Sector88"
+ 6:02:25.291 !!! File "trerik4\ce\env/fox_territories.xml" does not exist...
+ 6:02:25.291 !!! [ERROR][XML] :: load [trerik4\ce\env/fox_territories.xml] failed
+ 6:02:25.291 !!! [ERROR][XML] :: Failed to open file
+ 6:02:36.885 [CE][Hive] :: Initializing OFFLINE
+ 6:02:36.885 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\
+ 6:02:36.885 [CE][Hive] :: Loading core data ... 
+ 6:02:36.886 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+ 6:03:28.62 !!! File "trerik4\ce\cfgspawnabletypes.xml" does not exist...
+ 6:03:28.62 !!! [ERROR][XML] :: load [trerik4\ce\cfgspawnabletypes.xml] failed
+ 6:03:28.62 !!! [ERROR][XML] :: Failed to open file
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.68 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.69 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.70 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.70 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.70 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.70 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+ 6:03:28.71 [CE][TypeSetup] :: 521 classes setuped...
+ 6:03:28.72 [CE][TypeSetup] :: 0 classes setuped...
+ 6:03:28.75 [CE][TypeSetup] :: 73 classes setuped...
+ 6:03:28.79 [CE][TypeSetup] :: 206 classes setuped...
+ 6:03:28.80 [CE][TypeSetup] :: 0 classes setuped...
+ 6:04:18.124 [CE][RegisterBind] :: 0 classes binded...
+ 6:04:18.125 [CE][RegisterConfig] :: 27483 config classes registered, 1 sub-counters...
+ 6:04:18.125 [CE][Hive] :: Loading map data ... 
+ 6:04:18.126 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 18 types
+ 6:04:18.195 [CE][LoadPrototype] :: loaded 480 prototypes
+ 6:04:18.195   944 containers, 12748 points
+ 6:04:18.195   47 dispatches, 196 proxies
+ 6:04:18.195 !!! [CE][LoadPrototype] 10 groups have no points...
+ 6:04:18.195 !!! [CE][LoadPrototype] 2 groups have wrong points...
+ 6:04:18.195 !!! [CE][LoadPrototype] 12 groups were defined more than once and skipped...
+ 6:04:18.195 [CE][LoadPrototype] :: last group name: StaticObj_PatrolBoat_Military_DE...
+ 6:04:18.202 [CE][LoadPrototype] :: loaded 0 prototypes
+ 6:04:18.202   56 containers, 235 points
+ 6:04:18.202   0 dispatches, 0 proxies
+ 6:04:18.202 [CE][LoadPrototype] :: last group name: Rail9...
+ 6:04:19.52 [CE][LoadMap] "Group" :: loaded 13688 groups, groups failed: 0, largest group range: 33.9
+ 6:04:19.58 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 33.9
+ 6:04:19.978 [CE][Links] found 7658 total links between groups, of 13688
+ 6:04:19.978 [CE][LoadClusters] "Cluster" :: Loading files...
+ 6:04:20.219 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 10 types, 50000 instances
+ 6:04:20.475 [CE][LoadClusters] :: file: "mapgroupcluster01", 10 types, 45698 instances
+ 6:04:20.494 [CE][Storage] ver:21 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.bin"
+ 6:04:20.494 [CE][Storage] ver:21 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.001"
+ 6:04:20.495 [CE][Storage] ver:21 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.002"
+ 6:04:20.495 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.bin".
+ 6:04:24.145 !!! [CE][offlineDB] :: No Shutdown message present.
+ 6:04:24.147 !!! [CE][DE] (StaticBoatMix) :: Unable to create child (StaticBoatFishing) as the type does not exist.
+ 6:04:24.147 !!! [CE][DE] (StaticBoatMix) :: Unable to create child (StaticBoatFishing) as the type does not exist.
+ 6:04:24.147 [CE][offlineDB] :: Loaded 38 dynamic events 219 total types.
+ 6:04:24.149 !!! [CE][DE] (StaticBoatMix) :: Unable to create child (StaticBoatFishing) as the type does not exist.
+ 6:04:24.149 !!! [CE][DE] (StaticBoatMix) :: Unable to create child (StaticBoatFishing) as the type does not exist.
+ 6:04:24.149 [CE][offlineDB] :: Loaded 38 dynamic events 219 total types.
+ 6:04:24.150 [CE][offlineDB] :: Loaded 39 dynamic events 226 total types.
+ 6:04:24.175 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 6:04:24.176 !!! [CE] :: Unknown value: 'Unique'.
+ 6:04:24.177 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.178 !!! [CE] :: Unknown value: 'Tier6'.
+ 6:04:24.204 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 6:04:24.206 !!! [CE] :: Unknown value: 'Unique'.
+ 6:04:24.207 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.207 !!! [CE] :: Unknown value: 'Tier6'.
+ 6:04:24.212 !!! File "trerik4\ce\trerik/types.xml" does not exist...
+ 6:04:24.212 !!! [ERROR][XML] :: load [trerik4\ce\trerik/types.xml] failed
+ 6:04:24.212 !!! [ERROR][XML] :: Failed to open file
+ 6:04:24.212 !!! [CE][offlineDB] :: Failed to read types file 'trerik/types.xml'.
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_RifleSling_1_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Patch_USA' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_CirclePatch_Outdoors' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Singlemags_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Singlemags_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Singlemags_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS1_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS1_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS2_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS2_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.216 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Utility_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Utility_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Pouch_SmallPouch_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Pouch_SmallPouch_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Pouch_DoublePistolMag_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Pouch_DoublePistolMag_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Pouch_40mmPouch_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_AssaultHelmetCover_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_WW2GasBag_Classic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_DuffleBag_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_HipsterBag_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_HipsterBag_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_HipsterBag_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_MilitaryBag_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_MilitaryBag_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_MechanicBelt_Leather' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_BisonBelt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_BisonBelt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_UtilityBelt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_UtilityBelt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_LeatherBelt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_LeatherBelt_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_MolleBelt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_MolleBelt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Smersh_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Smersh_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Comtacs_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beret_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beret_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Boonie_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Boonie_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Boonie_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Boonie_MC' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Pink' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Orange' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_TacCap_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_TacCap_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_TacCap_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_AssaultHelmet_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_WW2Helmet_Classic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_BaseballCap_Forwards_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_BaseballCap_Forwards_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_BaseballCap_Forwards_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_SkullMask_Plain' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Parka_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.217 !!! [CE][offlineDB] :: Type 'ALV_Parka_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Parka_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Parka_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Parka_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Purple' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_YellowBlue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Orange' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_BluWhite' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PlaidJacket_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PlaidJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PlaidJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_SheriffJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HuntingVest_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_DenimJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_DenimJacket_Blue_Wool' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_DenimJacket_Black_Wool' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_ESP_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PatrolJacket_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PatrolJacket_STG_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PatrolJacket_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_Camo2' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_TweedJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_TweedJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_WW2Coat_Classic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_PilotsJacket_Burgundy' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Orange' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Duster_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Duster_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Duster_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_MC' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_MCBLK' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_ESPN' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_ESPNGry' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Blue_Kneepads' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Grey_Kneepads' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Black_Kneepads' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.218 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Brown_Kneepads' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Workpants_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Sheriffpants_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Sheriffpants_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Cargopants_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Cargopants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_MechanicPants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FirefighterPants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FirefighterPants_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ScrubsPants_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PatrolPants_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PatrolPants_STG_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PatrolPants_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_MC' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CargoShorts_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CargoShorts_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SweatPants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SmartPants_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SmartPants_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WW2Pants_Classic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LeatherLeggings_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_White' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Purple' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tie_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TatteredPoncho_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Open_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_FaceCover_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Open_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_FaceCover_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Open_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_FaceCover_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Cream' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Cream' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Cream' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Linen' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WW2Boots_Classic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_BlackWhite' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_BlackWhite' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_WhiteBlack' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Teal' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Pink' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_MC' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_EMR' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_White' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Red2' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SheriffShirt_Plain' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SheriffShirt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Beige' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_White' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Khaki' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_CreBlue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Cream' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_BlaGrn' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_OrgBlu' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_MechanicTop_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ScrubsTop_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_BlackWhite' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_White' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Shanka' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Shanka_STG' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_VestShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Sweater_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Sweater_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Denim' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_MC_Rolled' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Tan_Rolled' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Black_Rolled' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Snow_Rolled' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_MC_Long' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Tan_Long' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Black_Long' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Snow_Long' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_MC_Cut' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Black_Cut' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Snow_Cut' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Tan_Cut6' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ReverendTop_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ModularVest_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ModularVest_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ModularVest_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_ESP_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_6B25Vest_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_6B25Vest_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_6B25Vest_Snow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ChestPouch_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ChestPouch_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ChestPouch_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_WW2Vest_Classic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_BikerVest_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PoliceVest_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Pink' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Overcoat_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Overcoat_Camel' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Overcoat_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_RollTopBag_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Satchel_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PlagueMask_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PlagueMask_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_MickeyMask' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_CivieRifleSling_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_White' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_Purple' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Camel' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Orange' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PrisonJumpsuit_Orange' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_AssaultVest_Tan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_AssaultVest_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ChestRig_Olive' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_ChestRig_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Monkrobes_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Monkrobes_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_Monkrobes_Abbot' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_DarkRed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.219 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.223 !!! [CE][offlineDB] :: Wrong xml format of types file 'Custom_XMLs/BBP_Items_types.xml'.
+ 6:04:24.224 !!! [CE][offlineDB] :: Wrong xml format of types file 'Custom_XMLs/BBP_types.xml'.
+ 6:04:24.229 !!! [CE][offlineDB] :: Type 'CDAJ_Vest_TacTecV2_Full_MCB' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_TRexHelmet_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_adidas' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_blackgold' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_blackred' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_vanna' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_Master_Chef' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_Master_Chef_MarkV' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_Master_Chef_VI' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_Opscore_Cover_Jay' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.230 !!! [CE][offlineDB] :: Type 'CDAJ_SyfyHelm' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.231 !!! [CE][offlineDB] :: Type 'AJW__Ammo_338' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.231 !!! [CE][offlineDB] :: Type 'AJW__AmmoBox_338mm_10Rnd' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.232 !!! [CE][offlineDB] :: Type 'AJW__AWM_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.233 !!! [CE][offlineDB] :: Type 'AJW__AWM_AOR2' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.233 !!! [CE] :: Unknown usage: 'Convoy'.
+ 6:04:24.233 !!! [CE] :: Unknown usage: 'Convoy'.
+ 6:04:24.233 !!! [CE][offlineDB] :: Type 'AJW__AWM_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.233 !!! [CE][offlineDB] :: Type 'AJW__AWM_Gold' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_B11' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_Goliaf_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_Goliaf_Copper' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_STD' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_HKERGO_PGrip' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_SCAR_MREX_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_SCAR_MREX_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_SCAR_CASV_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_SCAR_CASV_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_SCAR_PMM_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_SCAR_PMM_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B30_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B30_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Hexagon_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Hexagon_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Hexagon_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulL_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulL_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_CMRD_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_CMRD_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_AK100' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B10_Plastic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B19_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B19_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulS_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulS_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Shark_Wood' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_SLR_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Sport1_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Sport1_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Troy_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Troy_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74M_Plastic_Stock' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74M_PT1_Stock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_AK74M_PT3_Stock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_10_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_10_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_10_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_10_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_URGI_10_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_URGI_10_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.237 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_STD_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_STD_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_STD_Hndgrd_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_LVAW_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_LVAW_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_LT_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_LT_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_LT_Hndgrd_OD' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_LCH_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_OD' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_AnaRed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE] :: Unknown value: 'Ungerground'.
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_BCM_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_BCM_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_DD_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_DD_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Cyan' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_OD' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Pink' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_Hogue_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_Hogue_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_MOE_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_MOE_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_MOEK2_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_MOEK2_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_TD_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_TD_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_TD_PGrip_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_Bttstock_Crane_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Buffer_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Buffer_AnaRed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Collapsible_Open' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Collapsible_Closed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Skele' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_MiniSkele' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Visor' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_AK12_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_B5_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_B5_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_BCM_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_BCM_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_CMMG_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_DD_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_DD_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_DS150_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_DS150_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_FAB_GLC_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_Bttstock_Crane' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_LVOA_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_M4_LVOA_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_PRS2_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_PRS2_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_HKG28_Stock_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.238 !!! [CE][offlineDB] :: Type 'AJW_HKG28_Stock_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.239 !!! [CE][offlineDB] :: Type 'AJW_Magpul_MOE_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.239 !!! [CE][offlineDB] :: Type 'AJW_Magpul_MOE_OD' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.239 !!! [CE][offlineDB] :: Type 'AJW_Magpul_MOE_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.241 !!! [CE][offlineDB] :: Type 'AJW_Mag_CM_TaranTactical_9Rnd' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.241 !!! [CE][offlineDB] :: Type 'AJW__AWM_Magazine_5rnd' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.241 !!! [CE][offlineDB] :: Type 'BAW_Mag_Uzi_35Rnd' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.241 !!! [CE][offlineDB] :: Type 'BAW_Mag_DMR_20rnd' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.242 !!! [CE][offlineDB] :: Type 'AJW_Optic_LRHS_FDE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.242 !!! [CE][offlineDB] :: Type 'AJW_Optic_LRHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'Dogtag_Survivor' will be ignored. (Not spawnable. (Scope is not public?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'Dogtag_Hero' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'Dogtag_Bandit' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'Dogtag_Silver' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'Dogtag_Granite' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'Dogtag_Cobalt' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.245 !!! [CE][offlineDB] :: Type 'DogtagCase' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.252 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+ 6:04:24.252 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+ 6:04:24.252 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.257 !!! [CE][offlineDB] :: Type 'EFT_Vest_ReductM' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.257 !!! [CE][offlineDB] :: Type 'EFT_Insultatingtape' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.267 !!! [CE][offlineDB] :: Type 'MMG_tactical_shirt_dark_woodland' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.271 !!! [CE][offlineDB] :: Type 'MMG_assault_pack_multicam_tropic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.272 !!! [CE][offlineDB] :: Type 'MMG_mmps_nag_multicamblack' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.274 !!! [CE][offlineDB] :: Type 'EXAMPLE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.274 !!! [CE][offlineDB] :: Type 'EXAMPLE' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.301 !!! [CE][offlineDB] :: Type 'UAZ_3163_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.301 !!! [CE][offlineDB] :: Type 'UAZ_3163_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.301 !!! [CE][offlineDB] :: Type 'UAZ_3163_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.301 !!! [CE][offlineDB] :: Type 'opel_blitz' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3		' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_yellow		' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_white		' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_black		' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_red		' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_driver_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_codriver_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo1_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo2_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_hood_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_trunk_MCHS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_driver_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_codriver_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo1_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo2_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_hood_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_trunk_VP' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_driver_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_codriver_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo1_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo2_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_hood_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_trunk_emergency_service' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_469_milicia_wheel ' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_469_milicia_doors_cargo1	' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'UAZ_27722_mchs_doors_cargo2_ambulancia' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.302 !!! [CE][offlineDB] :: Type 'IJ_2125_Kombi_wheel ' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.308 !!! [CE] :: Unknown usage: 'Tenement'.
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_EternalFireplace' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_CommunityBarrel' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_CommunityBarrel_Holes' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'TentBag_Orel' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'TentBag_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'TentBag_Desert' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'TentBag_Arctic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'TentBag' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_DexBottle' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_Taser_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_Taser_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Mag_ZenTaser' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Plant_ZenCannabis' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_Cannabis' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_CannabisSeeds' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'Zen_CannabisSeedsPack' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenWatchGPS' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenQuiver' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Grey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Black_Deployed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Blue_Deployed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.313 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Green_Deployed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Grey_Deployed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Red_Deployed' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenSleep_Anesthetic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenSleep_Anesthetic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenSleep_Amphetamine' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock4' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock5' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock6' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock7' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock8' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock9' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_BoltCutter' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Spraycan_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Spraycan_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenJameson' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_ZenJameson' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenFlask' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_ZenFlask' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Canteen_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Mag_AK74_45Rnd_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Mag_AK74_45Rnd_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_M4_Suppressor_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_AK_Suppressor_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_PistolSuppressor_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ImprovisedSuppressor_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ImprovisedSuppressor_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_AK74_WoodBttstck_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_AK74_Hndgrd_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_TradingFlag' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Armband_ZenTrader' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_DarkCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_Zenarchist' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_TacticalShirt_Black_Australia' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_TacticalShirt_Olive_Australia' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_TacticalShirt_Tan_Australia' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_BaseballCap_Camo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_BaseballCap_DarkCamo' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_BaseballCap_Zenarchist' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'MilitaryBoots_BlackPunk' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Shirt_HunterCat' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Shirt_PharaohCat' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_Shirt_BothCat' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmStation' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmRadar' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmStationKit' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmRadarKit' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ArtillerySmokeGrenade' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ArtillerySmokeGrenadeChem' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenGraves_DeadPlayerCross' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenGraves_UndergroundStash' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenGraves_DeadPlayerSkeleton' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ImprovisedShelter' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CamoShelterKit' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CarWorkbench' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CarWorkbenchKit' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBoard' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessWhitePawn' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackPawn' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteBishop' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackBishop' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteKing' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackKing' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteKnight' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackKnight' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteQueen' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackQueen' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteRook' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackRook' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ConcussionGrenade' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenFlint' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieSuit' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieHood' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieTop' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieAtt' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_Strip' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenNote' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenJournal' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Pen_Pink' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Pen_Purple' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Pen_Orange' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRaybans_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRaybans_Red' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRaybans_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRaybans_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ShelterStick' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ShelterFabric' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_ShelterLeather' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_VikingAxe' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_TireRack' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Zen_NBCCase' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenSwissKnife' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenZippoLighter' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenZippoLighter_Peace' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenZippoLighter_Anarchy' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenZippoLighter_Zenarchist' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenPetrolLighter' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Air' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Body' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Chaos' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Cosmic' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Earth' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Fire' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Law' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Mind' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Nature' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'ZenRune_Water' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Black' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Blue' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Green' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Pink' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Pipsi' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Cola' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Spite' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Kvass' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Fronta' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_BoxCerealCrunchin' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Rice' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_PowderedMilk' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Marmalade' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Honey' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Marmalade_NoLiquid' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Honey_NoLiquid' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Zagorky' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_ZagorkyChocolate' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_ZagorkyPeanuts' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SaltySticks' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Crackers' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Chips' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_BakedBeansCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_PeachesCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_TacticalBaconCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SpaghettiCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_SardinesCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_TunaCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_DogFoodCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_CatFoodCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_PorkCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Lunchmeat_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_UnknownFoodCan_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_Pate_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Empty_BrisketSpread_Opened' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Used_SalineBagIV' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Used_BloodBagIV' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Used_Morphine' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Used_Epinephrine' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.314 !!! [CE][offlineDB] :: Type 'Used_AntiChemInjector' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_BoomBox' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Walkman' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_CassetteCase' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen1' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen2' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen3' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen4' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen5' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen6' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen7' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen8' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen9' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen10' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen11' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen12' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen13' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen14' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen15' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical1' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical2' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical3' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical4' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical5' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical6' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical7' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical8' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical9' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan1' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan2' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan3' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan4' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan5' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan6' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan7' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan8' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.316 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan9' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo01' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo02' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo03' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo04' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo05' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo06' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo07' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo08' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo09' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo10' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo11' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo12' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo13' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo14' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo15' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo16' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo17' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo18' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo19' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo20' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo21' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo22' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo23' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo24' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.317 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo25' will be ignored. (Type does not exist. (Typo?))
+ 6:04:24.319 !!! [ERROR][XML] :: load [trerik4\ce\cfgeventgroups.xml] failed
+ 6:04:24.319 !!! [ERROR][XML] :: Failed to open file
+ 6:04:24.320 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\empty.arsteinen\cfgeventspawns.xml] failed
+ 6:04:24.320 !!! [ERROR][XML] :: Error reading end tag. line 3
+ 6:04:24.320 [CE][DE][SPAWNS] :: Total positions: 0
+ 6:04:24.320 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 6:04:24.320 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.bin"
+ 6:04:24.321 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.001"
+ 6:04:24.321 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.002"
+ 6:04:24.321 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.bin".
+ 6:04:24.322 [CE][DynamicEvent] Load  Events:[39] Primary spawners: 39 Secondary spawners: 1
+ 6:04:24.323 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.bin"
+ 6:04:24.323 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.001"
+ 6:04:24.324 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.002"
+ 6:04:24.324 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.bin" 2225 items.
+ 6:04:29.892   2225 items loaded. (0 failed)
+ 6:04:29.892 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.bin"
+ 6:04:29.893 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.001"
+ 6:04:29.894 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.002"
+ 6:04:29.894 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.bin" 3529 items.
+ 6:04:38.47   3529 items loaded. (0 failed)
+ 6:04:38.48 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.bin"
+ 6:04:38.48 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.001"
+ 6:04:38.49 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.002"
+ 6:04:38.49 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.bin" 4262 items.
+ 6:04:48.259   4262 items loaded. (0 failed)
+ 6:04:48.260 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.bin"
+ 6:04:48.260 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.001"
+ 6:04:48.261 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.002"
+ 6:04:48.261 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.bin" 2946 items.
+ 6:04:55.370   2946 items loaded. (0 failed)
+ 6:04:55.371 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.bin"
+ 6:04:55.372 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.001"
+ 6:04:55.372 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.002"
+ 6:04:55.372 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.bin" 1247 items.
+ 6:04:58.455   1247 items loaded. (0 failed)
+ 6:04:58.456 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.bin"
+ 6:04:58.456 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.001"
+ 6:04:58.457 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.002"
+ 6:04:58.457 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.bin" 1426 items.
+ 6:05:02.85   1426 items loaded. (0 failed)
+ 6:05:02.86 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.bin"
+ 6:05:02.87 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.001"
+ 6:05:02.88 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.002"
+ 6:05:02.88 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.bin" 873 items.
+ 6:05:04.331   873 items loaded. (0 failed)
+ 6:05:04.332 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.bin"
+ 6:05:04.333 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.001"
+ 6:05:04.333 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.002"
+ 6:05:04.334 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.bin" 408 items.
+ 6:05:05.337   408 items loaded. (0 failed)
+ 6:05:05.337 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.bin"
+ 6:05:05.338 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.001"
+ 6:05:05.338 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.002"
+ 6:05:05.338 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.bin" 1214 items.
+ 6:05:08.400   1214 items loaded. (0 failed)
+ 6:05:08.401 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.bin"
+ 6:05:08.402 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.001"
+ 6:05:08.402 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.002"
+ 6:05:08.402 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.bin" 1636 items.
+ 6:05:12.644   1636 items loaded. (0 failed)
+ 6:05:12.645 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.bin"
+ 6:05:12.645 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.001"
+ 6:05:12.646 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.002"
+ 6:05:12.646 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.bin" 285 items.
+ 6:05:13.358   285 items loaded. (0 failed)
+ 6:05:13.358 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.bin"
+ 6:05:13.359 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.001"
+ 6:05:13.359 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.002"
+ 6:05:13.359 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.bin" 0 items.
+ 6:05:13.359   0 items loaded. (0 failed)
+ 6:05:13.359 [CE][Storage] ver:26 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.bin"
+ 6:05:13.359 [CE][Storage] ver:26 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.001"
+ 6:05:13.359 [CE][Storage] ver:26 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.002"
+ 6:05:13.360 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.bin" 0 items.
+ 6:05:13.360   0 items loaded. (0 failed)
+ 6:05:13.360 [CE][Storage] ver:25 stamp:28742, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.bin"
+ 6:05:13.361 [CE][Storage] ver:25 stamp:28739, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.001"
+ 6:05:13.362 [CE][Storage] ver:25 stamp:28740, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.002"
+ 6:05:13.362 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.bin" 84 items.
+ 6:05:14.57   84 items loaded. (0 failed)
+ 6:05:14.93 [CE][Hive] :: Storage load took:49.78 seconds, recovery stamp:28742
+ 6:05:14.93   entity: 20877, building: 0
+ 6:05:14.93   no lifetime: 30
+ 6:05:14.93   ignored: 3
+ 6:05:14.93   pathgraph's: 1440
+ 6:05:14.94 [CE][Hive] :: Initializing ... 
+ 6:05:14.224 [CE][InitializeMap] :: initialized: 0
+ 6:05:14.224 [CE][Hive] :: Initializing spawners ... 
+ 6:05:14.225 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:27428, Total in Map: 22259 at 0 (sec)
+ 6:05:14.225   tests:0, repeats:0 fails:0, overtime:0
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "ItemPlanks" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "ItemPlanks" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "StaticContaminatedArea" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "StaticContaminatedArea" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "StaticHeliCrash" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "StaticHeliCrash" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "VehicleCivilianSedan" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "VehicleCivilianSedan" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "VehicleHatchback02" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "VehicleHatchback02" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "VehicleSedan02" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "VehicleSedan02" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "VehicleTruck01" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "VehicleTruck01" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "VehicleBoat" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "VehicleBoat" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "StaticBoatMix" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "StaticBoatMix" setup is invalid, event will be disabled.
+ 6:05:14.334 !!! [CE][DE] DynamicEvent "StaticScientist" does not have position 'player', so it needs configured positions.
+ 6:05:14.334 !!!!!! [CE][DE] DynamicEvent "StaticScientist" setup is invalid, event will be disabled.
+ 6:05:14.334 [CE][DynEvent] :: 39 types
+ 6:05:14.334 [00] Loot
+ 6:05:14.334   Primary Spawner: "Loot", active: yes, repeat: 2
+ 6:05:14.334 [01] AmbientHen
+ 6:05:14.334   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 6:05:14.334 [02] AnimalBear
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [03] AnimalCow
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [04] AnimalDeer
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [05] AnimalGoat
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [06] AnimalPig
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [07] AnimalRoeDeer
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [08] AnimalSheep
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [09] AnimalWildBoar
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [10] AnimalWolf
+ 6:05:14.334   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:05:14.334 [11] InfectedArmy
+ 6:05:14.334   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.334 [12] InfectedArmyHard
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [13] InfectedCity
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [14] InfectedCityTier1
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [15] InfectedFirefighter
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [16] InfectedIndustrial
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [17] InfectedMedic
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [18] InfectedNBC
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [19] InfectedNBCYellow
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [20] InfectedPolice
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [21] InfectedPoliceHard
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [22] InfectedPrisoner
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [23] InfectedReligious
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [24] InfectedSolitude
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [25] InfectedVillage
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [26] InfectedVillageTier1
+ 6:05:14.335   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:05:14.335 [27] ItemPlanks
+ 6:05:14.335   Primary Spawner: "Item", active: no, repeat: 1
+ 6:05:14.335 [28] StaticContaminatedArea
+ 6:05:14.335   Primary Spawner: "Static", active: no, repeat: 1
+ 6:05:14.335 [29] StaticHeliCrash
+ 6:05:14.335   Primary Spawner: "Static", active: no, repeat: 1
+ 6:05:14.335   Secondary Spawner: "Infected", active: no, repeat: 1
+ 6:05:14.335 [30] VehicleCivilianSedan
+ 6:05:14.335   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 6:05:14.335 [31] VehicleHatchback02
+ 6:05:14.335   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 6:05:14.335 [32] VehicleOffroadHatchback
+ 6:05:14.335   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 6:05:14.335 [33] VehicleSedan02
+ 6:05:14.335   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 6:05:14.335 [34] VehicleTruck01
+ 6:05:14.335   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 6:05:14.335 [35] VehicleBoat
+ 6:05:14.335   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 6:05:14.335 [36] StaticBoatMix
+ 6:05:14.335   Primary Spawner: "Static", active: no, repeat: 1
+ 6:05:14.335 [37] StaticScientist
+ 6:05:14.335   Primary Spawner: "Static", active: no, repeat: 1
+ 6:05:14.335 [38] TrajectoryMilitary
+ 6:05:14.335   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 6:05:14.335 [CE][Hive] :: Initializing of spawners done.
+ 6:05:14.350 [CE][Hive] :: Init sequence finished.
+ 6:05:14.350 Player connect enabled
+ 6:05:14.584 Average server FPS: 0.02 (measured interval: 1 s)
+ 6:05:14.584 Used memory: 3165675 KB
+ 6:05:14.584 Players: 0 in total
+ 6:05:17.206 [IdleMode] Entering IN - save processed
+ 6:05:17.206 Average server FPS: 0.38 (measured interval: 1 s)
+ 6:05:17.206 Used memory: 3181617 KB
+ 6:05:17.206 Players: 0 in total
+ 6:05:19.571 Average server FPS: 2.54 (measured interval: 1 s)
+ 6:05:19.571 Used memory: 3226450 KB
+ 6:05:19.571 Players: 0 in total
+ 6:05:20.842 Average server FPS: 3.15 (measured interval: 1 s)
+ 6:05:20.842 Used memory: 3226440 KB
+ 6:05:20.842 Players: 0 in total
+ 6:05:21.880 Average server FPS: 4.81 (measured interval: 1 s)
+ 6:05:21.880 Used memory: 3257366 KB
+ 6:05:21.880 Players: 0 in total
+ 6:05:22.881 Average server FPS: 60.00 (measured interval: 1 s)
+ 6:05:22.881 Used memory: 3288144 KB
+ 6:05:22.881 Players: 0 in total
+ 6:05:23.880 Average server FPS: 502.00 (measured interval: 1 s)
+ 6:05:23.880 Used memory: 3318666 KB
+ 6:05:23.880 Players: 0 in total
+ 6:05:24.880 Average server FPS: 908.00 (measured interval: 1 s)
+ 6:05:24.880 Used memory: 3352690 KB
+ 6:05:24.880 Players: 0 in total
+ 6:05:25.880 Average server FPS: 633.00 (measured interval: 1 s)
+ 6:05:25.880 Used memory: 3379844 KB
+ 6:05:25.880 Players: 0 in total
+ 6:05:26.880 Average server FPS: 774.00 (measured interval: 1 s)
+ 6:05:26.880 Used memory: 3403459 KB
+ 6:05:26.880 Players: 0 in total
+ 6:05:27.880 Average server FPS: 509.00 (measured interval: 1 s)
+ 6:05:27.880 Used memory: 3423324 KB
+ 6:05:27.880 Players: 0 in total
+ 6:05:28.880 Average server FPS: 1412.00 (measured interval: 1 s)
+ 6:05:28.880 Used memory: 3441301 KB
+ 6:05:28.880 Players: 0 in total
+ 6:05:29.880 Average server FPS: 1367.00 (measured interval: 1 s)
+ 6:05:29.880 Used memory: 3457125 KB
+ 6:05:29.880 Players: 0 in total
+ 6:05:30.880 Average server FPS: 2075.00 (measured interval: 1 s)
+ 6:05:30.880 Used memory: 3472380 KB
+ 6:05:30.880 Players: 0 in total
+ 6:05:31.880 Average server FPS: 1420.00 (measured interval: 1 s)
+ 6:05:31.880 Used memory: 3484153 KB
+ 6:05:31.880 Players: 0 in total
+ 6:05:32.880 Average server FPS: 1830.00 (measured interval: 1 s)
+ 6:05:32.880 Used memory: 3493334 KB
+ 6:05:32.880 Players: 0 in total
+ 6:05:33.880 Average server FPS: 2222.00 (measured interval: 1 s)
+ 6:05:33.880 Used memory: 3506082 KB
+ 6:05:33.880 Players: 0 in total
+ 6:05:34.880 Average server FPS: 2449.00 (measured interval: 1 s)
+ 6:05:34.880 Used memory: 3517665 KB
+ 6:05:34.880 Players: 0 in total
+ 6:05:35.885 Average server FPS: 1285.86 (measured interval: 1 s)
+ 6:05:35.885 Used memory: 3527560 KB
+ 6:05:35.885 Players: 0 in total
+ 6:05:36.884 Average server FPS: 843.00 (measured interval: 1 s)
+ 6:05:36.884 Used memory: 3538924 KB
+ 6:05:36.884 Players: 0 in total
+ 6:05:37.885 Average server FPS: 1596.00 (measured interval: 1 s)
+ 6:05:37.885 Used memory: 3546760 KB
+ 6:05:37.885 Players: 0 in total
+ 6:05:38.884 Average server FPS: 1850.00 (measured interval: 1 s)
+ 6:05:38.884 Used memory: 3556485 KB
+ 6:05:38.884 Players: 0 in total
+ 6:05:39.884 Average server FPS: 2962.00 (measured interval: 1 s)
+ 6:05:39.884 Used memory: 3563480 KB
+ 6:05:39.884 Players: 0 in total
+ 6:05:40.884 Average server FPS: 4228.00 (measured interval: 1 s)
+ 6:05:40.884 Used memory: 3608321 KB
+ 6:05:40.884 Players: 0 in total
+ 6:05:41.884 Average server FPS: 5615.00 (measured interval: 1 s)
+ 6:05:41.884 Used memory: 3609993 KB
+ 6:05:41.884 Players: 0 in total
+ 6:05:42.885 Average server FPS: 7107.00 (measured interval: 1 s)
+ 6:05:42.885 Used memory: 3612104 KB
+ 6:05:42.885 Players: 0 in total
+ 6:05:43.884 Average server FPS: 6424.00 (measured interval: 1 s)
+ 6:05:43.884 Used memory: 3613019 KB
+ 6:05:43.884 Players: 0 in total
+ 6:05:44.884 Average server FPS: 6074.00 (measured interval: 1 s)
+ 6:05:44.884 Used memory: 3615420 KB
+ 6:05:44.884 Players: 0 in total
+ 6:05:45.885 Average server FPS: 5378.00 (measured interval: 1 s)
+ 6:05:45.885 Used memory: 3618008 KB
+ 6:05:45.885 Players: 0 in total
+ 6:05:46.884 Average server FPS: 3667.00 (measured interval: 1 s)
+ 6:05:46.884 Used memory: 3619427 KB
+ 6:05:46.884 Players: 0 in total
+ 6:05:47.884 Average server FPS: 3154.00 (measured interval: 1 s)
+ 6:05:47.885 Used memory: 3630665 KB
+ 6:05:47.885 Players: 0 in total
+ 6:05:48.885 Average server FPS: 819.00 (measured interval: 1 s)
+ 6:05:48.885 Used memory: 3634859 KB
+ 6:05:48.885 Players: 0 in total
+ 6:05:49.884 Average server FPS: 4534.00 (measured interval: 1 s)
+ 6:05:49.884 Used memory: 3638959 KB
+ 6:05:49.884 Players: 0 in total
+ 6:05:50.885 Average server FPS: 3356.00 (measured interval: 1 s)
+ 6:05:50.885 Used memory: 3648285 KB
+ 6:05:50.885 Players: 0 in total
+ 6:05:51.885 Average server FPS: 3560.00 (measured interval: 1 s)
+ 6:05:51.885 Used memory: 3651056 KB
+ 6:05:51.885 Players: 0 in total
+ 6:05:52.885 Average server FPS: 5083.00 (measured interval: 1 s)
+ 6:05:52.885 Used memory: 3656888 KB
+ 6:05:52.885 Players: 0 in total
+ 6:05:53.885 Average server FPS: 4442.00 (measured interval: 1 s)
+ 6:05:53.885 Used memory: 3660129 KB
+ 6:05:53.885 Players: 0 in total
+ 6:05:54.885 Average server FPS: 5524.00 (measured interval: 1 s)
+ 6:05:54.885 Used memory: 3663087 KB
+ 6:05:54.885 Players: 0 in total
+ 6:05:55.885 Average server FPS: 1800.00 (measured interval: 1 s)
+ 6:05:55.885 Used memory: 3668703 KB
+ 6:05:55.885 Players: 0 in total
+ 6:05:56.885 Average server FPS: 4627.00 (measured interval: 1 s)
+ 6:05:56.885 Used memory: 3671134 KB
+ 6:05:56.885 Players: 0 in total
+ 6:05:57.885 Average server FPS: 7098.00 (measured interval: 1 s)
+ 6:05:57.885 Used memory: 3673406 KB
+ 6:05:57.885 Players: 0 in total
+ 6:05:58.884 Average server FPS: 6352.00 (measured interval: 1 s)
+ 6:05:58.884 Used memory: 3674327 KB
+ 6:05:58.884 Players: 0 in total
+ 6:05:59.884 Average server FPS: 6664.00 (measured interval: 1 s)
+ 6:05:59.884 Used memory: 3674885 KB
+ 6:05:59.884 Players: 0 in total
+ 6:06:00.885 Average server FPS: 5231.00 (measured interval: 1 s)
+ 6:06:00.885 Used memory: 3683732 KB
+ 6:06:00.885 Players: 0 in total
+ 6:06:01.884 Average server FPS: 1802.00 (measured interval: 1 s)
+ 6:06:01.884 Used memory: 3686383 KB
+ 6:06:01.884 Players: 0 in total
+ 6:06:02.886 Average server FPS: 3348.65 (measured interval: 1 s)
+ 6:06:02.886 Used memory: 3693136 KB
+ 6:06:02.886 Players: 0 in total
+ 6:06:03.886 Average server FPS: 1510.00 (measured interval: 1 s)
+ 6:06:03.886 Used memory: 3695158 KB
+ 6:06:03.886 Players: 0 in total
+ 6:06:04.885 Average server FPS: 6791.00 (measured interval: 1 s)
+ 6:06:04.885 Used memory: 3695793 KB
+ 6:06:04.885 Players: 0 in total
+ 6:06:05.886 Average server FPS: 5855.00 (measured interval: 1 s)
+ 6:06:05.886 Used memory: 3697632 KB
+ 6:06:05.886 Players: 0 in total
+ 6:06:06.886 Average server FPS: 6003.00 (measured interval: 1 s)
+ 6:06:06.886 Used memory: 3699085 KB
+ 6:06:06.886 Players: 0 in total
+ 6:06:07.885 Average server FPS: 4316.00 (measured interval: 1 s)
+ 6:06:07.885 Used memory: 3702045 KB
+ 6:06:07.885 Players: 0 in total
+ 6:06:08.886 Average server FPS: 963.00 (measured interval: 1 s)
+ 6:06:08.886 Used memory: 3711440 KB
+ 6:06:08.886 Players: 0 in total
+ 6:06:09.886 Average server FPS: 1081.00 (measured interval: 1 s)
+ 6:06:09.886 Used memory: 3716911 KB
+ 6:06:09.886 Players: 0 in total
+ 6:06:10.885 Average server FPS: 1479.00 (measured interval: 1 s)
+ 6:06:10.885 Used memory: 3721630 KB
+ 6:06:10.885 Players: 0 in total
+ 6:06:11.886 Average server FPS: 2089.00 (measured interval: 1 s)
+ 6:06:11.886 Used memory: 3722929 KB
+ 6:06:11.886 Players: 0 in total
+ 6:06:12.886 Average server FPS: 4157.00 (measured interval: 1 s)
+ 6:06:12.886 Used memory: 3724783 KB
+ 6:06:12.886 Players: 0 in total
+ 6:06:13.886 Average server FPS: 4877.00 (measured interval: 1 s)
+ 6:06:13.886 Used memory: 3725473 KB
+ 6:06:13.886 Players: 0 in total
+ 6:06:14.886 Average server FPS: 3379.62 (measured interval: 1 s)
+ 6:06:14.887 Used memory: 3734959 KB
+ 6:06:14.887 Players: 0 in total
+ 6:06:15.886 Average server FPS: 1104.00 (measured interval: 1 s)
+ 6:06:15.886 Used memory: 3735867 KB
+ 6:06:15.886 Players: 0 in total
+ 6:06:16.887 Average server FPS: 4184.00 (measured interval: 1 s)
+ 6:06:16.887 Used memory: 3736139 KB
+ 6:06:16.887 Players: 0 in total
+ 6:06:17.886 Average server FPS: 5539.00 (measured interval: 1 s)
+ 6:06:17.887 Used memory: 3737447 KB
+ 6:06:17.887 Players: 0 in total
+ 6:06:18.886 Average server FPS: 6052.00 (measured interval: 1 s)
+ 6:06:18.886 Used memory: 3737743 KB
+ 6:06:18.886 Players: 0 in total
+ 6:06:19.886 Average server FPS: 4172.00 (measured interval: 1 s)
+ 6:06:19.886 Used memory: 3738451 KB
+ 6:06:19.886 Players: 0 in total
+ 6:06:20.897 Average server FPS: 1761.39 (measured interval: 1 s)
+ 6:06:20.897 Used memory: 3751645 KB
+ 6:06:20.897 Players: 0 in total
+ 6:06:21.897 Average server FPS: 624.00 (measured interval: 1 s)
+ 6:06:21.897 Used memory: 3753826 KB
+ 6:06:21.897 Players: 0 in total
+ 6:06:22.897 Average server FPS: 1946.00 (measured interval: 1 s)
+ 6:06:22.897 Used memory: 3754824 KB
+ 6:06:22.897 Players: 0 in total
+ 6:06:23.897 Average server FPS: 1857.00 (measured interval: 1 s)
+ 6:06:23.897 Used memory: 3756541 KB
+ 6:06:23.897 Players: 0 in total
+ 6:06:24.897 Average server FPS: 3259.00 (measured interval: 1 s)
+ 6:06:24.897 Used memory: 3756533 KB
+ 6:06:24.897 Players: 0 in total
+ 6:06:25.897 Average server FPS: 6197.00 (measured interval: 1 s)
+ 6:06:25.897 Used memory: 3756533 KB
+ 6:06:25.897 Players: 0 in total
+ 6:06:26.896 Average server FPS: 4533.00 (measured interval: 1 s)
+ 6:06:26.896 Used memory: 3757239 KB
+ 6:06:26.896 Players: 0 in total
+ 6:06:27.897 Average server FPS: 4948.00 (measured interval: 1 s)
+ 6:06:27.897 Used memory: 3757310 KB
+ 6:06:27.897 Players: 0 in total
+ 6:06:28.896 Average server FPS: 6449.00 (measured interval: 1 s)
+ 6:06:28.896 Used memory: 3757310 KB
+ 6:06:28.896 Players: 0 in total
+ 6:06:29.897 Average server FPS: 5725.00 (measured interval: 1 s)
+ 6:06:29.897 Used memory: 3757311 KB
+ 6:06:29.897 Players: 0 in total
+ 6:06:30.897 Average server FPS: 5718.00 (measured interval: 1 s)
+ 6:06:30.897 Used memory: 3757608 KB
+ 6:06:30.897 Players: 0 in total
+ 6:06:31.897 Average server FPS: 5063.00 (measured interval: 1 s)
+ 6:06:31.897 Used memory: 3757692 KB
+ 6:06:31.897 Players: 0 in total
+ 6:06:32.897 Average server FPS: 7360.00 (measured interval: 1 s)
+ 6:06:32.897 Used memory: 3758825 KB
+ 6:06:32.897 Players: 0 in total
+ 6:06:33.897 Average server FPS: 6782.00 (measured interval: 1 s)
+ 6:06:33.897 Used memory: 3759657 KB
+ 6:06:33.897 Players: 0 in total
+ 6:06:34.897 Average server FPS: 3248.00 (measured interval: 1 s)
+ 6:06:34.897 Used memory: 3764225 KB
+ 6:06:34.897 Players: 0 in total
+ 6:06:35.899 Average server FPS: 1943.11 (measured interval: 1 s)
+ 6:06:35.899 Used memory: 3769821 KB
+ 6:06:35.899 Players: 0 in total
+ 6:06:36.901 Average server FPS: 373.63 (measured interval: 1 s)
+ 6:06:36.901 Used memory: 3776663 KB
+ 6:06:36.901 Players: 0 in total
+ 6:06:37.901 Average server FPS: 556.00 (measured interval: 1 s)
+ 6:06:37.901 Used memory: 3777864 KB
+ 6:06:37.901 Players: 0 in total
+ 6:06:38.900 Average server FPS: 2589.00 (measured interval: 1 s)
+ 6:06:38.900 Used memory: 3778457 KB
+ 6:06:38.900 Players: 0 in total
+ 6:06:39.900 Average server FPS: 3713.00 (measured interval: 1 s)
+ 6:06:39.900 Used memory: 3778492 KB
+ 6:06:39.900 Players: 0 in total
+ 6:06:40.900 Average server FPS: 5042.00 (measured interval: 1 s)
+ 6:06:40.900 Used memory: 3781250 KB
+ 6:06:40.900 Players: 0 in total
+ 6:06:41.900 Average server FPS: 1778.00 (measured interval: 1 s)
+ 6:06:41.900 Used memory: 3783318 KB
+ 6:06:41.900 Players: 0 in total
+ 6:06:42.900 Average server FPS: 2938.00 (measured interval: 1 s)
+ 6:06:42.900 Used memory: 3784163 KB
+ 6:06:42.900 Players: 0 in total
+ 6:06:43.900 Average server FPS: 3488.00 (measured interval: 1 s)
+ 6:06:43.900 Used memory: 3785932 KB
+ 6:06:43.900 Players: 0 in total
+ 6:06:44.900 Average server FPS: 3295.00 (measured interval: 1 s)
+ 6:06:44.900 Used memory: 3786955 KB
+ 6:06:44.900 Players: 0 in total
+ 6:06:45.901 Average server FPS: 1805.00 (measured interval: 1 s)
+ 6:06:45.901 Used memory: 3806599 KB
+ 6:06:45.901 Players: 0 in total
+ 6:06:46.900 Average server FPS: 883.00 (measured interval: 1 s)
+ 6:06:46.900 Used memory: 3810723 KB
+ 6:06:46.900 Players: 0 in total
+ 6:06:47.900 Average server FPS: 1650.00 (measured interval: 1 s)
+ 6:06:47.900 Used memory: 3817739 KB
+ 6:06:47.900 Players: 0 in total
+ 6:06:48.900 Average server FPS: 1027.00 (measured interval: 1 s)
+ 6:06:48.900 Used memory: 3820643 KB
+ 6:06:48.900 Players: 0 in total
+ 6:06:49.901 Average server FPS: 1133.00 (measured interval: 1 s)
+ 6:06:49.901 Used memory: 3824624 KB
+ 6:06:49.901 Players: 0 in total
+ 6:06:50.900 Average server FPS: 2861.00 (measured interval: 1 s)
+ 6:06:50.900 Used memory: 3824949 KB
+ 6:06:50.900 Players: 0 in total
+ 6:06:51.901 Average server FPS: 3613.00 (measured interval: 1 s)
+ 6:06:51.901 Used memory: 3826441 KB
+ 6:06:51.901 Players: 0 in total
+ 6:06:52.900 Average server FPS: 2226.00 (measured interval: 1 s)
+ 6:06:52.900 Used memory: 3827619 KB
+ 6:06:52.900 Players: 0 in total
+ 6:06:53.900 Average server FPS: 4071.00 (measured interval: 1 s)
+ 6:06:53.900 Used memory: 3827756 KB
+ 6:06:53.900 Players: 0 in total
+ 6:06:54.902 Average server FPS: 6138.86 (measured interval: 1 s)
+ 6:06:54.902 Used memory: 3833545 KB
+ 6:06:54.902 Players: 0 in total
+ 6:06:55.992 Average server FPS: 774.31 (measured interval: 1 s)
+ 6:06:55.992 Used memory: 3835832 KB
+ 6:06:55.992 Players: 0 in total
+ 6:06:56.991 Average server FPS: 4348.00 (measured interval: 1 s)
+ 6:06:56.991 Used memory: 3836543 KB
+ 6:06:56.991 Players: 0 in total
+ 6:06:57.991 Average server FPS: 5704.00 (measured interval: 1 s)
+ 6:06:57.991 Used memory: 3837224 KB
+ 6:06:57.991 Players: 0 in total
+ 6:06:58.991 Average server FPS: 7364.00 (measured interval: 1 s)
+ 6:06:58.991 Used memory: 3838840 KB
+ 6:06:58.991 Players: 0 in total
+ 6:06:59.992 Average server FPS: 6157.00 (measured interval: 1 s)
+ 6:06:59.992 Used memory: 3839871 KB
+ 6:06:59.992 Players: 0 in total
+ 6:07:00.991 Average server FPS: 7176.00 (measured interval: 1 s)
+ 6:07:00.992 Used memory: 3841779 KB
+ 6:07:00.992 Players: 0 in total
+ 6:07:01.992 Average server FPS: 2774.00 (measured interval: 1 s)
+ 6:07:01.992 Used memory: 3844965 KB
+ 6:07:01.992 Players: 0 in total
+ 6:07:02.991 Average server FPS: 3733.00 (measured interval: 1 s)
+ 6:07:02.991 Used memory: 3845661 KB
+ 6:07:02.991 Players: 0 in total
+ 6:07:03.991 Average server FPS: 6633.00 (measured interval: 1 s)
+ 6:07:03.991 Used memory: 3847311 KB
+ 6:07:03.991 Players: 0 in total
+ 6:07:04.991 Average server FPS: 7036.00 (measured interval: 1 s)
+ 6:07:04.991 Used memory: 3847741 KB
+ 6:07:04.991 Players: 0 in total
+ 6:07:05.991 Average server FPS: 3272.00 (measured interval: 1 s)
+ 6:07:05.991 Used memory: 3851098 KB
+ 6:07:05.991 Players: 0 in total
+ 6:07:06.992 Average server FPS: 801.00 (measured interval: 1 s)
+ 6:07:06.992 Used memory: 3852388 KB
+ 6:07:06.992 Players: 0 in total
+ 6:07:07.991 Average server FPS: 4499.00 (measured interval: 1 s)
+ 6:07:07.991 Used memory: 3854307 KB
+ 6:07:07.991 Players: 0 in total
+ 6:07:08.991 Average server FPS: 2811.00 (measured interval: 1 s)
+ 6:07:08.991 Used memory: 3857708 KB
+ 6:07:08.992 Players: 0 in total
+ 6:07:09.992 Average server FPS: 2830.00 (measured interval: 1 s)
+ 6:07:09.992 Used memory: 3858041 KB
+ 6:07:09.992 Players: 0 in total
+ 6:07:10.991 Average server FPS: 6873.00 (measured interval: 1 s)
+ 6:07:10.991 Used memory: 3858305 KB
+ 6:07:10.991 Players: 0 in total
+ 6:07:12.15 Average server FPS: 5458.46 (measured interval: 1 s)
+ 6:07:12.15 Used memory: 3862163 KB
+ 6:07:12.15 Players: 0 in total
+ 6:07:13.15 Average server FPS: 1662.00 (measured interval: 1 s)
+ 6:07:13.15 Used memory: 3862651 KB
+ 6:07:13.15 Players: 0 in total
+ 6:07:14.15 Average server FPS: 4575.00 (measured interval: 1 s)
+ 6:07:14.15 Used memory: 3864242 KB
+ 6:07:14.15 Players: 0 in total
+ 6:07:15.14 Average server FPS: 3992.00 (measured interval: 1 s)
+ 6:07:15.14 Used memory: 3865855 KB
+ 6:07:15.14 Players: 0 in total
+ 6:07:16.15 Average server FPS: 2157.00 (measured interval: 1 s)
+ 6:07:16.15 Used memory: 3867539 KB
+ 6:07:16.15 Players: 0 in total
+ 6:07:17.14 Average server FPS: 4907.00 (measured interval: 1 s)
+ 6:07:17.14 Used memory: 3867914 KB
+ 6:07:17.15 Players: 0 in total
+ 6:07:18.15 Average server FPS: 5496.00 (measured interval: 1 s)
+ 6:07:18.15 Used memory: 3868190 KB
+ 6:07:18.15 Players: 0 in total
+ 6:07:19.14 Average server FPS: 3517.00 (measured interval: 1 s)
+ 6:07:19.14 Used memory: 3868863 KB
+ 6:07:19.14 Players: 0 in total
+ 6:07:20.14 Average server FPS: 4581.00 (measured interval: 1 s)
+ 6:07:20.14 Used memory: 3869350 KB
+ 6:07:20.14 Players: 0 in total
+ 6:07:21.14 Average server FPS: 6172.00 (measured interval: 1 s)
+ 6:07:21.14 Used memory: 3869561 KB
+ 6:07:21.14 Players: 0 in total
+ 6:07:22.15 Average server FPS: 1927.00 (measured interval: 1 s)
+ 6:07:22.15 Used memory: 3875481 KB
+ 6:07:22.15 Players: 0 in total
+ 6:07:23.15 Average server FPS: 1058.00 (measured interval: 1 s)
+ 6:07:23.15 Used memory: 3878307 KB
+ 6:07:23.15 Players: 0 in total
+ 6:07:24.15 Average server FPS: 2106.00 (measured interval: 1 s)
+ 6:07:24.15 Used memory: 3878872 KB
+ 6:07:24.15 Players: 0 in total
+ 6:07:25.14 Average server FPS: 4929.00 (measured interval: 1 s)
+ 6:07:25.14 Used memory: 3879115 KB
+ 6:07:25.14 Players: 0 in total
+ 6:07:26.14 Average server FPS: 3909.00 (measured interval: 1 s)
+ 6:07:26.14 Used memory: 3879649 KB
+ 6:07:26.14 Players: 0 in total
+ 6:07:27.15 Average server FPS: 3460.00 (measured interval: 1 s)
+ 6:07:27.15 Used memory: 3879658 KB
+ 6:07:27.15 Players: 0 in total
+ 6:07:28.15 Average server FPS: 7373.00 (measured interval: 1 s)
+ 6:07:28.15 Used memory: 3879670 KB
+ 6:07:28.15 Players: 0 in total
+ 6:07:29.14 Average server FPS: 6985.00 (measured interval: 1 s)
+ 6:07:29.14 Used memory: 3879670 KB
+ 6:07:29.14 Players: 0 in total
+ 6:07:30.15 Average server FPS: 6295.00 (measured interval: 1 s)
+ 6:07:30.15 Used memory: 3882728 KB
+ 6:07:30.15 Players: 0 in total
+ 6:07:31.15 Average server FPS: 1014.00 (measured interval: 1 s)
+ 6:07:31.15 Used memory: 3884315 KB
+ 6:07:31.16 Players: 0 in total
+ 6:07:32.15 Average server FPS: 2436.00 (measured interval: 1 s)
+ 6:07:32.15 Used memory: 3885559 KB
+ 6:07:32.15 Players: 0 in total
+ 6:07:33.15 Average server FPS: 3986.00 (measured interval: 1 s)
+ 6:07:33.15 Used memory: 3886044 KB
+ 6:07:33.15 Players: 0 in total
+ 6:07:34.15 Average server FPS: 5352.00 (measured interval: 1 s)
+ 6:07:34.15 Used memory: 3887390 KB
+ 6:07:34.15 Players: 0 in total
+ 6:07:35.15 Average server FPS: 6151.00 (measured interval: 1 s)
+ 6:07:35.15 Used memory: 3887799 KB
+ 6:07:35.15 Players: 0 in total
+ 6:07:36.15 Average server FPS: 4652.00 (measured interval: 1 s)
+ 6:07:36.15 Used memory: 3888527 KB
+ 6:07:36.15 Players: 0 in total
+ 6:07:37.14 Average server FPS: 5694.00 (measured interval: 1 s)
+ 6:07:37.15 Used memory: 3888662 KB
+ 6:07:37.15 Players: 0 in total
+ 6:07:38.15 Average server FPS: 6669.00 (measured interval: 1 s)
+ 6:07:38.15 Used memory: 3888697 KB
+ 6:07:38.15 Players: 0 in total
+ 6:07:39.15 Average server FPS: 4216.00 (measured interval: 1 s)
+ 6:07:39.15 Used memory: 3889392 KB
+ 6:07:39.15 Players: 0 in total
+ 6:07:40.15 Average server FPS: 4330.00 (measured interval: 1 s)
+ 6:07:40.15 Used memory: 3891652 KB
+ 6:07:40.15 Players: 0 in total
+ 6:07:41.14 Average server FPS: 3553.00 (measured interval: 1 s)
+ 6:07:41.14 Used memory: 3892026 KB
+ 6:07:41.14 Players: 0 in total
+ 6:07:42.15 Average server FPS: 3534.00 (measured interval: 1 s)
+ 6:07:42.15 Used memory: 3895049 KB
+ 6:07:42.15 Players: 0 in total
+ 6:07:43.15 Average server FPS: 2945.00 (measured interval: 1 s)
+ 6:07:43.15 Used memory: 3898539 KB
+ 6:07:43.15 Players: 0 in total
+ 6:07:44.45 Average server FPS: 951.46 (measured interval: 1 s)
+ 6:07:44.45 Used memory: 3910813 KB
+ 6:07:44.45 Players: 0 in total
+ 6:07:45.45 Average server FPS: 843.00 (measured interval: 1 s)
+ 6:07:45.45 Used memory: 3912339 KB
+ 6:07:45.45 Players: 0 in total
+ 6:07:46.45 Average server FPS: 4504.00 (measured interval: 1 s)
+ 6:07:46.45 Used memory: 3912575 KB
+ 6:07:46.45 Players: 0 in total
+ 6:07:47.45 Average server FPS: 4915.00 (measured interval: 1 s)
+ 6:07:47.45 Used memory: 3912689 KB
+ 6:07:47.45 Players: 0 in total
+ 6:07:48.45 Average server FPS: 7071.00 (measured interval: 1 s)
+ 6:07:48.45 Used memory: 3912763 KB
+ 6:07:48.45 Players: 0 in total
+ 6:07:49.45 Average server FPS: 3623.00 (measured interval: 1 s)
+ 6:07:49.45 Used memory: 3914184 KB
+ 6:07:49.45 Players: 0 in total
+ 6:07:50.44 Average server FPS: 2019.00 (measured interval: 1 s)
+ 6:07:50.44 Used memory: 3916421 KB
+ 6:07:50.44 Players: 0 in total
+ 6:07:51.45 Average server FPS: 5412.00 (measured interval: 1 s)
+ 6:07:51.45 Used memory: 3916885 KB
+ 6:07:51.45 Players: 0 in total
+ 6:07:52.45 Average server FPS: 6626.00 (measured interval: 1 s)
+ 6:07:52.45 Used memory: 3916954 KB
+ 6:07:52.45 Players: 0 in total
+ 6:07:53.44 Average server FPS: 6633.00 (measured interval: 1 s)
+ 6:07:53.44 Used memory: 3916954 KB
+ 6:07:53.44 Players: 0 in total
+ 6:07:54.45 Average server FPS: 6605.00 (measured interval: 1 s)
+ 6:07:54.45 Used memory: 3916954 KB
+ 6:07:54.45 Players: 0 in total
+ 6:07:55.45 Average server FPS: 2743.00 (measured interval: 1 s)
+ 6:07:55.45 Used memory: 3919436 KB
+ 6:07:55.45 Players: 0 in total
+ 6:07:56.45 Average server FPS: 4740.00 (measured interval: 1 s)
+ 6:07:56.45 Used memory: 3919817 KB
+ 6:07:56.45 Players: 0 in total
+ 6:07:57.45 Average server FPS: 2943.00 (measured interval: 1 s)
+ 6:07:57.45 Used memory: 3921703 KB
+ 6:07:57.45 Players: 0 in total
+ 6:07:58.45 Average server FPS: 5721.00 (measured interval: 1 s)
+ 6:07:58.45 Used memory: 3921927 KB
+ 6:07:58.45 Players: 0 in total
+ 6:07:59.45 Average server FPS: 6386.00 (measured interval: 1 s)
+ 6:07:59.45 Used memory: 3921960 KB
+ 6:07:59.45 Players: 0 in total
+ 6:08:00.45 Average server FPS: 6253.00 (measured interval: 1 s)
+ 6:08:00.45 Used memory: 3921988 KB
+ 6:08:00.45 Players: 0 in total
+ 6:08:01.45 Average server FPS: 5280.00 (measured interval: 1 s)
+ 6:08:01.45 Used memory: 3922146 KB
+ 6:08:01.45 Players: 0 in total
+ 6:08:02.45 Average server FPS: 3406.00 (measured interval: 1 s)
+ 6:08:02.45 Used memory: 3922263 KB
+ 6:08:02.45 Players: 0 in total
+ 6:08:03.45 Average server FPS: 3027.00 (measured interval: 1 s)
+ 6:08:03.45 Used memory: 3922929 KB
+ 6:08:03.45 Players: 0 in total
+ 6:08:04.45 Average server FPS: 4156.00 (measured interval: 1 s)
+ 6:08:04.45 Used memory: 3925244 KB
+ 6:08:04.45 Players: 0 in total
+ 6:08:05.46 Average server FPS: 2061.00 (measured interval: 1 s)
+ 6:08:05.46 Used memory: 3928838 KB
+ 6:08:05.46 Players: 0 in total
+ 6:08:06.49 Average server FPS: 438.68 (measured interval: 1 s)
+ 6:08:06.49 Used memory: 3934101 KB
+ 6:08:06.49 Players: 0 in total
+ 6:08:07.48 Average server FPS: 2037.00 (measured interval: 1 s)
+ 6:08:07.48 Used memory: 3935037 KB
+ 6:08:07.48 Players: 0 in total
+ 6:08:08.48 Average server FPS: 3283.00 (measured interval: 1 s)
+ 6:08:08.48 Used memory: 3941044 KB
+ 6:08:08.48 Players: 0 in total
+ 6:08:09.48 Average server FPS: 952.00 (measured interval: 1 s)
+ 6:08:09.48 Used memory: 3942364 KB
+ 6:08:09.48 Players: 0 in total
+ 6:08:10.48 Average server FPS: 2750.00 (measured interval: 1 s)
+ 6:08:10.48 Used memory: 3944982 KB
+ 6:08:10.48 Players: 0 in total
+ 6:08:11.49 Average server FPS: 1797.20 (measured interval: 1 s)
+ 6:08:11.50 Used memory: 3945827 KB
+ 6:08:11.50 Players: 0 in total
+ 6:08:12.52 Average server FPS: 4916.25 (measured interval: 1 s)
+ 6:08:12.52 Used memory: 3948524 KB
+ 6:08:12.52 Players: 0 in total
+ 6:08:13.107 Average server FPS: 1084.44 (measured interval: 1 s)
+ 6:08:13.107 Used memory: 3948997 KB
+ 6:08:13.107 Players: 0 in total
+ 6:08:14.106 Average server FPS: 5770.00 (measured interval: 1 s)
+ 6:08:14.107 Used memory: 3949154 KB
+ 6:08:14.107 Players: 0 in total
+ 6:08:15.106 Average server FPS: 6033.00 (measured interval: 1 s)
+ 6:08:15.106 Used memory: 3951069 KB
+ 6:08:15.106 Players: 0 in total
+ 6:08:16.106 Average server FPS: 3861.00 (measured interval: 1 s)
+ 6:08:16.106 Used memory: 3952199 KB
+ 6:08:16.106 Players: 0 in total
+ 6:08:17.106 Average server FPS: 5156.00 (measured interval: 1 s)
+ 6:08:17.106 Used memory: 3953860 KB
+ 6:08:17.106 Players: 0 in total
+ 6:08:18.106 Average server FPS: 4174.00 (measured interval: 1 s)
+ 6:08:18.106 Used memory: 3954941 KB
+ 6:08:18.106 Players: 0 in total
+ 6:08:19.106 Average server FPS: 2809.00 (measured interval: 1 s)
+ 6:08:19.106 Used memory: 3955857 KB
+ 6:08:19.106 Players: 0 in total
+ 6:08:20.106 Average server FPS: 3732.00 (measured interval: 1 s)
+ 6:08:20.106 Used memory: 3958227 KB
+ 6:08:20.106 Players: 0 in total
+ 6:08:21.106 Average server FPS: 4427.00 (measured interval: 1 s)
+ 6:08:21.106 Used memory: 3958944 KB
+ 6:08:21.106 Players: 0 in total
+ 6:08:22.106 Average server FPS: 5392.00 (measured interval: 1 s)
+ 6:08:22.107 Used memory: 3960925 KB
+ 6:08:22.107 Players: 0 in total
+ 6:08:23.106 Average server FPS: 3674.00 (measured interval: 1 s)
+ 6:08:23.106 Used memory: 3964130 KB
+ 6:08:23.106 Players: 0 in total
+ 6:08:24.109 Average server FPS: 4355.93 (measured interval: 1 s)
+ 6:08:24.109 Used memory: 3966790 KB
+ 6:08:24.109 Players: 0 in total
+ 6:08:25.110 Average server FPS: 2971.03 (measured interval: 1 s)
+ 6:08:25.110 Used memory: 3967215 KB
+ 6:08:25.110 Players: 0 in total
+ 6:08:26.111 Average server FPS: 4507.00 (measured interval: 1 s)
+ 6:08:26.111 Used memory: 3967335 KB
+ 6:08:26.111 Players: 0 in total
+ 6:08:27.110 Average server FPS: 6169.00 (measured interval: 1 s)
+ 6:08:27.110 Used memory: 3967450 KB
+ 6:08:27.110 Players: 0 in total
+ 6:08:28.111 Average server FPS: 6966.00 (measured interval: 1 s)
+ 6:08:28.111 Used memory: 3967682 KB
+ 6:08:28.111 Players: 0 in total
+ 6:08:29.111 Average server FPS: 7057.00 (measured interval: 1 s)
+ 6:08:29.111 Used memory: 3967747 KB
+ 6:08:29.111 Players: 0 in total
+ 6:08:30.110 Average server FPS: 6964.00 (measured interval: 1 s)
+ 6:08:30.110 Used memory: 3967747 KB
+ 6:08:30.110 Players: 0 in total
+ 6:08:31.110 Average server FPS: 6880.00 (measured interval: 1 s)
+ 6:08:31.110 Used memory: 3967747 KB
+ 6:08:31.110 Players: 0 in total
+ 6:08:32.110 Average server FPS: 6363.00 (measured interval: 1 s)
+ 6:08:32.110 Used memory: 3967747 KB
+ 6:08:32.110 Players: 0 in total
+ 6:08:33.111 Average server FPS: 7092.00 (measured interval: 1 s)
+ 6:08:33.111 Used memory: 3967747 KB
+ 6:08:33.111 Players: 0 in total
+ 6:08:34.110 Average server FPS: 6963.00 (measured interval: 1 s)
+ 6:08:34.111 Used memory: 3967747 KB
+ 6:08:34.111 Players: 0 in total
+ 6:08:35.110 Average server FPS: 6354.00 (measured interval: 1 s)
+ 6:08:35.110 Used memory: 3967747 KB
+ 6:08:35.110 Players: 0 in total
+ 6:08:36.110 Average server FPS: 6338.00 (measured interval: 1 s)
+ 6:08:36.110 Used memory: 3967747 KB
+ 6:08:36.110 Players: 0 in total
+ 6:08:37.111 Average server FPS: 6848.00 (measured interval: 1 s)
+ 6:08:37.111 Used memory: 3967747 KB
+ 6:08:37.111 Players: 0 in total
+ 6:08:38.111 Average server FPS: 6666.00 (measured interval: 1 s)
+ 6:08:38.111 Used memory: 3967747 KB
+ 6:08:38.111 Players: 0 in total
+ 6:08:39.110 Average server FPS: 5788.00 (measured interval: 1 s)
+ 6:08:39.110 Used memory: 3972351 KB
+ 6:08:39.110 Players: 0 in total
+ 6:08:40.111 Average server FPS: 981.00 (measured interval: 1 s)
+ 6:08:40.111 Used memory: 3981681 KB
+ 6:08:40.111 Players: 0 in total
+ 6:08:41.111 Average server FPS: 1307.00 (measured interval: 1 s)
+ 6:08:41.111 Used memory: 3982504 KB
+ 6:08:41.111 Players: 0 in total
+ 6:08:42.111 Average server FPS: 5200.00 (measured interval: 1 s)
+ 6:08:42.111 Used memory: 3984456 KB
+ 6:08:42.111 Players: 0 in total
+ 6:08:43.110 Average server FPS: 5040.00 (measured interval: 1 s)
+ 6:08:43.110 Used memory: 3988394 KB
+ 6:08:43.110 Players: 0 in total
+ 6:08:44.111 Average server FPS: 1326.00 (measured interval: 1 s)
+ 6:08:44.111 Used memory: 3991350 KB
+ 6:08:44.111 Players: 0 in total
+ 6:08:45.111 Average server FPS: 4717.00 (measured interval: 1 s)
+ 6:08:45.111 Used memory: 3992396 KB
+ 6:08:45.111 Players: 0 in total
+ 6:08:46.111 Average server FPS: 4832.00 (measured interval: 1 s)
+ 6:08:46.111 Used memory: 3997171 KB
+ 6:08:46.111 Players: 0 in total
+ 6:08:47.111 Average server FPS: 1445.00 (measured interval: 1 s)
+ 6:08:47.111 Used memory: 3997747 KB
+ 6:08:47.111 Players: 0 in total
+ 6:08:48.111 Average server FPS: 6355.00 (measured interval: 1 s)
+ 6:08:48.111 Used memory: 3998510 KB
+ 6:08:48.111 Players: 0 in total
+ 6:08:49.110 Average server FPS: 6785.00 (measured interval: 1 s)
+ 6:08:49.110 Used memory: 3998862 KB
+ 6:08:49.110 Players: 0 in total
+ 6:08:50.110 Average server FPS: 6563.00 (measured interval: 1 s)
+ 6:08:50.110 Used memory: 4000115 KB
+ 6:08:50.110 Players: 0 in total
+ 6:08:51.110 Average server FPS: 6654.00 (measured interval: 1 s)
+ 6:08:51.110 Used memory: 4000302 KB
+ 6:08:51.110 Players: 0 in total
+ 6:08:52.110 Average server FPS: 6748.00 (measured interval: 1 s)
+ 6:08:52.110 Used memory: 4000354 KB
+ 6:08:52.110 Players: 0 in total
+ 6:08:53.111 Average server FPS: 6716.00 (measured interval: 1 s)
+ 6:08:53.111 Used memory: 4000501 KB
+ 6:08:53.111 Players: 0 in total
+ 6:08:54.111 Average server FPS: 5946.00 (measured interval: 1 s)
+ 6:08:54.111 Used memory: 4000522 KB
+ 6:08:54.111 Players: 0 in total
+ 6:08:55.111 Average server FPS: 3231.00 (measured interval: 1 s)
+ 6:08:55.111 Used memory: 4003431 KB
+ 6:08:55.111 Players: 0 in total
+ 6:08:56.111 Average server FPS: 870.00 (measured interval: 1 s)
+ 6:08:56.111 Used memory: 4006868 KB
+ 6:08:56.111 Players: 0 in total
+ 6:08:57.111 Average server FPS: 2152.00 (measured interval: 1 s)
+ 6:08:57.111 Used memory: 4008936 KB
+ 6:08:57.111 Players: 0 in total
+ 6:08:58.111 Average server FPS: 4817.00 (measured interval: 1 s)
+ 6:08:58.111 Used memory: 4009653 KB
+ 6:08:58.111 Players: 0 in total
+ 6:08:59.111 Average server FPS: 3662.00 (measured interval: 1 s)
+ 6:08:59.111 Used memory: 4014945 KB
+ 6:08:59.111 Players: 0 in total
+ 6:09:00.111 Average server FPS: 1233.00 (measured interval: 1 s)
+ 6:09:00.111 Used memory: 4018398 KB
+ 6:09:00.111 Players: 0 in total
+ 6:09:01.110 Average server FPS: 3767.00 (measured interval: 1 s)
+ 6:09:01.110 Used memory: 4018904 KB
+ 6:09:01.111 Players: 0 in total
+ 6:09:02.111 Average server FPS: 5004.00 (measured interval: 1 s)
+ 6:09:02.111 Used memory: 4018996 KB
+ 6:09:02.111 Players: 0 in total
+ 6:09:03.111 Average server FPS: 5243.00 (measured interval: 1 s)
+ 6:09:03.111 Used memory: 4021198 KB
+ 6:09:03.111 Players: 0 in total
+ 6:09:04.111 Average server FPS: 1802.00 (measured interval: 1 s)
+ 6:09:04.111 Used memory: 4022364 KB
+ 6:09:04.111 Players: 0 in total
+ 6:09:05.111 Average server FPS: 3613.00 (measured interval: 1 s)
+ 6:09:05.111 Used memory: 4025100 KB
+ 6:09:05.111 Players: 0 in total
+ 6:09:06.111 Average server FPS: 2134.00 (measured interval: 1 s)
+ 6:09:06.111 Used memory: 4025487 KB
+ 6:09:06.111 Players: 0 in total
+ 6:09:07.110 Average server FPS: 4049.00 (measured interval: 1 s)
+ 6:09:07.110 Used memory: 4026033 KB
+ 6:09:07.111 Players: 0 in total
+ 6:09:08.111 Average server FPS: 5336.00 (measured interval: 1 s)
+ 6:09:08.111 Used memory: 4026071 KB
+ 6:09:08.111 Players: 0 in total
+ 6:09:09.111 Average server FPS: 3574.00 (measured interval: 1 s)
+ 6:09:09.111 Used memory: 4027777 KB
+ 6:09:09.111 Players: 0 in total
+ 6:09:10.111 Average server FPS: 4890.00 (measured interval: 1 s)
+ 6:09:10.111 Used memory: 4027792 KB
+ 6:09:10.111 Players: 0 in total
+ 6:09:11.115 Average server FPS: 3614.16 (measured interval: 1 s)
+ 6:09:11.115 Used memory: 4032489 KB
+ 6:09:11.115 Players: 0 in total
+ 6:09:12.119 Average server FPS: 2005.98 (measured interval: 1 s)
+ 6:09:12.119 Used memory: 4032696 KB
+ 6:09:12.119 Players: 0 in total
+ 6:09:13.119 Average server FPS: 5424.00 (measured interval: 1 s)
+ 6:09:13.119 Used memory: 4034885 KB
+ 6:09:13.119 Players: 0 in total
+ 6:09:14.126 Average server FPS: 1901.69 (measured interval: 1 s)
+ 6:09:14.126 Used memory: 4035679 KB
+ 6:09:14.126 Players: 0 in total
+ 6:09:15.125 Average server FPS: 4590.00 (measured interval: 1 s)
+ 6:09:15.125 Used memory: 4037746 KB
+ 6:09:15.125 Players: 0 in total
+ 6:09:16.125 Average server FPS: 2607.00 (measured interval: 1 s)
+ 6:09:16.125 Used memory: 4040977 KB
+ 6:09:16.125 Players: 0 in total
+ 6:09:17.126 Average server FPS: 1436.00 (measured interval: 1 s)
+ 6:09:17.126 Used memory: 4046306 KB
+ 6:09:17.126 Players: 0 in total
+ 6:09:18.125 Average server FPS: 3628.00 (measured interval: 1 s)
+ 6:09:18.125 Used memory: 4046859 KB
+ 6:09:18.125 Players: 0 in total
+ 6:09:19.126 Average server FPS: 4024.00 (measured interval: 1 s)
+ 6:09:19.126 Used memory: 4050591 KB
+ 6:09:19.126 Players: 0 in total
+ 6:09:20.251 Average server FPS: 521.31 (measured interval: 1 s)
+ 6:09:20.251 Used memory: 4061695 KB
+ 6:09:20.251 Players: 0 in total
+ 6:09:21.266 Average server FPS: 527.61 (measured interval: 1 s)
+ 6:09:21.266 Used memory: 4062087 KB
+ 6:09:21.266 Players: 0 in total
+ 6:09:22.265 Average server FPS: 3804.00 (measured interval: 1 s)
+ 6:09:22.265 Used memory: 4064729 KB
+ 6:09:22.265 Players: 0 in total
+ 6:09:23.265 Average server FPS: 3182.00 (measured interval: 1 s)
+ 6:09:23.265 Used memory: 4065506 KB
+ 6:09:23.265 Players: 0 in total
+ 6:09:24.265 Average server FPS: 4774.00 (measured interval: 1 s)
+ 6:09:24.265 Used memory: 4066217 KB
+ 6:09:24.265 Players: 0 in total
+ 6:09:25.265 Average server FPS: 2495.00 (measured interval: 1 s)
+ 6:09:25.265 Used memory: 4067986 KB
+ 6:09:25.265 Players: 0 in total
+ 6:09:26.265 Average server FPS: 3828.00 (measured interval: 1 s)
+ 6:09:26.265 Used memory: 4068848 KB
+ 6:09:26.265 Players: 0 in total
+ 6:09:27.266 Average server FPS: 2870.00 (measured interval: 1 s)
+ 6:09:27.266 Used memory: 4071172 KB
+ 6:09:27.266 Players: 0 in total
+ 6:09:28.265 Average server FPS: 3555.00 (measured interval: 1 s)
+ 6:09:28.265 Used memory: 4073450 KB
+ 6:09:28.265 Players: 0 in total
+ 6:09:29.265 Average server FPS: 4861.00 (measured interval: 1 s)
+ 6:09:29.265 Used memory: 4074020 KB
+ 6:09:29.265 Players: 0 in total
+ 6:09:30.265 Average server FPS: 5176.00 (measured interval: 1 s)
+ 6:09:30.265 Used memory: 4074138 KB
+ 6:09:30.265 Players: 0 in total
+ 6:09:31.265 Average server FPS: 6550.00 (measured interval: 1 s)
+ 6:09:31.265 Used memory: 4074162 KB
+ 6:09:31.265 Players: 0 in total
+ 6:09:32.265 Average server FPS: 6834.00 (measured interval: 1 s)
+ 6:09:32.265 Used memory: 4074159 KB
+ 6:09:32.265 Players: 0 in total
+ 6:09:33.267 Average server FPS: 1536.46 (measured interval: 1 s)
+ 6:09:33.267 Used memory: 4077977 KB
+ 6:09:33.267 Players: 0 in total
+ 6:09:34.266 Average server FPS: 3952.00 (measured interval: 1 s)
+ 6:09:34.266 Used memory: 4078448 KB
+ 6:09:34.266 Players: 0 in total
+ 6:09:35.267 Average server FPS: 1206.00 (measured interval: 1 s)
+ 6:09:35.267 Used memory: 4078693 KB
+ 6:09:35.267 Players: 0 in total
+ 6:09:36.268 Average server FPS: 587.41 (measured interval: 1 s)
+ 6:09:36.268 Used memory: 4083908 KB
+ 6:09:36.268 Players: 0 in total
+ 6:09:37.267 Average server FPS: 602.00 (measured interval: 1 s)
+ 6:09:37.267 Used memory: 4087082 KB
+ 6:09:37.267 Players: 0 in total
+ 6:09:38.268 Average server FPS: 665.00 (measured interval: 1 s)
+ 6:09:38.268 Used memory: 4088171 KB
+ 6:09:38.268 Players: 0 in total
+ 6:09:39.268 Average server FPS: 779.00 (measured interval: 1 s)
+ 6:09:39.268 Used memory: 4090437 KB
+ 6:09:39.268 Players: 0 in total
+ 6:09:40.267 Average server FPS: 2017.00 (measured interval: 1 s)
+ 6:09:40.267 Used memory: 4093469 KB
+ 6:09:40.267 Players: 0 in total
+ 6:09:41.267 Average server FPS: 3175.00 (measured interval: 1 s)
+ 6:09:41.267 Used memory: 4093896 KB
+ 6:09:41.267 Players: 0 in total
+ 6:09:42.267 Average server FPS: 1440.00 (measured interval: 1 s)
+ 6:09:42.267 Used memory: 4097136 KB
+ 6:09:42.267 Players: 0 in total
+ 6:09:43.267 Average server FPS: 3031.00 (measured interval: 1 s)
+ 6:09:43.267 Used memory: 4097406 KB
+ 6:09:43.267 Players: 0 in total
+ 6:09:44.268 Average server FPS: 3989.00 (measured interval: 1 s)
+ 6:09:44.268 Used memory: 4097430 KB
+ 6:09:44.268 Players: 0 in total
+ 6:09:45.267 Average server FPS: 3825.00 (measured interval: 1 s)
+ 6:09:45.267 Used memory: 4097428 KB
+ 6:09:45.267 Players: 0 in total
+ 6:09:46.269 Average server FPS: 1456.54 (measured interval: 1 s)
+ 6:09:46.269 Used memory: 4101995 KB
+ 6:09:46.269 Players: 0 in total
+ 6:09:47.269 Average server FPS: 856.00 (measured interval: 1 s)
+ 6:09:47.269 Used memory: 4103225 KB
+ 6:09:47.269 Players: 0 in total
+ 6:09:48.269 Average server FPS: 1080.00 (measured interval: 1 s)
+ 6:09:48.269 Used memory: 4106523 KB
+ 6:09:48.269 Players: 0 in total
+ 6:09:49.269 Average server FPS: 894.00 (measured interval: 1 s)
+ 6:09:49.269 Used memory: 4109007 KB
+ 6:09:49.269 Players: 0 in total
+ 6:09:50.269 Average server FPS: 2498.00 (measured interval: 1 s)
+ 6:09:50.269 Used memory: 4109528 KB
+ 6:09:50.269 Players: 0 in total
+ 6:09:51.268 Average server FPS: 1582.00 (measured interval: 1 s)
+ 6:09:51.268 Used memory: 4112201 KB
+ 6:09:51.268 Players: 0 in total
+ 6:09:52.269 Average server FPS: 2112.00 (measured interval: 1 s)
+ 6:09:52.269 Used memory: 4113420 KB
+ 6:09:52.269 Players: 0 in total
+ 6:09:53.269 Average server FPS: 1961.00 (measured interval: 1 s)
+ 6:09:53.269 Used memory: 4116131 KB
+ 6:09:53.269 Players: 0 in total
+ 6:09:54.269 Average server FPS: 1086.00 (measured interval: 1 s)
+ 6:09:54.269 Used memory: 4121773 KB
+ 6:09:54.269 Players: 0 in total
+ 6:09:55.269 Average server FPS: 2715.00 (measured interval: 1 s)
+ 6:09:55.269 Used memory: 4122996 KB
+ 6:09:55.269 Players: 0 in total
+ 6:09:56.269 Average server FPS: 1464.00 (measured interval: 1 s)
+ 6:09:56.269 Used memory: 4124959 KB
+ 6:09:56.269 Players: 0 in total
+ 6:09:57.270 Average server FPS: 3279.72 (measured interval: 1 s)
+ 6:09:57.270 Used memory: 4128066 KB
+ 6:09:57.270 Players: 0 in total
+ 6:09:58.282 Average server FPS: 836.96 (measured interval: 1 s)
+ 6:09:58.282 Used memory: 4131393 KB
+ 6:09:58.282 Players: 0 in total
+ 6:09:59.282 Average server FPS: 469.00 (measured interval: 1 s)
+ 6:09:59.282 Used memory: 4136710 KB
+ 6:09:59.282 Players: 0 in total
+ 6:10:00.282 Average server FPS: 1445.00 (measured interval: 1 s)
+ 6:10:00.283 Used memory: 4137330 KB
+ 6:10:00.283 Players: 0 in total
+ 6:10:01.281 Average server FPS: 2357.00 (measured interval: 1 s)
+ 6:10:01.281 Used memory: 4138109 KB
+ 6:10:01.281 Players: 0 in total
+ 6:10:02.283 Average server FPS: 1762.00 (measured interval: 1 s)
+ 6:10:02.283 Used memory: 4140796 KB
+ 6:10:02.283 Players: 0 in total
+ 6:10:03.285 Average server FPS: 1811.57 (measured interval: 1 s)
+ 6:10:03.285 Used memory: 4142215 KB
+ 6:10:03.285 Players: 0 in total
+ 6:10:04.286 Average server FPS: 3242.76 (measured interval: 1 s)
+ 6:10:04.286 Used memory: 4143108 KB
+ 6:10:04.286 Players: 0 in total
+ 6:10:05.286 Average server FPS: 2149.00 (measured interval: 1 s)
+ 6:10:05.286 Used memory: 4144887 KB
+ 6:10:05.286 Players: 0 in total
+ 6:10:06.286 Average server FPS: 2543.00 (measured interval: 1 s)
+ 6:10:06.286 Used memory: 4145142 KB
+ 6:10:06.286 Players: 0 in total
+ 6:10:07.285 Average server FPS: 4052.00 (measured interval: 1 s)
+ 6:10:07.285 Used memory: 4145419 KB
+ 6:10:07.285 Players: 0 in total
+ 6:10:08.286 Average server FPS: 3452.00 (measured interval: 1 s)
+ 6:10:08.286 Used memory: 4146001 KB
+ 6:10:08.286 Players: 0 in total
+ 6:10:09.286 Average server FPS: 3690.00 (measured interval: 1 s)
+ 6:10:09.286 Used memory: 4148446 KB
+ 6:10:09.286 Players: 0 in total
+ 6:10:10.286 Average server FPS: 2126.00 (measured interval: 1 s)
+ 6:10:10.286 Used memory: 4149019 KB
+ 6:10:10.286 Players: 0 in total
+ 6:10:11.286 Average server FPS: 2375.00 (measured interval: 1 s)
+ 6:10:11.286 Used memory: 4150671 KB
+ 6:10:11.286 Players: 0 in total
+ 6:10:12.286 Average server FPS: 1552.00 (measured interval: 1 s)
+ 6:10:12.286 Used memory: 4150895 KB
+ 6:10:12.286 Players: 0 in total
+ 6:10:13.287 Average server FPS: 1829.17 (measured interval: 1 s)
+ 6:10:13.287 Used memory: 4152201 KB
+ 6:10:13.287 Players: 0 in total
+ 6:10:14.287 Average server FPS: 1503.00 (measured interval: 1 s)
+ 6:10:14.287 Used memory: 4152430 KB
+ 6:10:14.287 Players: 0 in total
+ 6:10:15.288 Average server FPS: 2253.75 (measured interval: 1 s)
+ 6:10:15.288 Used memory: 4155158 KB
+ 6:10:15.288 Players: 0 in total
+ 6:10:16.288 Average server FPS: 1214.00 (measured interval: 1 s)
+ 6:10:16.288 Used memory: 4156961 KB
+ 6:10:16.288 Players: 0 in total
+ 6:10:17.288 Average server FPS: 1828.00 (measured interval: 1 s)
+ 6:10:17.288 Used memory: 4157491 KB
+ 6:10:17.288 Players: 0 in total
+ 6:10:18.287 Average server FPS: 2001.00 (measured interval: 1 s)
+ 6:10:18.288 Used memory: 4159306 KB
+ 6:10:18.288 Players: 0 in total
+ 6:10:19.288 Average server FPS: 1304.00 (measured interval: 1 s)
+ 6:10:19.288 Used memory: 4162551 KB
+ 6:10:19.288 Players: 0 in total
+ 6:10:20.288 Average server FPS: 1415.00 (measured interval: 1 s)
+ 6:10:20.288 Used memory: 4163468 KB
+ 6:10:20.288 Players: 0 in total
+ 6:10:21.289 Average server FPS: 2112.00 (measured interval: 1 s)
+ 6:10:21.289 Used memory: 4163888 KB
+ 6:10:21.289 Players: 0 in total
+ 6:10:22.287 Average server FPS: 3484.00 (measured interval: 1 s)
+ 6:10:22.287 Used memory: 4164013 KB
+ 6:10:22.287 Players: 0 in total
+ 6:10:23.288 Average server FPS: 3378.00 (measured interval: 1 s)
+ 6:10:23.288 Used memory: 4164146 KB
+ 6:10:23.288 Players: 0 in total
+ 6:10:24.288 Average server FPS: 3351.00 (measured interval: 1 s)
+ 6:10:24.288 Used memory: 4164225 KB
+ 6:10:24.288 Players: 0 in total
+ 6:10:25.288 Average server FPS: 3194.00 (measured interval: 1 s)
+ 6:10:25.288 Used memory: 4164406 KB
+ 6:10:25.288 Players: 0 in total
+ 6:10:26.288 Average server FPS: 2631.00 (measured interval: 1 s)
+ 6:10:26.288 Used memory: 4164404 KB
+ 6:10:26.288 Players: 0 in total
+ 6:10:27.288 Average server FPS: 2986.00 (measured interval: 1 s)
+ 6:10:27.288 Used memory: 4165704 KB
+ 6:10:27.288 Players: 0 in total
+ 6:10:28.288 Average server FPS: 2131.00 (measured interval: 1 s)
+ 6:10:28.288 Used memory: 4165928 KB
+ 6:10:28.288 Players: 0 in total
+ 6:10:29.288 Average server FPS: 2976.00 (measured interval: 1 s)
+ 6:10:29.288 Used memory: 4165983 KB
+ 6:10:29.288 Players: 0 in total
+ 6:10:30.288 Average server FPS: 2846.00 (measured interval: 1 s)
+ 6:10:30.288 Used memory: 4166095 KB
+ 6:10:30.288 Players: 0 in total
+ 6:10:31.288 Average server FPS: 2782.00 (measured interval: 1 s)
+ 6:10:31.288 Used memory: 4167150 KB
+ 6:10:31.288 Players: 0 in total
+ 6:10:32.288 Average server FPS: 2064.00 (measured interval: 1 s)
+ 6:10:32.288 Used memory: 4167329 KB
+ 6:10:32.288 Players: 0 in total
+ 6:10:33.288 Average server FPS: 2049.00 (measured interval: 1 s)
+ 6:10:33.288 Used memory: 4170642 KB
+ 6:10:33.288 Players: 0 in total
+ 6:10:34.289 Average server FPS: 1051.95 (measured interval: 1 s)
+ 6:10:34.289 Used memory: 4175357 KB
+ 6:10:34.289 Players: 0 in total
+ 6:10:35.302 Average server FPS: 615.99 (measured interval: 1 s)
+ 6:10:35.302 Used memory: 4175731 KB
+ 6:10:35.302 Players: 0 in total
+ 6:10:36.302 Average server FPS: 2734.00 (measured interval: 1 s)
+ 6:10:36.302 Used memory: 4176802 KB
+ 6:10:36.302 Players: 0 in total
+ 6:10:37.303 Average server FPS: 2871.00 (measured interval: 1 s)
+ 6:10:37.303 Used memory: 4177160 KB
+ 6:10:37.303 Players: 0 in total
+ 6:10:38.302 Average server FPS: 2613.00 (measured interval: 1 s)
+ 6:10:38.302 Used memory: 4177156 KB
+ 6:10:38.302 Players: 0 in total
+ 6:10:39.302 Average server FPS: 2795.00 (measured interval: 1 s)
+ 6:10:39.302 Used memory: 4177156 KB
+ 6:10:39.302 Players: 0 in total
+ 6:10:40.302 Average server FPS: 3046.00 (measured interval: 1 s)
+ 6:10:40.303 Used memory: 4177156 KB
+ 6:10:40.303 Players: 0 in total
+ 6:10:41.303 Average server FPS: 3363.00 (measured interval: 1 s)
+ 6:10:41.303 Used memory: 4177222 KB
+ 6:10:41.303 Players: 0 in total
+ 6:10:42.302 Average server FPS: 3339.00 (measured interval: 1 s)
+ 6:10:42.302 Used memory: 4177228 KB
+ 6:10:42.302 Players: 0 in total
+ 6:10:43.302 Average server FPS: 3176.00 (measured interval: 1 s)
+ 6:10:43.302 Used memory: 4177231 KB
+ 6:10:43.302 Players: 0 in total
+ 6:10:44.303 Average server FPS: 3207.00 (measured interval: 1 s)
+ 6:10:44.303 Used memory: 4177228 KB
+ 6:10:44.303 Players: 0 in total
+ 6:10:45.302 Average server FPS: 3526.00 (measured interval: 1 s)
+ 6:10:45.302 Used memory: 4177229 KB
+ 6:10:45.302 Players: 0 in total
+ 6:10:46.302 Average server FPS: 3584.00 (measured interval: 1 s)
+ 6:10:46.302 Used memory: 4177229 KB
+ 6:10:46.302 Players: 0 in total
+ 6:10:47.302 Average server FPS: 3107.00 (measured interval: 1 s)
+ 6:10:47.302 Used memory: 4177229 KB
+ 6:10:47.302 Players: 0 in total
+ 6:10:48.303 Average server FPS: 3508.00 (measured interval: 1 s)
+ 6:10:48.303 Used memory: 4177229 KB
+ 6:10:48.303 Players: 0 in total
+ 6:10:49.303 Average server FPS: 3577.00 (measured interval: 1 s)
+ 6:10:49.303 Used memory: 4177233 KB
+ 6:10:49.303 Players: 0 in total
+ 6:10:50.303 Average server FPS: 3373.00 (measured interval: 1 s)
+ 6:10:50.303 Used memory: 4177230 KB
+ 6:10:50.303 Players: 0 in total
+ 6:10:51.302 Average server FPS: 3693.00 (measured interval: 1 s)
+ 6:10:51.302 Used memory: 4177230 KB
+ 6:10:51.302 Players: 0 in total
+ 6:10:52.302 Average server FPS: 3706.00 (measured interval: 1 s)
+ 6:10:52.302 Used memory: 4177230 KB
+ 6:10:52.302 Players: 0 in total
+ 6:10:53.302 Average server FPS: 3324.00 (measured interval: 1 s)
+ 6:10:53.302 Used memory: 4177230 KB
+ 6:10:53.302 Players: 0 in total
+ 6:10:54.303 Average server FPS: 2420.00 (measured interval: 1 s)
+ 6:10:54.303 Used memory: 4177230 KB
+ 6:10:54.303 Players: 0 in total
+ 6:10:55.302 Average server FPS: 3227.00 (measured interval: 1 s)
+ 6:10:55.302 Used memory: 4177289 KB
+ 6:10:55.302 Players: 0 in total
+ 6:10:56.303 Average server FPS: 911.00 (measured interval: 1 s)
+ 6:10:56.303 Used memory: 4185260 KB
+ 6:10:56.303 Players: 0 in total
+ 6:10:57.302 Average server FPS: 2951.00 (measured interval: 1 s)
+ 6:10:57.302 Used memory: 4185172 KB
+ 6:10:57.302 Players: 0 in total
+ 6:10:58.303 Average server FPS: 3717.00 (measured interval: 1 s)
+ 6:10:58.303 Used memory: 4185172 KB
+ 6:10:58.303 Players: 0 in total
+ 6:10:59.302 Average server FPS: 3529.00 (measured interval: 1 s)
+ 6:10:59.302 Used memory: 4185181 KB
+ 6:10:59.302 Players: 0 in total
+ 6:11:00.303 Average server FPS: 2976.00 (measured interval: 1 s)
+ 6:11:00.303 Used memory: 4185181 KB
+ 6:11:00.303 Players: 0 in total
+ 6:11:01.302 Average server FPS: 3187.00 (measured interval: 1 s)
+ 6:11:01.302 Used memory: 4185183 KB
+ 6:11:01.302 Players: 0 in total
+ 6:11:02.302 Average server FPS: 3237.00 (measured interval: 1 s)
+ 6:11:02.302 Used memory: 4185670 KB
+ 6:11:02.302 Players: 0 in total
+ 6:11:03.303 Average server FPS: 1962.00 (measured interval: 1 s)
+ 6:11:03.303 Used memory: 4185796 KB
+ 6:11:03.303 Players: 0 in total
+ 6:11:04.303 Average server FPS: 3230.00 (measured interval: 1 s)
+ 6:11:04.303 Used memory: 4185822 KB
+ 6:11:04.303 Players: 0 in total
+ 6:11:05.303 Average server FPS: 3146.00 (measured interval: 1 s)
+ 6:11:05.303 Used memory: 4185821 KB
+ 6:11:05.303 Players: 0 in total
+ 6:11:06.302 Average server FPS: 3448.00 (measured interval: 1 s)
+ 6:11:06.302 Used memory: 4185883 KB
+ 6:11:06.302 Players: 0 in total
+ 6:11:07.302 Average server FPS: 3294.00 (measured interval: 1 s)
+ 6:11:07.302 Used memory: 4185885 KB
+ 6:11:07.302 Players: 0 in total
+ 6:11:08.303 Average server FPS: 3314.00 (measured interval: 1 s)
+ 6:11:08.303 Used memory: 4185923 KB
+ 6:11:08.303 Players: 0 in total
+ 6:11:09.303 Average server FPS: 3102.00 (measured interval: 1 s)
+ 6:11:09.303 Used memory: 4187107 KB
+ 6:11:09.303 Players: 0 in total
+ 6:11:10.302 Average server FPS: 3135.00 (measured interval: 1 s)
+ 6:11:10.302 Used memory: 4187170 KB
+ 6:11:10.302 Players: 0 in total
+ 6:11:11.303 Average server FPS: 3039.00 (measured interval: 1 s)
+ 6:11:11.303 Used memory: 4187273 KB
+ 6:11:11.303 Players: 0 in total
+ 6:11:12.302 Average server FPS: 2478.00 (measured interval: 1 s)
+ 6:11:12.302 Used memory: 4187285 KB
+ 6:11:12.302 Players: 0 in total
+ 6:11:13.303 Average server FPS: 3330.00 (measured interval: 1 s)
+ 6:11:13.303 Used memory: 4187340 KB
+ 6:11:13.303 Players: 0 in total
+ 6:11:14.303 Average server FPS: 2693.00 (measured interval: 1 s)
+ 6:11:14.303 Used memory: 4187513 KB
+ 6:11:14.303 Players: 0 in total
+ 6:11:15.302 Average server FPS: 2805.00 (measured interval: 1 s)
+ 6:11:15.302 Used memory: 4187514 KB
+ 6:11:15.302 Players: 0 in total
+ 6:11:16.303 Average server FPS: 1116.00 (measured interval: 1 s)
+ 6:11:16.303 Used memory: 4189479 KB
+ 6:11:16.303 Players: 0 in total
+ 6:11:17.302 Average server FPS: 1697.00 (measured interval: 1 s)
+ 6:11:17.302 Used memory: 4189901 KB
+ 6:11:17.302 Players: 0 in total
+ 6:11:18.302 Average server FPS: 1748.00 (measured interval: 1 s)
+ 6:11:18.302 Used memory: 4190229 KB
+ 6:11:18.302 Players: 0 in total
+ 6:11:19.302 Average server FPS: 2119.00 (measured interval: 1 s)
+ 6:11:19.302 Used memory: 4190328 KB
+ 6:11:19.302 Players: 0 in total
+ 6:11:20.303 Average server FPS: 1888.00 (measured interval: 1 s)
+ 6:11:20.303 Used memory: 4191694 KB
+ 6:11:20.303 Players: 0 in total
+ 6:11:21.303 Average server FPS: 2476.00 (measured interval: 1 s)
+ 6:11:21.303 Used memory: 4191782 KB
+ 6:11:21.303 Players: 0 in total
+ 6:11:22.303 Average server FPS: 2464.00 (measured interval: 1 s)
+ 6:11:22.303 Used memory: 4192099 KB
+ 6:11:22.303 Players: 0 in total
+ 6:11:23.303 Average server FPS: 2614.00 (measured interval: 1 s)
+ 6:11:23.303 Used memory: 4192287 KB
+ 6:11:23.303 Players: 0 in total
+ 6:11:24.302 Average server FPS: 2633.00 (measured interval: 1 s)
+ 6:11:24.302 Used memory: 4192534 KB
+ 6:11:24.302 Players: 0 in total
+ 6:11:25.302 Average server FPS: 1854.00 (measured interval: 1 s)
+ 6:11:25.302 Used memory: 4192547 KB
+ 6:11:25.302 Players: 0 in total
+ 6:11:26.303 Average server FPS: 2529.00 (measured interval: 1 s)
+ 6:11:26.303 Used memory: 4192598 KB
+ 6:11:26.303 Players: 0 in total
+ 6:11:27.303 Average server FPS: 2908.00 (measured interval: 1 s)
+ 6:11:27.303 Used memory: 4192635 KB
+ 6:11:27.303 Players: 0 in total
+ 6:11:28.303 Average server FPS: 959.00 (measured interval: 1 s)
+ 6:11:28.303 Used memory: 4194185 KB
+ 6:11:28.303 Players: 0 in total
+ 6:11:29.302 Average server FPS: 893.00 (measured interval: 1 s)
+ 6:11:29.302 Used memory: 4194298 KB
+ 6:11:29.302 Players: 0 in total
+ 6:11:30.302 Average server FPS: 2315.00 (measured interval: 1 s)
+ 6:11:30.302 Used memory: 4194279 KB
+ 6:11:30.302 Players: 0 in total
+ 6:11:31.303 Average server FPS: 2811.00 (measured interval: 1 s)
+ 6:11:31.303 Used memory: 4194291 KB
+ 6:11:31.303 Players: 0 in total
+ 6:11:32.303 Average server FPS: 2697.00 (measured interval: 1 s)
+ 6:11:32.303 Used memory: 4194299 KB
+ 6:11:32.303 Players: 0 in total
+ 6:11:33.303 Average server FPS: 2614.00 (measured interval: 1 s)
+ 6:11:33.303 Used memory: 4194299 KB
+ 6:11:33.303 Players: 0 in total
+ 6:11:34.302 Average server FPS: 2754.00 (measured interval: 1 s)
+ 6:11:34.302 Used memory: 4194205 KB
+ 6:11:34.302 Players: 0 in total
+ 6:11:35.303 Average server FPS: 3003.00 (measured interval: 1 s)
+ 6:11:35.303 Used memory: 4194258 KB
+ 6:11:35.303 Players: 0 in total
+ 6:11:36.303 Average server FPS: 3178.00 (measured interval: 1 s)
+ 6:11:36.303 Used memory: 4194296 KB
+ 6:11:36.303 Players: 0 in total
+ 6:11:37.303 Average server FPS: 2628.00 (measured interval: 1 s)
+ 6:11:37.303 Used memory: 4194291 KB
+ 6:11:37.303 Players: 0 in total
+ 6:11:38.302 Average server FPS: 2139.00 (measured interval: 1 s)
+ 6:11:38.302 Used memory: 4194215 KB
+ 6:11:38.302 Players: 0 in total
+ 6:11:39.302 Average server FPS: 2956.00 (measured interval: 1 s)
+ 6:11:39.302 Used memory: 4194232 KB
+ 6:11:39.303 Players: 0 in total
+ 6:11:40.303 Average server FPS: 2898.00 (measured interval: 1 s)
+ 6:11:40.303 Used memory: 4194232 KB
+ 6:11:40.303 Players: 0 in total
+ 6:11:41.303 Average server FPS: 2956.00 (measured interval: 1 s)
+ 6:11:41.303 Used memory: 4194272 KB
+ 6:11:41.303 Players: 0 in total
+ 6:11:42.303 Average server FPS: 2743.00 (measured interval: 1 s)
+ 6:11:42.303 Used memory: 4194300 KB
+ 6:11:42.303 Players: 0 in total
+ 6:11:43.302 Average server FPS: 3028.00 (measured interval: 1 s)
+ 6:11:43.302 Used memory: 4194290 KB
+ 6:11:43.302 Players: 0 in total
+ 6:11:44.303 Average server FPS: 2452.00 (measured interval: 1 s)
+ 6:11:44.303 Used memory: 4194266 KB
+ 6:11:44.303 Players: 0 in total
+ 6:11:45.303 Average server FPS: 2360.00 (measured interval: 1 s)
+ 6:11:45.303 Used memory: 4194278 KB
+ 6:11:45.303 Players: 0 in total
+ 6:11:46.303 Average server FPS: 1291.00 (measured interval: 1 s)
+ 6:11:46.303 Used memory: 4194191 KB
+ 6:11:46.303 Players: 0 in total
+ 6:11:47.303 Average server FPS: 2489.00 (measured interval: 1 s)
+ 6:11:47.303 Used memory: 4194232 KB
+ 6:11:47.303 Players: 0 in total
+ 6:11:48.303 Average server FPS: 2984.00 (measured interval: 1 s)
+ 6:11:48.303 Used memory: 4194075 KB
+ 6:11:48.303 Players: 0 in total
+ 6:11:49.303 Average server FPS: 2627.00 (measured interval: 1 s)
+ 6:11:49.303 Used memory: 4194076 KB
+ 6:11:49.303 Players: 0 in total
+ 6:11:50.303 Average server FPS: 2649.00 (measured interval: 1 s)
+ 6:11:50.303 Used memory: 4194273 KB
+ 6:11:50.303 Players: 0 in total
+ 6:11:51.303 Average server FPS: 2233.00 (measured interval: 1 s)
+ 6:11:51.303 Used memory: 4194038 KB
+ 6:11:51.303 Players: 0 in total
+ 6:11:52.303 Average server FPS: 2697.00 (measured interval: 1 s)
+ 6:11:52.303 Used memory: 4194081 KB
+ 6:11:52.303 Players: 0 in total
+ 6:11:53.303 Average server FPS: 2665.00 (measured interval: 1 s)
+ 6:11:53.303 Used memory: 4194221 KB
+ 6:11:53.303 Players: 0 in total
+ 6:11:54.303 Average server FPS: 2481.00 (measured interval: 1 s)
+ 6:11:54.303 Used memory: 4194250 KB
+ 6:11:54.303 Players: 0 in total
+ 6:11:55.304 Average server FPS: 2136.00 (measured interval: 1 s)
+ 6:11:55.304 Used memory: 4194281 KB
+ 6:11:55.304 Players: 0 in total
+ 6:11:56.303 Average server FPS: 2149.00 (measured interval: 1 s)
+ 6:11:56.303 Used memory: 4194272 KB
+ 6:11:56.303 Players: 0 in total
+ 6:11:57.303 Average server FPS: 2867.00 (measured interval: 1 s)
+ 6:11:57.303 Used memory: 4194239 KB
+ 6:11:57.303 Players: 0 in total
+ 6:11:58.303 Average server FPS: 2338.00 (measured interval: 1 s)
+ 6:11:58.303 Used memory: 4194194 KB
+ 6:11:58.303 Players: 0 in total
+ 6:11:59.303 Average server FPS: 1448.00 (measured interval: 1 s)
+ 6:11:59.303 Used memory: 4194299 KB
+ 6:11:59.303 Players: 0 in total
+ 6:12:00.303 Average server FPS: 2140.00 (measured interval: 1 s)
+ 6:12:00.304 Used memory: 4194094 KB
+ 6:12:00.304 Players: 0 in total
+ 6:12:01.304 Average server FPS: 1534.00 (measured interval: 1 s)
+ 6:12:01.304 Used memory: 4194202 KB
+ 6:12:01.304 Players: 0 in total
+ 6:12:02.303 Average server FPS: 590.00 (measured interval: 1 s)
+ 6:12:02.303 Used memory: 4194274 KB
+ 6:12:02.303 Players: 0 in total
+ 6:12:03.304 Average server FPS: 1717.00 (measured interval: 1 s)
+ 6:12:03.304 Used memory: 4193956 KB
+ 6:12:03.304 Players: 0 in total
+ 6:12:04.303 Average server FPS: 1890.00 (measured interval: 1 s)
+ 6:12:04.303 Used memory: 4194287 KB
+ 6:12:04.303 Players: 0 in total
+ 6:12:05.303 Average server FPS: 1464.00 (measured interval: 1 s)
+ 6:12:05.303 Used memory: 4194260 KB
+ 6:12:05.303 Players: 0 in total
+ 6:12:06.304 Average server FPS: 2319.00 (measured interval: 1 s)
+ 6:12:06.304 Used memory: 4193905 KB
+ 6:12:06.304 Players: 0 in total
+ 6:12:07.303 Average server FPS: 1038.00 (measured interval: 1 s)
+ 6:12:07.303 Used memory: 4194252 KB
+ 6:12:07.303 Players: 0 in total
+ 6:12:08.303 Average server FPS: 2368.00 (measured interval: 1 s)
+ 6:12:08.303 Used memory: 4194236 KB
+ 6:12:08.303 Players: 0 in total
+ 6:12:09.303 Average server FPS: 2471.00 (measured interval: 1 s)
+ 6:12:09.303 Used memory: 4194236 KB
+ 6:12:09.303 Players: 0 in total
+ 6:12:10.303 Average server FPS: 2291.00 (measured interval: 1 s)
+ 6:12:10.303 Used memory: 4194245 KB
+ 6:12:10.303 Players: 0 in total
+ 6:12:11.303 Average server FPS: 1244.00 (measured interval: 1 s)
+ 6:12:11.303 Used memory: 4194277 KB
+ 6:12:11.303 Players: 0 in total
+ 6:12:12.303 Average server FPS: 2734.00 (measured interval: 1 s)
+ 6:12:12.303 Used memory: 4194149 KB
+ 6:12:12.303 Players: 0 in total
+ 6:12:13.310 Average server FPS: 2629.59 (measured interval: 1 s)
+ 6:12:13.310 Used memory: 4194152 KB
+ 6:12:13.310 Players: 0 in total
+ 6:12:14.310 Average server FPS: 2371.00 (measured interval: 1 s)
+ 6:12:14.310 Used memory: 4194290 KB
+ 6:12:14.310 Players: 0 in total
+ 6:12:15.310 Average server FPS: 2784.00 (measured interval: 1 s)
+ 6:12:15.310 Used memory: 4194244 KB
+ 6:12:15.310 Players: 0 in total
+ 6:12:16.310 Average server FPS: 1788.00 (measured interval: 1 s)
+ 6:12:16.310 Used memory: 4194287 KB
+ 6:12:16.310 Players: 0 in total
+ 6:12:17.315 Average server FPS: 1690.55 (measured interval: 1 s)
+ 6:12:17.315 Used memory: 4193756 KB
+ 6:12:17.315 Players: 0 in total
+ 6:12:18.315 Average server FPS: 2594.00 (measured interval: 1 s)
+ 6:12:18.315 Used memory: 4193752 KB
+ 6:12:18.315 Players: 0 in total
+ 6:12:19.316 Average server FPS: 3054.00 (measured interval: 1 s)
+ 6:12:19.316 Used memory: 4193755 KB
+ 6:12:19.316 Players: 0 in total
+ 6:12:20.315 Average server FPS: 2925.00 (measured interval: 1 s)
+ 6:12:20.316 Used memory: 4193892 KB
+ 6:12:20.316 Players: 0 in total
+ 6:12:21.320 Average server FPS: 2880.48 (measured interval: 1 s)
+ 6:12:21.320 Used memory: 4193940 KB
+ 6:12:21.320 Players: 0 in total
+ 6:12:22.320 Average server FPS: 2094.00 (measured interval: 1 s)
+ 6:12:22.320 Used memory: 4194189 KB
+ 6:12:22.320 Players: 0 in total
+ 6:12:23.319 Average server FPS: 2396.00 (measured interval: 1 s)
+ 6:12:23.319 Used memory: 4194290 KB
+ 6:12:23.319 Players: 0 in total
+ 6:12:24.320 Average server FPS: 1534.00 (measured interval: 1 s)
+ 6:12:24.320 Used memory: 4194217 KB
+ 6:12:24.320 Players: 0 in total
+ 6:12:25.319 Average server FPS: 2665.00 (measured interval: 1 s)
+ 6:12:25.320 Used memory: 4194221 KB
+ 6:12:25.320 Players: 0 in total
+ 6:12:26.320 Average server FPS: 2696.00 (measured interval: 1 s)
+ 6:12:26.320 Used memory: 4194244 KB
+ 6:12:26.320 Players: 0 in total
+ 6:12:27.320 Average server FPS: 2817.00 (measured interval: 1 s)
+ 6:12:27.320 Used memory: 4194260 KB
+ 6:12:27.320 Players: 0 in total
+ 6:12:28.332 Average server FPS: 1580.04 (measured interval: 1 s)
+ 6:12:28.332 Used memory: 4194189 KB
+ 6:12:28.332 Players: 0 in total
+ 6:12:29.332 Average server FPS: 2454.00 (measured interval: 1 s)
+ 6:12:29.332 Used memory: 4193559 KB
+ 6:12:29.332 Players: 0 in total
+ 6:12:30.333 Average server FPS: 2223.00 (measured interval: 1 s)
+ 6:12:30.333 Used memory: 4194235 KB
+ 6:12:30.333 Players: 0 in total
+ 6:12:31.332 Average server FPS: 2237.00 (measured interval: 1 s)
+ 6:12:31.332 Used memory: 4193725 KB
+ 6:12:31.332 Players: 0 in total
+ 6:12:32.332 Average server FPS: 1798.00 (measured interval: 1 s)
+ 6:12:32.332 Used memory: 4193971 KB
+ 6:12:32.332 Players: 0 in total
+ 6:12:33.332 Average server FPS: 2540.00 (measured interval: 1 s)
+ 6:12:33.332 Used memory: 4193968 KB
+ 6:12:33.332 Players: 0 in total
+ 6:12:34.331 Average server FPS: 2719.00 (measured interval: 1 s)
+ 6:12:34.332 Used memory: 4194032 KB
+ 6:12:34.332 Players: 0 in total
+ 6:12:35.331 Average server FPS: 2934.00 (measured interval: 1 s)
+ 6:12:35.332 Used memory: 4194229 KB
+ 6:12:35.332 Players: 0 in total
+ 6:12:36.332 Average server FPS: 2812.00 (measured interval: 1 s)
+ 6:12:36.332 Used memory: 4194231 KB
+ 6:12:36.332 Players: 0 in total
+ 6:12:37.332 Average server FPS: 2886.00 (measured interval: 1 s)
+ 6:12:37.332 Used memory: 4194234 KB
+ 6:12:37.332 Players: 0 in total
+ 6:12:38.332 Average server FPS: 2516.00 (measured interval: 1 s)
+ 6:12:38.332 Used memory: 4194295 KB
+ 6:12:38.332 Players: 0 in total
+ 6:12:39.332 Average server FPS: 2041.00 (measured interval: 1 s)
+ 6:12:39.332 Used memory: 4193476 KB
+ 6:12:39.332 Players: 0 in total
+ 6:12:40.331 Average server FPS: 2469.00 (measured interval: 1 s)
+ 6:12:40.331 Used memory: 4193499 KB
+ 6:12:40.331 Players: 0 in total
+ 6:12:41.333 Average server FPS: 921.08 (measured interval: 1 s)
+ 6:12:41.333 Used memory: 4194246 KB
+ 6:12:41.333 Players: 0 in total
+ 6:12:42.333 Average server FPS: 786.00 (measured interval: 1 s)
+ 6:12:42.333 Used memory: 4194002 KB
+ 6:12:42.333 Players: 0 in total
+ 6:12:43.333 Average server FPS: 2460.00 (measured interval: 1 s)
+ 6:12:43.333 Used memory: 4194151 KB
+ 6:12:43.333 Players: 0 in total
+ 6:12:44.332 Average server FPS: 2689.00 (measured interval: 1 s)
+ 6:12:44.332 Used memory: 4194278 KB
+ 6:12:44.332 Players: 0 in total
+ 6:12:45.333 Average server FPS: 2465.00 (measured interval: 1 s)
+ 6:12:45.333 Used memory: 4194221 KB
+ 6:12:45.333 Players: 0 in total
+ 6:12:46.333 Average server FPS: 2185.00 (measured interval: 1 s)
+ 6:12:46.333 Used memory: 4194210 KB
+ 6:12:46.333 Players: 0 in total
+ 6:12:47.333 Average server FPS: 1977.00 (measured interval: 1 s)
+ 6:12:47.333 Used memory: 4194193 KB
+ 6:12:47.333 Players: 0 in total
+ 6:12:48.348 Average server FPS: 2909.45 (measured interval: 1 s)
+ 6:12:48.348 Used memory: 4194193 KB
+ 6:12:48.348 Players: 0 in total
+ 6:12:49.349 Average server FPS: 2864.00 (measured interval: 1 s)
+ 6:12:49.349 Used memory: 4194195 KB
+ 6:12:49.349 Players: 0 in total
+ 6:12:50.349 Average server FPS: 2915.00 (measured interval: 1 s)
+ 6:12:50.349 Used memory: 4194194 KB
+ 6:12:50.349 Players: 0 in total
+ 6:12:51.349 Average server FPS: 2828.00 (measured interval: 1 s)
+ 6:12:51.349 Used memory: 4193945 KB
+ 6:12:51.349 Players: 0 in total
+ 6:12:52.351 Average server FPS: 2873.25 (measured interval: 1 s)
+ 6:12:52.351 Used memory: 4193942 KB
+ 6:12:52.351 Players: 0 in total
+ 6:12:53.351 Average server FPS: 2704.00 (measured interval: 1 s)
+ 6:12:53.351 Used memory: 4193942 KB
+ 6:12:53.351 Players: 0 in total
+ 6:12:54.351 Average server FPS: 2869.00 (measured interval: 1 s)
+ 6:12:54.351 Used memory: 4194241 KB
+ 6:12:54.351 Players: 0 in total
+ 6:12:55.351 Average server FPS: 1964.00 (measured interval: 1 s)
+ 6:12:55.351 Used memory: 4194264 KB
+ 6:12:55.351 Players: 0 in total
+ 6:12:56.351 Average server FPS: 2598.00 (measured interval: 1 s)
+ 6:12:56.351 Used memory: 4194294 KB
+ 6:12:56.351 Players: 0 in total
+ 6:12:57.351 Average server FPS: 1642.00 (measured interval: 1 s)
+ 6:12:57.351 Used memory: 4193564 KB
+ 6:12:57.351 Players: 0 in total
+ 6:12:58.351 Average server FPS: 2021.00 (measured interval: 1 s)
+ 6:12:58.351 Used memory: 4193615 KB
+ 6:12:58.351 Players: 0 in total
+ 6:12:59.351 Average server FPS: 2853.00 (measured interval: 1 s)
+ 6:12:59.351 Used memory: 4193990 KB
+ 6:12:59.351 Players: 0 in total
+ 6:13:00.351 Average server FPS: 2606.00 (measured interval: 1 s)
+ 6:13:00.351 Used memory: 4194086 KB
+ 6:13:00.351 Players: 0 in total
+ 6:13:01.351 Average server FPS: 2508.00 (measured interval: 1 s)
+ 6:13:01.351 Used memory: 4194202 KB
+ 6:13:01.351 Players: 0 in total
+ 6:13:02.352 Average server FPS: 1050.00 (measured interval: 1 s)
+ 6:13:02.352 Used memory: 4194213 KB
+ 6:13:02.352 Players: 0 in total
+ 6:13:03.351 Average server FPS: 1582.00 (measured interval: 1 s)
+ 6:13:03.351 Used memory: 4194267 KB
+ 6:13:03.351 Players: 0 in total
+ 6:13:04.351 Average server FPS: 2460.00 (measured interval: 1 s)
+ 6:13:04.351 Used memory: 4193266 KB
+ 6:13:04.351 Players: 0 in total
+ 6:13:05.352 Average server FPS: 2137.00 (measured interval: 1 s)
+ 6:13:05.352 Used memory: 4193339 KB
+ 6:13:05.352 Players: 0 in total
+ 6:13:06.351 Average server FPS: 1892.00 (measured interval: 1 s)
+ 6:13:06.351 Used memory: 4193770 KB
+ 6:13:06.351 Players: 0 in total
+ 6:13:07.351 Average server FPS: 1703.00 (measured interval: 1 s)
+ 6:13:07.351 Used memory: 4193881 KB
+ 6:13:07.351 Players: 0 in total
+ 6:13:08.351 Average server FPS: 2054.00 (measured interval: 1 s)
+ 6:13:08.351 Used memory: 4193878 KB
+ 6:13:08.351 Players: 0 in total
+ 6:13:09.352 Average server FPS: 782.00 (measured interval: 1 s)
+ 6:13:09.352 Used memory: 4193609 KB
+ 6:13:09.352 Players: 0 in total
+ 6:13:10.351 Average server FPS: 1313.00 (measured interval: 1 s)
+ 6:13:10.351 Used memory: 4194059 KB
+ 6:13:10.351 Players: 0 in total
+ 6:13:11.351 Average server FPS: 1201.00 (measured interval: 1 s)
+ 6:13:11.351 Used memory: 4194111 KB
+ 6:13:11.351 Players: 0 in total
+ 6:13:12.351 Average server FPS: 1987.00 (measured interval: 1 s)
+ 6:13:12.351 Used memory: 4194018 KB
+ 6:13:12.351 Players: 0 in total
+ 6:13:13.352 Average server FPS: 1000.00 (measured interval: 1 s)
+ 6:13:13.352 Used memory: 4194144 KB
+ 6:13:13.352 Players: 0 in total
+ 6:13:14.352 Average server FPS: 1101.00 (measured interval: 1 s)
+ 6:13:14.352 Used memory: 4193812 KB
+ 6:13:14.352 Players: 0 in total
+ 6:13:15.351 Average server FPS: 1515.00 (measured interval: 1 s)
+ 6:13:15.351 Used memory: 4193959 KB
+ 6:13:15.351 Players: 0 in total
+ 6:13:16.351 Average server FPS: 2055.00 (measured interval: 1 s)
+ 6:13:16.351 Used memory: 4193959 KB
+ 6:13:16.351 Players: 0 in total
+ 6:13:17.353 Average server FPS: 2197.60 (measured interval: 1 s)
+ 6:13:17.353 Used memory: 4193960 KB
+ 6:13:17.353 Players: 0 in total
+ 6:13:18.353 Average server FPS: 1906.00 (measured interval: 1 s)
+ 6:13:18.353 Used memory: 4194142 KB
+ 6:13:18.353 Players: 0 in total
+ 6:13:19.353 Average server FPS: 997.00 (measured interval: 1 s)
+ 6:13:19.353 Used memory: 4194287 KB
+ 6:13:19.353 Players: 0 in total
+ 6:13:20.354 Average server FPS: 1929.00 (measured interval: 1 s)
+ 6:13:20.354 Used memory: 4194279 KB
+ 6:13:20.354 Players: 0 in total
+ 6:13:21.353 Average server FPS: 2535.00 (measured interval: 1 s)
+ 6:13:21.353 Used memory: 4194279 KB
+ 6:13:21.353 Players: 0 in total
+ 6:13:22.353 Average server FPS: 1248.00 (measured interval: 1 s)
+ 6:13:22.353 Used memory: 4193828 KB
+ 6:13:22.353 Players: 0 in total
+ 6:13:23.354 Average server FPS: 689.00 (measured interval: 1 s)
+ 6:13:23.354 Used memory: 4194030 KB
+ 6:13:23.354 Players: 0 in total
+ 6:13:24.360 Average server FPS: 1225.42 (measured interval: 1 s)
+ 6:13:24.360 Used memory: 4194153 KB
+ 6:13:24.360 Players: 0 in total
+ 6:13:25.361 Average server FPS: 2257.00 (measured interval: 1 s)
+ 6:13:25.361 Used memory: 4194237 KB
+ 6:13:25.361 Players: 0 in total
+ 6:13:26.360 Average server FPS: 2674.00 (measured interval: 1 s)
+ 6:13:26.360 Used memory: 4194294 KB
+ 6:13:26.360 Players: 0 in total
+ 6:13:27.360 Average server FPS: 2766.00 (measured interval: 1 s)
+ 6:13:27.360 Used memory: 4194203 KB
+ 6:13:27.360 Players: 0 in total
+ 6:13:28.361 Average server FPS: 2816.00 (measured interval: 1 s)
+ 6:13:28.361 Used memory: 4193934 KB
+ 6:13:28.361 Players: 0 in total
+ 6:13:29.360 Average server FPS: 3033.00 (measured interval: 1 s)
+ 6:13:29.360 Used memory: 4193992 KB
+ 6:13:29.360 Players: 0 in total
+ 6:13:30.360 Average server FPS: 2333.00 (measured interval: 1 s)
+ 6:13:30.360 Used memory: 4194031 KB
+ 6:13:30.360 Players: 0 in total
+ 6:13:31.361 Average server FPS: 2487.00 (measured interval: 1 s)
+ 6:13:31.361 Used memory: 4193902 KB
+ 6:13:31.361 Players: 0 in total
+ 6:13:32.360 Average server FPS: 2025.00 (measured interval: 1 s)
+ 6:13:32.360 Used memory: 4194215 KB
+ 6:13:32.360 Players: 0 in total
+ 6:13:33.360 Average server FPS: 2444.00 (measured interval: 1 s)
+ 6:13:33.360 Used memory: 4193875 KB
+ 6:13:33.360 Players: 0 in total
+ 6:13:34.360 Average server FPS: 2435.00 (measured interval: 1 s)
+ 6:13:34.360 Used memory: 4193875 KB
+ 6:13:34.360 Players: 0 in total
+ 6:13:35.361 Average server FPS: 2334.00 (measured interval: 1 s)
+ 6:13:35.361 Used memory: 4193876 KB
+ 6:13:35.361 Players: 0 in total
+ 6:13:36.361 Average server FPS: 2636.00 (measured interval: 1 s)
+ 6:13:36.361 Used memory: 4194123 KB
+ 6:13:36.361 Players: 0 in total
+ 6:13:37.360 Average server FPS: 2368.00 (measured interval: 1 s)
+ 6:13:37.360 Used memory: 4194205 KB
+ 6:13:37.360 Players: 0 in total
+ 6:13:38.360 Average server FPS: 2022.00 (measured interval: 1 s)
+ 6:13:38.361 Used memory: 4194041 KB
+ 6:13:38.361 Players: 0 in total
+ 6:13:39.360 Average server FPS: 2055.00 (measured interval: 1 s)
+ 6:13:39.360 Used memory: 4194155 KB
+ 6:13:39.360 Players: 0 in total
+ 6:13:40.360 Average server FPS: 1714.00 (measured interval: 1 s)
+ 6:13:40.360 Used memory: 4194149 KB
+ 6:13:40.360 Players: 0 in total
+ 6:13:41.360 Average server FPS: 2002.00 (measured interval: 1 s)
+ 6:13:41.360 Used memory: 4194258 KB
+ 6:13:41.360 Players: 0 in total
+ 6:13:42.360 Average server FPS: 1241.00 (measured interval: 1 s)
+ 6:13:42.360 Used memory: 4194159 KB
+ 6:13:42.360 Players: 0 in total
+ 6:13:43.361 Average server FPS: 2143.00 (measured interval: 1 s)
+ 6:13:43.361 Used memory: 4194183 KB
+ 6:13:43.361 Players: 0 in total
+ 6:13:44.361 Average server FPS: 1306.00 (measured interval: 1 s)
+ 6:13:44.361 Used memory: 4194077 KB
+ 6:13:44.361 Players: 0 in total
+ 6:13:45.361 Average server FPS: 1494.00 (measured interval: 1 s)
+ 6:13:45.361 Used memory: 4194284 KB
+ 6:13:45.361 Players: 0 in total
+ 6:13:46.360 Average server FPS: 2413.00 (measured interval: 1 s)
+ 6:13:46.360 Used memory: 4194282 KB
+ 6:13:46.360 Players: 0 in total
+ 6:13:47.360 Average server FPS: 2194.00 (measured interval: 1 s)
+ 6:13:47.360 Used memory: 4194282 KB
+ 6:13:47.360 Players: 0 in total
+ 6:13:48.361 Average server FPS: 2015.00 (measured interval: 1 s)
+ 6:13:48.361 Used memory: 4194031 KB
+ 6:13:48.361 Players: 0 in total
+ 6:13:49.361 Average server FPS: 2271.00 (measured interval: 1 s)
+ 6:13:49.361 Used memory: 4194107 KB
+ 6:13:49.361 Players: 0 in total
+ 6:13:50.361 Average server FPS: 1592.00 (measured interval: 1 s)
+ 6:13:50.361 Used memory: 4193957 KB
+ 6:13:50.361 Players: 0 in total
+ 6:13:51.361 Average server FPS: 1776.00 (measured interval: 1 s)
+ 6:13:51.361 Used memory: 4193893 KB
+ 6:13:51.361 Players: 0 in total
+ 6:13:52.361 Average server FPS: 1862.00 (measured interval: 1 s)
+ 6:13:52.361 Used memory: 4193603 KB
+ 6:13:52.361 Players: 0 in total
+ 6:13:53.360 Average server FPS: 1838.00 (measured interval: 1 s)
+ 6:13:53.360 Used memory: 4193665 KB
+ 6:13:53.360 Players: 0 in total
+ 6:13:54.360 Average server FPS: 2422.00 (measured interval: 1 s)
+ 6:13:54.360 Used memory: 4193936 KB
+ 6:13:54.360 Players: 0 in total
+ 6:13:55.361 Average server FPS: 2147.00 (measured interval: 1 s)
+ 6:13:55.361 Used memory: 4193988 KB
+ 6:13:55.361 Players: 0 in total
+ 6:13:56.360 Average server FPS: 2228.00 (measured interval: 1 s)
+ 6:13:56.360 Used memory: 4194104 KB
+ 6:13:56.360 Players: 0 in total
+ 6:13:57.361 Average server FPS: 2224.00 (measured interval: 1 s)
+ 6:13:57.361 Used memory: 4194132 KB
+ 6:13:57.361 Players: 0 in total
+ 6:13:58.361 Average server FPS: 2414.00 (measured interval: 1 s)
+ 6:13:58.361 Used memory: 4194216 KB
+ 6:13:58.361 Players: 0 in total
+ 6:13:59.361 Average server FPS: 2474.00 (measured interval: 1 s)
+ 6:13:59.361 Used memory: 4194217 KB
+ 6:13:59.361 Players: 0 in total
+ 6:14:00.361 Average server FPS: 2386.00 (measured interval: 1 s)
+ 6:14:00.361 Used memory: 4194133 KB
+ 6:14:00.361 Players: 0 in total
+ 6:14:01.361 Average server FPS: 2374.00 (measured interval: 1 s)
+ 6:14:01.361 Used memory: 4194273 KB
+ 6:14:01.361 Players: 0 in total
+ 6:14:02.361 Average server FPS: 1840.00 (measured interval: 1 s)
+ 6:14:02.361 Used memory: 4193981 KB
+ 6:14:02.361 Players: 0 in total
+ 6:14:03.361 Average server FPS: 1849.00 (measured interval: 1 s)
+ 6:14:03.361 Used memory: 4194210 KB
+ 6:14:03.361 Players: 0 in total
+ 6:14:04.360 Average server FPS: 2504.00 (measured interval: 1 s)
+ 6:14:04.360 Used memory: 4193996 KB

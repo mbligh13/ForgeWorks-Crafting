@@ -1,0 +1,622 @@
+{
+  "Areas": [
+    {
+      "AreaName": "Wendigones",
+      "Type": "WendigoArea",
+      "TriggerType": "WendigoTrigger",
+      "Data": {
+        "Pos": [
+          2325.021484,
+          265.390015,
+          12820.115234
+        ],
+        "Radius": 265,
+        "PosHeight": 40,
+        "NegHeight": 100,
+        "InnerRingCount": 2,
+        "InnerPartDist": 20,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 20,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 20,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "PPERequesterType": "PPERequester_GlassesSportOrange"
+      }
+    },
+    {
+      "AreaName": "Elos-Marsh-Fog",
+      "Type": "MarshFogArea",
+      "TriggerType": "MarshFogTrigger",
+      "Data": {
+        "Pos": [
+          12090,
+          8,
+          3609
+        ],
+        "Radius": 200,
+        "PosHeight": 22,
+        "NegHeight": 10,
+        "InnerRingCount": 2,
+        "InnerPartDist": 5,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 5,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "SmokeEffect-1",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          14846.666016,
+          6.70445,
+          7426.088379
+        ],
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeEffect-2",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          14646.948242,
+          7.751931,
+          6990.062012
+        ],
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeEffect-3",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          14582.130859,
+          6.94945,
+          8516.463867
+        ],
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeEffect-4",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          9758.182617,
+          56.111687,
+          13595.949219
+        ],
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeEffect-5",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          8492.144531,
+          7.544422,
+          13240.304688
+        ],
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeEffect-6",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          8442.015625,
+          4.896969,
+          13157.501953
+        ],
+        "ParticleName": "graphics/particles/fire_small_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireEffect-1",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          11298.552734,
+          14.046905,
+          11585.962891
+        ],
+        "ParticleName": "graphics/particles/fire_small_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireSmokeEffect-1",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          11298.552734,
+          14.046905,
+          11585.962891
+        ],
+        "ParticleName": "graphics/particles/smoke_medium_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireEffect-2",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          5290.447266,
+          178.997665,
+          17708.083984
+        ],
+        "ParticleName": "graphics/particles/fire_small_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireSmokeEffect-2",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          5290.447266,
+          178.997665,
+          17708.083984
+        ],
+        "ParticleName": "graphics/particles/smoke_medium_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireEffect-3",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          2087.809814,
+          428.772705,
+          15973.341797
+        ],
+        "ParticleName": "graphics/particles/fire_small_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireSmokeEffect-3",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          2087.809814,
+          428.772705,
+          15973.341797
+        ],
+        "ParticleName": "graphics/particles/smoke_medium_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireEffect-4",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          1675.802734,
+          353.958649,
+          14481.083008
+        ],
+        "ParticleName": "graphics/particles/fire_small_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "CampFireSmokeEffect-3",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          1675.802734,
+          353.958649,
+          14481.083008
+        ],
+        "ParticleName": "graphics/particles/smoke_medium_camp_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "BertoAirfield",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          14904,
+          0,
+          7682
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "BertoAirfield1",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          14857,
+          0,
+          7494
+        ],
+        "Radius": 75,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+	  "AreaName": "BertoAirfield2",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          14961,
+          0,
+          7696
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+	  "AreaName": "bampotsmallmili",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          17393,
+          0,
+          7424
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "MonastaryMili1",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          10313,
+          0,
+          6157
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "MonastaryMili2",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          10426,
+          0,
+          6172
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "MonastaryMili3",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          10341,
+          0,
+          6219
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "MonastaryMili4",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          10223,
+          0,
+          6112
+        ],
+        "Radius": 60,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "BampotMili1",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          12475,
+          0,
+          1896
+        ],
+        "Radius": 100,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 75,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 75,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "BampotMili2",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          12326,
+          0,
+          1943
+        ],
+        "Radius": 100,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 75,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 75,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "BampotMili3",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          12442,
+          0,
+          1911
+        ],
+        "Radius": 100,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 75,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 75,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    }
+  ],
+  "SafePositions": [
+    [
+      14832,
+      11181
+    ]
+  ]
+}

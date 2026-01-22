@@ -1,0 +1,58 @@
+{
+    "Main": {
+        "Enabled": 1,
+        "SpreadRadius": 3.0,
+        "SpreadChance": 0.5,
+        "UpdateInterval": 2.0,
+        "MaxFireLifetime": 300.0,
+        "EnableDebugLogging": 0,
+        "EnableVisualMarkers": 0
+    },
+    "Environmental": {
+        "WindInfluence": 0.5,
+        "RainPenalty": 0.699999988079071,
+        "WetnessThreshold": 0.10000000149011612
+    },
+    "Damage": {
+        "BuildingDamagePercent": 0.10000000149011612,
+        "ExplosionRadius": 10.0,
+        "ExplosionDamage": 50.0,
+        "FuelTankDamagePercent": 0.5
+    },
+    "VehicleFire": {
+        "ExplosionDelayMin": 5000,
+        "ExplosionDelayMax": 15000,
+        "EnableVehicleFires": 1,
+        "EnableExplosions": 1
+    },
+    "Vegetation": {
+        "BurnoutTime": 30000,
+        "EnableVegetationFires": 1
+    },
+    "Flammable": {
+        "Buildings": [
+            "Land_House_",
+            "Land_Shed_",
+            "Land_Barn_",
+            "Land_Garage_",
+            "Land_Village_"
+        ],
+        "Vegetation": [
+            "t_",
+            "b_",
+            "d_"
+        ],
+        "WoodenStructures": [
+            "Land_Wooden",
+            "Land_Fence_Wood",
+            "Land_Pallet"
+        ],
+        "Vehicles": [
+            "CivilianSedan",
+            "OffroadHatchback",
+            "Truck_",
+            "Hatchback",
+            "Sedan"
+        ]
+    }
+}

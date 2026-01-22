@@ -1,0 +1,6 @@
+{
+    "STEAM_API_KEY": "",
+    "QUERY_INTERVAL_SEC": 60.0,
+    "QUERY_PORT": "11001",
+    "SERVER_IP": "95.156.238.47"
+}

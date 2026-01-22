@@ -1,0 +1,9 @@
+{
+    "Boat_ConfigVersion": 5,
+    "Boat_FuelCapacity": 130.0,
+    "Boat_FuelConsumptionRate": 1.2499799728393555,
+    "Boat_MinimumDraught": 1.0,
+    "Boat_MaximumSpeed": 39.0,
+    "Boat_SpeedFactor": 100.0,
+    "Boat_HyrdrodynamicDrag": 0.12999999523162843
+}

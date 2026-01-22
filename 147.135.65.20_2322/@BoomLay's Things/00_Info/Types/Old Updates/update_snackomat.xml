@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types> 
+
+<!-- .......................................... -->  
+<!-- New Things, that shouldn't despawn         -->
+<!-- .......................................... --> 
+
+
+  <type name="bl_potatochips_classic">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_potatochips_bbq">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_potatochips_hot">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_potatochips_onion">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_candy_toffee">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_candy_nutty">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_candy_dark">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+  <type name="bl_candy_milk">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+<!-- .......................................... -->  
+<!-- The deposit container needs to be added to -->
+<!-- the types.xml, the depot itself not.       -->
+<!-- .......................................... --> 
+
+  <type name="bl_deposit_container">
+    <lifetime>3888000</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
+
+<!-- .......................................... -->  
+<!-- Prefab Kits and Things without Kits        -->
+<!-- .......................................... --> 
+
+  <type name="bl_extension_cable_reel">
+    <nominal>5</nominal>
+    <min>4</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools"/>
+    <tag name="floor"/>
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+  </type>
+
+</types>

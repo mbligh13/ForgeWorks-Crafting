@@ -1,0 +1,13 @@
+{
+    "version": "1.0.1",
+    "enableDebugMode": 0,
+    "runTestsOnStartup": 0,
+    "runCurrencyServiceTests": 0,
+    "runTransactionServiceTests": 1,
+    "runVehicleTransactionTests": 0,
+    "runPricingServiceTests": 1,
+    "runJSONTestCases": 1,
+    "authorizedAdmins": [
+        "76561198047475641"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "ConfigVersion": "1",
+    "MessagePumpNotWork": "This pump doesn't seem to work anymore! I need to repair it with a wrench...",
+    "MessageRepaired": "It seems this pump has already been repaired...",
+    "DisablePumpsByDefault": 1,
+    "DamageTool": 50,
+    "TimeToBreak": 1209600
+}

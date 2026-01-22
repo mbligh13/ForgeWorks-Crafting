@@ -1,0 +1,11 @@
+name = "Megaloot Tunnels";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Megaloot Tunnels by PCGN Megaloot";
+overview = "";
+action = "https://discord.gg/fmRTpY7VP5";
+author = "PCGN Megaloot";
+authorID = "";
+version = "1.0";

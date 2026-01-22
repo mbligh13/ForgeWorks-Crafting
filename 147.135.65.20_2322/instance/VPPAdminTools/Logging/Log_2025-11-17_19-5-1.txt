@@ -1,0 +1,131 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-17_19-5-1
+====================================================================================
+19:5:1 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:5:1 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:5:1 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:5:1 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:5:1 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:5:1 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:5:1 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:5:1 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:5:1 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:5:1 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:5:1 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:5:1 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:5:1 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:5:1 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:5:1 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:5:1 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:5:1 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:5:1 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:5:1 | [PermissionManager] Adding Super Admin (76561198378002588)
+19:5:1 | [PermissionManager] Loaded UserGroups.json
+19:5:1 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:5:1 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:5:1 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:5:1 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:5:1 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:5:1 | Building Sets Loaded: 0
+19:5:1 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:7:3 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+19:8:16 | "Skullcruncher32" (steamid=76561198378002588) gave godmode to (steamid=76561198378002588)
+19:8:17 | "Skullcruncher32" (steamid=76561198378002588) healed player (steamid=76561198378002588)
+19:8:20 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+19:8:20 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+19:8:20 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+19:8:21 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+19:9:5 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (M249)
+19:9:19 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (M249_RisHndgrd)
+19:9:19 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (M249_Bipod)
+19:9:20 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Mag_M249_Box200Rnd)
+19:9:21 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Mag_M249_Box200Rnd)
+19:10:9 | "Skullcruncher32" (steamid=76561198378002588) deleted object "M249_Bipod" (pos=<14189.227539, 4.275864, 12377.817383>)
+19:10:11 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Chemlight_Red" (pos=<14189.227539, 4.250630, 12377.817383>)
+19:10:12 | "Skullcruncher32" (steamid=76561198378002588) deleted object "ChernarusMap" (pos=<14189.227539, 4.245259, 12377.817383>)
+19:10:18 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Mag_M249_Box200Rnd)
+19:10:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Mag_M249_Box200Rnd)
+19:10:31 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Mag_M249_Box200Rnd)
+19:11:2 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Mag_M249_Box200Rnd" (pos=<14189.258789, 4.358565, 12377.409180>)
+19:11:10 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+19:11:13 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected early from server (EXIT NOW).
+19:12:15 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+19:12:39 | "Skullcruncher32" (steamid=76561198378002588) executed kill command on: "76561198378002588"
+19:13:15 | "Skullcruncher32" (steamid=76561198378002588) healed player (steamid=76561198378002588)
+19:13:17 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+19:13:18 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+19:16:29 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+19:16:33 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected early from server (EXIT NOW).
+19:16:45 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.

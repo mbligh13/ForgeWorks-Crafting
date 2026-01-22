@@ -1,0 +1,15 @@
+{
+    "ItemLifetime": -1,
+    "LootSpawns": [
+        {
+            "ItemType": "Grenade_ChemGas",
+            "ItemCountMinimum": 2,
+            "ItemCountMaximum": 5,
+            "ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 1.0
+        }
+    ]
+}

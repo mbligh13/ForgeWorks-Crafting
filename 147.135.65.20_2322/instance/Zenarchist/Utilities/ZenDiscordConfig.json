@@ -1,0 +1,78 @@
+{
+    "CONFIG_VERSION": "2",
+    "AdminUIDs": [
+        "4s_EXAMPLE_pKYemc7adlZyKSrwzIMW0T32Q69CerkE"
+    ],
+    "AdminWebhooks": [
+        "https://discord.com/api/webhooks/1263661792194728040/AEWqPnfHW8h8sIJuFBKsjW1mtOHFANXtWQVh3oquwcevG0aO2CyowmP4IQuKLqOFHJno"
+    ],
+    "KillFeedWebhooks": [
+        "https://discord.com/api/webhooks/1015532391575592970/YDLhQjuwSxVagEnTR2jLRVCeNBK415gtfoCPIUrHlxXSjHcrLSbJEH2F2KLhc5aGXETm"
+    ],
+    "ServerName": "HardcoreDayZ",
+    "PingAdminCommand": "admin",
+    "MessageReceived": "Your message has been successfully relayed to the admins. Please be patient for their response.",
+    "JustLoggedIn": "just logged in to",
+    "Explanation": "A player on your watchlist just connected.",
+    "KillFeed": "Killfeed",
+    "Killed": "killed",
+    "With": "with",
+    "Melee": "melee",
+    "KillerAge": "Killer Age",
+    "VictimAge": "Victim Age",
+    "Minutes": "minutes",
+    "Hours": "hours",
+    "EnableDiscordKillFeed": 1,
+    "DisplayKillLocation": 1,
+    "DisplayPlayerSteamID": 1,
+    "TriggerAdminRaidAlert": 1,
+    "MapURL": "https://www.izurvive.com/sktp_plagueisle/",
+    "RaidAlarmRequiresTerritory": 0,
+    "RaidStationInvincible": 1,
+    "RaidRadarDishInvincible": 1,
+    "RaidRadarDishCheckRoofTimerMinutes": -1,
+    "RaidDetectionDistance": 150,
+    "RaidAlarmResetInMinutes": 3.0,
+    "RaidAlarmBatteryUsagePerSec": 1.0,
+    "RaidPlaySound": 1,
+    "RaidDiscordAlertRequiresRadar": 0,
+    "RaidDiscordAlertCooldownSecs": 1,
+    "RaidAlarmMessageTitle": "RAID ALARM",
+    "RaidAlarmAttackMessage": "Your base is under attack!",
+    "RaidAlarmWebhookUpdate": "Raid alarm configuration has been changed.",
+    "RaidAlarmConnectionOnline": "Connection established - monitoring for raid activity.",
+    "RaidAlarmConnectionOffline": "Connection lost - raid activity is no longer being monitored.",
+    "RaidAlarmRequiresTerritoryText": "You need to be the member of a territory to modify this raid alarm!",
+    "RaidAlarmTooClose": "This raid alarm is too close to an existing raid alarm!",
+    "RaidAlarmConnectionObstruction": "The radar dish is obstructed! Check for objects blocking its view of the sky.",
+    "RaidAlarmBatteryWarning": "Battery Charge",
+    "BaseDamageTriggersRaidAlert": 1,
+    "BaseDismantleTriggersRaidAlert": 1,
+    "ItemDamageTriggersRaidAlert": 1,
+    "ItemsDamagedDetect": [
+        "BaseBuilding"
+    ],
+    "RaidAlarmBuildTools": [
+        "hands",
+        "screwdriver"
+    ],
+    "RaidAlarmDismantleTools": [
+        "hands",
+        "screwdriver"
+    ],
+    "ItemsDeployedTriggerRaidAlert": [
+        "HDSN_BreachingChargeBase",
+        "expansionsatchel",
+        "plastic_explosive"
+    ],
+    "RequireAnItemForIngameAlert": 0,
+    "ItemsRequiredForIngameAlert": {
+        "itempda": 1,
+        "baseradio": 1,
+        "personalradio": 1,
+        "zenwatchgps": 1
+    },
+    "PlayerWatchlist": {
+        "4s_12UDE-PKYemc7adlZyKGVSrwzIMW0T32Q69CerkE=": "Example reason they're on watchlist - potential cheater, accused by multiple players etc"
+    }
+}

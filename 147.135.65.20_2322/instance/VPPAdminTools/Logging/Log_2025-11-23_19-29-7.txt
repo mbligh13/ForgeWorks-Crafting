@@ -1,0 +1,586 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-23_19-29-7
+====================================================================================
+19:29:7 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:29:7 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:29:7 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:29:7 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:29:7 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:29:7 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:29:7 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:29:7 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:29:7 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:29:7 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:29:7 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:29:7 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:29:7 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:29:7 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:29:7 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:29:7 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:29:7 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:29:7 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:29:7 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+19:29:7 | [PermissionManager] Adding Super Admin (76561198378002588)
+19:29:7 | [PermissionManager] Adding Super Admin (76561198074746423)
+19:29:7 | [PermissionManager] Adding Super Admin (76561199830923778)
+19:29:7 | [PermissionManager] Loaded UserGroups.json
+19:29:7 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:29:7 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:29:7 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:29:7 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:29:7 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:29:7 | Building Sets Loaded: 0
+19:29:7 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:40:25 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+19:41:29 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+19:41:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3532.969238, 37.379993, 2320.121094>)
+19:41:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3541.020996, 37.379997, 2341.350342>)
+19:41:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3536.382324, 38.226910, 2345.288818>)
+19:42:22 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3478.887695, 37.380001, 2364.211914>)
+19:42:22 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3481.915771, 37.380001, 2378.541016>)
+19:42:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3481.972412, 37.385731, 2387.908447>)
+19:42:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3480.830566, 37.385731, 2396.637451>)
+19:42:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3479.953369, 37.385727, 2402.791016>)
+19:44:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3507.966797, 37.379997, 2404.673340>)
+19:44:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3495.676025, 37.380001, 2405.442383>)
+19:44:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3489.020508, 37.379986, 2400.068115>)
+19:44:28 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3484.802002, 37.380001, 2385.089844>)
+19:44:28 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3480.606934, 37.380005, 2370.086670>)
+19:44:28 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3475.429932, 37.380005, 2352.843262>)
+19:44:29 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3469.333984, 37.380001, 2333.060059>)
+19:44:29 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3463.237549, 37.379997, 2313.271973>)
+19:44:30 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3455.633545, 85.188026, 2227.296143>)
+19:44:32 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3409.691650, 56.942741, 2258.429443>)
+19:44:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3540.257324, 77.678314, 2253.327148>)
+19:44:42 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3548.228760, 43.646950, 2283.635010>)
+19:44:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3258.883301, 80.046242, 2320.964355>)
+19:44:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3263.625488, 44.111557, 2279.478516>)
+19:44:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3270.964600, 32.256550, 2252.843018>)
+19:44:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3273.943359, 70.860153, 2150.131592>)
+19:45:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3252.184326, 33.847031, 2137.242432>)
+19:45:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3254.015869, 31.568016, 2140.104004>)
+19:45:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3215.535889, 31.560001, 2123.089355>)
+19:45:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3207.180908, 31.560005, 2095.871826>)
+19:45:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3199.212891, 31.559999, 2069.671631>)
+19:45:20 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3198.055176, 31.560001, 2063.541016>)
+19:46:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3252.608154, 31.559998, 2045.078491>)
+19:46:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3273.246338, 31.559998, 2040.334839>)
+19:46:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3293.661621, 31.560005, 2035.102783>)
+19:46:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3313.973633, 31.559998, 2029.688843>)
+19:46:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3332.971680, 31.559999, 2023.689087>)
+19:46:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3351.824951, 31.559998, 2017.738403>)
+19:46:59 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3371.016602, 31.559998, 2011.680298>)
+19:46:59 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3383.674072, 31.559996, 2007.331177>)
+19:47:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3386.674805, 31.559999, 2006.648315>)
+19:48:47 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+19:50:0 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+19:50:1 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+19:50:5 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+19:50:41 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+19:50:44 | Player "Skullcruncher32" (steamId=76561198378002588) aborted logout process [canceledLogout]
+19:50:46 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+19:51:1 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.
+19:53:49 | Player "SinVIIWrath" (steamId=76561198074746423) connected to server!
+19:54:57 | "SinVIIWrath" (steamid=76561198074746423) toggled godmode
+19:55:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<9758.974609, -2.794573, 1854.359497>)
+19:55:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<9759.217773, -1.405811, 1855.269165>)
+19:55:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<9759.441406, -0.213670, 1856.112915>)
+19:55:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<9759.675781, 0.787577, 1857.017334>)
+19:55:2 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<9785.678711, 1097.046265, 1955.925293>)
+19:55:2 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<9811.649414, 2193.580322, 2054.651367>)
+19:55:5 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<8756.156250, 1905.971436, 1831.144653>)
+19:55:6 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<7699.953125, 1663.033569, 1604.182007>)
+19:55:7 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<6643.625977, 1434.592529, 1376.698975>)
+19:55:7 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<5585.264648, 1228.592285, 1151.019531>)
+19:55:7 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<4526.857422, 1024.102661, 925.352234>)
+19:55:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.104736, 815.205933, 709.513306>)
+19:55:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.147705, 805.162476, 709.683350>)
+19:55:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.156982, 795.378784, 709.913086>)
+19:55:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.183350, 784.244751, 710.177124>)
+19:55:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.232666, 773.241638, 710.372925>)
+19:55:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.288330, 762.592407, 710.486816>)
+19:55:9 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.338623, 750.648193, 710.660706>)
+19:55:9 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.354736, 739.709229, 710.877136>)
+19:55:9 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.378174, 727.653748, 711.131042>)
+19:55:9 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3465.431885, 714.903931, 711.319824>)
+19:55:9 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3464.198730, 708.124756, 712.635437>)
+19:55:9 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3457.128418, 732.092773, 720.422546>)
+19:55:10 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3458.604980, 716.103760, 714.310913>)
+19:55:10 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3460.036621, 701.269897, 708.478577>)
+19:55:10 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3460.399414, 686.992310, 708.660400>)
+19:55:10 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3461.620117, 657.927795, 711.724365>)
+19:55:10 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<3462.184570, 638.863281, 712.021240>)
+19:55:10 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<2396.833496, 391.382965, 496.269836>)
+19:55:11 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1331.212524, 213.037933, 279.620850>)
+19:55:11 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1331.266479, 199.260605, 279.747620>)
+19:55:11 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1331.333862, 180.733795, 279.918396>)
+19:55:11 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1330.582153, 168.886032, 279.980804>)
+19:55:11 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1304.029663, 117.213547, 277.593567>)
+19:55:12 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1302.937256, 117.148605, 277.413879>)
+19:55:21 | "SinVIIWrath" (steamid=76561198074746423) toggled godmode
+19:55:23 | "SinVIIWrath" (steamid=76561198074746423) toggled godmode
+19:55:36 | "SinVIIWrath" (steamid=76561198074746423) healed player (steamid=76561198074746423)
+19:55:37 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+19:55:37 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+19:55:37 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+19:55:38 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+19:55:38 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+19:57:10 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<44.597000, 102.496872, 52.686798>)
+19:57:10 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=44.597,0,52.6868)
+19:59:0 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+19:59:16 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<12138.099609, 22.036549, 9631.639648>)
+19:59:16 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=12138.1,0,9631.64)
+19:59:17 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+19:59:22 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<1735.829956, 106.056908, 11885.200195>)
+19:59:22 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=1735.83,0,11885.2)
+19:59:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1813.274414, 106.050140, 11804.199219>)
+19:59:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1835.939331, 106.050148, 11781.036133>)
+19:59:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1858.601074, 106.050156, 11757.875977>)
+19:59:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1881.260254, 106.050140, 11734.716797>)
+19:59:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1903.917603, 106.050140, 11711.558594>)
+19:59:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1926.575439, 106.050140, 11688.400391>)
+19:59:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1928.055908, 107.592430, 11686.866211>)
+19:59:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1927.529907, 106.050140, 11670.589844>)
+19:59:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1926.869141, 106.050156, 11662.308594>)
+19:59:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1926.606079, 106.050148, 11657.526367>)
+19:59:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1926.298828, 106.050140, 11651.749023>)
+19:59:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1926.358276, 106.050148, 11643.874023>)
+19:59:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1928.556274, 106.046135, 11638.795898>)
+19:59:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1931.089478, 105.985954, 11629.510742>)
+19:59:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2064.682617, 19.101650, 11156.375000>)
+19:59:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2065.458008, 20.492817, 11155.013672>)
+19:59:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2065.913330, 20.555183, 11154.763672>)
+19:59:54 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2085.946777, 21.075264, 11130.061523>)
+19:59:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2102.176758, 21.068935, 11108.284180>)
+19:59:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2102.604736, 20.864025, 11106.525391>)
+19:59:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2115.497314, 22.409050, 11096.451172>)
+19:59:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2115.820313, 17.214466, 11092.825195>)
+19:59:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2116.189697, 14.601269, 11090.816406>)
+19:59:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2115.559326, 11.708704, 11089.845703>)
+19:59:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2121.316162, 13.323524, 11086.166016>)
+19:59:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2121.162598, 12.898703, 11086.236328>)
+19:59:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2122.510010, 12.079254, 11085.139648>)
+19:59:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2122.529297, 11.833545, 11085.013672>)
+19:59:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2122.678711, 12.866534, 11084.957031>)
+19:59:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2122.560547, 13.961861, 11084.905273>)
+19:59:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2121.481689, 15.100597, 11084.664063>)
+19:59:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2125.304932, 17.476524, 11078.222656>)
+19:59:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2135.090332, 20.855669, 11064.825195>)
+19:59:59 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2136.393066, 20.762669, 11061.539063>)
+19:59:59 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2135.785400, 19.664171, 11061.216797>)
+19:59:59 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2135.996338, 20.831512, 11061.040039>)
+20:0:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2136.314697, 20.372650, 11060.737305>)
+20:0:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2136.585938, 19.947309, 11060.484375>)
+20:0:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2137.039307, 16.218536, 11059.988281>)
+20:0:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2144.881592, 15.369168, 11050.352539>)
+20:0:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2145.969727, 14.605530, 11048.710938>)
+20:0:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2146.701660, 13.730134, 11047.257813>)
+20:0:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2146.901367, 10.823903, 11046.896484>)
+20:0:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2147.339600, 6.664781, 11045.619141>)
+20:0:2 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2147.454590, 4.607803, 11043.102539>)
+20:0:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2147.315186, 4.631599, 11042.459961>)
+20:0:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2105.264404, 67.029083, 10987.205078>)
+20:0:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2119.672363, 45.400768, 10991.791992>)
+20:1:16 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<1865.099976, 2.960000, 2541.550049>)
+20:1:16 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=1865.1,0,2541.55)
+20:1:31 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<1850.550049, 2.960000, 2519.989990>)
+20:1:31 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=1850.55,0,2519.99)
+20:2:0 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1756.338379, 35.335438, 2512.240723>)
+20:2:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1703.784790, 33.932312, 2589.745361>)
+20:2:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1703.667603, 34.602974, 2589.353760>)
+20:2:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1695.583496, 43.561123, 2590.176758>)
+20:2:8 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1691.756714, 48.700516, 2590.660156>)
+20:2:8 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1688.853516, 52.599648, 2591.026367>)
+20:2:15 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1775.348389, 35.362209, 2577.727783>)
+20:3:7 | [WeatherManager] Send Data Count is 1
+20:3:13 | [TimeManager] Applying preset 8/10/2025 10:58
+20:3:16 | [Weather Manager] ApplyWeatherSetting to: clear
+20:4:16 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<210.108002, 7.359572, 8307.459961>)
+20:4:16 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=210.108,0,8307.46)
+20:4:28 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<3194.989990, 9.888790, 4930.169922>)
+20:4:28 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=3194.99,0,4930.17)
+20:4:33 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_Vest_TacTecV2_Full_Black)
+20:4:34 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3194.838135, 11.175182, 4929.714844>)
+20:4:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3197.529541, 14.888851, 4927.611328>)
+20:4:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3197.530273, 15.680817, 4927.156738>)
+20:4:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3197.530273, 17.310913, 4927.129395>)
+20:4:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3198.031982, 20.089558, 4925.417969>)
+20:4:36 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3197.943359, 20.691778, 4925.597168>)
+20:4:52 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_Mechanix_Gloves_Black)
+20:4:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3255.527100, 67.792572, 4853.754395>)
+20:5:12 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_Demon_Skin)
+20:5:14 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2665.012451, 109.312607, 5059.887695>)
+20:5:18 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_OCV2_WarBelt_Black)
+20:5:40 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_Opscore_Pants_Black)
+20:5:55 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_OpscoreV2_Shirt_Rolled_Black)
+20:6:0 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_OCV2_Boots_Black)
+20:6:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2577.153076, 138.785706, 5085.699707>)
+20:6:22 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2577.212891, 134.931412, 5085.448730>)
+20:6:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2576.963379, 135.362595, 5085.017090>)
+20:6:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2576.957275, 135.709198, 5085.043945>)
+20:6:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2555.516113, 145.796021, 5090.696289>)
+20:6:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2539.994629, 152.744354, 5091.673340>)
+20:6:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2520.829590, 160.407959, 5092.819336>)
+20:6:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2470.076660, 183.472763, 5120.468750>)
+20:6:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2464.890869, 187.399139, 5123.287109>)
+20:6:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2460.477295, 190.644150, 5125.644043>)
+20:6:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2455.540039, 193.792862, 5127.891113>)
+20:6:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2451.648682, 196.083694, 5129.563477>)
+20:6:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2446.562500, 198.075027, 5131.223633>)
+20:6:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2439.834961, 200.156403, 5133.388184>)
+20:6:35 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (NVGHeadstrap)
+20:6:51 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (NVGoggles)
+20:6:57 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:6:57 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:6:57 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:6:57 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:6:58 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:7:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2642.314697, 112.769928, 5076.504395>)
+20:7:40 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3196.300049, 17.907394, 4925.120605>)
+20:8:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3035.261230, 12.803465, 5199.417480>)
+20:8:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3020.937744, 9.993246, 5169.298340>)
+20:8:44 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3023.876465, 22.591507, 5194.729004>)
+20:8:47 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_DMK12_Black)
+20:9:27 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_Mag_DMK12_25rnd)
+20:9:28 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_Mag_DMK12_25rnd)
+20:10:2 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_DTKP_Suppressor_Black)
+20:10:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3018.791016, 10.826021, 5145.074219>)
+20:10:13 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3048.883301, 1.806030, 5184.312988>)
+20:10:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3043.776855, 1.813501, 5174.875977>)
+20:10:23 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3042.746338, 1.824427, 5147.425781>)
+20:10:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3041.697998, 1.797846, 5119.643066>)
+20:10:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3040.604004, 1.742071, 5091.315430>)
+20:10:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3039.113770, 1.742071, 5071.248535>)
+20:10:33 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2979.024658, 4.198250, 4949.312988>)
+20:10:48 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_M4_Skele_PGrip)
+20:10:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2963.318359, 1.570001, 4909.267090>)
+20:11:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<2523.216797, 607.914063, 4082.612549>)
+20:11:14 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1725.807251, 62.893520, 2600.705811>)
+20:11:16 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1719.878784, 62.893509, 2589.409668>)
+20:11:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1719.954956, 62.893509, 2589.623047>)
+20:11:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1718.313110, 62.893509, 2591.216064>)
+20:11:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1721.696167, 62.893509, 2596.765137>)
+20:11:29 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1720.315552, 62.893509, 2589.942871>)
+20:11:31 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1686.902100, 35.379082, 2508.627686>)
+20:11:35 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_MCX_Stock_STD)
+20:11:55 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:11:55 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:11:55 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:11:56 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:11:56 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+20:12:3 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_Mag_DMK12_25rnd)
+20:12:3 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_Mag_DMK12_25rnd)
+20:12:3 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_Mag_DMK12_25rnd)
+20:12:13 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Vest_TacTecV2_Med_MCB)
+20:12:18 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Mechanix_Gloves_BlackRed)
+20:12:37 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_SkeletonBlood_Skin)
+20:12:40 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OCV2_WarBelt_Black)
+20:12:59 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_OpscoreV2_Helmet_Black)
+20:13:3 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Ballistic_Mask_Sammy)
+20:13:10 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Opscore_Pants_Black)
+20:13:17 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Tunic_Black)
+20:13:45 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_PVS31_Closed_BLK)
+20:13:52 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Battery9V)
+20:14:17 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Boltthrower)
+20:14:30 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_M4_PG_F1_Red)
+20:14:44 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_M4_CH_Aero_ANred)
+20:14:50 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:14:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:14:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:14:58 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:14:58 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:15:7 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_ScrapboltCrossb)
+20:15:7 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_ScrapboltCrossb)
+20:15:7 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_ScrapboltCrossb)
+20:16:8 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Dufflebag_Brown)
+20:16:28 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AJW_BS_Magpul_MOE_Black)
+20:16:32 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Improbag_Human)
+20:16:41 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Dufflebag_Brown" (pos=<1686.276001, 35.499130, 2509.284912>)
+20:17:0 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_SkeletonBlood_Skin" (pos=<1687.245605, 35.378624, 2512.332031>)
+20:17:1 | "Skullcruncher32" (steamid=76561198378002588) deleted object "HunterPants_Brown" (pos=<1687.245605, 35.386520, 2512.332031>)
+20:17:2 | "Skullcruncher32" (steamid=76561198378002588) deleted object "HuntingJacket_Brown" (pos=<1687.245605, 35.464252, 2512.332031>)
+20:18:50 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (NVGoggles)
+20:19:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1976.531494, 13.367477, 2510.516113>)
+20:20:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1931.519531, 13.329873, 2630.712891>)
+20:20:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1927.064453, 13.336699, 2617.275879>)
+20:20:29 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1910.821289, 13.341471, 2617.720703>)
+20:20:30 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1911.407715, 13.342463, 2636.285645>)
+20:20:31 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1886.403442, 13.484836, 2639.475342>)
+20:21:4 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1794.440674, 14.018117, 2624.592529>)
+20:21:7 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1812.524414, 13.342463, 2606.854248>)
+20:21:8 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1820.711548, 13.344397, 2605.137695>)
+20:21:8 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1830.506592, 13.337581, 2603.769531>)
+20:21:9 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1813.956909, 13.344398, 2605.936279>)
+20:21:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1814.111694, 13.339392, 2620.280273>)
+20:21:11 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1800.983154, 13.665829, 2623.240479>)
+20:21:12 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1794.868286, 13.446400, 2619.920410>)
+20:21:13 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1794.670654, 13.342463, 2613.724854>)
+20:21:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1767.965576, 5.008532, 2539.660889>)
+20:21:23 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1716.987061, 4.422661, 2559.014648>)
+20:21:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1779.442139, 2.960000, 2576.594727>)
+20:21:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1771.411255, 2.960004, 2570.732666>)
+20:21:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1759.599731, 2.959999, 2566.651367>)
+20:21:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1747.541992, 2.959999, 2562.647217>)
+20:21:28 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1551.773438, 29.422518, 2522.098877>)
+20:21:30 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1593.312866, 2.959997, 2523.262207>)
+20:21:30 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1597.768921, 2.960000, 2523.753662>)
+20:21:31 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1586.927246, 2.960002, 2533.062988>)
+20:21:31 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.547852, 4.079476, 2543.421875>)
+20:21:32 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.388672, 3.981100, 2542.540527>)
+20:21:32 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.360352, 5.519797, 2542.383789>)
+20:21:32 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.345581, 7.024040, 2542.302246>)
+20:21:33 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.415161, 7.678335, 2542.244141>)
+20:21:33 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.611694, 9.135469, 2542.188721>)
+20:21:33 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1715.778931, 10.117123, 2543.001709>)
+20:21:33 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1717.168945, 11.467196, 2542.246094>)
+20:21:34 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1718.593506, 11.664304, 2541.861328>)
+20:21:34 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1593.707031, 2.960003, 2539.368408>)
+20:21:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1611.794922, 2.959999, 2542.756836>)
+20:21:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1632.727295, 2.960001, 2546.527100>)
+20:21:35 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1630.364868, 2.960001, 2546.352783>)
+20:21:36 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1714.185303, 9.022144, 2541.906494>)
+20:21:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1714.529053, 10.770344, 2542.014893>)
+20:21:43 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1713.980225, 9.875747, 2541.168945>)
+20:21:43 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1714.528320, 10.916815, 2541.083252>)
+20:21:43 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1716.885010, 11.483141, 2540.566895>)
+20:21:43 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1718.369873, 11.669827, 2540.360840>)
+20:21:43 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1720.438721, 11.722858, 2540.249512>)
+20:21:44 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1722.452637, 11.713153, 2539.835693>)
+20:21:44 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1725.295166, 11.699306, 2539.104492>)
+20:21:44 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1726.264404, 11.694472, 2538.747314>)
+20:21:44 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1732.491943, 8.524689, 2537.090332>)
+20:21:44 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1734.251709, 8.530074, 2536.849365>)
+20:21:45 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1736.777466, 8.534994, 2536.433594>)
+20:21:45 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1736.871826, 8.534492, 2536.427979>)
+20:21:45 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1739.339233, 8.514445, 2536.039551>)
+20:21:45 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1743.104614, 8.985498, 2535.180908>)
+20:21:45 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1743.841919, 8.985369, 2534.860840>)
+20:21:45 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1716.948975, 7.009557, 2562.154785>)
+20:21:46 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1745.660278, 8.985060, 2534.457764>)
+20:21:46 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1748.426270, 8.984579, 2533.509033>)
+20:21:46 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1752.179688, 8.983928, 2532.255859>)
+20:21:46 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1754.966553, 8.983444, 2531.322998>)
+20:21:46 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1758.887329, 8.982763, 2530.013184>)
+20:21:46 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1716.857788, 7.518239, 2564.185303>)
+20:21:47 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1760.685303, 8.982460, 2529.692383>)
+20:21:47 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1764.742432, 8.985542, 2528.661621>)
+20:21:47 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1716.929932, 7.740134, 2565.863770>)
+20:21:48 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1767.009766, 9.371542, 2526.236816>)
+20:21:48 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1772.091309, 8.984287, 2526.905029>)
+20:21:48 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1772.508057, 8.984194, 2526.042236>)
+20:21:48 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1776.903442, 8.983459, 2525.546875>)
+20:21:49 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1776.245361, 10.014187, 2524.614990>)
+20:21:49 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1777.332886, 10.894801, 2523.499023>)
+20:21:49 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1780.235718, 10.001009, 2523.914063>)
+20:21:50 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1782.788818, 8.982592, 2528.967773>)
+20:21:50 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1785.910767, 8.982073, 2528.717773>)
+20:21:50 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1788.698853, 8.985399, 2528.427490>)
+20:21:50 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1789.315308, 8.985291, 2528.146484>)
+20:21:51 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1791.232056, 8.984964, 2527.769775>)
+20:21:51 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1794.057373, 8.984486, 2527.203125>)
+20:21:51 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1795.626465, 8.984232, 2527.313477>)
+20:21:51 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1796.360718, 8.984096, 2526.782959>)
+20:21:51 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1799.757446, 8.983500, 2525.382080>)
+20:21:52 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1802.999390, 8.982937, 2524.294189>)
+20:21:52 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1807.953491, 8.982073, 2522.500244>)
+20:21:52 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1811.407349, 8.494662, 2521.957031>)
+20:21:52 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1819.275024, 8.190434, 2520.369873>)
+20:21:53 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1827.897949, 7.905012, 2518.983887>)
+20:21:59 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1825.981445, 4.621522, 2515.095459>)
+20:22:0 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1826.309814, 5.897612, 2514.835449>)
+20:22:0 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1826.452026, 6.303139, 2514.777344>)
+20:22:0 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1826.741455, 7.332547, 2514.579834>)
+20:22:0 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1826.869751, 7.526059, 2514.506592>)
+20:22:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1827.321777, 7.905013, 2514.255371>)
+20:22:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1827.552246, 7.905013, 2514.151367>)
+20:22:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1828.000488, 7.905013, 2513.976563>)
+20:22:1 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1828.378540, 7.905012, 2513.920654>)
+20:22:4 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1880.801758, 9.067242, 2499.545410>)
+20:22:7 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1826.542114, 4.577503, 2515.510498>)
+20:22:7 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1826.274414, 5.883020, 2514.816406>)
+20:22:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1825.977173, 6.482562, 2514.375732>)
+20:22:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1825.495483, 7.671082, 2513.126953>)
+20:22:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1824.836304, 7.905013, 2509.937500>)
+20:22:8 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1823.843262, 2.959978, 2502.054932>)
+20:22:21 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1882.375122, 6.535453, 2509.038086>)
+20:22:22 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1882.272949, 8.140511, 2508.422119>)
+20:22:22 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<1882.244141, 9.761225, 2508.248291>)
+20:22:24 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1886.245361, 22.159639, 2503.910400>)
+20:22:26 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1886.843140, 22.231005, 2503.651611>)
+20:22:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1880.858398, 21.918591, 2502.900635>)
+20:22:27 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<1876.245972, 22.241114, 2503.113770>)
+20:22:30 | Player "SinVIIWrath" (steamId=76561198074746423) initiated disconnect process...
+20:22:45 | Player "SinVIIWrath" (steamId=76561198074746423) disconnected from server.
+20:22:50 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<3201.800049, 6.133206, 4927.899902>)
+20:22:50 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=3201.8,0,4927.9)
+20:23:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3200.940186, 14.058105, 4927.126953>)
+20:23:0 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3200.950928, 15.720358, 4927.145996>)
+20:23:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3200.967041, 17.377424, 4927.184082>)
+20:23:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3202.058350, 21.410076, 4940.527832>)
+20:23:1 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3206.426758, 32.553528, 4991.121094>)
+20:23:45 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_ImprovisedBolt_1)
+20:23:46 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_ImprovisedBolt_1)
+20:23:46 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_ImprovisedBolt_1)
+20:24:41 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_AngleGrinder)
+20:24:52 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Powerpack)
+20:25:10 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AK101)
+20:27:14 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_flex)
+20:28:0 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_paint4)
+20:28:45 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_flex2)
+20:29:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_craftbox)
+20:29:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_craftbox)
+20:29:43 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapmetal)
+20:29:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+20:29:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+20:32:22 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrap_Bttstck_AK)
+20:32:23 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrap_Bttstck_M4)
+20:33:10 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (LargeGasCanister)
+20:34:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:34:25 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:34:25 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+20:35:51 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_ScrapScope_AKzoom)
+20:36:2 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_ScrapScope_M4zoom)
+20:36:2 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_ScrapScope_M4zoom)
+20:36:16 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_ScrapScope_PUzoom)
+20:36:18 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_ScrapScope_LRSzoom)
+20:37:17 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_BoltActionRifle)
+20:37:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_ImprovisedRifleOptic_Crosshair)
+20:38:4 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_cartridge_762x54)
+20:38:9 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_762x54)
+20:40:52 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_projectile_762x51_scrap)
+20:41:1 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Gunpowder_sock)
+20:41:21 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Gunpowder)
+20:41:21 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Gunpowder)
+20:41:22 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Gunpowder_Box)
+20:41:22 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Gunpowder_Box)
+20:42:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_projectile_762x54_stock)
+20:42:44 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_projectilepress_large)
+20:42:44 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_projectilepress_medium)
+20:42:45 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_projectilepress_small)
+20:43:14 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapmetal)
+20:43:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapmetal)
+20:43:31 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapmetal)
+20:44:29 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_ammopacking)
+20:44:58 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_ammo)
+20:45:15 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_pliers)
+20:45:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_pliers)
+20:48:31 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectilepress_small" (pos=<3177.316406, 19.564873, 4983.797852>)
+20:48:32 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectilepress_large" (pos=<3177.316406, 19.564873, 4983.797852>)
+20:48:34 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_pliers" (pos=<3177.316406, 19.289749, 4983.797852>)
+20:48:35 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectile_762x54_scrap" (pos=<3177.316406, 19.278860, 4983.797852>)
+20:48:36 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Gunpowder" (pos=<3177.316406, 19.266312, 4983.797852>)
+20:48:39 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectile_762x54_scrap" (pos=<3177.316406, 19.237288, 4983.797852>)
+20:48:42 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectile_762x54_scrap" (pos=<3177.316406, 19.278860, 4983.797852>)
+20:48:44 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectile_762x54_scrap" (pos=<3177.316406, 19.278860, 4983.797852>)
+20:48:45 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectile_762x54_scrap" (pos=<3177.316406, 19.278860, 4983.797852>)
+20:48:47 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_projectile_762x54_scrap" (pos=<3177.316406, 19.278860, 4983.797852>)
+20:48:49 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+20:50:37 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:50:41 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:2 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:8 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:11 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:16 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:18 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:22 | "Skullcruncher32" (steamid=76561198378002588) deleted objects using ESP
+20:51:45 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Improbag_Human" (pos=<3177.165283, 19.745275, 4988.636719>)
+20:51:47 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Ammo_ImprovisedBolt_1" (pos=<3178.411377, 20.269552, 4990.588867>)
+20:51:55 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3187.833740, 21.285679, 4975.948242>)
+20:51:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3191.298584, 21.685341, 4964.710449>)
+20:51:56 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3193.393311, 22.569984, 4957.177246>)
+20:51:57 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3201.943359, 20.441952, 4930.261719>)
+20:51:58 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3195.798584, 17.922342, 4934.859375>)
+20:52:36 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3247.819336, 70.945084, 4840.817383>)
+20:52:37 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3887.610352, 518.073242, 4067.233398>)
+20:52:38 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3249.700439, 72.808182, 4837.667480>)
+20:52:38 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3249.814453, 72.791756, 4838.606934>)
+20:52:39 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3252.003418, 74.588608, 4838.181152>)
+20:52:41 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3250.202148, 73.051537, 4839.041016>)
+20:52:42 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3252.438965, 74.872162, 4838.742188>)
+20:52:45 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3254.675293, 76.748085, 4837.282227>)
+20:52:46 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3256.365723, 78.029572, 4835.859375>)
+20:52:46 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3257.438232, 78.889221, 4835.143555>)
+20:52:46 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3258.217285, 79.419266, 4834.607910>)
+20:52:48 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3277.124512, 92.000359, 4822.520508>)
+20:52:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3285.126221, 96.599899, 4815.799316>)
+20:52:49 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3363.025146, 131.186523, 4730.333984>)
+20:52:50 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3366.251465, 133.448196, 4724.514160>)
+20:52:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3370.936523, 135.604660, 4716.616699>)
+20:52:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3374.279053, 136.987793, 4711.319336>)
+20:52:51 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3488.727539, 119.985359, 4549.969238>)
+20:52:52 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3488.442139, 115.012047, 4549.241699>)
+20:52:53 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<3489.246582, 95.027412, 4537.522949>)
+20:53:11 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+20:53:14 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected early from server (EXIT NOW).

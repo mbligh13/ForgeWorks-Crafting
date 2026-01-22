@@ -1,0 +1,28 @@
+{
+    "WorkbenchesClassnames": [
+        "COTZ_Workbench_Medical"
+    ],
+    "CraftCategories": [
+        {
+            "CategoryName": "Medical Crafting",
+            "CraftItems": [
+                {
+                    "Result": "Ammo_762x39",
+                    "ResultCount": 1,
+                    "ComponentsDontAffectHealth": 0,
+                    "CraftType": "craft",
+                    "RecipeName": "Example Medical recipe",
+                    "CraftComponents": [
+                        {
+                            "Classname": "Ammo_762x39",
+                            "Amount": 1,
+                            "Destroy": 0,
+                            "Changehealth": 0.0
+                        }
+                    ],
+                    "AttachmentsNeed": []
+                }
+            ]
+        }
+    ]
+}

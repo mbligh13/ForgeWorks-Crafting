@@ -1,0 +1,10 @@
+{
+    "UPDATE_VERSION": "-1",
+    "UPDATE_PREFIX": "Lastest Update: ",
+    "UPDATE_SUFFIX": " | For more information: HardcoreDayZ.com/changes",
+    "UPDATE_MESSAGE": "",
+    "LOGIN_MESSAGE": "",
+    "PopupInGame": 0,
+    "NotifySurvivorOfNameChange": 1,
+    "SurvivorNotification": "Please change your name to a custom name in the DayZ Launcher (tick Parameters -> Profile name)"
+}

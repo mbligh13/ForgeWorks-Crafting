@@ -1,0 +1,934 @@
+{
+    "m_Version": 4,
+    "RoamingLocations": [
+        {
+            "Name": "NyheimNewCity (Nyheim New City)",
+            "Position": [
+                3169.659912109375,
+                0.0,
+                2105.949951171875
+            ],
+            "Radius": 1000.0,
+            "Type": "Capital",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimIndustrial (Nyheim Industrial)",
+            "Position": [
+                3246.800048828125,
+                0.0,
+                2311.820068359375
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimKriminalomsorgsanlegg (Nyheim Prison)",
+            "Position": [
+                2699.9599609375,
+                0.0,
+                2073.889892578125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimOldCity (Nyheim Old City)",
+            "Position": [
+                2692.06005859375,
+                0.0,
+                2390.43994140625
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "DestroyedCity (Destroyed City)",
+            "Position": [
+                2333.25,
+                0.0,
+                2474.6298828125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimCommercialDistrict (Nyheim Commercial District)",
+            "Position": [
+                1754.8699951171876,
+                0.0,
+                2560.7900390625
+            ],
+            "Radius": 1000.0,
+            "Type": "Capital",
+            "Enabled": 1
+        },
+        {
+            "Name": "Rodal",
+            "Position": [
+                4505.2099609375,
+                0.0,
+                439.3800048828125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Kraftverk",
+            "Position": [
+                4416.39013671875,
+                0.0,
+                3932.889892578125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Lilleby",
+            "Position": [
+                4201.1201171875,
+                0.0,
+                4049.449951171875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimElectricalFacility (Nyheim Electrical Facility)",
+            "Position": [
+                4353.6201171875,
+                0.0,
+                2546.60009765625
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Odin",
+            "Position": [
+                4713.919921875,
+                0.0,
+                1816.52001953125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Nyelva",
+            "Position": [
+                453.2200012207031,
+                0.0,
+                3162.0400390625
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Dalen",
+            "Position": [
+                1230.8800048828126,
+                0.0,
+                4171.41015625
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Vestby",
+            "Position": [
+                484.9599914550781,
+                0.0,
+                503.6300048828125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Sorbu",
+            "Position": [
+                3026.39990234375,
+                0.0,
+                366.1000061035156
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Kebabnino",
+            "Position": [
+                6894.080078125,
+                0.0,
+                1249.9200439453126
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Utkjaer",
+            "Position": [
+                167.27999877929688,
+                0.0,
+                7636.60009765625
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Oya",
+            "Position": [
+                7279.22021484375,
+                0.0,
+                8163.31005859375
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Nordsundet",
+            "Position": [
+                4106.43017578125,
+                0.0,
+                6931.3701171875
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Utkanten",
+            "Position": [
+                199.97999572753907,
+                0.0,
+                6696.669921875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Ulvetind",
+            "Position": [
+                420.80999755859377,
+                0.0,
+                1042.8900146484376
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Ostby",
+            "Position": [
+                6353.35986328125,
+                0.0,
+                2062.6201171875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Halvoya",
+            "Position": [
+                6899.0498046875,
+                0.0,
+                6535.81005859375
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Hofsoy",
+            "Position": [
+                7808.919921875,
+                0.0,
+                811.27001953125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Olderoya",
+            "Position": [
+                6942.4599609375,
+                0.0,
+                376.010009765625
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Thorshammer (Thor's hammer)",
+            "Position": [
+                6884.31982421875,
+                0.0,
+                2669.25
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Nyvoll",
+            "Position": [
+                4592.7998046875,
+                0.0,
+                4738.759765625
+            ],
+            "Radius": 1000.0,
+            "Type": "Capital",
+            "Enabled": 1
+        },
+        {
+            "Name": "Gruve",
+            "Position": [
+                5428.35986328125,
+                0.0,
+                5157.330078125
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Elde",
+            "Position": [
+                5873.72998046875,
+                0.0,
+                5252.919921875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Evenes",
+            "Position": [
+                2546.3798828125,
+                0.0,
+                8316.900390625
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Kjerstad",
+            "Position": [
+                2124.969970703125,
+                0.0,
+                8074.3701171875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Brorstad",
+            "Position": [
+                6570.39990234375,
+                0.0,
+                5454.7998046875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Sydalen",
+            "Position": [
+                7896.91015625,
+                0.0,
+                4695.169921875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Valberg",
+            "Position": [
+                7626.56005859375,
+                0.0,
+                5772.33984375
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Rostad",
+            "Position": [
+                6613.89013671875,
+                0.0,
+                4276.85986328125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimRefugeeCenter (Refugee Arrival Center)",
+            "Position": [
+                3582.31005859375,
+                0.0,
+                5619.7001953125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimLufthavn (Nyheim Lufthavn)",
+            "Position": [
+                1869.739990234375,
+                0.0,
+                1313.9300537109376
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "NyheimMilitaerFlyplass (Nyheim Militaer Flyplass)",
+            "Position": [
+                1889.530029296875,
+                0.0,
+                883.1599731445313
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Storvik",
+            "Position": [
+                4680.81005859375,
+                0.0,
+                6562.509765625
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Lithaugen",
+            "Position": [
+                4773.759765625,
+                0.0,
+                6270.39990234375
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Stoa",
+            "Position": [
+                4019.830078125,
+                0.0,
+                6186.41015625
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Bruem",
+            "Position": [
+                6220.08984375,
+                0.0,
+                7255.81982421875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Fresvik",
+            "Position": [
+                1440.6400146484376,
+                0.0,
+                6197.52001953125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Steine",
+            "Position": [
+                3033.9599609375,
+                0.0,
+                5152.56982421875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Dyrdal",
+            "Position": [
+                2157.550048828125,
+                0.0,
+                6071.68994140625
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Bredden",
+            "Position": [
+                1498.6099853515626,
+                0.0,
+                7227.1298828125
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Undredal",
+            "Position": [
+                2245.5,
+                0.0,
+                7065.43017578125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Leveld",
+            "Position": [
+                2593.7099609375,
+                0.0,
+                7226.35986328125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Opheim",
+            "Position": [
+                2319.030029296875,
+                0.0,
+                7734.1201171875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Moane",
+            "Position": [
+                7542.81005859375,
+                0.0,
+                3147.550048828125
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Hegge",
+            "Position": [
+                8239.33984375,
+                0.0,
+                3078.699951171875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Grimsbu",
+            "Position": [
+                1909.3699951171876,
+                0.0,
+                2950.4599609375
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "PiggenGruve (Piggen Gruve)",
+            "Position": [
+                2248.590087890625,
+                0.0,
+                4640.3701171875
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Brydal",
+            "Position": [
+                4592.47021484375,
+                0.0,
+                3173.889892578125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Koppang",
+            "Position": [
+                5705.830078125,
+                0.0,
+                4615.60986328125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Kloster",
+            "Position": [
+                5568.31005859375,
+                0.0,
+                4167.58984375
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Slott",
+            "Position": [
+                5464.240234375,
+                0.0,
+                2166.909912109375
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Larvik",
+            "Position": [
+                285.3699951171875,
+                0.0,
+                5509.1298828125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Gammelheim",
+            "Position": [
+                7746.9501953125,
+                0.0,
+                6584.22998046875
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Holand",
+            "Position": [
+                4812.919921875,
+                0.0,
+                7715.259765625
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Bangsund",
+            "Position": [
+                4459.5,
+                0.0,
+                7415.56005859375
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Helvete",
+            "Position": [
+                15149.3701171875,
+                0.0,
+                15276.1298828125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Lauvsnes",
+            "Position": [
+                5766.43017578125,
+                0.0,
+                772.1900024414063
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Ledang",
+            "Position": [
+                2636.199951171875,
+                0.0,
+                1312.719970703125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Holt",
+            "Position": [
+                3626.830078125,
+                0.0,
+                1255.969970703125
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Vikan",
+            "Position": [
+                7840.27001953125,
+                0.0,
+                2940.6201171875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 1
+        },
+        {
+            "Name": "Hylla",
+            "Position": [
+                4841.83984375,
+                0.0,
+                5417.31982421875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Fjellhytta",
+            "Position": [
+                1098.3299560546876,
+                0.0,
+                1880.8900146484376
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Punslett",
+            "Position": [
+                1294.260009765625,
+                0.0,
+                14875.7998046875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 0
+        },
+        {
+            "Name": "Leirvika",
+            "Position": [
+                2878.929931640625,
+                0.0,
+                14759.2998046875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 0
+        },
+        {
+            "Name": "SisteHap (Siste Hap)",
+            "Position": [
+                5134.759765625,
+                0.0,
+                13550.2998046875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 0
+        },
+        {
+            "Name": "Vestervika",
+            "Position": [
+                2386.02001953125,
+                0.0,
+                10769.7998046875
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 0
+        },
+        {
+            "Name": "Reinvika",
+            "Position": [
+                1041.9000244140626,
+                0.0,
+                9869.8798828125
+            ],
+            "Radius": 500.0,
+            "Type": "City",
+            "Enabled": 0
+        },
+        {
+            "Name": "Hestvika",
+            "Position": [
+                345.60101318359377,
+                0.0,
+                9096.900390625
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Arsteinen",
+            "Position": [
+                1479.1099853515626,
+                0.0,
+                13161.599609375
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Trollskarholmen",
+            "Position": [
+                4949.16015625,
+                0.0,
+                9142.76953125
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Verholmen",
+            "Position": [
+                10892.900390625,
+                0.0,
+                6613.25
+            ],
+            "Radius": 100.0,
+            "Type": "Local",
+            "Enabled": 1
+        },
+        {
+            "Name": "Digermulen",
+            "Position": [
+                11332.400390625,
+                0.0,
+                5812.0498046875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Finnvika",
+            "Position": [
+                10167.599609375,
+                0.0,
+                7258.669921875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Valelva",
+            "Position": [
+                4572.7001953125,
+                0.0,
+                9708.6904296875
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Hansvika",
+            "Position": [
+                5623.759765625,
+                0.0,
+                8485.150390625
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Forsvarsbrukt",
+            "Position": [
+                10128.0,
+                0.0,
+                8087.0
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        },
+        {
+            "Name": "Sandviksberget",
+            "Position": [
+                12222.0,
+                0.0,
+                8488.0
+            ],
+            "Radius": 200.0,
+            "Type": "Village",
+            "Enabled": 1
+        }
+    ],
+    "ExcludedRoamingBuildings": [
+        "Land_CementWorks_Hall2_Grey",
+        "Land_Factory_Small",
+        "Land_House_1W09",
+        "Land_House_2W03",
+        "Land_HouseBlock_1F4",
+        "Land_Boathouse",
+        "Land_Mine_Building",
+        "Land_Shed_W2",
+        "Land_Tenement_Big",
+        "Land_Misc_Toilet_Mobile",
+        "Land_Ship_Medium2",
+        "Land_Boat_",
+        "Land_Train_Wagon_Box"
+    ],
+    "NoGoAreas": []
+}

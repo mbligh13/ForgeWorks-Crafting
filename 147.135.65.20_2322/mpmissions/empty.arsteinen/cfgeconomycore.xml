@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+	<ce folder="db">
+        <file name="globals.xml" type="globals" />
+        <file name="types.xml" type="types" />
+        <file name="economy.xml" type="economy" />
+        <file name="events.xml" type="events" />
+        <file name="messages.xml" type="messages" />
+        <file name="cfgspawnabletypes.xml" type="spawnabletypes" />
+    </ce>
+    <ce folder="trerik">
+        <file name="types_trerik_clothing.xml" type="types" />
+        <file name="events_trerik_cluster.xml" type="events" />      
+        <file name="mapgroupproto.xml" type="mapgroupproto" />      
+        <file name="mapclusterproto.xml" type="mapgroupproto" />      
+    </ce>
+	<ce folder="Custom_XMLs">
+		<!-- ============================= -->
+		<!--       CUSTOM XML INSERT       -->
+		<!--     Folder: Custom_XMLs       -->
+		<!-- ============================= -->
+
+		<!-- Spawnable Types -->
+		<file name="ALV_SpawnableTypes.xml" type="spawnabletypes" />
+		<file name="CDAJWeapons_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="ForgeWorks_spawnabletypes.xml" type="spawnabletypes" />
+		<!--<file name="Zencfgspawnabletypes.xml" type="spawnabletypes" />
+
+		<!-- Normal Types -->
+		<file name="ALV_types.xml" type="types" />
+
+		<file name="BBP_Crafted_Types.xml" type="types" />
+		<file name="BBP_Items_types.xml" type="types" />
+		<file name="BBP_Loot_Types.xml" type="types" />
+		<file name="BBP_types.xml" type="types" />
+
+		<file name="CDAJ_Types.xml" type="types" />
+		<file name="CDAJAmmo_types.xml" type="types" />
+		<file name="CDAJWeapon_types.xml" type="types" />
+		<file name="CDAJWeaponAttachments_types.xml" type="types" />
+		<file name="CDAJWeaponMagazines_types.xml" type="types" />
+		<file name="CDAJWeaponMelee_types.xml" type="types" />
+		<file name="CDAJWeaponOptics_types.xml" type="types" />
+
+		<file name="cookz_types.xml" type="types" />
+
+		<file name="CP_sample_cannabisplus_types.xml" type="types" />
+
+		<file name="dogtags_types.xml" type="types" />
+		<file name="expansion.xml" type="types" />
+		<file name="EFT_Types.xml" type="types" />
+		<file name="Boomlays Things.xml" type="types" />
+		<file name="IW_types.xml" type="types" />
+		<file name="mmg_types_ADMINGEAR.xml" type="types" />
+		<file name="mmg_types_alpine.xml" type="types" />
+		<file name="mmg_types_atacs.xml" type="types" />
+		<file name="mmg_types_black.xml" type="types" />
+		<file name="mmg_types_carbines.xml" type="types" />
+		<file name="mmg_types_dark_woodland.xml" type="types" />
+		<file name="mmg_types_erdl.xml" type="types" />
+		<file name="mmg_types_green.xml" type="types" />
+		<file name="mmg_types_multicam.xml" type="types" />
+		<file name="mmg_types_multicam_tropic.xml" type="types" />
+		<file name="mmg_types_multicamblack.xml" type="types" />
+		<file name="mmg_types_NBC+NVG.xml" type="types" />
+		<file name="mmg_types_patches.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
+		<file name="mmg_types_tan.xml" type="types" />
+		<file name="mmg_types_ucp.xml" type="types" />
+
+		<file name="rag_baseitems.xml" type="types" />
+
+		<file name="RUSForma_vehicles_types.xml" type="types" />
+		<file name="ForgeWorks_types.xml" type="types" />
+		<file name="TerjeMedical_Types.xml" type="types" />
+		<file name="TerjeOptional_Types.xml" type="types" />
+		<file name="TerjeRadiation_Types.xml" type="types" />
+		<file name="TerjeRadiationMedical_Types.xml" type="types" />
+		<file name="TerjeSkill_Types.xml" type="types" />
+		<file name="TerjeMedicalSkill_Types.xml" type="types" />
+		<file name="viking_pack.xml" type="types" />
+
+		<!--<file name="ZenCustomGear.xml" type="types" />
+		<file name="ZenMusic.xml" type="types" />
+		<file name="ZenTreasure.xml" type="types" />-->
+		<file name="TraderPlus_types.xml" type="types" />
+	</ce>
+
+</economycore>

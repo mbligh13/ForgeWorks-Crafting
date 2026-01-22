@@ -1,0 +1,68 @@
+{
+    "DebugOn": 0,
+    "PlayerAdmins": [
+        "4s_12UDE-PKYemc7adlZyKGVSrwzIMW0T32Q39CerkE="
+    ],
+    "CanCutFlagWhileAttachedToPole": 0,
+    "AllowRaisingFlagWithoutTerritory": 0,
+    "TeleportPlayerOutOfTerritoryDistance": 60,
+    "TerritoryFlagScanIntervalSecs": 3600,
+    "TerritoryStopForeignBuildZone": 100,
+    "TerritoryFlagObjectCountLimit": 100,
+    "TerritoryFlagCargoCountLimit": 1000,
+    "TerritoryFlagRefresherRadius": 0,
+    "MaxTerritoriesPerPlayer": 2,
+    "AllowPlayerToDeleteOldTerritories": 1,
+    "TerritoryBuiltTitle": "TERRITORY CREATED",
+    "TerritoryBuiltText": "You have created a territory! Now other survivors cannot build within your area. There is a limit of %territorylimit% per player. You have built %territorycount%/%territorylimit% territories.",
+    "TerritoryLimitText": "You have reached the territory limit! You currently own %territorycount%/%territorylimit% territories. Dismantle old territories to create new ones.",
+    "TerritoryDeletedTitle": "TERRITORY DELETED",
+    "TerritoryDeletedText": "You deleted %count% old territories. You can now build up to %territorylimit% new territories.",
+    "LimitTitle": "LIMIT REACHED!",
+    "CantPlace": "YOU CAN'T PLACE THAT HERE!",
+    "ObjectLimitText": "Cannot build! Territory contains %objectcount% total allowed base objects and %cargocount% cargo items.\n\nThis limit exists to maintain server performance.\n\nDismantle non-essential objects to continue building.",
+    "BlockedActionTitle": "YOU CAN'T DO THAT HERE!",
+    "DismantleBlockedText": "You cannot dismantle objects unless you are a territory member.",
+    "TooManyTerritoriesText": "You have too many territories already! You can only build %territorycount% territories. Dismantle your old ones to make more.",
+    "MovedTitle": "YOU HAVE BEEN MOVED!",
+    "MovedText": "You previously disconnected inside someone else's territory. To prevent raid abuse, you have been moved to a new location outside of the territory.",
+    "AnyTerritoryBlacklist": {
+        "MessageText": "You can't place that %itemname% this close to another territory! You must move %distance% meters away.",
+        "BlockedActionText": "You can't do that this close to another territory! You must move %distance% meters away.",
+        "ItemBlacklist": {
+            "TerritoryFlagKit": 300
+        },
+        "ActionBlacklist": {}
+    },
+    "ForeignTerritoryBlacklist": {
+        "MessageText": "You can't place that %itemname% this close to someone else's territory! You must move %distance% meters away.",
+        "BlockedActionText": "You can't do that this close to a territory you don't belong to! You must move %distance% meters away.",
+        "ItemBlacklist": {
+            "AnyItem": 0
+        },
+        "ActionBlacklist": {
+            "ActionLowerFlag": 0
+        }
+    },
+    "RequiresTerritoryBlacklist": {
+        "MessageText": "You require a territory to do that! Create a territory by using a combination lock on a fully built Territory Flag.",
+        "BlockedActionText": "You require a territory to do that! Create a territory by using a combination lock on a fully built Territory Flag.",
+        "ItemBlacklist": {},
+        "ActionBlacklist": {
+            "ActionRaiseFlag": 0
+        }
+    },
+    "ItemWhitelist": [
+        "ZenNote",
+        "FireplaceBase",
+        "TrapBase",
+        "ExplosivesBase",
+        "TrapSpawnBase",
+        "LandMineTrap",
+        "BearTrap",
+        "ZenSleepingBag_Base"
+    ],
+    "TerritoryDismantleTools": [
+        "Sledgehammer"
+    ]
+}

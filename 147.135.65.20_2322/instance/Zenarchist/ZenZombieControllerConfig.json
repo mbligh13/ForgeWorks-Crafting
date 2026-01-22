@@ -1,0 +1,9 @@
+{
+    "CONFIG_VERSION": "1",
+    "CheckTimerSeconds": 10,
+    "MaxWanderRange": 20.0,
+    "MinimumReturnDistance": 0.30000001192092898,
+    "DisableControllerAfterAggro": 1,
+    "MinutesToWaypointTimeout": 5,
+    "TeleportIfNoPlayersNearby": 1
+}

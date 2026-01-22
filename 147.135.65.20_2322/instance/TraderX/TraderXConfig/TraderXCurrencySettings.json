@@ -1,0 +1,54 @@
+{
+    "version": "1.0.1",
+    "currencyTypes": [
+        {
+            "currencyName": "EUR",
+            "currencies": [
+                {
+                    "className": "TraderX_Money_Euro100",
+                    "value": 100
+                },
+                {
+                    "className": "TraderX_Money_Euro50",
+                    "value": 50
+                },
+                {
+                    "className": "TraderX_Money_Euro10",
+                    "value": 10
+                },
+                {
+                    "className": "TraderX_Money_Euro5",
+                    "value": 5
+                },
+                {
+                    "className": "TraderX_Money_Euro1",
+                    "value": 1
+                },
+                {
+                    "className": "TraderX_Money_Dollar100",
+                    "value": 100
+                },
+                {
+                    "className": "TraderX_Money_Dollar50",
+                    "value": 50
+                },
+                {
+                    "className": "TraderX_Money_Dollar10",
+                    "value": 10
+                },
+                {
+                    "className": "TraderX_Money_Dollar5",
+                    "value": 5
+                },
+                {
+                    "className": "TraderX_Money_Dollar1",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "currencyName": "USD",
+            "currencies": []
+        }
+    ]
+}

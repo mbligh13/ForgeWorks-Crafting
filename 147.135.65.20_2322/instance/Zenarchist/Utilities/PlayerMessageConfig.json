@@ -1,0 +1,13 @@
+{
+    "PlayerReplies": [
+        {
+            "BohemiaID": "bohemiaUID",
+            "Message": "exampleMsg",
+            "SpawnItems": [
+                "exampleItem1(quantity)",
+                "exampleItem2(quantity/health)",
+                "Matchbox(23/1)"
+            ]
+        }
+    ]
+}

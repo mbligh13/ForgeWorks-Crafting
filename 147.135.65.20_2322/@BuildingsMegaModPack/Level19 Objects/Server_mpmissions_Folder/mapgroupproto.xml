@@ -1,0 +1,36 @@
+<group name="SV_Level19" lootmax="24">
+				<usage name="Military" />
+				<container name="lootweapons" lootmax="21">
+						<category name="weapons" />
+						<category name="explosives" />
+						<point pos="-2.36383 -9.16776 4.41895" range="0.1" height="0.5" />
+						<point pos="-13.0786 -9.16776 -0.117188" range="0.1" height="0.5" />
+						<point pos="-10.2142 -9.16776 -6.94141" range="0.1" height="0.5" />
+						<point pos="12.0956 -9.16776 -1.0791" range="0.1" height="0.5" />
+						<point pos="10.9459 -9.17237 11.9912" range="0.1" height="0.5" />
+						<point pos="3.42004 -0.16776 15.4209" range="0.1" height="0.3" />
+						<point pos="-3.01849 -9.16776 19.4707" range="0.1" height="0.5" /> 
+						<point pos="-11.4304 -9.1867 -10.7266" range="0.1" height="0.5" />
+						<point pos="-8.76099 -9.1865 -13.1855" range="0.1" height="0.5" />
+						<point pos="-13.5069 -9.1804 -5.56641" range="0.1" height="0.5" />
+						<point pos="-11.7741 -9.1791 -1.91699" range="0.1" height="0.5" />
+				 		<point pos="6.67792 -9.10409 -0.548828" range="0.1" height="0.5" />
+					 	<point pos="12.0914 -9.10412 5.71191" range="0.1" height="0.5" />
+						<point pos="14.9332 -9.10409 9.33594" range="0.1" height="0.5" />
+						<point pos="8.0152 -9.10409 8.35449" range="0.1" height="0.5" />
+						<point pos="-1.48969 -6.50412 16.4004" range="0.1" height="0.5" /> 
+						<point pos="-1.48969 -0.10412 16.4004" range="0.1" height="0.3" />
+						<point pos="-4.61768 -9.10409 19.0615" range="0.1" height="0.5" />
+						<point pos="-1.85803 -0.10415 22.5039" range="0.1" height="0.3" />
+						<point pos="1.89258 -0.10409 19.9277" range="0.1" height="0.3" />
+						<point pos="10.5733 -9.10409 11.6865" range="0.1" height="0.5" />
+						<point pos="1.00653 -9.17539 -0.592773" range="0.1" height="0.5" />
+				</container>
+				<container name="lootFloor" lootmax="3">
+						<category name="containers" />
+						<category name="clothes" />
+						<point pos="-5.41229 -12.06776 -12.3154" range="0.1" height="0.3" />
+						<point pos="0.36615 -12.07011 -8.15527" range="0.1" height="0.3" />
+						<point pos="6.37964 -12.0717 -8.39121" range="0.1" height="0.3" />
+				</container>		
+		</group>		

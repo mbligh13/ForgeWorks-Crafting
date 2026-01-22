@@ -1,0 +1,95 @@
+@BuildingsModPack:
+
+Buildings:
+
+SV_Abandoned_Church
+SV_Gazebo
+SV_Gazebo1
+SV_Lighthouse
+SV_Old_Willage_House
+SV_Abandoned_Sattelite_Antenna
+SV_Sewer
+SV_Sotovaya_vyshka
+SV_TrashBridge
+SV_Tubes_Underground
+SV_Warehouse
+
+Damaged Auto's
+
+SV_Damaged_Autobus
+SV_Damaged_AZLK
+SV_Bulldozer
+SV_CrashedMi24
+SV_Damaged_Kamaz1
+SV_Damaged_Kamaz2
+SV_Damaged_Kamaz3
+SV_Damaged_PAZ672
+SV_Damaged_Tractor
+SV_Damaged_VAZ2109
+SV_Damaged_ZAZ
+SV_Damaged_ZIL130
+
+Other Objects
+
+SV_Corpse
+SV_Corpse1
+SV_Corpse2
+SV_Deadhead
+SV_Skeleton
+SV_Door
+SV_Bunker_Door
+SV_Ladder_Short
+SV_GoatHead
+
+@BuildingsModPack2:
+
+AbandonedBuildings:
+
+SV_Abandoned_HighFloorBuilding
+SV_Abandoned_HighFloorBuilding2
+
+Buildings:
+
+SV_FootBridge
+SV_Factory
+SV_MilitaryTunnel
+SV_Abandoned_Warehouse
+
+RuinedBuildings:
+
+SV_Ruined_Chram
+SV_Ruined_Building
+SV_RuinedHome
+
+Other Objects:
+
+SV_Boxes
+SV_LabMetalCage
+SV_Steel_Fence_Gates
+
+@BuildingsModPack3:
+
+Buildings:
+
+SV_Home
+SV_Garage
+
+Other Objects
+
+SV_AbandonedMine
+SV_Barn
+SV_CowShed
+ - SV_CowShed_Bucket 
+ - SV_CowShed_Fork
+ - SV_CowShed_MilkJugOpen
+ - SV_CowShed_Stool
+ - SV_CowShed_Wheelbarrow
+
+@BuildingsModPack4:
+
+Buildings:
+
+SV_Abandoned_Factory
+SV_Mausoleum
+SV_GuardTower4floor
+SV_RadioTelescope

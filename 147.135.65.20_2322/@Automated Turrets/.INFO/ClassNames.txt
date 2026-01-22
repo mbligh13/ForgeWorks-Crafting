@@ -1,0 +1,29 @@
+M60E4 Turret:
+Bottom:
+M60_Turret_Bottom_1000HP
+M60_Turret_Bottom_5000HP
+M60_Turret_Bottom_10000HP
+Top:
+M60_Turret_Top_1000HP
+M60_Turret_Top_5000HP
+M60_Turret_Top_10000HP
+
+M134 Minigun Turret:
+Bottom:
+M134_Turret_Bottom_1000HP
+M134_Turret_Bottom_5000HP
+M134_Turret_Bottom_10000HP
+Top:
+M134_Turret_Top_1000HP
+M134_Turret_Top_5000HP
+M134_Turret_Top_10000HP
+
+Browning M2HB Turret:
+Bottom:
+M2_Turret_Bottom_1000HP
+M2_Turret_Bottom_5000HP
+M2_Turret_Bottom_10000HP
+Top:
+M2_Turret_Top_1000HP
+M2_Turret_Top_5000HP
+M2_Turret_Top_10000HP

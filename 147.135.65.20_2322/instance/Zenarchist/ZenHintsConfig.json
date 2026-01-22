@@ -1,0 +1,12 @@
+{
+    "CfgVersion": "Edit this text to force client re-sync",
+    "ReplaceVanillaInsteadOfMerge": 0,
+    "IngameChatHintsTimerSecs": 0,
+    "Hints": [
+        {
+            "m_Headline": "Example Headline",
+            "m_Description": "Example hint description.",
+            "m_ImagePath": ""
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "maxSpawnPoints": 2,
+    "initialCoolDownPeriod": 60,
+    "minTimeBetweenCaptureZone": 900,
+    "maxTimeBetweenCaptureZone": 1200,
+    "cleanupIn": 600,
+    "reduceProgressOnAbandoned": 1,
+    "minPlayerRequired": 0,
+    "showPlayerCount": 1,
+
+    "spawnPoints": [
+        {
+            "zoneName": "",
+            "spawnPoint": [8340.537109375, 6.345456123352051, 2941.7099609375],
+            "timeToCapture": 300,
+            "captureRadius": 50,
+            "missionRadius": 50,
+            "coolDown": 0,
+            "despawnEventIfNotCapturedIn": 900,
+
+            "notificationTitle": "KOTH",
+            "notificationStartMessage": "A new KOTH has been spawned!",
+            "notificationEndMessage": "KOTH has been Captured!",
+            "notificationExpiredMessage": "KOTH Zone has expired!",
+
+            "buildingSet": [
+                {
+                    "buildingClassName": "SV_Gazebo",
+                    "buildingPos": [8327.835938, 3.505066, 2945.250488],
+                    "buildingDir": [0, 0, 0]
+                }
+            ],
+
+            "crateSet": [
+                {
+                    "crateClassName": "SeaChest",
+                    "cratePos": [8320.537109375, 6.345456123352051, 2941.7099609375],
+                    "crateDir": [0, 0, 0],
+
+                    "fixedRewards": {
+                        "entries": [
+                            {
+                                "className": "Flashlight",
+                                "attachments": ["Battery9V"],
+                                "quantity": 1
+                            }
+                        ]
+                    },
+
+                    "randomRewards": {
+                        "minItems": 1,
+                        "maxItems": 3,
+                        "entries": [
+                            {
+                                "className": "SVD",
+                                "attachments": ["PSO11Optic"],
+                                "quantity": 1,
+                                "weight": 100
+                            },
+                            {
+                                "className": "M4A1_Black",
+                                "attachments": [
+                                    "ACOGOptic",
+                                    "Mag_STANAG_60Rnd",
+                                    "M4_PlasticHndgrd"
+                                ],
+                                "quantity": 1,
+                                "weight": 100
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+
+        {
+            "zoneName": "",
+            "spawnPoint": [6702.607910, 46.714962, 5426.387207],
+            "timeToCapture": 300,
+            "captureRadius": 50,
+            "missionRadius": 50,
+            "coolDown": 0,
+            "despawnEventIfNotCapturedIn": 900,
+
+            "notificationTitle": "KOTH",
+            "notificationStartMessage": "A new KOTH has been spawned!",
+            "notificationEndMessage": "KOTH has been Captured!",
+            "notificationExpiredMessage": "KOTH Zone has expired!",
+
+            "buildingSet": [
+                {
+                    "buildingClassName": "SV_Gazebo",
+                    "buildingPos": [6702.607910, 49.714962, 5426.387207],
+                    "buildingDir": [0, 0, 0]
+                }
+            ],
+
+            "crateSet": [
+                {
+                    "crateClassName": "SeaChest",
+                    "cratePos": [6702.607910, 46.714962, 5426.387207],
+                    "crateDir": [0, 0, 0],
+                    "fixedRewards": {
+                        "entries": [
+                            {
+                                "className": "Flashlight",
+                                "attachments": ["Battery9V"],
+                                "quantity": 1
+                            }
+                        ]
+                    },
+                    "randomRewards": {
+                        "minItems": 1,
+                        "maxItems": 3,
+                        "entries": [
+                            {
+                                "className": "SVD",
+                                "attachments": ["PSO11Optic"],
+                                "quantity": 1,
+                                "weight": 100
+                            },
+                            {
+                                "className": "M4A1_Black",
+                                "attachments": [
+                                    "ACOGOptic",
+                                    "Mag_STANAG_60Rnd",
+                                    "M4_PlasticHndgrd"
+                                ],
+                                "quantity": 1,
+                                "weight": 100
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+
+        {
+            "zoneName": "",
+            "spawnPoint": [12163.613281, 22.061531, 7762.498047],
+            "timeToCapture": 300,
+            "captureRadius": 50,
+            "missionRadius": 50,
+            "coolDown": 0,
+            "despawnEventIfNotCapturedIn": 900,
+
+            "notificationTitle": "KOTH",
+            "notificationStartMessage": "A new KOTH has been spawned!",
+            "notificationEndMessage": "KOTH has been Captured!",
+            "notificationExpiredMessage": "KOTH Zone has expired!",
+
+            "buildingSet": [
+                {
+                    "buildingClassName": "SV_Gazebo",
+                    "buildingPos": [12163.613281, 25.061531, 7762.498047],
+                    "buildingDir": [0, 0, 0]
+                }
+            ],
+
+            "crateSet": [
+                {
+                    "crateClassName": "SeaChest",
+                    "cratePos": [12163.613281, 22.061531, 7762.498047],
+                    "crateDir": [0, 0, 0],
+                    "fixedRewards": {
+                        "entries": [
+                            {
+                                "className": "Flashlight",
+                                "attachments": ["Battery9V"],
+                                "quantity": 1
+                            }
+                        ]
+                    },
+                    "randomRewards": {
+                        "minItems": 1,
+                        "maxItems": 3,
+                        "entries": [
+                            {
+                                "className": "SVD",
+                                "attachments": ["PSO11Optic"],
+                                "quantity": 1,
+                                "weight": 100
+                            },
+                            {
+                                "className": "M4A1_Black",
+                                "attachments": [
+                                    "ACOGOptic",
+                                    "Mag_STANAG_60Rnd",
+                                    "M4_PlasticHndgrd"
+                                ],
+                                "quantity": 1,
+                                "weight": 100
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+
+        {
+            "zoneName": "",
+            "spawnPoint": [7005.282715, 20.004963, 1344.765259],
+            "timeToCapture": 300,
+            "captureRadius": 50,
+            "missionRadius": 50,
+            "coolDown": 0,
+            "despawnEventIfNotCapturedIn": 900,
+
+            "notificationTitle": "KOTH",
+            "notificationStartMessage": "A new KOTH has been spawned!",
+            "notificationEndMessage": "KOTH has been Captured!",
+            "notificationExpiredMessage": "KOTH Zone has expired!",
+
+            "buildingSet": [
+                {
+                    "buildingClassName": "SV_Gazebo",
+                    "buildingPos": [7005.282715, 23.004963, 1344.765259],
+                    "buildingDir": [0, 0, 0]
+                }
+            ],
+
+            "crateSet": [
+                {
+                    "crateClassName": "SeaChest",
+                    "cratePos": [7005.282715, 20.004963, 1344.765259],
+                    "crateDir": [0, 0, 0],
+                    "fixedRewards": {
+                        "entries": [
+                            {
+                                "className": "Flashlight",
+                                "attachments": ["Battery9V"],
+                                "quantity": 1
+                            }
+                        ]
+                    },
+                    "randomRewards": {
+                        "minItems": 1,
+                        "maxItems": 3,
+                        "entries": [
+                            {
+                                "className": "SVD",
+                                "attachments": ["PSO11Optic"],
+                                "quantity": 1,
+                                "weight": 100
+                            },
+                            {
+                                "className": "M4A1_Black",
+                                "attachments": [
+                                    "ACOGOptic",
+                                    "Mag_STANAG_60Rnd",
+                                    "M4_PlasticHndgrd"
+                                ],
+                                "quantity": 1,
+                                "weight": 100
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+
+        {
+            "zoneName": "",
+            "spawnPoint": [2451.574707, 31.584848, 2423.182861],
+            "timeToCapture": 300,
+            "captureRadius": 50,
+            "missionRadius": 50,
+            "coolDown": 0,
+            "despawnEventIfNotCapturedIn": 900,
+
+            "notificationTitle": "KOTH",
+            "notificationStartMessage": "A new KOTH has been spawned!",
+            "notificationEndMessage": "KOTH has been Captured!",
+            "notificationExpiredMessage": "KOTH Zone has expired!",
+
+            "buildingSet": [
+                {
+                    "buildingClassName": "SV_Gazebo",
+                    "buildingPos": [2451.574707, 34.584848, 2423.182861],
+                    "buildingDir": [0, 0, 0]
+                }
+            ],
+
+            "crateSet": [
+                {
+                    "crateClassName": "SeaChest",
+                    "cratePos": [2451.574707, 31.584848, 2423.182861],
+                    "crateDir": [0, 0, 0],
+                    "fixedRewards": {
+                        "entries": [
+                            {
+                                "className": "Flashlight",
+                                "attachments": ["Battery9V"],
+                                "quantity": 1
+                            }
+                        ]
+                    },
+                    "randomRewards": {
+                        "minItems": 1,
+                        "maxItems": 3,
+                        "entries": [
+                            {
+                                "className": "SVD",
+                                "attachments": ["PSO11Optic"],
+                                "quantity": 1,
+                                "weight": 100
+                            },
+                            {
+                                "className": "M4A1_Black",
+                                "attachments": [
+                                    "ACOGOptic",
+                                    "Mag_STANAG_60Rnd",
+                                    "M4_PlasticHndgrd"
+                                ],
+                                "quantity": 1,
+                                "weight": 100
+                            }
+                        ]
+                    }
+                }
+            ],
+
+            "hordeConfig": {
+                "intermediateWaves": 2,
+                "minNumZombiesPerWave": 15,
+                "maxNumZombiesPerWave": 30,
+                "radiusToSpawnZombies": 25,
+                "zombieClasses": [
+                    "ZmbM_NBC_Yellow",
+                    "ZmbM_NBC_Grey",
+                    "ZmbM_Mummy",
+					"ZmbM_HermitSkinny_Beige",
+                    "ZmbF_CitizenBSkinny",
+                    "ZmbF_CitizenANormal_Beige",
+					"ZmbM_MechanicSkinny_Blue",
+                    "ZmbM_Jacket_black",
+                    "ZmbM_usSoldier_Officer_Convoy",
+					"ZmbM_eastSoldier_Heavy_Navy",
+                    "CDAJ_ZmbM_Mutant",
+                    "CDAJ_ZmbM_Clown",
+					"CDAJ_ZmbM_LostInfected",
+                    "ZmbM_FarmerFat_Brown",
+                    "ZmbF_SurvivorNormal_White"
+                ]
+            }
+        }
+    ]
+}

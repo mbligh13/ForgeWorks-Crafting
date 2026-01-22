@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": "1",
+    "Enabled": 1,
+    "TimeToRespawn": {
+        "ActionZenRemoveTreeStump": 5184000,
+        "ActionZenRemoveFelledTree": 1,
+        "ActionZenRemoveStone": 2592000,
+        "ActionZenRemoveBush": 1209600
+    },
+    "ToolDamage": {
+        "ActionZenRemoveTreeStump": 25,
+        "ActionZenRemoveFelledTree": 20,
+        "ActionZenRemoveStone": 50,
+        "ActionZenRemoveBush": 20
+    },
+    "GenericObjects": {
+        "ObjectType": 50
+    },
+    "GenericObjectToolDamage": 100
+}

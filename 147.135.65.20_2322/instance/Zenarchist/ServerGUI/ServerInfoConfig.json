@@ -1,0 +1,48 @@
+{
+    "AllowServerGUI": 1,
+    "SpawnServerGuideOnNewPlayer": 0,
+    "SERVERTITLE": "Example",
+    "SERVER_MOTD": "Example",
+    "BUTTON1NAME": "Example",
+    "BUTTON1LINK": "www.google.com",
+    "BUTTON2NAME": "Example",
+    "BUTTON2LINK": "www.google.com",
+    "BUTTON3NAME": "Contact Admin",
+    "BUTTON3LINK": "report",
+    "DONATIONURL": "",
+    "BUTTONPOLL": "View Poll",
+    "SHOWPOLLBTN": 0,
+    "ServerTabs": [
+        "Example1",
+        "Example2",
+        "Example3",
+        "Example4",
+        "Example5"
+    ],
+    "ServerTab0": [
+        "Example content"
+    ],
+    "ServerTab1": [
+        "Example content"
+    ],
+    "ServerTab2": [
+        "Example content"
+    ],
+    "ServerTab3": [
+        "Example content"
+    ],
+    "ServerTab4": [
+        "Example content"
+    ],
+    "ShowPlayerCount": 0,
+    "PlayerCountText": "Survivors: ",
+    "RestartText": "Next Restart: ",
+    "Restarts": [
+        0,
+        4,
+        8,
+        12,
+        16,
+        20
+    ]
+}

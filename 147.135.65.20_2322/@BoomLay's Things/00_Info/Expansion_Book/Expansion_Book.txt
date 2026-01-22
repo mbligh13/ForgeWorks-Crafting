@@ -1,0 +1,18 @@
+"CraftingCategories": [
+    {
+      "CategoryName": "#STR_BLThings",
+      "Results": [
+        "bl_old_crate",
+        "bl_rain_collector_Kit",
+        "bl_stove_barrel_Kit",
+        "bl_special_item_Kit",
+        "bl_pallet_table_Kit",
+        "bl_pallet_sofa_Kit",
+        "bl_pallet_cabinet_Kit",
+        "bl_pallet_bed_Kit",
+        "bl_pallet_box_Kit",
+        "bl_pallet_frame_solo",
+        "bl_pallet"
+      ]
+    },
+...

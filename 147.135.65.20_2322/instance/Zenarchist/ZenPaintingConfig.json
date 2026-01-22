@@ -1,0 +1,783 @@
+{
+    "CONFIG_VERSION": "1",
+    "PaintCfg": {
+        "Zen_AK74_Hndgrd_Green": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "AK74_Hndgrd_Camo"
+            }
+        },
+        "Mosin9130_Black": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mosin9130_Camo"
+            }
+        },
+        "CivSedanHood": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CivSedanHood_Black"
+            }
+        },
+        "SlacksPants": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "SlacksPants_Khaki",
+                "Zen_Spraycan_Black": "SlacksPants_Black"
+            }
+        },
+        "HighCapacityVest_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "HighCapacityVest_Olive",
+                "Zen_Spraycan_Black": "HighCapacityVest_Black"
+            }
+        },
+        "Spacecat_AliceBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AliceBag_Green",
+                "Zen_Spraycan_Black": "AliceBag_Black"
+            }
+        },
+        "AK101": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK101_Green",
+                "Zen_Spraycan_Black": "AK101_Black"
+            }
+        },
+        "Spacecat_HunterPants_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "HunterPants_Spring",
+                "Zen_Spraycan_Black": "Spacecat_HunterPants_Black"
+            }
+        },
+        "ManSuit_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "ManSuit_Khaki",
+                "Zen_Spraycan_Black": "ManSuit_Black"
+            }
+        },
+        "Canteen": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Spacecat_Canteen_Green",
+                "Zen_Spraycan_Black": "Spacecat_Canteen_Black"
+            }
+        },
+        "Zen_Mag_AK74_45Rnd_": {
+            "PaintToResult": {
+                "Rag": "Mag_AK74_45Rnd"
+            }
+        },
+        "CivSedanDoors_Driver": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CivSedanDoors_Driver_Black"
+            }
+        },
+        "Hatchback_02_Door_1_1": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Hatchback_02_Door_1_1_Black"
+            }
+        },
+        "Hatchback_02_Door_1_2": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Hatchback_02_Door_1_2_Black"
+            }
+        },
+        "Spacecat_WoolCoat_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "WoolCoat_Black"
+            }
+        },
+        "Zen_Taser_Yellow": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Zen_Taser_Black"
+            }
+        },
+        "MilitaryBelt": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Spacecat_MilitaryBelt_Black"
+            }
+        },
+        "DirtBikeHelmet": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "DirtBikeHelmet_Khaki",
+                "Zen_Spraycan_Black": "DirtBikeHelmet_Black"
+            }
+        },
+        "CivilianBelt": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Spacecat_CivilianBelt_Black"
+            }
+        },
+        "Zen_AK74_WoodBttstck": {
+            "PaintToResult": {
+                "Rag": "AK74_WoodBttstck"
+            }
+        },
+        "Mag_CMAG_10Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_CMAG_10Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_CMAG_10Rnd_Black"
+            }
+        },
+        "MilitaryBoots": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "MilitaryBoots_Black"
+            }
+        },
+        "WoolGlovesFingerless": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "WoolGlovesFingerless_Green",
+                "Zen_Spraycan_Black": "WoolGlovesFingerless_Black"
+            }
+        },
+        "PlateCarrierPouches": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PlateCarrierPouches_Green",
+                "Zen_Spraycan_Black": "PlateCarrierPouches_Black"
+            }
+        },
+        "Spacecat_CowboyHat": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "CowboyHat_Green",
+                "Zen_Spraycan_Black": "CowboyHat_Black"
+            }
+        },
+        "AK74": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK74_Green",
+                "Zen_Spraycan_Black": "AK74_Black"
+            }
+        },
+        "Mag_AK101_30Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_AK101_30Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_AK101_30Rnd_Black"
+            }
+        },
+        "AK_Suppressor": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_AK_Suppressor_Green"
+            }
+        },
+        "BeanieHat": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "BeanieHat_Green",
+                "Zen_Spraycan_Black": "BeanieHat_Black"
+            }
+        },
+        "Zen_BaseballCap": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "BaseballCap_Olive",
+                "Zen_Spraycan_Black": "BaseballCap_Black"
+            }
+        },
+        "AssaultBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AssaultBag_Green",
+                "Zen_Spraycan_Black": "AssaultBag_Black"
+            }
+        },
+        "FirefighterAxe": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "FirefighterAxe_Green",
+                "Zen_Spraycan_Black": "FirefighterAxe_Black"
+            }
+        },
+        "FlatCap_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "FlatCap_Black"
+            }
+        },
+        "CivSedanTrunk": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CivSedanTrunk_Black"
+            }
+        },
+        "CZ527_Green": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CZ527_Camo"
+            }
+        },
+        "Mag_AK74_30Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_AK74_30Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_AK74_30Rnd_Black"
+            }
+        },
+        "Zen_AK_Suppressor_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "AK_Suppressor",
+                "Rag": "AK_Suppressor"
+            }
+        },
+        "Spacecat_PlateCarrierPouches": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PlateCarrierPouches_Green",
+                "Zen_Spraycan_Black": "PlateCarrierPouches_Black"
+            }
+        },
+        "WinterCoif": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "WinterCoif_Green",
+                "Zen_Spraycan_Black": "WinterCoif_Black"
+            }
+        },
+        "Armband_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Armband_Green",
+                "Zen_Spraycan_Black": "Armband_Black"
+            }
+        },
+        "CargoPants": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "CargoPants_Green",
+                "Zen_Spraycan_Black": "CargoPants_Black"
+            }
+        },
+        "Zen_AK74_WoodBttstck_Green": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "AK74_WoodBttstck_Camo"
+            }
+        },
+        "Jeans_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Jeans_Green",
+                "Zen_Spraycan_Black": "Jeans_Black"
+            }
+        },
+        "M4_CQBBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4_CQBBttstck_Green",
+                "Zen_Spraycan_Black": "M4_CQBBttstck_Black"
+            }
+        },
+        "Ruger1022": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Ruger1022_Green",
+                "Zen_Spraycan_Black": "Ruger1022_Black"
+            }
+        },
+        "M4_PlasticHndgrd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4_PlasticHndgrd_Green",
+                "Zen_Spraycan_Black": "M4_PlasticHndgrd_Black"
+            }
+        },
+        "CivSedanDoors_CoDriver": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CivSedanDoors_CoDriver_Black"
+            }
+        },
+        "Mag_AKM_Drum75Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_AKM_Drum75Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_AKM_Drum75Rnd_Black"
+            }
+        },
+        "TacticalShirt": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "TacticalShirt_Olive",
+                "Zen_Spraycan_Black": "TacticalShirt_Black"
+            }
+        },
+        "Hatchback_02_Hood": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Hatchback_02_Hood_Black"
+            }
+        },
+        "DryBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "DryBag_Green",
+                "Zen_Spraycan_Black": "DryBag_Black"
+            }
+        },
+        "Spacecat_BeanieHat": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "BeanieHat_Green",
+                "Zen_Spraycan_Black": "BeanieHat_Black"
+            }
+        },
+        "JungleBoots": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "JungleBoots_Green",
+                "Zen_Spraycan_Black": "JungleBoots_Black"
+            }
+        },
+        "MotoHelmet": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "MotoHelmet_Green",
+                "Zen_Spraycan_Black": "MotoHelmet_Black"
+            }
+        },
+        "Mag_AK74_45Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_Mag_AK74_45Rnd_Green",
+                "Zen_Spraycan_Black": "Zen_Mag_AK74_45Rnd_Black"
+            }
+        },
+        "CombatBoots": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CombatBoots_Black"
+            }
+        },
+        "ShortJeans_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "ShortJeans_Green",
+                "Zen_Spraycan_Black": "ShortJeans_Black"
+            }
+        },
+        "Zen_TacticalShirt": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "TacticalShirt_Olive",
+                "Zen_Spraycan_Black": "TacticalShirt_Black"
+            }
+        },
+        "Spacecat_HuntingBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Spacecat_HuntingBag_Khaki",
+                "Zen_Spraycan_Black": "Spacecat_HuntingBag_Black"
+            }
+        },
+        "CZ527_Black": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "CZ527_Camo"
+            }
+        },
+        "Spacecat_NVGoggles": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "NVGoggles",
+                "Rag": "NVGoggles"
+            }
+        },
+        "M4_MPBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4_MPBttstck_Green",
+                "Zen_Spraycan_Black": "M4_MPBttstck_Black"
+            }
+        },
+        "ZenSleepingBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "ZenSleepingBag_Green",
+                "Zen_Spraycan_Black": "ZenSleepingBag_Black"
+            }
+        },
+        "SFM_Balaclava": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "SFM_Balaclava_Green",
+                "Zen_Spraycan_Black": "SFM_Balaclava_Black"
+            }
+        },
+        "Wellies_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Wellies_Green",
+                "Zen_Spraycan_Black": "Wellies_Black"
+            }
+        },
+        "SKS": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "SKS_Green",
+                "Zen_Spraycan_Black": "SKS_Black"
+            }
+        },
+        "CivSedanDoors_BackLeft": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CivSedanDoors_BackLeft_Black"
+            }
+        },
+        "DarkMotoHelmet": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "DarkMotoHelmet_Green",
+                "Zen_Spraycan_Black": "DarkMotoHelmet_Black"
+            }
+        },
+        "SawedoffMosin9130_Green": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "SawedoffMosin9130_Camo"
+            }
+        },
+        "M4_OEBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4_OEBttstck_Green",
+                "Zen_Spraycan_Black": "M4_OEBttstck_Black"
+            }
+        },
+        "AK_FoldingBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK_FoldingBttstck_Green",
+                "Zen_Spraycan_Black": "AK_FoldingBttstck_Black"
+            }
+        },
+        "HunterPants_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "HunterPants_Spring",
+                "Zen_Spraycan_Black": "Spacecat_HunterPants_Black"
+            }
+        },
+        "Zen_PistolSuppressor_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "PistolSuppressor",
+                "Rag": "PistolSuppressor"
+            }
+        },
+        "Zen_ImprovisedSuppressor_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_ImprovisedSuppressor_Green",
+                "Zen_Spraycan_Black": "Zen_ImprovisedSuppressor_Black"
+            }
+        },
+        "AKS74U_Bttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AKS74U_Bttstck_Green",
+                "Zen_Spraycan_Black": "AKS74U_Bttstck_Black"
+            }
+        },
+        "M4A1": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4A1_Green",
+                "Zen_Spraycan_Black": "M4A1_Black"
+            }
+        },
+        "Zen_M4_Suppressor_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "M4_Suppressor",
+                "Rag": "M4_Suppressor"
+            }
+        },
+        "Ushanka": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Ushanka_Green",
+                "Zen_Spraycan_Black": "Ushanka_Black"
+            }
+        },
+        "Zen_Canteen": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Spacecat_Canteen_Green",
+                "Zen_Spraycan_Black": "Spacecat_Canteen_Black"
+            }
+        },
+        "CivSedanDoors_BackRight": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "CivSedanDoors_BackRight_Black"
+            }
+        },
+        "Zen_AK74_Hndgrd_": {
+            "PaintToResult": {
+                "Rag": "AK74_Hndgrd"
+            }
+        },
+        "Spacecat_HuntingJacket": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "HuntingJacket_Spring",
+                "Zen_Spraycan_Black": "Spacecat_HuntingJacket_Black"
+            }
+        },
+        "Spacecat_RadarCap": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "RadarCap_Green",
+                "Zen_Spraycan_Black": "RadarCap_Black"
+            }
+        },
+        "AK74_WoodBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_AK74_WoodBttstck_Green",
+                "Zen_Spraycan_Black": "AK74_WoodBttstck_Black",
+                "Rag": "AK74_WoodBttstck"
+            }
+        },
+        "AliceBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AliceBag_Green",
+                "Zen_Spraycan_Black": "AliceBag_Black"
+            }
+        },
+        "HipPack": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "HipPack_Green",
+                "Zen_Spraycan_Black": "HipPack_Black"
+            }
+        },
+        "Mag_CMAG_30Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_CMAG_30Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_CMAG_30Rnd_Black"
+            }
+        },
+        "AK74_WoodBttstck_Black": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK74_WoodBttstck_Camo"
+            }
+        },
+        "Hatchback_02_Trunk": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Hatchback_02_Trunk_Black"
+            }
+        },
+        "Spacecat_MilitaryBelt": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "MilitaryBelt"
+            }
+        },
+        "HuntingBag": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Spacecat_HuntingBag_Khaki",
+                "Zen_Spraycan_Black": "Spacecat_HuntingBag_Black"
+            }
+        },
+        "Mosin9130": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mosin9130_Green",
+                "Zen_Spraycan_Black": "Mosin9130_Black"
+            }
+        },
+        "TShirt_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "TShirt_Green",
+                "Zen_Spraycan_Black": "TShirt_Black"
+            }
+        },
+        "PetushokHat": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PetushokHat_Green",
+                "Zen_Spraycan_Black": "PetushokHat_Black"
+            }
+        },
+        "Balaclava3Holes": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Balaclava3Holes_Green",
+                "Zen_Spraycan_Black": "Balaclava3Holes_Black"
+            }
+        },
+        "Mag_AKM_Palm30Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_AKM_Palm30Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_AKM_Palm30Rnd_Black"
+            }
+        },
+        "GorkaHelmet": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "GorkaHelmet_Green",
+                "Zen_Spraycan_Black": "GorkaHelmet_Black"
+            }
+        },
+        "SawedoffMosin9130": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "SawedoffMosin9130_Green",
+                "Zen_Spraycan_Black": "SawedoffMosin9130_Black"
+            }
+        },
+        "AK74_Hndgrd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_AK74_Hndgrd_Green",
+                "Zen_Spraycan_Black": "AK74_Hndgrd_Black",
+                "Rag": "AK74_Hndgrd"
+            }
+        },
+        "SawedoffMosin9130_Black": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "SawedoffMosin9130_Camo"
+            }
+        },
+        "Spacecat_M65Jacket_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M65Jacket_Olive",
+                "Zen_Spraycan_Black": "M65Jacket_Black"
+            }
+        },
+        "M4_MPHndgrd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4_MPHndgrd_Green",
+                "Zen_Spraycan_Black": "M4_MPHndgrd_Black"
+            }
+        },
+        "AK_RailHndgrd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK_RailHndgrd_Green",
+                "Zen_Spraycan_Black": "AK_RailHndgrd_Black"
+            }
+        },
+        "PlateCarrierHolster": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PlateCarrierHolster_Green",
+                "Zen_Spraycan_Black": "PlateCarrierHolster_Black"
+            }
+        },
+        "AK_PlasticBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK_PlasticBttstck_Green",
+                "Zen_Spraycan_Black": "AK_PlasticBttstck_Black"
+            }
+        },
+        "Spacecat_PlateCarrierVest": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PlateCarrierVest_Green",
+                "Zen_Spraycan_Black": "PlateCarrierVest_Black"
+            }
+        },
+        "Hatchback_02_Door_2_1": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Hatchback_02_Door_2_1_Black"
+            }
+        },
+        "Hatchback_02_Door_2_2": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Hatchback_02_Door_2_2_Black"
+            }
+        },
+        "Mag_CMAG_40Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_CMAG_40Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_CMAG_40Rnd_Black"
+            }
+        },
+        "AK74_Hndgrd_Black": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK74_Hndgrd_Camo"
+            }
+        },
+        "BaseballCap": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "BaseballCap_Olive",
+                "Zen_Spraycan_Black": "BaseballCap_Black"
+            }
+        },
+        "Mosin9130_Green": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "Mosin9130_Camo"
+            }
+        },
+        "AK_WoodBttstck": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "AK_WoodBttstck_Black"
+            }
+        },
+        "FirefightersJacket_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "FirefightersJacket_Black"
+            }
+        },
+        "CZ527": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "CZ527_Green",
+                "Zen_Spraycan_Black": "CZ527_Black"
+            }
+        },
+        "PistolSuppressor": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_PistolSuppressor_Green"
+            }
+        },
+        "Breeches_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Breeches_Green",
+                "Zen_Spraycan_Black": "Breeches_Black"
+            }
+        },
+        "M4_Suppressor": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_M4_Suppressor_Green"
+            }
+        },
+        "SkateHelmet": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "SkateHelmet_Green",
+                "Zen_Spraycan_Black": "SkateHelmet_Black"
+            }
+        },
+        "M4_RISHndgrd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M4_RISHndgrd_Green",
+                "Zen_Spraycan_Black": "M4_RISHndgrd_Black"
+            }
+        },
+        "Spacecat_PlateCarrierHolster": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PlateCarrierHolster_Green",
+                "Zen_Spraycan_Black": "PlateCarrierHolster_Black"
+            }
+        },
+        "Winchester70": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Winchester70_Green",
+                "Zen_Spraycan_Black": "Winchester70_Black"
+            }
+        },
+        "Mag_CMAG_20Rnd": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Mag_CMAG_20Rnd_Green",
+                "Zen_Spraycan_Black": "Mag_CMAG_20Rnd_Black"
+            }
+        },
+        "PlateCarrierVest": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "PlateCarrierVest_Green",
+                "Zen_Spraycan_Black": "PlateCarrierVest_Black"
+            }
+        },
+        "WomanSuit_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "WomanSuit_Khaki",
+                "Zen_Spraycan_Black": "WomanSuit_Black"
+            }
+        },
+        "HuntingJacket": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "HuntingJacket_Spring",
+                "Zen_Spraycan_Black": "Spacecat_HuntingJacket_Black"
+            }
+        },
+        "M65Jacket_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "M65Jacket_Olive",
+                "Zen_Spraycan_Black": "M65Jacket_Black"
+            }
+        },
+        "FirefightersPants_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Black": "FirefightersPants_Black"
+            }
+        },
+        "BalaclavaMask": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "BalaclavaMask_Green",
+                "Zen_Spraycan_Black": "BalaclavaMask_Black"
+            }
+        },
+        "WoolGloves": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "WoolGloves_Green",
+                "Zen_Spraycan_Black": "WoolGloves_Black"
+            }
+        },
+        "Raincoat_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Raincoat_Green",
+                "Zen_Spraycan_Black": "Raincoat_Black"
+            }
+        },
+        "BoonieHat": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "BoonieHat_Olive",
+                "Zen_Spraycan_Black": "BoonieHat_Black"
+            }
+        },
+        "WoolCoat_": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "WoolCoat_Khaki",
+                "Zen_Spraycan_Black": "WoolCoat_Black"
+            }
+        },
+        "ImprovisedSuppressor": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "Zen_ImprovisedSuppressor_Green",
+                "Zen_Spraycan_Black": "Zen_ImprovisedSuppressor_Black"
+            }
+        },
+        "AK_WoodBttstck_Black": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "AK_WoodBttstck_Camo"
+            }
+        },
+        "CowboyHat": {
+            "PaintToResult": {
+                "Zen_Spraycan_Green": "CowboyHat_Green",
+                "Zen_Spraycan_Black": "CowboyHat_Black"
+            }
+        }
+    }
+}

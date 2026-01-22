@@ -1,0 +1,1495 @@
+=====================================================================
+== C:\TCAFiles\Users\gunners\1580\DayZServer_x64.exe
+== "C:\TCAFiles\Users\gunners\1580\DayZServer_x64.exe" "-ip=147.135.65.20" "-port=2322" "-config=serverdz.cfg" "-bepath=C:\TCAFiles\Users\gunners\1580\Battleye" "-profiles=C:\TCAFiles\Users\gunners\1580\instance" "-autoinit" "-serverMod=@Shark Spawner;@Waraeger Armory Mega Asset Pack;@Map Assets - MutatedMods;@Arsteinen Assets" "-mod=@CF;@Arsteinen;@DayZ-Expansion-Licensed;@DayZ-Expansion-Animations;@AJs Items;@AJs Weapons;@CookZ;@DayZ Shark;@BaseBuildingPlus;@BBP Hotfix Enhanced Item Positioning and Stability;@BodyBags;@BuildingsMegaModPack;@CZ Optics;@Improvised Weapons;@Modular Dungeon;@RedFalcon Watercraft;@Search For Loot Improved;@sFramework;@sGunplay;@sVisual;@CannabisPlus;@Realistic Suppressors;@Fishy Buildings;@Central European Asset Pack;@Three Kings King of the Hill;@MMG - Mightys Military Gear;@Combinable Items;@RaG_Viking_Pack;@Escape From Tarkov;@RUSForma_vehicles;@TraderPlus;@TraderX;@DayZ Editor Loader;@BoomLay's Things;@BuilderItems;@TeleportMod;@Automated Turrets;@BBPItemPack;@Furniture Pack;@Imperium Assets;@Megaloot Tunnels;@OV_AllinOne;@RaG_Core;@RaG_BaseItems;@DayZ-Expansion-Map-Assets;@Ninjins-PvP-PvE;@VPPAdminTools;@Nemsis Craftingpack All in One;@PvZmoD_CustomisableZombies;@PvZmoD_Spawn_System;@DayZ-Expansion-Bundle;@Dabs Framework;@ForgeWorks - Weapon Crafting" "-noFilePatching" "-adminLog"
+=====================================================================
+Exe timestamp: 2025/12/08 07:44:59
+Current time:  2026/01/19 18:09:59
+Version 1.28.161464
+=====================================================================
+
+18:09:59.600 [Inputs] Loading inputs default "bin/constants.xml"
+18:09:59.603 [Inputs] Loading inputs default "bin/specific.xml"
+18:09:59.604 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:09:59.604 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:09:59.604 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+18:09:59.605 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:09:59.605 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:09:59.605 [Inputs] Loading inputs default "LIVEN/PvZmoD_CustomisableZombies/inputs.xml"
+18:09:59.605 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+18:09:59.605 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+18:09:59.606 [Inputs] Loading inputs default "NinjinsPvPPvE/data/inputs.xml"
+18:09:59.606 [Inputs] Loading inputs default "nm_Crafting_Core\data\inputs.xml"
+18:09:59.606 [Inputs] Loading inputs default "trerik4/scripts/inputs.xml"
+18:09:59.607 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+18:09:59.608 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+18:09:59.608 [Inputs] Loading inputs default "RFWC_Core/modded_Inputs.xml"
+18:09:59.609 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:09:59.609 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:09:59.609 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+18:09:59.609 [Inputs] Loading inputs default "DayZExpansion/Market/Scripts/Data/Inputs.xml"
+18:09:59.610 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+18:09:59.610 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:09:59.610 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+18:09:59.610 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:09:59.611 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+18:09:59.611 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:09:59.611 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+18:09:59.612 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+18:09:59.612 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+18:09:59.612 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:09:59.612 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+18:09:59.613 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:09:59.613 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+18:09:59.613 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:09:59.613 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+18:09:59.613 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\gunners\1580\instance\Users\Survivor\Server.core.xml"
+18:09:59.618 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\gunners\1580\instance\Users\Survivor\Server.core.xml"
+18:11:02.780 Hostname of server: "Sector88"
+18:11:22.462 [CE][Hive] :: Initializing OFFLINE
+18:11:22.462 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\
+18:11:22.462 [CE][Hive] :: Loading core data ... 
+=======================================================
+-------------------------------------------------------
+Time: 18:11:22
+Exception code: C0000005 ACCESS_VIOLATION at 35A22BE1
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  EFT_Powerbank in EFT\barter\powerbank\
+  CfgPatches_vest_Bearning_Vest in EFT\vest\vest_bearning\
+  DZ_Sounds_Effects_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\sounds\hpp\
+  RagnarokMerciaCrown in RaG_Viking_Pack\viking_crown_mercia\
+  DayZExpansion_Objects_BaseBuilding_Safes in DayZExpansion\Objects\Basebuilding\Safes\
+  DayZExpansion_Sounds_Ground_Vehicle_Sedan_02 in DayZExpansion\Sounds\Vehicles\Ground\Sedan_02\
+  EFT_Tetris in EFT\barter\tetris\, CfgPatches_Kordun_Vest in EFT\armor\kordun\
+  DayZExpansion_SpawnSelection_GUI in DayZExpansion\SpawnSelection\GUI\
+  EFT_zibbo in EFT\barter\zibbo\
+  DayZExpansion_Market_Structures in DayZExpansion\Market\Structures\
+  CP_PlasticWrapper in CannabisPlus\plasticwrapper\
+  BaseBuildingPlus_floorHatch in BaseBuildingPlus\bbp_building\floor_hatch\
+  AJs_Weapons_Attachments_Magazines in AJs_Weapons\AJW_Attachments\magazines\
+  AJsCreaturesV2_Mutant in AJsCreaturesV2\zombies\cdaj_mutant\
+  CfgPatches_T20_bag in EFT\bags\t20\
+  nm_Crafting_Part_Airbrushing_Headgear in nm_Crafting_Part_Airbrushing\data\clothing\headgear\
+  EFT_PowerCord in EFT\barter\powercord\
+  DayZExpansion_Objects_Structures_Debug in DayZExpansion\Objects\Structures\Debug\
+  rag_baseitems_summer in rag_baseitems\rag_baseitems_summer\
+  DayZExpansion_Sounds_Ground_Vehicle_Hatchback_02 in DayZExpansion\Sounds\Vehicles\Ground\Hatchback_02\
+  EFT_Fuel in EFT\barter\fuel\, CP_CBD in CannabisPlus\cbd\
+  AJs_Weapons_Shotguns_M1897 in AJs_Weapons\AJW_Firearms_Shotgun\trenchshotgun\
+  DayZExpansion_Vehicles_Air_C130J in DayZExpansion\Vehicles\Air\C130J\
+  trerik4_blood in trerik4\city\blood\, trerik4_intel in trerik4\military\intel\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  OV_Fishingboat in ov_fishingboat\
+  DayZExpansion_Vehicles_Objects_Gear in DayZExpansion\Vehicles\Objects\Gear\
+  TraderPlus_Script in TraderPlus\, OV_V1Bomb in ov_v1bomb\
+  OV_Junkersflugel in ov_junkersflugel\, EFT_WD40_100 in EFT\barter\wd40_100\
+  CfgPatches_vest_Thunderbolt_Vest in EFT\vest\vest_thunderbolt\
+  OV_B17Flakvierling in ov_flack\, ov_sign1 in ov_sign1\
+  nm_Crafting_Part_Ammo in nm_Crafting_Part_Weapons\data\nm_ammo\
+  EFT_Lens in EFT\barter\lens\, EFT_Dobby in EFT\barter\dobby\
+  rag_viking_coin in RaG_Viking_Pack\viking_coins\
+  DayZExpansion_LanguageCore_Groups in DayZExpansion\languagecore\Groups\
+  hay_barn in hay_barn\, DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DaysBefore_Buildings in DaysBefore\Buildings\
+  DayZExpansion_Sounds_Items_Spraycan in DayZExpansion\Sounds\Items\SprayCan\
+  DayZExpansion_PersonalStorageNew_Scripts in DayZExpansion\PersonalStorageNew\Scripts\
+  EFT_Syringer in EFT\barter\syringer\
+  rag_baseitems_garden in rag_baseitems\rag_baseitems_garden\
+  Niva2329 in LadaNiva2329\, BaseBuildingPlus_Sounds in BaseBuildingPlus\sounds\
+  trerik4_DPL in trerik4\dpl\, FKN_Items_Static in FKN_Items_Static\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\, tractor_UMZ_RUS in tractor_UMZ_RUS\
+  EFT_Kerosin in EFT\barter\kerosin\, ov_sign3 in ov_sign3\
+  DayZExpansion_Weapons_Rifles_M14 in DayZExpansion\Objects\Weapons\Firearms\Rifles\M14\
+  DayZExpansion_Weapons_Shotguns_BenelliM4 in DayZExpansion\Objects\Weapons\Firearms\Shotguns\Remore\
+  bl_workbench in bl_specials\workbench\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Animals_vulpes_vulpes in DZ\animals\vulpes_vulpes\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  DZ_Structures_Military in DZ\structures\military\, EFT_Egg in EFT\barter\egg\
+  ov_sign4 in ov_sign4\
+  nm_Crafting_Part_Gore_Models in nm_Crafting_Part_Gore\data\nm_models\
+  DayZExpansion_BaseBuilding_Scripts in DayZExpansion\BaseBuilding\Scripts\
+  Gos_nomer_Rusforma in Gos_nomer_Rusforma\
+  rag_baseitems_solarpanel in rag_baseitems\rag_baseitems_solarpanel\
+  nm_Crafting_Part_Airbrushing_Models in nm_Crafting_Part_Airbrushing\data\nm_models\
+  DaysBefore_Buildings_barracks in DaysBefore\Buildings\barracks\
+  ceap_scripts_p in CEAP\zz_ceap_scripts\
+  AJs_Weapons_Firearms_SA58 in AJs_Weapons\AJW_Firearms_AssaultRifles\sa58\
+  cheshire_fencing_longrun in cheshirefencing_longrun\
+  HW_Statics in HW_HospitalAssets\
+  DayZExpansion_Weapons_Sniper_AWM in DayZExpansion\Objects\Weapons\Firearms\Sniper\AWM\
+  nm_Crafting_Vehiclses_Sounds in nm_Crafting_Part_Vehicles\data\nm_sounds\
+  DayZExpansion_Chat_GUI in DayZExpansion\Chat\GUI\
+  Characters_Zombies_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\characters\zombies\
+  CfgPatches_Jeta_Headgear in EFT\head\eft_jeta\
+  DayZExpansion_Weapons_Rifles_M16 in DayZExpansion\Objects\Weapons\Firearms\Rifles\M16\
+  DayZExpansion_Core in DayZExpansion\Core\Stub\
+  DayZExpansion_Sounds_Common in DayZExpansion\Sounds\Vehicles\Common\
+  CDAJ_Mech_Mask in CDAJ_Items\clothing\mask\cdaj_mech_mask\
+  CDAJ_Fedora_stuff in CDAJ_Items\clothing\helmets\cdaj_fedora\
+  featehredge in featheredge\, DZ_Gear_Tools in DZ\gear\tools\
+  nm_Crafting_Core_motohelmets in nm_Crafting_Core\data\nm_motohelmet\
+  EFT_horse in EFT\barter\horse\, RaG_Core in RaG_Core\
+  CfgPatches_6b5_Vest in EFT\armor\6b5\, CfgPatches_6b13_Vest in EFT\armor\6b13\
+  CfgPatches_6B2_Vest in EFT\armor\6b2\, EFT_Surv in EFT\barter\surv\
+  nm_Crafting_Part_Airbrushing_Pants in nm_Crafting_Part_Airbrushing\data\clothing\pants\
+  nm_Crafting_Part_Airbrushing_Attachments in nm_Crafting_Part_Airbrushing\data\attachments\
+  CfgPatches_vest_BankRobber_Vest in EFT\vest\vest_bankrobber\
+  DayZExpansion_Sounds_AI in DayZExpansion\AI\Sounds\, EFT_SAS in EFT\barter\sas\
+  DayZExpansion_Structures_Residential_Misc in DayZExpansion\Structures\Residential\Misc\
+  VanillaRoadPartsPack in VanillaRoadPartsPack\parts\
+  CookZ_Sausage in CookZ\scripts\4_world\dishes\sausage\
+  AJs_Weapons_LMG_PKM in AJs_Weapons\AJW_Firearms_LMG\pkm\
+  A2_Props_UH60Wreck in ArmA2_Props\uh60wreck\
+  utopia_billboard in ml_billboard_new\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  Expansion_Headgear in DayZExpansion\Data\Characters\Headgear\
+  DayZExpansion_Objects_Gear_Consumables in DayZExpansion\Objects\Gear\Consumables\
+  EFT_crikent in EFT\barter\crikent\
+  EFT_incandescentlamp in EFT\barter\incandescentlamp\
+  DayZExpansion_Dta_Game in DayZExpansion\Dta\Game\
+  BuilderItems_Misc in DayZExpansion\Objects\Structures\BuilderItems\DZ\misc\
+  nm_Crafting_Part_SignsCanvas_Craftsign in nm_Crafting_Part_SignsCanvas\data\nm_craftsign\
+  DayZExpansion_NotificationScheduler_Scripts in DayZExpansion\NotificationScheduler\Scripts\
+  MTLB_RF in MTLB_RF\, HG_Structures in BuildingsModPack2\other objects\boxes\
+  CDAJ_Opscore_Helmet_shit in CDAJ_Items\clothing\helmets\opscore_v2\
+  CDAJ_OpscoreV2_Shirt_Shit in CDAJ_Items\clothing\shirt\opscorev2_shirt\
+  DayZExpansion_Vehicles_Ground_Vodnik in DayZExpansion\Vehicles\Ground\Vodnik\
+  trerik4_DPL_Weapons in trerik4\dpl\weapons\
+  pitstone_windmill in pitstone_windmill\, DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  Ancient_ruins in Ancient_ruin\, AFrame_House in AFrame_House\
+  EFT_Electric_Drill in EFT\barter\electric_drill\
+  DayZExpansion_Objects_Gear_Gps in DayZExpansion\Objects\Gear\Gps\
+  EFT_LCD_broken in EFT\barter\lcd_broken\
+  nm_Crafting_Part_SignsCanvas_Models in nm_Crafting_Part_SignsCanvas\data\nm_models\
+  ZAZ_968M in ZAZ_968M\, LIAZ_677RF in LIAZ_677RF\
+  DayZExpansion_Navigation_Worlds_Shakal in DayZExpansion\Navigation\Worlds\sakhal\
+  DayZExpansion_Objects_Firearms_LAW in DayZExpansion\Objects\Weapons\Firearms\LAW\
+  IWP_Shotgun01_Parts in improvised_weapons\guns\shotgun01\parts\
+  BaseBuildingPlus_mStair in BaseBuildingPlus\bbp_building\stair\mstair\
+  AJs_Weapons_Rifles_Gewehr43 in AJs_Weapons\AJW_Firearms_Rifles\gewehr\
+  generated_decals in trerik4\military\decals\
+  land_shepards_view_barn in shepards_view_barn\, DZ_Rocks in DZ\rocks\
+  bl_stove in bl_stove\
+  rag_baseitems_woodenshelves in rag_baseitems\rag_baseitems_woodenshelves\
+  DayZExpansion_Worlds_ChernarusPlus_Rays in DayZExpansion\Worlds\ChernarusPlus\VanillaRays\
+  BuilderItems_StaticItems_Core in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\core\
+  CfgPatches_vest_Alpha_Vest in EFT\vest\vest_alpha\, EFT_Hose in EFT\barter\hose\
+  rag_viking_spear in RaG_Viking_Pack\viking_spear\
+  rag_viking_cleaver_axe in RaG_Viking_Pack\viking_cleaver_axe\
+  EFT_zibbo_g in EFT\barter\zibbo_g\, evg_turrets in evg_turrets\
+  DayZExpansion_Sounds_Ground_OffroadHatchback in DayZExpansion\Sounds\Vehicles\Ground\OffroadHatchback\
+  EFT_Iridium in EFT\barter\iridium\
+  DayZExpansion_EXPS3HoloOptic in DayZExpansion\Objects\Weapons\Attachments\Optics\exps3\
+  RagnarokVikingHelmet in RaG_Viking_Pack\viking_helmet\
+  IWP_Pistol_Shotgun_Parts in improvised_weapons\guns\pistol_shotgun\parts\
+  CookZ_CannedDishes in CookZ\scripts\4_world\dishes\canned\
+  CDAJ_Froghat_stuff in CDAJ_Items\clothing\helmets\cdaj_froghat\
+  trerik_Defines in trerik4\scripts\defines\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DayZExpansion_Vehicles_Air_Gyro in DayZExpansion\Vehicles\Air\Gyro\
+  DayZExpansion_BaseBuilding_Preload in 0_DayZExpansion_BaseBuilding_Preload\
+  bl_spotlight in bl_lamps\spotlight\
+  RagnarokVikingLantern in RaG_Viking_Pack\viking_lantern\
+  DaysBefore_Buildings_LightFixtures in DaysBefore\Buildings\lightfixtures\
+  BuilderItems_Bliss_Industrial in DayZExpansion\Objects\Structures\BuilderItems\Bliss\industrial\
+  CDAJ_Items in CDAJ_Items\
+  DayZExpansion_Sounds_Vehicles_Water_LHD in DayZExpansion\Sounds\Vehicles\Water\LHD\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  GAZ_12 in GAZ_12\, EFT_Tea in EFT\barter\tea\
+  CfgPatches_BlackJack_bag in EFT\bags\blackjack\
+  EFT_Securedtape in EFT\barter\securedtape\
+  DayZExpansion_Dta_World in DayZExpansion\Dta\World\
+  nm_Crafting_Part_Raiding_Sketches in nm_Crafting_Part_Raiding\data\nm_sketches\
+  EFT_BTC in EFT\barter\btc\
+  DayZExpansion_LanguageCore_Book in DayZExpansion\languagecore\Book\
+  EFT_Raven in EFT\barter\raven\
+  DaysBefore_Buildings_Ponds in DaysBefore\Buildings\ponds\
+  DayZExpansion_Objects_Misc in DayZExpansion\Objects\Misc\
+  generated_trucks in trerik4\military\trucks\, DZ_Gear_Food in DZ\gear\food\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  DayZExpansion_Vehicles_Air_HatchBird in DayZExpansion\Vehicles\Air\HatchBird\
+  BuilderItems_water_sakhal in DayZExpansion\Objects\Structures\BuilderItems\Sakhal\water\
+  EFT_Bage in EFT\barter\bage\, EditorLoader_Scripts in EditorLoader\Scripts\
+  nm_Crafting in nm_Crafting_Core\
+  BuilderItems_Rocks in DayZExpansion\Objects\Structures\BuilderItems\DZ\rocks\
+  OV_Noparking in ov_sign6\, Bodybags_Gear in Bodybags\Gear\
+  BaseBuildingPlus_Carpets in BaseBuildingPlus\decorations\carpet\
+  CDAJ_PlagueMask_Shit in CDAJ_Items\clothing\mask\cdaj_plaguemask\
+  DayZExpansion_Sounds_Vehicles_Water_Utility in DayZExpansion\Sounds\Vehicles\Water\Utility\
+  CS_Military in CS_Military\, grain_pump in grain_pump\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  EFT_OFZ in EFT\barter\ofz\
+  DayZExpansion_Objects_BaseBuilding_Walls in DayZExpansion\Objects\Basebuilding\Walls\
+  bl_floorlamp in bl_lamps\floor_lamp\
+  DayZExpansion_LanguageCore_Quests in DayZExpansion\languagecore\Quests\
+  DaysBefore_Buildings_LCD_screen in DaysBefore\Buildings\lcd_screen\
+  rag_baseitems_smoker in rag_baseitems\rag_baseitems_others\smoker\
+  HA_Car_Showroom in HA_WIP_Buildings\HA_Car_Showroom\
+  CDAJ_Master_Chef_MarkV_stuff in CDAJ_Items\clothing\helmets\masterchefmarkv\
+  DayZExpansion_Objects_Structures_HangedBody in DayZExpansion\Objects\Structures\hanged_body\
+  trerik_sheetmetal in trerik4\city\sheetmetal\, DZ_Plants in DZ\plants\
+  DZ_Server_Data in DZ\server\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DayZExpansion_Weapons_Rifles_G36 in DayZExpansion\Objects\Weapons\Firearms\Rifles\G36\
+  bl_old_anvil in bl_specials\repairbench\anvil\, OV_BLD1 in ov_bld1\
+  CfgPatches_Wild_bag in EFT\bags\wild\
+  rag_baseitems_plants in rag_baseitems\rag_baseitems_plants\
+  RagnarokVikingPot in RaG_Viking_Pack\viking_pot\, OV_Car2 in ov_car2\
+  EFT_Defibrilator in EFT\barter\defibrilator\
+  AJs_Weapons_Optics_AccuPower in AJs_Weapons\AJW_Optics\accupower\
+  AJs_Weapons_Pistols_DesertEagle in AJs_Weapons\AJW_Pistols\deserteagle\
+  cablereel in cablereel\, trerik4_plants in trerik4\dpl\plants\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  EFT_Screwdriver_long in EFT\barter\screwdriver_long\, OV_BLD2 in ov_bld2\
+  DayZExpansion_ReflexOptic in DayZExpansion\Objects\Weapons\Attachments\Optics\Reflex\
+  nm_Crafting_Part_Airbrushing_Firearms in nm_Crafting_Part_Airbrushing\data\firearms\
+  rag_baseitems_coffee in rag_baseitems\rag_baseitems_coffee\
+  EFT_Tee in EFT\barter\tee\, OV_Junkers in ov_junkers\
+  nm_Crafting_Core in nm_Crafting_Core\
+  Expansion_Backpacks in DayZExpansion\Data\Characters\Backpacks\
+  CS_Barrier_Large in CS_MapObjects\barrier_large\, land_fieldgate in fieldgate\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  nm_Crafting_Part_Bushcrafting_Models in nm_Crafting_Part_Bushcrafting\data\nm_models\
+  EFT_Diagset in EFT\barter\diagset\, CfgPatches_Beta2_bag in EFT\bags\beta2\
+  EFT_Hose_military in EFT\barter\hose_military\
+  DayZExpansion_Weapons_Rifles_M1A in DayZExpansion\Objects\Weapons\Firearms\Rifles\M1A\
+  SafeZone_Script in SafeZone\, CP_Plants in CannabisPlus\plants\
+  trerik4_nuclear in trerik4\city\nuclear\, OV_BLD4 in ov_bld4\
+  CfgPatches_Taiga1_Knife in EFT\knife\eft_taiga1\
+  BuilderItems_Ruins in DayZExpansion\Objects\Structures\BuilderItems\DZ\ruins\
+  EFT_model_nuts in EFT\barter\nuts\
+  CfgPatches_KiverM_Headgear in EFT\head\eft_kiverm\
+  rag_baseitems_cabinets in rag_baseitems\rag_baseitems_cabinets\
+  EFT_Soap in EFT\barter\soap\, ceap_h1 in CEAP\house1\, RFWC_Core_mod in RFWC_Core\
+  trerik4_extra in trerik4\extra\, trerik4_submarine in trerik4\military\sub\
+  RPC_Scripts in JM\CF\Defines\, DZ_Weapons_Explosives in DZ\weapons\explosives\
+  rag_baseitems_xmas in rag_baseitems\rag_baseitems_xmas\
+  nm_Crafting_Part_Armors_Sounds in nm_Crafting_Part_Armors\data\nm_sounds\
+  UAZ_31519_Police in UAZ_31519_Police\
+  nm_Crafting_Part_Scrapmetalworking in nm_Crafting_Part_Scrapmetalworking\
+  DayZExpansion_Objects_Gear_Electricity in DayZExpansion\Objects\Gear\Electricity\
+  DayZExpansion_Objects_Structures_Editor in DayZExpansion\Objects\Structures\Editor\
+  EFT_SanatoruKey in EFT\barter\sanatorukey\, ceap_h2 in CEAP\house2\
+  BC_ServerPack_Attachments_Optics_VortexAMG_UH1 in BC_ServerPack\attachments\optics\vortexamg_uh1\
+  BC_ServerPack_Attachments_Optics_HolosunHS507C in BC_ServerPack\attachments\optics\holosunhs507c\
+  CDAJ_OpscoreV2_Pants_Shit in CDAJ_Items\clothing\pants\opscorev2\
+  DayZExpansion_Sounds_Vehicles_Water_Zodiac in DayZExpansion\Sounds\Vehicles\Water\Zodiac\
+  nm_Crafting_Part_Vehicles_Sketches in nm_Crafting_Part_Vehicles\data\nm_sketches\
+  nm_Crafting_Part_Ammopacking_Sketches in nm_Crafting_Part_Ammopacking\data\nm_sketches\
+  BuilderItems_Bliss_Military in DayZExpansion\Objects\Structures\BuilderItems\Bliss\military\
+  DayZExpansion_Scripts in DayZExpansion\Scripts\
+  CfgPatches_TV110_Vest in EFT\armor\tv110\, UAZ_469_milicia in UAZ_469_milicia\
+  rag_baseitems_lockers in rag_baseitems\rag_baseitems_lockers\
+  bl_shared_data_slots in bl_shared_data\slots\
+  EFT_Tank_Accum in EFT\barter\tank_accum\
+  BuilderItems_Furniture in DayZExpansion\Objects\Structures\BuilderItems\DZ\furniture\
+  DayZExpansion_Vehicles_GUI in DayZExpansion\Vehicles\GUI\
+  ceap_h10 in CEAP\house10\, ceap_h3 in CEAP\house3\
+  AJs_Weapons_Attachments in AJs_Weapons\AJW_Attachments\
+  AJs_Weapons_LMG in AJs_Weapons\AJW_Firearms_LMG\
+  CDAJ_apocoboots_Shit in CDAJ_Items\clothing\shoes\apocoboots\
+  DayZExpansion_Sounds_Vehicles_Air_Uh1h in DayZExpansion\Sounds\Vehicles\Air\Uh1h\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\, ZAZ_965 in ZAZ_965\
+  EFT_Bleach in EFT\barter\bleach\, EFT_Cloth in EFT\barter\cloth\
+  nm_Crafting_Part_Repairing_Repair in nm_Crafting_Part_Repairing\data\nm_repair\
+  DayZExpansion_Objects_Gravecross in DayZExpansion\Objects\Gear\GraveCross\
+  DayZExpansion_LanguageCore_Main in DayZExpansion\languagecore\Main\
+  nm_Crafting_Part_VanRecipes in nm_Crafting_Part_VanRecipes\
+  DaysBefore_Buildings_ContainerTrailer in DaysBefore\Buildings\container_trailer\
+  DayZExpansion_Objects_TemporaryOwnedContainer in DayZExpansion\Core\Objects\TemporaryOwnedContainer\
+  ceap_h11 in CEAP\house11\, ceap_h4 in CEAP\house4\
+  CEAP_materials in CEAP\shared_materials\
+  BaseBuildingPlus_dGate in BaseBuildingPlus\bbp_building\gate\dgate\
+  BaseBuildingPlus_bRamp in BaseBuildingPlus\bbp_building\ramp\bramp\
+  trerik4_flag in trerik4\city\flag\, smpl_structures_fireplace1 in firetest\
+  Sukhoi_Su30 in Sukhoi_Su_27\, DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  DZ_Gear_Containers in DZ\gear\containers\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\, UAZ_3163 in UAZ_3163\
+  DZ_Characters_Tops in EFT\armband\, OV_Junkersheck in ov_junkersheck\
+  EFT_chain in EFT\barter\chain\
+  Expansion_Gloves in DayZExpansion\Data\Characters\Gloves\
+  EFT_Mounting_foam in EFT\barter\mounting_foam\, ceap_h12 in CEAP\house12\
+  ceap_h5 in CEAP\house5\, CP_Bricks in CannabisPlus\bricks\
+  DZ_Vehicles_Wheeled in RUSForma_wheels\
+  nm_Crafting_Part_Repairing in nm_Crafting_Part_Repairing\
+  CfgPatches_vest_IDEA_Vest in EFT\vest\vest_idea\
+  DayZExpansion_Chat_Preload in 0_DayZExpansion_Chat_Preload\
+  CfgPatches_6B47_Headgear in EFT\head\eft_6b47\
+  DayZExpansion_Core_GUI in DayZExpansion\Core\GUI\, VBL in VBL\
+  CfgPatches_DayPack_bag in EFT\bags\daypack\
+  CfgPatches_Striker_Headgear in EFT\head\eft_striker\, bl_plants in bl_plants\
+  CfgPatches_6b23_Vest in EFT\armor\6b23\, EFT_Capacitors in EFT\barter\capacitors\
+  ceap_h13 in CEAP\house13\, ceap_h6 in CEAP\house6\, CookZ in CookZ\
+  EFT_Shilo in EFT\barter\shilo\, A3_UI_F in A3_UI_F\
+  OV_Searchlight in ov_searchlight\
+  DayZExpansion_Navigation_Worlds in DayZExpansion\Navigation\Worlds\
+  rag_baseitems_others in rag_baseitems\rag_baseitems_others\, ZAZ_968 in ZAZ_968\
+  CfgPatches_Gunslinger_bag in EFT\bags\gunslinger\
+  DaysBefore_Buildings_Corridor_Parts_sound in DaysBefore\Buildings\corridor_parts\sound\
+  bl_coffee in bl_specials\coffe_machine\mug\, OV_Watchtower in ov_watchtower\
+  CfgPatches_Untar_Vest in EFT\armor\untar\, Gaz_53RF in Gaz_53RF\
+  BuilderItems_Military in DayZExpansion\Objects\Structures\BuilderItems\DZ\military\
+  OV_Transformator in ov_transformator\, ceap_h14 in CEAP\house14\
+  ceap_h7 in CEAP\house7\, DZ_Characters_Pants in DZ\characters\pants\
+  EFT_Rele in EFT\barter\rele\, TraderX_Script in TraderX\
+  nm_Crafting_Part_Gore in nm_Crafting_Part_Gore\
+  DayZExpansion_LanguageCore_Market in DayZExpansion\languagecore\Market\
+  BuilderItems_StaticItems_Weapons in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\weapons\
+  EFT_Military_board in EFT\barter\military_board\, ceap_h15 in CEAP\house15\
+  ceap_h8 in CEAP\house8\, BaseBuildingPlus_GUI in BaseBuildingPlus\gui\
+  BaseBuildingPlus_halfWall in BaseBuildingPlus\bbp_building\half_wall\
+  CDAJ_PVS31_Varients in CDAJ_Items\random\nvg\pvs31\
+  DZ_Rocks_Sakhal in DZ\rocks_sakhal\
+  DZ_Animals_rangifer_tarandus in DZ\animals\rangifer_tarandus\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  EFT_Maps in EFT\barter\maps\, EFT_dogtag in EFT\barter\dogtag\
+  DayZExpansion_Weapons_SMG_MPX in DayZExpansion\Objects\Weapons\Firearms\SMG\GTM\
+  DayZExpansion_Preload in 0_DayZExpansion_Preload\
+  BuilderItems_plants_sakhal in DayZExpansion\Objects\Structures\BuilderItems\Sakhal\plants\
+  BuilderItems_Bliss_Roads in DayZExpansion\Objects\Structures\BuilderItems\Bliss\roads\
+  BoostZombiesVisionAddon in LIVEN\PvZmoD_CustomisableZombies\dz\ai\
+  DayZExpansion_Objects_Structures_BuilderItems_DZ in DayZExpansion\Objects\Structures\BuilderItems\DZ\
+  ceap_h16 in CEAP\house16\, ceap_h9 in CEAP\house9\
+  fishy_g1 in FishyBuildings\garage1\, RFWC_Buoys_mod in RFWC_Buoys\
+  trerik4_tunnel in trerik4\city\tunnel\, trerik4_wall in trerik4\city\wall\
+  trerik4_leopard in trerik4\military\leopard\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  EFT_Chiken in EFT\barter\chiken\
+  nm_Crafting_Part_Gore_Heads in nm_Crafting_Part_Gore\data\nm_heads\
+  DayZExpansion_Navigation_GUI in DayZExpansion\Navigation\GUI\
+  CfgPatches_vest_6h112_Vest in EFT\vest\vest_6h112\
+  nm_Crafting_Part_SignsCanvas_Canvas in nm_Crafting_Part_SignsCanvas\data\nm_canvas\
+  EFT_Klean in EFT\barter\klean\
+  BuilderItems_Bliss_Ruins in DayZExpansion\Objects\Structures\BuilderItems\Bliss\ruins\
+  fishy_g2 in FishyBuildings\garage2\
+  BaseBuildingPlus_lHanger in BaseBuildingPlus\bbp_building\roof_hanger\lhanger\
+  CS_Wall_Stairs_Right in CS_Walls\wall_stairs_right\, SharkSpawner in SharkSpawner\
+  DZ_Structures_Specific in DZ\structures\specific\
+  BuilderItems_Residential in DayZExpansion\Objects\Structures\BuilderItems\DZ\residential\
+  DayZExpansion_PersonalStorage_GUI in DayZExpansion\PersonalStorage\GUI\
+  EFT_Ballon_gas in EFT\barter\ballon_gas\
+  nm_Crafting_Part_Scrapmetalworking_Sketches in nm_Crafting_Part_Scrapmetalworking\data\nm_sketches\
+  fishy_g3 in FishyBuildings\garage3\, RealisticSuppressors in RealisticSuppressors\
+  ArmA2_Props in ArmA2_Props\, CS_Walls in CS_Walls\, arsteinen in trerik4\world\
+  EFT_matches in EFT\barter\matches\, bl_oilpaintings in bl_paintings\oilpaintings\
+  bl_pallet in pallet\
+  BuilderItems_Sidewalks in DayZExpansion\Objects\Structures\BuilderItems\DZ\sidewalks\
+  CfgPatches_Kolpac1C_Headgear in EFT\head\eft_kolpac1c\
+  DayZExpansion_AI_Preload in 0_DayZExpansion_AI_Preload\
+  EFT_SiliconTube in EFT\barter\silicontube\
+  coinbag in RaG_Viking_Pack\viking_coinbag\, bl_carpet in bl_carpet\
+  CfgPatches_PillBox_bag in EFT\bags\pillbox\
+  nm_Crafting_Part_Ammopacking in nm_Crafting_Part_Ammopacking\
+  nm_Crafting_Part_Weapons_Sounds in nm_Crafting_Part_Weapons\data\nm_sounds\
+  fishy_g4 in FishyBuildings\garage4\, sFramework in MyMODS\sFramework\
+  AJs_Weapons_Pistols in AJs_Weapons\AJW_Pistols\
+  cheshire_fencing90 in cheshirefencing_90\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\, EFT_Sewing in EFT\barter\sewing\
+  EFT_Coffe in EFT\barter\coffe\
+  nm_Crafting_Part_Scrapmetalworking_Sounds in nm_Crafting_Part_Scrapmetalworking\data\nm_sounds\
+  nm_Crafting_Part_Vehicles in nm_Crafting_Part_Vehicles\
+  DayZExpansion_Core_Objects_CircuitBoard in DayZExpansion\Core\Objects\CircuitBoard\
+  BaseBuildingPlus_Plaster in BaseBuildingPlus\decorations\plaster\
+  AJs_Weapons_Rifles_EBR_SASS in AJs_Weapons\AJW_Firearms_Rifles\mk18_ebr_sass\
+  CDAJ_OCV2_Boots_Shit in CDAJ_Items\clothing\shoes\opscorev2_boots\
+  cheshire_fencing_wreck in cheshirefencing_wreck\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  nm_Crafting_Part_Gore_Skinning in nm_Crafting_Part_Gore\data\nm_skinning\
+  bl_pallet_box_slots in bl_pallet_box\slots\, TraderPlus_ATM in TraderPlusATM\atm\
+  CfgPatches_vest_Commando_Vest in EFT\vest\vest_commando\
+  DayZExpansion_Worlds_ChernarusPlus_Gloom in DayZExpansion\Worlds\ChernarusPlus\Gloom\
+  GAZ_33081 in GAZ_33081\
+  DayZExpansion_LanguageCore_Vehicles in DayZExpansion\languagecore\Vehicles\
+  DayZExpansion_Sounds_Vehicles_Air_HatchBird in DayZExpansion\Sounds\Vehicles\Air\HatchBird\
+  BuilderItems_Specific in DayZExpansion\Objects\Structures\BuilderItems\DZ\specific\
+  CfgPatches_HEXGRID_Vest in EFT\armor\hexgrid\
+  EFT_SkullRing in EFT\barter\skullring\
+  BaseBuildingPlus_StepLadder in BaseBuildingPlus\bbp_building\step_ladder\
+  DayZExpansion_Objects_Structures_Grass_Sample in DayZExpansion\Objects\Structures\Grass_Sample\
+  CS_Skeleton in CS_Skeleton\, DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Gear_Drinks in EFT\food\hotrod\
+  DayZExpansion_Sounds_Weapons_Ricochet in DayZExpansion\Sounds\Weapons\Ricochet\
+  DayZExpansion_Sounds_UI in DayZExpansion\Sounds\UI\
+  nm_Crafting_Part_Airbrushing_Flags in nm_Crafting_Part_Airbrushing\data\nm_flags\
+  DayZExpansion_Market_GUI in DayZExpansion\Market\GUI\, ij_2715_RF in ij_2715_RF\
+  CfgPatches_ZSH_Headgear in EFT\head\eft_zsh\, RFWC_DragBoat_mod in RFWC_DragBoat\
+  AJs_Weapons_SMGs_PPSH in AJs_Weapons\AJW_Firearms_SMG\ppsh\
+  trerik4_DPL_Air in trerik4\dpl\air\, EFT_H2O2 in EFT\barter\h2o2\
+  nm_Crafting_Part_SignsCanvas_Sketches in nm_Crafting_Part_SignsCanvas\data\nm_sketches\
+  DayZExpansion_Chat_Scripts in DayZExpansion\Chat\Scripts\
+  EFT_LootLord in EFT\barter\lootlord\, moskvich_407 in moskvich_407\
+  rag_baseitems_gunwall in rag_baseitems\rag_baseitems_gunwall\
+  DayZExpansion_Worlds_enoch_Gloom in DayZExpansion\Worlds\enoch\Gloom\
+  rag_viking_flamberge_sword in RaG_Viking_Pack\viking_flamberge_sword\
+  AJs_Weapons_Optics_StrikeFire in AJs_Weapons\AJW_Optics\strikefire2\
+  CDAJ_help_me_pls in CDAJ_Items\random\goku\
+  DayZExpansion_Vehicles_Ground_Tractor in DayZExpansion\Vehicles\Ground\Tractor\
+  EFT_WeaponParts in EFT\barter\weaponparts\, EFT_Elibadge in EFT\barter\elibadge\
+  rag_static_castle_floor in rag_baseitems\rag_baseitems_buildings\wooden_floor\
+  CfgPatches_Defender2_Vest in EFT\armor\def2\
+  DayZExpansion_M9 in DayZExpansion\Objects\Weapons\Firearms\Pistols\M9\
+  DayZExpansion_Vehicles_Ground_Hatchback_02 in DayZExpansion\Vehicles\Ground\Hatchback_02\
+  IWP_Gun_Pistol01_Parts in improvised_weapons\guns\pistol01\parts\
+  AJs_Weapons_SMGs_Vityaz in AJs_Weapons\AJW_Firearms_SMG\vityaz\
+  CDAJ_MSR_Stuff in CDAJ_Weapons\sniper\msr\, palasadeAccess in palasade_access\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  OV_Statue in ov_statue\
+  BuilderItems_Expansion_BaseBuilding in DayZExpansion\Objects\Structures\BuilderItems\Expansion\BaseBuilding\
+  OV_Zeitung in ov_zeitung\
+  BaseBuildingPlus_sStair in BaseBuildingPlus\bbp_building\stair\sstair\
+  AJs_Weapons_8mm in AJs_Weapons\AJW_Ammo\8mm\
+  AJsCreaturesV2_Sounds in AJsCreaturesV2\sounds\, CS_Wall in CS_Walls\wall\
+  DZ_Animals in DZ\animals\, EFT_PowerFilter in EFT\barter\powerfilter\
+  nm_Crafting_Part_Weapons_Sketches in nm_Crafting_Part_Weapons\data\nm_sketches\
+  OV_Oldpaper in ov_old-paper\, gaz_51 in gaz_51\
+  CfgPatches_Kirasa_Vest in EFT\armor\kirasa\, EFT_MedTools in EFT\barter\medtools\
+  DayZExpansion_Vehicles_Skins in DayZExpansion\Skins\Vehicles\
+  RagnarokVikingIdun in RaG_Viking_Pack\viking_idun\
+  CDAJ_PaperBag_Head in CDAJ_Items\clothing\helmets\cdaj_paperbag\
+  trerik4_vents in trerik4\city\modular\vents\
+  DayZExpansion_Objects_Gear_Spraycans in DayZExpansion\Objects\Gear\Spraycans\
+  DaysBefore_Buildings_ConcreteBlastWall in DaysBefore\Buildings\concreteblastwall\
+  EL_Fear_The_Walking_Dead in Fear_The_Wall_In_Dayz\wall_gate\
+  CfgPatches_MMAC_Vest in EFT\armor\mmac\
+  EFT_Screwdriver in EFT\barter\screwdriver\
+  DZ_Expansion_AI_Weapons_Debug in DayZExpansion\AI\DebugWeapons\
+  EFT_PressureGauge in EFT\barter\pressuregauge\
+  CfgPatches_IOTV_Vest in EFT\armor\iotv\
+  DayZExpansion_Objects_BaseBuilding_Tents_Kits in DayZExpansion\Objects\Basebuilding\Tents_Kits\
+  CS_Bridge in CS_MapObjects\bridge\
+  DZ_Characters_Headgear in DZ\characters\headgear\, UAZ_469_army in UAZ_469_army\
+  DayZExpansion_Objects_BaseBuilding_Items in DayZExpansion\Objects\Basebuilding\Items\
+  TraderX_GUI in TraderX_GUI\, TPSupportMenu in TraderPlusSupportMenu\
+  EFT_ProtectedCase in EFT\barter\protectedcase\
+  DayZExpansion_Weapons_Scripts in DayZExpansion\Weapons\Scripts\
+  IWP_SMG01 in improvised_weapons\guns\smg01\
+  CDAJ_Silkies_shit in CDAJ_Items\clothing\pants\ranger_panties\
+  CS_Military_DragonTeeth in CS_Military\dragonteeth\
+  FKRailway_Structures in FKRailway\
+  DZ_Weapons_Firearms_SV98 in DZ\weapons\firearms\sv98\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  DayZExpansion_AI_Scripts in DayZExpansion\AI\Scripts\
+  CfgPatches_SP8_Knife in EFT\knife\eft_sp8\
+  DayZExpansion_Sounds_BaseBuilding in DayZExpansion\Sounds\BaseBuilding\
+  EFT_skoth in EFT\barter\skoth\, TradePost_Buddy in Tradepost\
+  CfgPatches_vest_TV109_Vest in EFT\vest\vest_tv109\
+  CannabisPlus_Cigarette in CannabisPlus\cigarettes\
+  CP_Rollingpaper in CannabisPlus\rolling\
+  CDAJ_Master_Chef_stuff in CDAJ_Items\clothing\helmets\masterchef\
+  Arsteinen_Assets_2 in Arsteinen_Assets_2\
+  trerik4_brick in trerik4\city\modular\brick\, walls in tiled_wall\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DayZExpansion_Quests_Objects_Containers in DayZExpansion\Quests\Dta\Objects\Containers\
+  rag_baseitems_sounds in rag_baseitems\rag_baseitems_sounds\
+  CfgPatches_LSHZ_Headgear in EFT\head\eft_lshz\
+  TraderPlusBanking_Script in TraderPlusBanking\
+  CfgPatches_Slick_Vest in EFT\armor\slick\
+  DayZExpansion_Groups_Scripts in DayZExpansion\Groups\Scripts\
+  dodge_power_wagonrus in dodge_power_wagonrus\, CfgPatches_M2_Vest in EFT\armor\m2\
+  EFT_gold_chain in EFT\barter\gold_chain\
+  AJs_Weapons_Snipers in AJs_Weapons\AJW_Firearms_Snipers\
+  AJs_Weapons_Scripts in AJs_Weapons\AJW_Scripts\
+  DayZExpansion_Sounds_Vehicles_Air_Gyro in DayZExpansion\Sounds\Vehicles\Air\Gyro\
+  Arsteinen_Monolith in Arsteinen_Monolith\, trerik4_sounds in trerik4\sounds\
+  DZ_Animals_lepus_europaeus in DZ\animals\lepus_europaeus\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  viking_scripts in RaG_Viking_Pack\viking_scripts\
+  ModularDungeon in ModularDungeon\
+  DayZExpansion_VanillaFixes_Scripts in DayZExpansion\VanillaFixes\Scripts\
+  rag_baseitems_crates in rag_baseitems\rag_baseitems_crates\
+  bl_shared_data_sounds in bl_shared_data\sounds\, fishy_s1 in FishyBuildings\shop1\
+  BodyBags_Scripts in Bodybags\Scripts\, land_small_barn in small_barn\
+  BuilderItems_Expansion_Airdrop in DayZExpansion\Objects\Structures\BuilderItems\Expansion\Airdrop\
+  DayZExpansion_Weapons_Shotguns_DT11 in DayZExpansion\Objects\Weapons\Firearms\Shotguns\DT11\
+  EFT_Magnet in EFT\barter\magnet\
+  rag_baseitems_drawers in rag_baseitems\rag_baseitems_drawers\
+  rag_baseitems_waterbarrel in rag_baseitems\rag_baseitems_others\waterbarrel\
+  nm_Crafting_Part_Bushcrafting_Sketches in nm_Crafting_Part_Bushcrafting\data\nm_sketches\
+  OV_Military in ov_military1\
+  nm_Crafting_Part_Airbrushing_Belts in nm_Crafting_Part_Airbrushing\data\clothing\belts\
+  OV_Skull in ov_totems\
+  CfgPatches_Knight_mask_Headgear in EFT\head\eft_knight_mask\
+  EFT_Powder_red in EFT\barter\powder_red\
+  DayZExpansion_Sounds_Ground_Truck_01_Base in DayZExpansion\Sounds\Vehicles\Ground\Truck_01_Base\
+  SearchForLoot in SearchForLoot\, 0_RFWC_Define_mod in 0_RFWC_Define\
+  AJs_Weapons_Optics_EOTech_EXPS3 in AJs_Weapons\AJW_Optics\eotech_exps3\
+  CDAJ_Weapon_Blade in CDAJ_Items\melee\katana\
+  CDAJ_Deadmouse_shit in CDAJ_Items\clothing\helmets\deadmouse\
+  DayZExpansion_Objects_BaseBuilding_Tents in DayZExpansion\Objects\Basebuilding\Tents\
+  DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  rag_baseitems_sleepingbag in rag_baseitems\rag_baseitems_sleepingbag\
+  DayZExpansion_Sounds_Missions in DayZExpansion\Missions\Sounds\
+  CfgPatches_RysT_Headgear in EFT\head\eft_ryst\
+  Expansion_Lasers_Impacts in DayZExpansion\Objects\Weapons\Attachments\Lasers\impacts\
+  DayZExpansion_Sounds_Ground_Bus in DayZExpansion\Sounds\Vehicles\Ground\Bus\
+  BuilderItems_Bliss_Specific in DayZExpansion\Objects\Structures\BuilderItems\Bliss\specific\
+  bl_monstera in bl_plants\monstera\
+  nm_Crafting_Part_Fabric_Sketches in nm_Crafting_Part_Fabric\data\nm_sketches\
+  CfgPatches_Piligrim_bag in EFT\bags\piligrim\
+  DayZExpansion_GUI in DayZExpansion\GUI\
+  EFT_Cablecutter in EFT\barter\cablecutter\
+  CannabixPlus_Boxes in CannabisPlus\boxes\
+  CDAJ_DemonMask_Shit in CDAJ_Items\clothing\mask\cdaj_demon_mask\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  CfgPatches_Altyn_Headgear in EFT\head\eft_altyn\
+  rag_viking_warhammer in RaG_Viking_Pack\viking_warhammer\
+  rag_viking_hatchet in RaG_Viking_Pack\viking_hatchet\
+  nm_Crafting_Part_Airbrushing in nm_Crafting_Part_Airbrushing\
+  DayZExpansion_Objects_Structures_BMX in DayZExpansion\Objects\Structures\BMX\
+  DayZExpansion_Weapons_Preload in 0_DayZExpansion_Weapons_Preload\
+  rag_viking_halbert in RaG_Viking_Pack\viking_halbert\
+  CP_Cigarettepacks in CannabisPlus\cigarettepacks\
+  generated_improvised in trerik4\military\improvised\, bl_lamps in bl_lamps\
+  nm_Crafting_Part_Medic_Models in nm_Crafting_Part_Medic\data\nm_models\
+  DaysBefore_Buildings_Hanging_Screen in DaysBefore\Buildings\hanging_screens\
+  bl_paintings in bl_paintings\
+  DayZExpansion_LanguageCore_PersonalStorage in DayZExpansion\languagecore\PersonalStorage\
+  OV_Feuerloscher in ov_feuerbox\
+  rag_viking_firepit in RaG_Viking_Pack\viking_firepit\
+  EFT_Cooler in EFT\barter\cooler\, CP_Dry_Post in CannabisPlus\furniture\
+  gatebarricade in gatebarricade\, curved_heel_fieldgate in gates\
+  land_phonebox in phonebox\, land_windmill in windmill\
+  DZ_Worlds_Sakhal_Data in DZ\worlds\sakhal\data\, MM_MapAssets_Cfg in MM_MapAssets\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\, OV_Ural in ov_Ural\
+  DayZExpansion_Book_Scripts in DayZExpansion\Book\Scripts\
+  DayZExpansion_Groups_Preload in 0_DayZExpansion_Groups_Preload\
+  DayZExpansion_Sounds_Weapons_M79 in DayZExpansion\Sounds\Weapons\M79\
+  BuilderItems_Bridges in DayZExpansion\Objects\Structures\BuilderItems\DZ\bridges\
+  CfgPatches_LCHZ2_Headgear in EFT\head\eft_lchz2\
+  BaseBuildingPlus_Wallpaper_Mural in BaseBuildingPlus\decorations\wallpaper_mural\
+  DayZExpansion_Sounds_Vehicles_Water_Vodnik in DayZExpansion\Sounds\Vehicles\Ground\Vodnik\
+  postboxes in postboxes\, DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  EFT_Airfilter in EFT\barter\airfilter\
+  DayZExpansion_Stanag60RND in DayZExpansion\Objects\Weapons\Attachments\Support\Stanag60\
+  EFT_Teddy in EFT\barter\teddy\, F1_Pickup in F1_Pickup\
+  EFT_bloodset in EFT\barter\transfusionset\
+  CfgPatches_Thor_Vest in EFT\armor\thor\
+  rag_viking_raven in RaG_Viking_Pack\viking_raven\, RFWC_Whaler_mod in RFWC_Whaler\
+  CDAJ_OpsCore_CarrierStuff in CDAJ_Items\clothing\chest\opscorecarrier\
+  trerik4_garbage in trerik4\city\garbage\, trerik4_decals in trerik4\city\decals\
+  Barrier_Block_2 in CS_MapObjects\barrier_block_2\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\, DF_GUI in DabsFramework\GUI\
+  VAZ_21099R in VAZ_21099R\
+  DayZExpansion_VirtualContainerStorage_Scripts in DayZExpansion\VirtualContainerStorage\Scripts\
+  EFT_GreenBat in EFT\barter\greenbat\
+  DZ_Gear_Consumables_PVZCZ in LIVEN\PvZmoD_CustomisableZombies\dz\gear\consumables\
+  CfgPatches_Redfox_bag in EFT\bags\redfox\
+  BaseBuildingPlus_slopeWallL in BaseBuildingPlus\bbp_building\slope_wall_l\
+  Arsteinen_Assets in Arsteinen_Assets\, JM_CF_Scripts in JM\CF\Scripts\
+  VAZ_2105_RUS in VAZ_2105_RUS\, bl_extension_cable in bl_specials\extension_cable\
+  EFT_battery in EFT\barter\battery\
+  Expansion_Tops in DayZExpansion\Data\Characters\Tops\
+  DayZExpansion_Objects_Firearms_Flaregun in DayZExpansion\Objects\Weapons\Firearms\Flaregun\
+  EFT_Wires in EFT\barter\wires\, CP_Fruits in CannabisPlus\fruits\
+  BaseBuildingPlus_Pillars in BaseBuildingPlus\bbp_building\pillar\
+  AJs_Weapons_Firearms_AJW_Car15 in AJs_Weapons\AJW_Firearms_AssaultRifles\car15\
+  AJsCreaturesV2_Zombies_Reskins in AJsCreaturesV2\zombies\cdaj_zombie_reskins\
+  CDAJ_Apoco_Shirt_Shit in CDAJ_Items\clothing\shirt\sweater\
+  rope_bridge_25m in rope_bridge_25m\, DZ_Structures in DZ\structures\data\
+  EFT_Screw_pack in EFT\barter\screw_pack\, EFT_HDD in EFT\barter\hdd\
+  rag_viking_axe in RaG_Viking_Pack\viking_axes\
+  DayZExpansion_Objects_Firearms_RPG7 in DayZExpansion\Objects\Weapons\Firearms\RPG7\
+  DayZExpansion_Navigation_Preload in 0_DayZExpansion_Navigation_Preload\
+  DayZExpansion_Objects_Structures_Props in DayZExpansion\Objects\Structures\Props\
+  nm_Crafting_Part_Airbrushing_Shoes in nm_Crafting_Part_Airbrushing\data\clothing\shoes\
+  EFT_Bloodset in EFT\barter\bloodset\
+  EFT_Insulatingtape in EFT\barter\insulatingtape\
+  rag_baseitems in rag_baseitems\rag_baseitems_baseclasses\, OV_Soda in ov_soda\
+  EFT_ToothPaste2 in EFT\barter\toothpaste2\
+  BC_ServerPack_Attachments in BC_ServerPack\attachments\
+  AJs_Weapons_Firearms_AKS74U in AJs_Weapons\AJW_Firearms_AssaultRifles\aks74u\
+  trerik4_city_sheds in trerik4\city\sheds\, trerik4_zoo in trerik4\city\zoo\
+  CS_Tower in CS_MapObjects\tower\, Ike_bodies in DZA\characters\bodies\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Weapons_Firearms_M14 in DZ\weapons\firearms\m14\
+  CfgPatches_LBT1476a_bag in EFT\bags\lbt1476a\
+  bl_solarpanel in bl_specials\solarpanel\
+  BuilderItems_Bliss_Signs in DayZExpansion\Objects\Structures\BuilderItems\Bliss\signs\
+  CfgPatches_SHPM_Headgear in EFT\head\eft_shpm\
+  EFT_FlashStorage in EFT\barter\flashstorage\, OV_Metalbarier in ov_metalbarrier\
+  EFT_Uzrgm in EFT\barter\uzrgm\
+  BC_ServerPack_Attachments_Optics_hamroptic in BC_ServerPack\attachments\optics\hamroptic\
+  DZ_Gear_Cooking in DZ\gear\cooking\, DZ_Vehicles_Water in DZ\vehicles\water\
+  DayZExpansion_P2PMarket_Scripts in DayZExpansion\P2PMarket\Scripts\
+  CfgPatches_KibaAxe_Knife in EFT\knife\eft_kibaaxe\
+  DayZExpansion_Book_Preload in 0_DayZExpansion_Book_Preload\
+  DayZExpansion_VanillaFixes_GUI in DayZExpansion\VanillaFixes\GUI\
+  BuilderItemsBliss_Rocks in DayZExpansion\Objects\Structures\BuilderItems\Bliss\rocks\
+  DayZExpansion_Vehicles_Ground_Offroad_02 in DayZExpansion\Vehicles\Ground\Offroad_02\
+  BaseBuildingPlus_bFloormesh in BaseBuildingPlus\bbp_building\floor\bfloormesh\
+  AJs_Weapons_Shotguns_DMK12 in AJs_Weapons\AJW_Firearms_Shotgun\daryamk12\
+  AJs_Weapons_AnimsIDs in AJs_Weapons\AJW_Sounds\animations\
+  AJsCreaturesV2 in AJsCreaturesV2\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  bl_pallet_table in bl_pallet_table\
+  rag_viking_shield in RaG_Viking_Pack\viking_shield\
+  DayZExpansion_Kar98ScopeOptic in DayZExpansion\Objects\Weapons\Attachments\Optics\Kar98Scope\
+  RagnarokVikingBoots in RaG_Viking_Pack\viking_boots\
+  rag_viking_mjolnir in RaG_Viking_Pack\viking_mjolnir\
+  DaysBefore_Buildings_Large_Generator in DaysBefore\Buildings\large_generator\
+  DaysBefore_Buildings_Scifi_desk in DaysBefore\Buildings\scifi_desk\
+  EFT_RecipeBook in EFT\barter\recipebook\
+  DayZExpansion_Vehicles_Ground_TT650 in DayZExpansion\Vehicles\Ground\TT650\
+  palasade_longrun in palasade_longrun\, DZ_Gear_Consumables in DZ\gear\consumables\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  nm_Crafting_Part_VanRecipes_Sketches in nm_Crafting_Part_VanRecipes\data\nm_sketches\
+  DayZExpansion_Weapons_Pistols_Taser in DayZExpansion\Objects\Weapons\Firearms\Pistols\X2Taser\
+  UAZ_3172 in UAZ_3172\, EFT_Military_flash in EFT\barter\military_flash\
+  Expansion_Armbands in DayZExpansion\Data\Characters\Armbands\
+  DayZExpansion_Kar98 in DayZExpansion\Objects\Weapons\Firearms\Sniper\Kar98\
+  Gaz_233002_Tiger in Gaz_233002_Tiger\, EFT_NaCl in EFT\barter\nacl\
+  GAZ_66 in GAZ_66\
+  DayZExpansion_P2PMarket_Objects in DayZExpansion\P2PMarket\Objects\
+  bl_pallet_box in bl_pallet_box\pallet_box\
+  BaseBuildingPlus_slopeWallR in BaseBuildingPlus\bbp_building\slope_wall_r\
+  CDAJ_Opscore_Shirt_Shit in CDAJ_Items\clothing\shirt\opscoretop\
+  CfgPatches_TriZip_bag in EFT\bags\trizip\
+  nm_Crafting_Part_Airbrushing_Backpacks in nm_Crafting_Part_Airbrushing\data\clothing\backpacks\
+  EFT_RAM in EFT\barter\ram\, EFT_Repellent in EFT\barter\repellent\
+  EFT_KEK in EFT\barter\kek\, EFT_Cat in EFT\barter\cat\
+  OV_Cargoship in ov_cargoship\
+  BaseBuildingPlus_Scripts in BaseBuildingPlus\scripts\
+  CDAJ_Weapons_stuff in CDAJ_Weapons\, DZ_Vehicles_Parts in DZ\vehicles\parts\
+  CarLock_Script in CarLock\, CfgPatches_SS_bigpipe_Vest in EFT\armor\ss_bigpipe\
+  EFT_Carbattery in EFT\barter\carbattery\
+  DaysBefore_Buildings_ServerRack in DaysBefore\Buildings\serverrack\
+  DayZExpansion_Objects_Structures_Signs in DayZExpansion\Objects\Structures\Signs\
+  UAZ_27722_mchs in UAZ_27722_mchs\, GAZ_3110_volga in GAZ_3110_volga\
+  RagnarokVikingDrinkHorn in RaG_Viking_Pack\viking_drinkhorn\
+  BaseBuildingPlus_bWindow in BaseBuildingPlus\bbp_building\window\bwindow\
+  AJs_Weapons_Firearms_AK5C in AJs_Weapons\AJW_Firearms_AssaultRifles\ak5c\
+  cheshire_fencing in cheshirefencing\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DaysBefore_Buildings_Radar_Towers in DaysBefore\Buildings\radar_towers\
+  artillery_tractor in artillery_tractor\
+  DayZExpansion_Objects_BaseBuilding_Stairs in DayZExpansion\Objects\Basebuilding\Stairs\
+  bl_fridge in bl_fridge\, EFT_GyroTachometr in EFT\barter\gyrotachometr\
+  AZLK_2141RF in AZLK_2141RF\, RearmedServer_Gear_BodyBag in Bodybags\Gear\bodybag\
+  AJs_Weapons_Snipers_AWM in AJs_Weapons\AJW_Firearms_Snipers\awm\
+  AJs_Weapons_Snipers_R700 in AJs_Weapons\AJW_Firearms_Snipers\r700\
+  AJs_Weapons_Pistols_Kimber1911 in AJs_Weapons\AJW_Pistols\kimber_1911\
+  trerik4_van in trerik4\city\van\, DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  EFT_Transmitter in EFT\barter\transmitter\
+  nm_Crafting_Part_Writing_Models in nm_Crafting_Part_Writing\data\nm_models\
+  DayZExpansion_P2PMarket_Preload in 0_DayZExpansion_P2PMarket_Preload\
+  OV_Block1 in ov_block1\
+  rag_baseitems_workbench in rag_baseitems\rag_baseitems_workbench\
+  DayZExpansion_Structures_Industrial_Misc in DayZExpansion\Structures\Industrial\Misc\
+  nm_Models in nm_Crafting_Core\
+  DayZExpansion_HAMROptic in DayZExpansion\Objects\Weapons\Attachments\Optics\Hamr\
+  DayZExpansion_Weapons_Animations in DayZExpansion\Weapons\Animations\Player\
+  AJs_Weapons_Attachments_Handguards in AJs_Weapons\AJW_Attachments\handguard\
+  AJsCreaturesV2_Demon in AJsCreaturesV2\zombies\cdaj_demon\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  EFT_MetalScissors in EFT\barter\metalscissors\
+  CfgPatches_knife1_Knife in EFT\knife\tm_knife1\, GAZ21_Volga in GAZ21_Volga\
+  bl_rain_collector in bl_rain_collector\rain_collector\
+  DayZExpansion_Sounds_Weapons_Crossbow in DayZExpansion\Sounds\Weapons\Crossbow\
+  OV_Block2 in ov_block2\
+  DaysBefore_Buildings_Small_Generator in DaysBefore\Buildings\small_generator\
+  EFT_Shampoo in EFT\barter\shampoo\
+  BuilderItems_Expansion_Vehicles in DayZExpansion\Objects\Structures\BuilderItems\Expansion\Vehicles\
+  BuilderItems_Traffic in DayZExpansion\Objects\Structures\BuilderItems\DZ\traffic\
+  fishy_h1 in FishyBuildings\house1\
+  AJs_Weapons_AssultRifles in AJs_Weapons\AJW_Firearms_AssaultRifles\
+  AJs_Weapons_Snipers_SVD in AJs_Weapons\AJW_Firearms_Snipers\svd\
+  AJs_Weapons_Snipers_Kar98 in AJs_Weapons\AJW_Firearms_Snipers\k98\
+  DayZExpansion_Sounds_Ground_TT650 in DayZExpansion\Sounds\Vehicles\Ground\TT650\
+  CS_Fence in CS_MapObjects\fence\, jcbucket in jcbucket\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  VikingRetextures in RaG_Viking_Pack\viking_vanilla_reskins\
+  DayZExpansion_LanguageCore_Chat in DayZExpansion\languagecore\Chat\
+  EFT_Ratchetwrench in EFT\barter\ratchetwrench\
+  DayZExpansion_Navigation_Scripts in DayZExpansion\Navigation\Scripts\
+  nm_Crafting_Part_Vehicles_nmRaftConstruction in nm_Crafting_Part_Vehicles\data\nm_raft_construction\
+  DayZExpansion_Objects_BaseBuilding_Data in DayZExpansion\Objects\Basebuilding\Data\
+  OV_Block3 in ov_block3\, DayZExpansion_NameTags_GUI in DayZExpansion\NameTags\GUI\
+  nm_Crafting_Part_Airbrushing_Tops in nm_Crafting_Part_Airbrushing\data\clothing\tops\
+  nm_Crafting_Part_Scrapmetalworking_Models in nm_Crafting_Part_Scrapmetalworking\data\nm_models\
+  EFT_Bolts in EFT\barter\bolts\, OV_Skeleton in ov_humanskeleton\
+  GAZ_69_rus in GAZ_69_rus\, EFT_paperA4 in EFT\barter\papera4\
+  fishy_h2 in FishyBuildings\house2\
+  AJs_Weapons_Shotguns_Mossberg590 in AJs_Weapons\AJW_Firearms_Shotgun\mossberg590\
+  DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  EFT_RatKiller1 in EFT\barter\ratkiller\, EFT_Poxearm in EFT\barter\poxearm\
+  OV_Block4 in ov_block4\
+  DayZExpansion_Objects_Structures_Grass in DayZExpansion\Objects\Structures\Grass\
+  LeBobo_ModularCorridors_sounds in ModularCorridors\Corridor_Parts\sound\
+  fishy_h3 in FishyBuildings\house3\, derelict_house in derelict_house\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  rag_baseitems_statics in rag_baseitems\rag_baseitems_statics\
+  nm_Crafting_Part_Vehicles_nmRaft in nm_Crafting_Part_Vehicles\data\nm_raft\
+  DayZExpansion_Hardline_Scripts in DayZExpansion\Hardline\Scripts\
+  CfgPatches_vest_Tarzan_Vest in EFT\vest\vest_tarzan\, OV_Block5 in ov_block5\
+  nm_Crafting_Part_Weapons in nm_Crafting_Part_Weapons\
+  CfgPatches_vest_Beld_Vest in EFT\vest\vest_beld\
+  nm_Crafting_Part_Writing in nm_Crafting_Part_Writing\
+  fishy_h4 in FishyBuildings\house4\, CZ_Optics in BC_ServerPack\
+  BaseBuildingPlus_bStair in BaseBuildingPlus\bbp_building\stair\bstair\
+  CDAJ_TV110_stuff in CDAJ_Items\clothing\chest\tv110\
+  DayZExpansion_Vehicles_Data in DayZExpansion\Vehicles\Data\
+  trerik4_tog_misc in trerik4\city\tog\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  EFT_Modem in EFT\barter\modem\
+  CfgPatches_vest_Umka_m33_Vest in EFT\vest\vest_umka_m33\
+  OV_Galgen01 in ov_galgen01\, EFT_LEDX in EFT\barter\ledx\, SPBuilding in SPBuilding\
+  OV_Bunkers in ov_bunkers\, EFT_Letter in EFT\barter\letter\
+  DayZExpansion_Sounds_Weapons_Kar98 in DayZExpansion\Sounds\Weapons\Kar98\
+  OV_Block6 in ov_block6\, ZIL_130_ac40 in ZIL_130_ac40\
+  EFT_Filtr in EFT\barter\filtr\
+  BuilderItems_Garbage in DayZExpansion\Objects\Structures\BuilderItems\DZ\garbage\
+  fishy_h5 in FishyBuildings\house5\
+  BaseBuildingPlus_foundationTriangle in BaseBuildingPlus\bbp_building\foundation\foundationtriangle\
+  ExpansionProp_AntiAir in DayZExpansion\Vehicles\Objects\AntiAir\
+  CS_Airdrop in CS_MapObjects\airdrop\, trerik4_roads in trerik4\roads\
+  DZ_Gear_Books in DZ\gear\books\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  rag_viking_bracer in RaG_Viking_Pack\viking_bracer\
+  DayZExpansion_Objects_Gear_Breifcase in DayZExpansion\Core\Objects\Briefcase\
+  nm_Crafting_Part_Vehicles_nmBuggyConstruction in nm_Crafting_Part_Vehicles\data\nm_buggy_construction\
+  fishy_h6 in FishyBuildings\house6\
+  AJsCreaturesV2_Clown in AJsCreaturesV2\zombies\cdaj_clown\
+  DayZExpansion_Vehicles_Air_Merlin in DayZExpansion\Vehicles\Air\Merlin\
+  mergon_barricade in mergon_barricade\
+  rag_baseitems_fridges in rag_baseitems\rag_baseitems_fridges\
+  EFT_Hunter_match in EFT\barter\hunter_match\
+  nm_Crafting_Part_Armors_Models in nm_Crafting_Part_Armors\data\nm_models\
+  bl_mirabilis in bl_plants\cercestis_mirabilis\, EFT in EFT\
+  EFT_Beardoil in EFT\barter\beardoil\, fishy_h7 in FishyBuildings\house7\
+  CP_Workbench in CannabisPlus\workbench\
+  AJs_Weapons_Rifles_MK12 in AJs_Weapons\AJW_Firearms_Rifles\mk12_556\
+  AJs_Weapons_Snipers_K98_Tac in AJs_Weapons\AJW_Firearms_Snipers\k98_tac\
+  CDAJ_Opscore_Pants_Shit in CDAJ_Items\clothing\pants\opscorepants\
+  land_chipper in chipper\, DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  nm_Crafting_Part_Medic_Sketches in nm_Crafting_Part_Medic\data\nm_sketches\
+  DaysBefore_Buildings_MedicalTents in DaysBefore\Buildings\medicaltents\
+  DayZExpansion_Objects_Structures_ExpansionFlag in DayZExpansion\Objects\Structures\ExpansionFlag\
+  bl_rain_collector_slots in bl_rain_collector\slots\
+  DayZExpansion_Groups_GUI in DayZExpansion\Groups\GUI\
+  BuilderItems_rocks_sakhal in DayZExpansion\Objects\Structures\BuilderItems\Sakhal\rocks\
+  EFT_QuestDoc in EFT\barter\questdoc\, fishy_h8 in FishyBuildings\house8\
+  BaseBuildingPlus_halfbwall in BaseBuildingPlus\bbp_building\half_wall\half_bwall\
+  AJs_Weapons_Data in AJs_Weapons\AJW_Data\
+  AJs_Weapons_Firearms_AK74M in AJs_Weapons\AJW_Firearms_AssaultRifles\ak74m\
+  DayZExpansion_Objects_BaseBuilding_Gates in DayZExpansion\Objects\Basebuilding\Gates\
+  DZ_Data_Sakhal in DZ\data_sakhal\, DZ_Water in DZ\water\
+  BuilderItemsBliss_Plants in DayZExpansion\Objects\Structures\BuilderItems\Bliss\plants\
+  EFT_Nyball in EFT\barter\nyball\, ov_wassertank in ov_brunen\
+  bl_deposit in bl_deposit\, viking_book in RaG_Viking_Pack\viking_book\
+  nm_Crafting_Part_Airbrushing_Containers in nm_Crafting_Part_Airbrushing\data\gear\containers\
+  rag_baseitems_safes in rag_baseitems\rag_baseitems_safes\
+  CfgPatches_Tagilla_Vest in EFT\armor\tagilla\
+  EFT_PipeCleaner in EFT\barter\pipecleaner\, EFT_diary in EFT\barter\diary\
+  DayZExpansion_VanillaFixes_Sounds in DayZExpansion\VanillaFixes\Sounds\
+  fishy_h9 in FishyBuildings\house9\
+  BaseBuildingPlus_meshFenceGate in BaseBuildingPlus\bbp_building\mesh_fence_gate\
+  AJs_Weapons_Rifles_MarlinTactical in AJs_Weapons\AJW_Firearms_Rifles\marlin\
+  DZ_Characters_Shoes in DZ\characters\shoes\, Viking_Pack in RaG_Viking_Pack\
+  EFT_Lion in EFT\barter\lion\, DayZExpansion_Dta_Core in DayZExpansion\Dta\Core\
+  DayZExpansion_Hardline_Preload in 0_DayZExpansion_Hardline_Preload\
+  DayZExpansion_PersonalStorage_Objects in DayZExpansion\PersonalStorage\Objects\
+  BuilderItems_structures_sakhal in DayZExpansion\Objects\Structures\BuilderItems\Sakhal\structures\
+  CPtoken in CPTOKENS\, CDAJ_MG42_Stuff in CDAJ_Weapons\lmg\mg42\
+  DayZExpansion_Sounds_Ground_N250 in DayZExpansion\Sounds\Vehicles\Ground\N250\
+  land_t_shape_house in t_shape_house\, whiskey_barrel in whiskey_barrel\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Radio in DZ\gear\radio\, OV_Wreck01 in ov_wreck01\, bl_special in bl_specials\
+  EFT_Mediator in EFT\barter\mediator\
+  DayZExpansion_Objects_Kits in DayZExpansion\Objects\Kits\
+  rag_viking_table in RaG_Viking_Pack\viking_table\, BBP_Hotfix in BBP_Hotfix\
+  DayZExpansion_Objects_BaseBuilding_Misc in DayZExpansion\Objects\Basebuilding\Misc\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\
+  CfgPatches_Bars95x18_Knife in EFT\knife\eft_bars95x18\, OV_Wreck02 in ov_wreck02\
+  bl_stove_barrel in bl_stove\stove_barrel\, EFT_geger in EFT\barter\geger\
+  BuilderItems_StaticItems_Expansion in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\expansion\
+  CP_Pouch in CannabisPlus\pouch\, RFWC_Seadoo_mod in RFWC_Seadoo\
+  RFWC_Zodiac_mod in RFWC_Zodiac\
+  IWP_BoltActionRifle_Parts in improvised_weapons\guns\boltactionrifle01\parts\
+  DZ_Sounds_AI in DZ\sounds\ai\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\, OV_Wreck03 in ov_wreck03\
+  LeBobo_Modular_Corridors in ModularCorridors\Corridor_Parts\
+  EFT_Pile in EFT\barter\pile\
+  DayZExpansion_Quests_Dta_Core in DayZExpansion\Quests\Dta\Core\
+  EFT_Engine in EFT\barter\engine\, EFT_GPhone in EFT\barter\gphone\
+  nm_Crafting_Part_Airbrushing_Gloves in nm_Crafting_Part_Airbrushing\data\clothing\gloves\
+  fishy_h10 in FishyBuildings\house10\, RFWC_Wrecks in RFWC_Wrecks\
+  BBP_keybind in BBP_keybind\
+  AJs_Weapons_Firearms_HK416 in AJs_Weapons\AJW_Firearms_AssaultRifles\hk416_cag\
+  AJs_Weapons_Firearms_SMG in AJs_Weapons\AJW_Firearms_SMG\
+  AJs_Weapons_Optics_Vudu in AJs_Weapons\AJW_Optics\vudu\
+  CDAJ_apocopants_Shit in CDAJ_Items\clothing\pants\apocpants\, DZ_AI in DZ\AI\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_Sounds_Effects in DZ\sounds\hpp\, DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DayZExpansion_Vehicles_Ground_Hatchback in DayZExpansion\Vehicles\Ground\OffroadHatchback\
+  CfgPatches_Shlemofon_Headgear in EFT\head\eft_shlemofon\
+  OV_Wreck04 in ov_wreck04\
+  DZ_Pistols_mkii_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\pistols\mkii\
+  Garage_Script in Garage\, IJ_2125_Kombi in IJ_2125_Kombi\
+  DayZExpansion_Objects_Missions in DayZExpansion\Missions\Objects\
+  BRDM2_RF in BRDM2_RF\
+  nm_Crafting_Part_Airbrushing_Vests in nm_Crafting_Part_Airbrushing\data\clothing\vests\
+  DZM_VPPStaticItems in VPPStaticItems\
+  rag_well in rag_baseitems\rag_baseitems_buildings\rag_well\
+  DZ_Weapons_Muzzles_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\attachments\muzzle\
+  fishy_h11 in FishyBuildings\house11\
+  AJs_Weapons_Firearms_SCARH in AJs_Weapons\AJW_Firearms_AssaultRifles\scarh\
+  DayZExpansion_Sounds_Vehicles_Air_An2 in DayZExpansion\Sounds\Vehicles\Air\An2\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DayZExpansion_Weapons_SMG_VityazSN in DayZExpansion\Objects\Weapons\Firearms\SMG\VityazSN\
+  DayZExpansion_NameTags_Scripts in DayZExpansion\NameTags\Scripts\
+  EFT_FAR in EFT\barter\far\, bl_anatolian_carpet in bl_carpet\anatolian_carpet\
+  OV_Wreck05 in ov_wreck05\, OV_V1Ramp in ov_v1ramp\
+  Fear_The_Wall_In_Dayz in Fear_The_Wall_In_Dayz\, OV_Kioskfoot in ov_kioskfood\
+  EFT_Vitamins in EFT\barter\vitamins\
+  nm_Crafting_Part_Writing_Sketches in nm_Crafting_Part_Writing\data\nm_sketches\
+  fishy_h12 in FishyBuildings\house12\
+  BaseBuildingPlus_sGate in BaseBuildingPlus\bbp_building\gate\sgate\
+  CDAJ_GF_Mask in CDAJ_Items\clothing\mask\cdaj_gf_mask\
+  DayZExpansion_Vehicles_Air_An2 in DayZExpansion\Vehicles\Air\An2\
+  CS_Military_Camonet in CS_Military\camonet\
+  trerik4_DPL_Tracked in trerik4\dpl\tracked\, OV_Wreck06 in ov_wreck06\
+  CfgPatches_Tactical_bag in EFT\bags\tactical\
+  BuilderItems_Parts in DayZExpansion\Objects\Structures\BuilderItems\DZ\parts\
+  BuilderItems_Whywouldanyoneusethese in DayZExpansion\Objects\Structures\BuilderItems\DZ\water\
+  nm_Crafting_Part_Airbrushing_Sketches in nm_Crafting_Part_Airbrushing\data\nm_sketches\
+  ceap_b1 in CEAP\block1\
+  ForgeWorks_WeaponParts in ForgeWorks_Crafting\addons\forgeworks_weaponparts\
+  fishy_h13 in FishyBuildings\house13\, fishy_t1 in FishyBuildings\tower1\
+  A2_Props_LHD in ArmA2_Props\lhd\lhd_3\, auto_garage in auto_garage\
+  trerik4_neon in trerik4\city\neon\, Llanstephen_bridge in Llanstephen_bridge\
+  trerik4_train in trerik4\train\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DayZExpansion_Vehicles_Ground_CivilianSedan in DayZExpansion\Vehicles\Ground\CivillianSedan\
+  CfgPatches_Drawbridge_bag in EFT\bags\drawbridge\
+  EFT_Sheloch in EFT\barter\sheloch\
+  CfgPatches_vest_D3CRX_Vest in EFT\vest\vest_d3crx\
+  JPC_Vest in JPC_Vest\data\item\, EFT_Nails_pack in EFT\barter\nails_pack\
+  DayZExpansion_Objects_Structures_Flags in DayZExpansion\Objects\Structures\Flags\
+  DayZExpansion_Structures_Industrial_Power in DayZExpansion\Structures\Industrial\Power\
+  ceap_b2 in CEAP\block2\, fishy_h14 in FishyBuildings\house14\
+  fishy_t2 in FishyBuildings\tower2\, CP_Bags in CannabisPlus\bags\
+  IWP_Parts_Screws in improvised_weapons\parts\screws\
+  BC_ServerPack_Attachments_Optics_accupower in BC_ServerPack\attachments\optics\accupower\
+  AJs_Weapons_Attachments_Muzzles in AJs_Weapons\AJW_Attachments\muzzles\
+  CDAJ_DKS_Stuff in CDAJ_Weapons\sniper\dks501\
+  CS_Military_CargoTower in CS_Military\cargotower\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Pistols in DZ\weapons\pistols\, OV_House01 in ov_house01\
+  DayZExpansion_Weapons_Optics_DeltaPoint in DayZExpansion\Objects\Weapons\Attachments\Optics\Deltapoint\
+  DayZExpansion_LanguageCore_Hardline in DayZExpansion\languagecore\Hardline\
+  rag_baseitems_repair_station in rag_baseitems\rag_baseitems_repair_station\
+  bl_greenhouse in bl_specials\greenhouse\
+  DayZExpansion_Hardline_GUI in DayZExpansion\Hardline\GUI\
+  fishy_h15 in FishyBuildings\house15\
+  AJs_Weapons_Firearms_SCARL in AJs_Weapons\AJW_Firearms_AssaultRifles\scarl\
+  AJs_Weapons_Optics_DEVO in AJs_Weapons\AJW_Optics\devo\
+  CDAJ_Items_Slots in CDAJ_Items\data\slots\
+  trerik4_missile_launcher in trerik4\military\missile_launcher\
+  roadsigns in roadsigns\, DZ_Weapons_Firearms in DZ\weapons\firearms\
+  OV_Skeletons in ov_skeletons\, OV_House02 in ov_house02\
+  CfgPatches_Wartech_bag in EFT\bags\wartech\
+  DayZExpansion_DefineTest in DayZExpansion\DefineTest\
+  DayZExpansion_LanguageCore_Missions in DayZExpansion\languagecore\Missions\
+  CfgPatches_Plate_carrier_Vest in EFT\armor\plate_carrier\
+  DayZExpansion_SmokeGrenades in DayZExpansion\Objects\Weapons\Throwables\Smokes\
+  kamaz_4310RUS in kamaz_4310RUS\, fishy_h16 in FishyBuildings\house16\
+  IWP_Parts_ScrapMetal in improvised_weapons\parts\scrap_metal\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  DayZExpansion_Vehicles_Ground_LandRover in DayZExpansion\Vehicles\Ground\LandRover\
+  EFT_SSD in EFT\barter\ssd\, CfgPatches_M1_Vest in EFT\armor\m1\
+  OV_House03 in ov_APOC_House\, EFT_Powder in EFT\barter\powder\, OV_47mm in ov_47mm\
+  EFT_Vertex in EFT\barter\vertex\, CfgPatches_Trooper_Vest in EFT\armor\trooper\
+  CfgPatches_vest_Triton_Vest in EFT\vest\vest_triton\
+  CfgPatches_vest_Patrol_Vest in EFT\vest\vest_patrol\
+  fishy_h17 in FishyBuildings\house17\, CannabisPlus in CannabisPlus\
+  BaseBuildingPlus_rGate in BaseBuildingPlus\bbp_building\gate\rgate\
+  trerik4_city in trerik4\city\props\, trerik4_building in trerik4\city\building\
+  DZ_Worlds_Sakhal in DZ\worlds\sakhal\world\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  DZ_Gear_Optics in DZ\gear\optics\
+  DaysBefore_Buildings_Watchtower in DaysBefore\Buildings\watchtower\
+  EFT_Jurnals in EFT\barter\jurnals\
+  DayZExpansion_NameTags_Preload in 0_DayZExpansion_NameTags_Preload\
+  OV_Ships in ov_ship01\
+  DZ_Weapons_Projectiles_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\projectiles\
+  EFT_HandDrill in EFT\barter\handdrill\
+  EFT_Military_cable in EFT\barter\military_cable\
+  CfgPatches_Kakashka_bag in EFT\bags\kakashka\
+  fishy_h18 in FishyBuildings\house18\
+  CDAJ_Trenchcoat_Shit in CDAJ_Items\clothing\shirt\cdaj_trenchcoat\
+  CS_Bunker in CS_MapObjects\bunker\, DZ_Worlds_Sakhal_CE in DZ\worlds\sakhal\ce\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\, DZ_Anims_Cfg in DZ\anims\cfg\
+  DayZExpansion_PlayerList_GUI in DayZExpansion\PlayerList\GUI\
+  DayZExpansion_Parachute in DayZExpansion\Objects\Gear\Parachute\
+  VAZ_2107RF in VAZ_2107RF\, EFT_Woodclock in EFT\barter\woodclock\
+  EFT_GALSD3 in EFT\barter\galsd3\, fishy_h19 in FishyBuildings\house19\
+  BC_ServerPack_Scripts in BC_ServerPack\scripts\
+  AJs_Weapons_Optics_HAMROptic in AJs_Weapons\AJW_Optics\hamroptic\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  EFT_Tools_files in EFT\barter\tools_files\
+  CfgPatches_Module3M_Vest in EFT\armor\module3m\, money in TraderPlusMoney\
+  OV_Wohnwagen in ov_wohnwagen\, bl_dieffenbachia in bl_plants\dieffenbachia\
+  DZ_Gear_Camping in EFT\cases\weapon_case\
+  viking_shelter in RaG_Viking_Pack\viking_shelter\, TreeHouse_Buddy in TreeHouse\
+  DayZExpansion_Kar98Bayonet in DayZExpansion\Objects\Weapons\Attachments\Support\kar98bayonet\
+  EFT_GP in EFT\barter\gp\
+  DZ_Characters_Data_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\characters\data\
+  CP_Bagger in CannabisPlus\bagger\
+  BaseBuildingPlus_meshFence in BaseBuildingPlus\bbp_building\mesh_fence\
+  AJs_Weapons_Snipers_SV98 in AJs_Weapons\AJW_Firearms_Snipers\sv98\
+  DayZExpansion_Vehicles_Water_Carrier in DayZExpansion\Vehicles\Water\Carrier\
+  DZ_Water_Bliss in DZ\water_bliss\
+  DayZExpansion_PersonalStorage_Scripts in DayZExpansion\PersonalStorage\Scripts\
+  CLDefine in CLDefine\
+  DayZExpansion_LanguageCore_Garage in DayZExpansion\languagecore\Garage\
+  bl_special_coffee_bag in bl_specials\coffe_machine\bag\
+  CfgPatches_TC2001_Headgear in EFT\head\eft_tc2001\
+  bl_old_crate in bl_shared_data\old_crate\
+  DayZExpansion_MapAssets_Scripts in DayZExpansion\MapAssets\Scripts\
+  nm_Crafting_Part_ImproNBCSuit in nm_Crafting_Part_ImproNBCSuit\
+  AJs_Weapons_Firearms_MCX in AJs_Weapons\AJW_Firearms_AssaultRifles\mcx\
+  AJs_Weapons_Optics_ELCAN in AJs_Weapons\AJW_Optics\elcan\
+  AJs_Weapons_Pistols_CZP09 in AJs_Weapons\AJW_Pistols\czp09\
+  CDAJ_adidas_shoes_shit in CDAJ_Items\clothing\shoes\adidas\
+  CDAJ_Shadow_Mask in CDAJ_Items\clothing\mask\cdaj_shadow_mask\
+  trerik4_props in trerik4\dpl\props\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  bl_pallet_tables in bl_fridge\bl_old_fridge\
+  DayZExpansion_Weapons_SMG_Kedr in DayZExpansion\Objects\Weapons\Firearms\SMG\P99\
+  DayZExpansion_LanguageCore_Navigation in DayZExpansion\languagecore\Navigation\
+  OV_Kiosktisch in ov_kiostisch\, EFT_Nyball2 in EFT\barter\nyball2\
+  DayZExpansion_Core_NavmeshCarvers in DayZExpansion\Core\Objects\NavmeshCarvers\
+  BuilderItems_Military_Imp in DayZExpansion\Objects\Structures\BuilderItems\DZ\military\improvised\
+  CfgPatches_Fulcrum_Knife in EFT\knife\eft_fulcrum\
+  BaseBuildingPlus_bRoof in BaseBuildingPlus\bbp_building\roof\bfloor\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DayZExpansion_BaseBuilding_GUI in DayZExpansion\BaseBuilding\GUI\
+  rag_baseitems_shelters in rag_baseitems\rag_baseitems_shelters\
+  DayZExpansion_Objects_Gear_Guitar in DayZExpansion\Objects\Gear\Guitar\
+  EFT_Nyball3 in EFT\barter\nyball3\
+  eventstoneitems in NInjinsPvPPvE\eventstoneitems\
+  OV_HeadsonSpears in ov_headsonspears\
+  DayZExpansion_Objects_BaseBuilding_Floors in DayZExpansion\Objects\Basebuilding\Floors\
+  CfgPatches_6sh118_bag in EFT\bags\6sh118\
+  AJs_Weapons_Optics_ACOG in AJs_Weapons\AJW_Optics\acog\
+  CS_Wall_Gate in CS_Walls\wall_gate\, palasade_end in palasade_end\
+  nm_Crafting_Core_Recipebook in nm_Crafting_Core\data\nm_recipebook\
+  bl_pallet_bed in bl_pallet_bed\pallet_bed\
+  CfgPatches_MillerBros_Knife in EFT\knife\eft_millerbros\, kraz_255B in Kraz_255B\
+  bl_stove_slots in bl_stove\slots\, LUAZ_969 in LUAZ_969\
+  BaseBuildingPlus_barbWireFence in BaseBuildingPlus\bbp_building\barb_wire_fence\
+  CookZ_Sounds in CookZ\sounds\
+  AJs_Weapons_Rifles_HKG28 in AJs_Weapons\AJW_Firearms_Rifles\g28\
+  AJsCreaturesV2_Skeleton in AJsCreaturesV2\zombies\skeleton\
+  CS_WallFlag in CS_MapObjects\wallflag\, land_palasade_double in palasade_double\
+  trerik4_snow in trerik4\snow\, DZ_Structures_Signs in DZ\structures\signs\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  BuilderItems_Panels in DayZExpansion\Objects\Structures\BuilderItems\DZ\panels\
+  bl_trashcan in bl_specials\woodstorage\
+  DayZExpansion_Objects_BaseBuilding_Pillars in DayZExpansion\Objects\Basebuilding\Pillars\
+  DayZExpansion_LanguageCore_SpawnSelection in DayZExpansion\languagecore\SpawnSelection\
+  BuilderItems_Billboards in DayZExpansion\Objects\Structures\BuilderItems\DZ\billboards\
+  YMFurnitureFE in YMFurnitureFE\, evg_turrets_Scripts in evg_turrets_Scripts\
+  bl_special_coffee_machine in bl_specials\coffe_machine\
+  CfgPatches_Switchblade_bag in EFT\bags\switchblade\
+  rag_baseitems_proxies in rag_baseitems\rag_baseitems_proxies\
+  CfgPatches_Mechanism_bag in EFT\bags\mechanism\
+  rag_baseitems_medical in rag_baseitems\rag_baseitems_medical\
+  smpl_structures_fireplacecottage in cottage1\
+  DZ_Surfaces_Sakhal in DZ\surfaces_sakhal\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\, DZ_Surfaces in DZ\surfaces\
+  DZ_Weapons_Misc in DZ\weapons\misc\, DZ_Scripts in scripts\
+  DaysBefore_Buildings_Corridor_Parts in DaysBefore\Buildings\corridor_parts\
+  CfgPatches_BlackKnight_Vest in EFT\armor\blackknight\
+  rag_viking_warbanner in RaG_Viking_Pack\viking_warbanner\
+  rag_viking_dagger in RaG_Viking_Pack\viking_dagger\
+  IWP_BaseballBat in improvised_weapons\melee\baseballbat\
+  AJs_Weapons_Pistols_DWX in AJs_Weapons\AJW_Pistols\dwx\
+  DayZExpansion_Vehicles_Ground_Ikarus in DayZExpansion\Vehicles\Ground\Bus\
+  barricades in barricades\, DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DayZExpansion_PersonalStorage_Preload in 0_DayZExpansion_PersonalStorage_Preload\
+  nm_Crafting_Part_Fabric in nm_Crafting_Part_Fabric\
+  rag_baseitems_scripts in rag_baseitems\rag_baseitems_scripts\
+  EFT_Screwdriver_krest in EFT\barter\screwdriver_krest\
+  UAZ_Patrot_Pikap in UAZ_Patrot_Pikap\
+  DayZExpansion_Market_Scripts in DayZExpansion\Market\Scripts\
+  DayZExpansion_Objects_Gear_ExampleOpenableLockableContainers in DayZExpansion\Objects\Gear\ExampleOpenableLockableContainers\
+  DayZExpansion_MapAssets_Preload in 0_DayZExpansion_MapAssets_Preload\
+  KubanG1 in KubanG1\, EFT_OrgGlass in EFT\barter\orgglass\
+  trerik4_signs in trerik4\city\signs\, EFT_Powder_green in EFT\barter\powder_green\
+  nm_Crafting_Part_Raiding in nm_Crafting_Part_Raiding\
+  EFT_Lupo in EFT\barter\lupo\
+  DayZExpansion_Garage_GUI in DayZExpansion\Garage\GUI\
+  DayZExpansion_Objects_Structures_IndustrialProps in DayZExpansion\Objects\Structures\IndustrialProps\
+  CfgPatches_DevTac_Headgear in EFT\head\eft_devtac\
+  DayZExpansion_Vehicles_Preload in 0_DayZExpansion_Vehicles_Preload\
+  bl_bonsai in bl_plants\bonsai\, nm_Crafting_Part_Medic in nm_Crafting_Part_Medic\
+  AJs_Weapons_Firearms_ACR in AJs_Weapons\AJW_Firearms_AssaultRifles\acr\
+  AJs_Weapons_Shotguns in AJs_Weapons\AJW_Firearms_Shotgun\
+  AJsCreaturesV2_ZmbM_Boe in AJsCreaturesV2\zombies\cdaj_boe\
+  DZ_Characters_Vests in DZ\characters\vests\
+  DaysBefore_Buildings_paging_speaker in DaysBefore\Buildings\paging_speaker\
+  CfgPatches_T30_bag in EFT\bags\t30\
+  DayZExpansion_Market_Objects in DayZExpansion\Market\Objects\
+  EFT_ToothPaste in EFT\barter\toothpaste\
+  BBPItemPack_Letters in BBPItemPack\models\letters\
+  EFT_gasanalyze in EFT\barter\gasanalyze\
+  LIVEN_PvZmoD_CustomisableZombies in LIVEN\PvZmoD_CustomisableZombies\
+  nm_Crafting_Part_Airbrushing_Masks in nm_Crafting_Part_Airbrushing\data\clothing\masks\
+  DayZExpansion_Weapons_Firearms_Vanilla_Override in DayZExpansion\Objects\Weapons\Firearms\Vanilla\Override\
+  CookZ_Cookbook in CookZ\scripts\4_world\cookbook\
+  AJs_Weapons_Pistols_HKMk23SOCOM in AJs_Weapons\AJW_Pistols\mk23_socom\
+  CDAJ_ADMIN_Stuff in CDAJ_Items\clothing\admin\
+  trerik4_secondary in trerik4\city\underground\secondary\, JM_CF_GUI in JM\CF\GUI\
+  EFT_Old_vase in EFT\barter\old_vase\, OV_Carrust1 in ov_carrust1\
+  DayZExpansion_Sounds_Book in DayZExpansion\Sounds\Book\
+  DayZExpansion_AI_GUI in DayZExpansion\AI\GUI\
+  BaseBuildingPlus_rHanger in BaseBuildingPlus\bbp_building\roof_hanger\rhanger\
+  BaseBuildingPlus_bWall in BaseBuildingPlus\bbp_building\bwall\
+  AJs_Weapons_Pistols_10mm in AJs_Weapons\AJW_Pistols\10mm_pistol\
+  CDAJ_Thermal_Balaclava_Shit in CDAJ_Items\clothing\mask\cdaj_thermo_balaclava\
+  wayfinderrock in wayfinderrock\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Sounds_Characters in DZ\sounds\Characters\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  EFT_Toughbook in EFT\barter\toughbook\
+  nm_Crafting_Core_Sounds in nm_Crafting_Core\data\nm_sounds\
+  EFT_kusajki in EFT\barter\kusajki\
+  nm_Crafting_Part_Bushcrafting in nm_Crafting_Part_Bushcrafting\
+  EFT_Carbonecase in EFT\barter\carbonecase\
+  BaseBuildingPlus_Wallpaper in BaseBuildingPlus\decorations\wallpaper\
+  AJs_Weapons_Optics_Car15 in AJs_Weapons\AJW_Optics\car15\
+  AJs_Weapons_Sounds in AJs_Weapons\AJW_Sounds\
+  AJsCreaturesV2_Zombie in AJsCreaturesV2\zombies\cdaj_zombie\
+  DayZExpansion_Sounds_Explosions in DayZExpansion\Sounds\Explosions\
+  CS_Military_Tower in CS_Military\tower\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  CfgPatches_6b13_k_Vest in EFT\armor\6b13_k\
+  nm_Crafting_Part_Gore_Sketches in nm_Crafting_Part_Gore\data\nm_sketches\
+  EFT_Helix in EFT\barter\helix\, bl_food in bl_specials\food\
+  DayZExpansion_LanguageCore_Licensed in DayZExpansion\languagecore\Licensed\
+  trerik_bridg in trerik4\city\bridg\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Sounds_Vehicles in DZ\sounds\vehicles\, DZ_Weapons_Melee in DZ\weapons\melee\
+  DaysBefore_Buildings_Signs in DaysBefore\Buildings\signs\
+  EFT_WD40_400 in EFT\barter\wd40_400\
+  nm_Crafting_Part_Vehicles_nmBuggy in nm_Crafting_Part_Vehicles\data\nm_buggy\
+  EFT_HDD1 in EFT\barter\hdd1\
+  DayZExpansion_Navigation_LocationTypes in DayZExpansion\Navigation\Worlds\locationtypes\
+  DayZExpansion_Market_Preload in 0_DayZExpansion_Market_Preload\
+  EFT_Trotil in EFT\barter\trotil\, CDAJ_Ponch_Shit in CDAJ_Items\clothing\poncho\
+  CS_Trader in CS_MapObjects\trader\, CfgPatches_Zhuk3_Vest in EFT\armor\zhuk3\
+  rag_baseitems_table_saw in rag_baseitems\rag_baseitems_others\table_saw\
+  OV_Box1 in ov_box1\
+  DayZExpansion_LanguageCore_MapAssets in DayZExpansion\languagecore\MapAssets\
+  DaysBefore_Buildings_SZbanner in DaysBefore\Buildings\szbanner\
+  rag_baseitems_wallpictures in rag_baseitems\rag_baseitems_wallpictures\
+  DZ_Weapons_Firearms_VSS_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\firearms\vss\
+  Tailor_Showroom in Tailor_Showroom\, CfgPatches_A18_Vest in EFT\armor\a18\
+  SharkAI in Dayz_Shark\ai\, CDAJ_vans_shoes_shit in CDAJ_Items\clothing\shoes\vans\
+  CDAJ_Vest_TBAS_stuff in CDAJ_Items\clothing\chest\tbas_pc\
+  CDAJ_Ammo_8mm_stuff in CDAJ_Weapons\ammo\8mm\
+  DZ_Characters_Heads in DZ\characters\heads\, CfgPatches_6B3_Vest in EFT\armor\6b3\
+  OV_Box2 in ov_box2\
+  DayZExpansion_Core_Objects_Currencies in DayZExpansion\Core\Objects\Currencies\
+  EFT_MetalParts in EFT\barter\metalparts\, OV_Grafvan in ov_grafvan\
+  Expansion_Lasers_ANPEQ15 in DayZExpansion\Objects\Weapons\Attachments\Lasers\ANPEQ\
+  EFT_USBadapter in EFT\barter\usbadapter\
+  BC_ServerPack_Attachments_Optics_devo in BC_ServerPack\attachments\optics\devo\
+  BC_ServerPack_Attachments_Optics_vudu in BC_ServerPack\attachments\optics\vudu\
+  DZ_UI in DZ\ui\, DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DayZExpansion_Objects_Structures_BuilderItems_Bliss in DayZExpansion\Objects\Structures\BuilderItems\Bliss\
+  bl_infoboard in bl_specials\infoboard\, OV_Box3 in ov_box3\, UAZ_3962 in UAZ_3962\
+  DayZExpansion_Vehicles_Ground_Truck_01 in DayZExpansion\Vehicles\Ground\Truck_01\
+  DayZExpansion_LanguageCore_AI in DayZExpansion\languagecore\AI\
+  EFT_powerSupply in EFT\barter\powersupply\
+  CfgPatches_vest_cs_Assault_Vest in EFT\vest\vest_cs_assault\
+  DayZExpansion_Weapons_Firearms_Vanilla_Skins in DayZExpansion\Objects\Weapons\Firearms\Vanilla\Skins\
+  NinjinsPvPPvE in NInjinsPvPPvE\, Improvised_Weapon_Pack in improvised_weapons\
+  DayZ_Shark in Dayz_Shark\
+  AJsCreaturesV2_Cena in AJsCreaturesV2\zombies\cdaj_johncena\
+  CDAJ_help_me_pls_stop in CDAJ_Items\random\animegirl\
+  DZ_Animals_rangifer_tarandus_feminam in DZ\animals\rangifer_tarandus_fem\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\, TeleportMod in TeleportMod\
+  ZIL133_double in ZIL133_double\, EFT_CPU in EFT\barter\cpu\, OV_Box4 in ov_box4\
+  EFT_DVD in EFT\barter\dvd\, GAZ_13_Chaika in GAZ_13_Chaika\
+  DayZExpansion_Sounds_Ground_Vehicle_CivilianSedan in DayZExpansion\Sounds\Vehicles\Ground\CivilianSedan\
+  DayZExpansion_P2PMarket_GUI in DayZExpansion\P2PMarket\GUI\
+  nm_Crafting_Part_Airbrushing_Tents in nm_Crafting_Part_Airbrushing\data\nm_tents\
+  DayZExpansion_LanguageCore_Weapons in DayZExpansion\languagecore\Weapons\
+  UAZ_33094 in UAZ_33094\
+  DayZExpansion_Quests_Objects_Boards in DayZExpansion\Quests\Dta\Objects\Board\
+  DZ_Data in DZ\data\, DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DayZExpansion_Quests_Scripts in DayZExpansion\Quests\Scripts\
+  bl_repairbench in bl_specials\repairbench\
+  BuilderItems_Walls in DayZExpansion\Objects\Structures\BuilderItems\DZ\walls\
+  BuilderItems_Rail in DayZExpansion\Objects\Structures\BuilderItems\DZ\rail\
+  DayZExpansion_Sounds_Church in DayZExpansion\Sounds\Church\
+  EFT_Antique_teapot in EFT\barter\antique_teapot\
+  DayZExpansion_Vehicles_Scripts in DayZExpansion\Vehicles\Scripts\
+  CfgPatches_Bastion_Headgear in EFT\head\eft_bastion\
+  CfgPatches_Paratus_bag in EFT\bags\paratus\
+  nm_Crafting_Scripts in nm_Crafting_Core\, EFT_videocard in EFT\barter\videocard\
+  BaseBuildingPlus in BaseBuildingPlus\
+  AJs_Weapons_Optics in AJs_Weapons\AJW_Optics\
+  Trerik_Clothing in trerik4\clothing\, trerik4_military in trerik4\military\
+  wayside_cross in waysideCross\, DZ_Water_Sakhal in DZ\water_sakhal\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  LIVEN_PvZmoD_Spawn_System in LIVEN\PvZmoD_Spawn_System\
+  EFT_Gasolin in EFT\barter\gasolin\, CS_Modular_Cave in CS_Modular_Cave\
+  DayZExpansion_Lighthouse_Lamp in DayZExpansion\Objects\Structures\Lighthouse_Lamp\
+  DayZExpansion_Crossbow in DayZExpansion\Objects\Weapons\Firearms\Archery\Crossbow\
+  BuilderItems_Wrecks in DayZExpansion\Objects\Structures\BuilderItems\DZ\wrecks\
+  DayZExpansion_PlayerList_Scripts in DayZExpansion\PlayerList\Scripts\
+  RagnarokVikingBelt in RaG_Viking_Pack\viking_belt\
+  CfgPatches_SSO_bag in EFT\bags\sso\
+  DayZExpansion_SpawnSelection_Scripts in DayZExpansion\SpawnSelection\Scripts\
+  EFT_ProKill in EFT\barter\prokill\
+  CDAJ_Vest_TacTecV2_stuff in CDAJ_Items\clothing\chest\tactec\
+  DayZExpansion_Sounds_Vehicles_Air_Merlin in DayZExpansion\Sounds\Vehicles\Air\Merlin\
+  A2_Props_CH47 in ArmA2_Props\ch47\, CS_Bunker2 in CS_MapObjects\bunker2\
+  DZ_Worlds_Sakhal_Navmesh in DZ\worlds\sakhal\navmesh\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\, DZ_Pistols_p1 in DZ\weapons\pistols\p1\
+  PAZ_672 in PAZ_672\
+  DayZExpansion_LanguageCore_Core in DayZExpansion\languagecore\Core\
+  CannabisPlus_GhostIcons in CannabisPlusGUI\
+  IWP_InstuctionBook in improvised_weapons\instruction_book\
+  CS_Military_Fence in CS_Military\fence\, trerik4_data in trerik4\data\
+  Loadingscreen in Loadingscreen\, trerik4_scripts in trerik4\scripts\
+  EFT_Soda in EFT\barter\soda\
+  DayZExpansion_LanguageCore_PlayerList in DayZExpansion\languagecore\PlayerList\
+  EFT_Document in EFT\barter\document\
+  DayZExpansion_Garage_Objects in DayZExpansion\Garage\Objects\
+  BaseBuildingPlus_Doors in BaseBuildingPlus\bbp_building\door\
+  AJs_Weapons_Ammo in AJs_Weapons\AJW_Ammo\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DayZExpansion_Objects_BaseBuilding_Flags in DayZExpansion\Objects\Basebuilding\Flags\
+  CfgPatches_UN_Headgear in EFT\head\eft_un\, DF_Scripts in DabsFramework\Scripts\
+  DayZExpansion_Quests_Particles in DayZExpansion\Quests\Particles\
+  rag_baseitems_catears in rag_baseitems\rag_baseitems_others\catears\
+  OV_Nostanding in ov_sign5\, URAL_375_1964 in URAL_375_1964\
+  DayZExpansion_Missions_Scripts in DayZExpansion\Missions\Scripts\
+  KAVZ685_RF in KAVZ685_RF\
+  DayZExpansion_Vehicles_Ground_Sedan_02 in DayZExpansion\Vehicles\Ground\Sedan_02\
+  CannabisPlus_Joint in CannabisPlus\joints\
+  IWP_Improvised_Optics in improvised_weapons\optic\rifle_scope\
+  BaseBuildingPlus_Triangle_bFloor in BaseBuildingPlus\bbp_building\triangle_floor\b_floor\
+  BaseBuildingPlus_Triangle_bRoof in BaseBuildingPlus\bbp_building\triangle_roof\b_roof\
+  AJs_Weapons_Snipers_GOL in AJs_Weapons\AJW_Firearms_Snipers\gol\
+  AJsCreaturesV2_TribeDemon in AJsCreaturesV2\zombies\cdaj_tribedemon\
+  CDAJ_Ballistic_Mask_Shit in CDAJ_Items\clothing\mask\ballistic\
+  rope_bridge_50m in rope_bridge_50m\, DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  BuilderItems_Industrial in DayZExpansion\Objects\Structures\BuilderItems\DZ\industrial\
+  EFT_Thermometr in EFT\barter\thermometr\, EFT_GyroScope in EFT\barter\gyroscope\
+  CfgPatches_vest_MK3_Vest in EFT\vest\vest_mk3\
+  rag_static_gazebo in rag_baseitems\rag_baseitems_buildings\rag_static_gazebo\
+  fishy_h20 in FishyBuildings\house20\
+  IWP_Improvised_Shotgun in improvised_weapons\guns\shotgun01\
+  BC_ServerPack_Attachments_Optics_acog in BC_ServerPack\attachments\optics\acog\
+  AJs_Weapons_Firearms_M4A1 in AJs_Weapons\AJW_Firearms_AssaultRifles\m4a1\
+  AJs_Weapons_Optics_MicroT2 in AJs_Weapons\AJW_Optics\microt2\
+  Mikeys_ports in Mikeys_ports\, nissen_hut in nissen_hut\
+  JM_CF_Defines in JM\CF\Defines\, DZ_Plants_Bliss in DZ\plants_bliss\
+  OV_OVhouse2 in ov_ovhouse2\
+  BuilderItems_StaticItems in @BuilderItems\Addons\staticitems\weapons\
+  DayZExpansion_Quests_Preload in 0_DayZExpansion_Quests_Preload\
+  DayZExpansion_ModStorage_Scripts in DayZExpansion\ModStorage\Scripts\
+  OV_Sign in ov_sign\, fishy_h21 in FishyBuildings\house21\
+  CDAJ_help_me in CDAJ_Items\random\robot_test\
+  CDAJ_GreyFox_Helm_Stuff in CDAJ_Items\clothing\helmets\greyfox_helm\
+  railings in railings\, DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  CfgPatches_Gjel_Vest in EFT\armor\gjel\
+  DayZExpansion_Core_Objects_Bases in DayZExpansion\Core\Objects\Bases\
+  CfgPatches_vest_Ctactical_Vest in EFT\vest\vest_ctactical\
+  bl_cobwebs in bl_cobwebs\, bl_pallet_cabinet in bl_pallet_cabinet\pallet_cabinet\
+  DaysBefore_Buildings_Dumpster in DaysBefore\Buildings\dumpster\
+  DaysBefore_Buildings_Warehouse in DaysBefore\Buildings\warehouse\
+  rag_viking_armwrist in RaG_Viking_Pack\viking_armwrist\
+  DZM_VPPAdminToolsScripts in VPPAdminTools\
+  DayZExpansion_SpawnSelection_Preload in 0_DayZExpansion_SpawnSelection_Preload\
+  CfgPatches_Vulkan5_Headgear in EFT\head\eft_vulkan5\
+  trerik4_underground in trerik4\city\underground\
+  CS_Military_Wall in CS_Military\wall\, DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  EFT_Chlorine in EFT\barter\chlorine\, EFT_LCD_worker in EFT\barter\lcd_worker\
+  rag_baseitems_buildings in rag_baseitems\rag_baseitems_buildings\
+  DayZExpansion_KillFeed_Preload in 0_DayZExpansion_Killfeed_Preload\
+  bl_desklamp in bl_lamps\desk_lamp\
+  DayZExpansion_Worlds_IntroScenes in DayZExpansion\Worlds\IntroScenes\
+  nm_Crafting_Part_Bushcrafting_Skinning in nm_Crafting_Part_Bushcrafting\data\nm_skinning\
+  AJs_Weapons_Firearms_AK105 in AJs_Weapons\AJW_Firearms_AssaultRifles\ak105\
+  AJs_Weapons_Rifles in AJs_Weapons\AJW_Firearms_Rifles\
+  AJs_Weapons_SMGs_EVO3 in AJs_Weapons\AJW_Firearms_SMG\evo3\
+  DZ_Characters_Masks in CDAJ_Items\random\cockpressor\, grain_silo in grain_silo\
+  sec_light in security_light\, DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DayZExpansion_Core_Scripts in DayZExpansion\Core\Scripts\
+  DayZExpansion_Vehicles_Ground_UAZ in DayZExpansion\Vehicles\Ground\UAZ\
+  RagnarokVikingMug in RaG_Viking_Pack\viking_mug\, OV_bld5 in ov_bld5\
+  Bunker_Assets in DaysBefore\Buildings\underground_props\
+  BuilderItems_Bliss_Rail in DayZExpansion\Objects\Structures\BuilderItems\Bliss\rail\
+  BuilderItems_Bliss_Walls in DayZExpansion\Objects\Structures\BuilderItems\Bliss\walls\
+  BaseBuildingPlus_lGate in BaseBuildingPlus\bbp_building\gate\lgate\
+  CookZ_Cheese in CookZ\scripts\4_world\dishes\cheese\
+  AJsCreaturesV2_SpaceSuit in AJsCreaturesV2\zombies\spacesuit\
+  CDAJ_Wood_Mask in CDAJ_Items\clothing\mask\cdaj_wood_mask\
+  trerik4_artifacts in trerik4\city\artifacts\
+  RagnarokVikingHorn in RaG_Viking_Pack\viking_horn\
+  rag_baseitems_weapon_cleaner in rag_baseitems\rag_baseitems_weapon_cleaner\
+  RagnarokVikingHelmet2 in RaG_Viking_Pack\viking_helmet2\
+  DaysBefore_Buildings_office_containers in DaysBefore\Buildings\office_containers\
+  DayZExpansion_Skins in DayZExpansion\Skins\Weapons\
+  EFT_Household in EFT\barter\household\
+  CfgPatches_Killa_Headgear in EFT\head\eft_killa\
+  DaysBefore_Buildings_windturbine in DaysBefore\Buildings\windturbine\
+  DayZExpansion_Missions_Preload in 0_DayZExpansion_Missions_Preload\
+  nm_Crafting_Part_Repairing_Models in nm_Crafting_Part_Repairing\data\nm_models\
+  BaseBuildingPlus_Concrete in BaseBuildingPlus\models\cement_mixer\
+  BaseBuildingPlus_bFloor in BaseBuildingPlus\bbp_building\floor\bfloor\
+  DayZExpansion_Vehicles_Water_Boat_Utility in DayZExpansion\Vehicles\Water\Utility\
+  trerik4_basebuilding in trerik4\city\basebuilding\
+  DZ_Structures_Sakhal in DZ\structures_sakhal\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_Snow_Rocks in DZ\rocks\snow_rocks\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\remington_r12\
+  CfgPatches_Zhuk6A_Vest in EFT\armor\zhuk6a\
+  DayZExpansion_Vehicles_Water_Boat_Zodiac in DayZExpansion\Vehicles\Water\Zodiac\
+  VAZ_2109_RF in VAZ_2109_RF\, CfgPatches_TacTec_Vest in EFT\armor\tactec\
+  vaz_2106_RF in vaz_2106_RF\
+  RagnarokVikingHelmet3 in RaG_Viking_Pack\viking_helmet3\
+  DayZExpansion_M79 in DayZExpansion\Objects\Weapons\Firearms\M79\
+  nm_Crafting_Part_ImproNBCSuit_Models in nm_Crafting_Part_ImproNBCSuit\data\nm_models\
+  EFT_Advwrench in EFT\barter\advwrench\
+  rag_viking_bb_hammer in RaG_Viking_Pack\viking_hammer\
+  bl_shared_data in bl_shared_data\, CP_Composter in CannabisPlus\compost\
+  CDAJ_MasterChefVI_stuff in CDAJ_Items\clothing\helmets\masterchefvi\
+  CDAJ_Mechanix_Gloves_stuff in CDAJ_Items\clothing\hand\mechanix_gloves\
+  CS_Wall_Stairs_Left in CS_Walls\wall_stairs_left\
+  nm_Crafting_Part_SignsCanvas_Orgasign in nm_Crafting_Part_SignsCanvas\data\nm_orgasign\
+  RagnarokVikingHelmet4 in RaG_Viking_Pack\viking_helmet4\
+  CfgPatches_SSH68_Headgear in EFT\head\eft_ssh68\, EFT_propan in EFT\barter\propan\
+  EFT_RFIDreader in EFT\barter\rfidreader\
+  DayZExpansion_ModStorage_Preload in 0_DayZExpansion_ModStorage_Preload\
+  DayZExpansion_Objects_BaseBuilding_Vanilla_Tents in DayZExpansion\Objects\Basebuilding\Vanilla\Tents\
+  CfgPatches_RedutM_Vest in EFT\armor\redutm\
+  IWP_Gun_Pistol01 in improvised_weapons\guns\pistol_shotgun\
+  AJs_Weapons_Attachments_Lights in AJs_Weapons\AJW_Attachments\lights\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DayZExpansion_Hardline_Objects_Gear in DayZExpansion\Hardline\Objects\Gear\
+  RagnarokVikingHelmet5 in RaG_Viking_Pack\viking_helmet5\, azlk_400 in azlk_400\
+  EFT_roulette in EFT\barter\roulette\
+  DayZExpansion_BaseBuilding_Objects_Explosives in DayZExpansion\BaseBuilding\Objects\Explosives\
+  DaysBefore_Buildings_Modular_tunnel in DaysBefore\Buildings\modular_tunnel\
+  Firewood_Overrides in CombinableItems\firewood\, IJ_2140_SL in 2140_SL\
+  RFWC_CarpBoat_mod in RFWC_CarpBoat\
+  IWP_BoltActionRifle in improvised_weapons\guns\boltactionrifle01\
+  BaseBuildingPlus_floorHatch2 in BaseBuildingPlus\bbp_building\floor_hatch2\
+  AJs_Weapons_Attachments_Stocks in AJs_Weapons\AJW_Attachments\stocks\
+  CDAJ_Sordins_Stuff in CDAJ_Items\clothing\helmets\sordins\
+  DayZExpansion_Dta_Animations in DayZExpansion\Dta\Animations\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  nm_Crafting_Part_SignsCanvas in nm_Crafting_Part_SignsCanvas\
+  ThreeKingsKoth in ThreeKingsKoth\, OV_Shelter01 in ov_abandon_shelter\
+  EFT_SecureUSB in EFT\barter\secureusb\
+  nm_Crafting_Part_Weapons_models in nm_Crafting_Part_Weapons\data\nm_models\
+  EFT_Termite in EFT\barter\termite\
+  BaseBuildingPlus_bFoundation in BaseBuildingPlus\bbp_building\foundation\bfoundation\
+  AJs_Weapons_Pistols_CM_TaranTactical in AJs_Weapons\AJW_Pistols\cm_tt\
+  DayZExpansion_Animations_Preload in 0_DayZExpansion_Animations_Preload\
+  4post_liftblue in 4post_lift\, palasade in palasade\, PM_Forklift in PM_Forklift\
+  DayZExpansion_Vehicles_Ground_oldbike in DayZExpansion\Vehicles\Ground\OldBike\
+  DayZExpansion_Core_Preload in 0_DayZExpansion_Core_Preload\, BTR_80 in BTR_80\
+  DayZExpansion_Vehicles_Water_Boat_01 in DayZExpansion\Vehicles\Water\Boat_01\
+  nm_Crafting_Core_Weapons in nm_Crafting_Core\data\nm_weapons\
+  CP_Seeds in CannabisPlus\seeds\, sVisual in MyMODS\sVisual\
+  RFWC_DragBoat_ReTexture in RFWC_DragBoat_ReTexture\
+  BaseBuildingPlus_Workbench in BaseBuildingPlus\models\workbench\
+  AJs_Weapons_Pistols_Beretta92FS in AJs_Weapons\AJW_Pistols\beretta_92fs\
+  trerik4_bag in trerik4\city\bag\, DZ_Plants_Sakhal in DZ\plants_sakhal\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  rag_baseitems_clocks in rag_baseitems\rag_baseitems_others\clocks\
+  EFT_Cyclon in EFT\barter\cyclon\, OV_Corpse in ov_corpse\
+  nm_Crafting_Part_ImproNBCSuit_Sketches in nm_Crafting_Part_ImproNBCSuit\data\nm_sketches\
+  CfgPatches_Terminator_bag in EFT\bags\terminator\
+  DayZExpansion_Particles in DayZExpansion\Particles\
+  BuilderItems_Plants in DayZExpansion\Objects\Structures\BuilderItems\DZ\plants\
+  OV_Oven in ov_oven\, VAZ_2104RF in VAZ_2104RF\, ZIL_130 in ZIL_130\
+  CfgPatches_6B34_Vest in EFT\armor\6b34\
+  DaysBefore_Buildings_MobileLightTower in DaysBefore\Buildings\mobillighttower\
+  sGunplay in MyMODS\sGunplay\
+  IWP_SodaCanGrenade in improvised_weapons\explosives\sodacan_grenade\
+  AJs_Weapons_Snipers_M40A3 in AJs_Weapons\AJW_Firearms_Snipers\m40a3\
+  CS_Barrier_Block_1 in CS_MapObjects\barrier_block_1\
+  CS_Wall_Corner in CS_Walls\wall_corner\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  rag_viking_sword in RaG_Viking_Pack\viking_sword\
+  bl_pallet_box_sounds in bl_pallet_box\sounds\, OV_Gate in ov_gates\
+  DayZExpansion_Garage_Scripts in DayZExpansion\Garage\Scripts\, OV_P47 in ov_p47\
+  rag_baseitems_chests in rag_baseitems\rag_baseitems_chests\
+  nm_Crafting_Part_Armors in nm_Crafting_Part_Armors\, ZIL_131 in ZIL_131\
+  DayZExpansion_PersonalStorageNew_Objects in DayZExpansion\PersonalStorageNew\Objects\
+  IWP_SMG01_Parts in improvised_weapons\guns\smg01\parts\
+  trerik4_bunker in trerik4\city\modular\bunker\doors\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  EFT_ClochingBook in EFT\barter\clochingbook\
+  DayZExpansion_Objects_BaseBuilding_Ramps in DayZExpansion\Objects\Basebuilding\Ramps\
+  BuilderItems_Scripts in BuilderItems\scripts\
+  rag_viking_sundial in RaG_Viking_Pack\viking_sundial\
+  DayZExpansion_VanillaFixes_Animals in DayZExpansion\VanillaFixes\Animals\
+  DayZExpansion_LanguageCore_BaseBuilding in DayZExpansion\languagecore\BaseBuilding\
+  EFT_TualetPaper in EFT\barter\tualetpaper\
+  AJsCreaturesV2_Zombies in AJsCreaturesV2\zombies\
+  DayZExpansion_Animations_AI in DayZExpansion\Animations\AI\
+  DayZExpansion_Objects_Explosives_Licensed in DayZExpansion\Objects\Weapons\Explosives\
+  BBaG_Trailer in BBaG_Trailer\, CS_MapObjects in CS_MapObjects\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Gear_Crafting in DZ\gear\crafting\
+  DZ_Structures_Residential in DZ\structures\residential\
+  BuilderItems_Bliss_Residential in DayZExpansion\Objects\Structures\BuilderItems\Bliss\residential\
+  EFT_Accum in EFT\barter\accum\, bl_paint_tube in bl_shared_data\paint_tube\
+  DayZExpansion_Objects_Structures_Wreck in DayZExpansion\Objects\Structures\Wreck\
+  DayZExpansion_Navigation_Worlds_ChernarusPlus in DayZExpansion\Navigation\Worlds\chernarusplus\
+  DayZExpansion_Weapons_SMG_MP5 in DayZExpansion\Objects\Weapons\Firearms\SMG\MP5\
+  EFT_Videocassette in EFT\barter\videocassette\
+  Domaged_Structures in BuildingsModPack\buildings\warehouse\
+  AJs_Weapons_Firearms in AJs_Weapons\AJW_Firearms\
+  CDAJ_Tunic_Shit in CDAJ_Items\clothing\shirt\cdaj_tunic\
+  DayZExpansion_Objects_Airdrop in DayZExpansion\Objects\Airdrop\
+  DayZExpansion_Vehicles_Air_Uh1h in DayZExpansion\Vehicles\Air\Uh1h\
+  birchlap in birchlap\, DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  CfgPatches_vest_Azimut_Vest in EFT\vest\vest_azimut\
+  Volkswagen_Golf_RUS in Volkswagen_Golf_RUS\
+  DayZExpansion_Sounds_PropaneTorch in DayZExpansion\Sounds\Items\PropaneTorch\
+  DayZExpansion_AI_Animations in DayZExpansion\AI\Animations\
+  DayZExpansion_Objects_Structures_IvyAutumn in DayZExpansion\Objects\Structures\IvyAutumn\
+  BuilderItems_Military_Misc in DayZExpansion\Objects\Structures\BuilderItems\DZ\military\misc\
+  nm_Crafting_Part_Armors_Sketches in nm_Crafting_Part_Armors\data\nm_sketches\
+  DayZExpansion_PMII25Optic in DayZExpansion\Objects\Weapons\Attachments\Optics\PMII25x\
+  CookZ_BoxedDishes in CookZ\scripts\4_world\dishes\boxed\
+  DayZExpansion_Sounds_Vehicles_Air_Mh6 in DayZExpansion\Sounds\Vehicles\Air\Mh6\
+  DayZExpansion_Vehicles_Ground_250N in DayZExpansion\Vehicles\Ground\250N\
+  FKN_Items_Static_Rework in FKN_Items_Static\wrecks\
+  trerik4_navmesh in trerik4\navmesh\
+  CfgPatches_vest_Wild_Vest in EFT\vest\vest_wild\, GAZ_M20 in GAZ_M20\
+  DaysBefore_Buildings_ModularStairs in DaysBefore\Buildings\modularstairs\
+  RaG_Core_Scripts in RaG_Core\scripts\, CfgPatches_AVS_Vest in EFT\armor\avs\
+  DZM_VPPAdminTools in VPPAdminTools\assets\
+  DayZExpansion_Book_GUI in DayZExpansion\Book\GUI\
+  DayZExpansion_Quests_GUI in DayZExpansion\Quests\GUI\
+  DayZExpansion_Weapons_SMG_MP7 in DayZExpansion\Objects\Weapons\Firearms\SMG\mp7\
+  IWP_Parts_Spring in improvised_weapons\parts\spring\
+  IWP_Parts_ScrapSpikes in improvised_weapons\parts\scrap_spikes\
+  DayZExpansion_Vehicles_Air_Mh6 in DayZExpansion\Vehicles\Air\Mh6\
+  trerik4_nature in trerik4\nature\
+  smpl_structures_fireplace in HW_HospitalAssets\fireplace\
+  DZ_Characters in DZ\characters\data\, DZ_Gear_Traps in DZ\gear\traps\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  rag_viking_knife in RaG_Viking_Pack\viking_knife\
+  CfgPatches_vest_BSSMK1_Vest in EFT\vest\vest_bssmk1\, BBPItemPack in BBPItemPack\
+  NoahSignBundle in NoahSignBundle\, combinableItems in CombinableItems\
+  OV_Zeitungbox in ov_zeitungbox\, EFT_WaterFilter in EFT\barter\waterfilter\
+  EFT_Antiinsect in EFT\barter\antiinsect\
+  BaseBuildingPlus_sWindow in BaseBuildingPlus\bbp_building\window\swindow\
+  AJs_Weapons_Optics_OKP7 in AJs_Weapons\AJW_Optics\okp7\
+  BBaG_Trailer_Data in BBaG_Trailer\data\models\
+  DZ_Structures_Rail in DZ\structures\rail\
+  nm_Crafting_Part_Fabric_Models in nm_Crafting_Part_Fabric\data\nm_models\
+  DayZExpansion_Garage_Preload in 0_DayZExpansion_Garage_Preload\
+  rag_viking_dragonslayer_axe in RaG_Viking_Pack\viking_dragonslayer_axe\
+  nm_Crafting_Core_Models in nm_Crafting_Core\data\nm_models\
+  CDAJ_Clown_Hat_stuff in CDAJ_Items\clothing\helmets\clownhat\
+  DayZExpansion_Animations_Player in DayZExpansion\Animations\Player\
+  A2_Props_MV22 in ArmA2_Props\mv22\, DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  BuilderItems_Items in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\vanillaitems\
+  CfgPatches_VKBO_bag in EFT\bags\vkbo\, CfgPatches_Medpack_bag in EFT\bags\medpack\
+  DayZExpansion_BaseBuilding_Electricity in DayZExpansion\Objects\Basebuilding\Electricity\
+  EFT_Kresalo in EFT\barter\kresalo\
+  DaysBefore_Buildings_Rusted_Generator in DaysBefore\Buildings\rusted_generator\
+  IWP_Parts_Gunpowder in improvised_weapons\explosives\sodacan_grenade\parts\
+  trerik4_wood in trerik4\city\modular\wood\
+  DayZExpansion_Objects_Gear_Box in DayZExpansion\Objects\Gear\Box\
+  DayZExpansion_AI_Gear in DayZExpansion\AI\Gear\, OV_Flak02 in ov_pack02\
+  DayZExpansion_Sounds_Weapons_RPG7 in DayZExpansion\Sounds\Weapons\RPG7\
+  EFT_Motorcontroller in EFT\barter\motorcontroller\
+  BaseBuildingPlus_slopeRoof in BaseBuildingPlus\bbp_building\slope_roof\
+  ArsteinenUI in ArsteinenUI\, fire_grate in firegrate\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  OV_Haus3st in ov_ovhouse1\, EFT_Rolex in EFT\barter\rolex\
+  CfgPatches_SportBag_bag in EFT\bags\sportbag\, EFT_Parrot in EFT\barter\parrot\
+  EFT_Salt in EFT\barter\salt\, Trader_Plus_Trader_Signs in TraderSign\
+  CfgPatches_SFERA_Headgear in EFT\head\eft_sfera\, OV_Barraks in ov_barraks\
+  BC_ServerPack_Attachments_Optics_VortexRazorHD in BC_ServerPack\attachments\optics\vortexrazorhd\
+  CDAJ_MagMG42_50rnd_Drum_Things in CDAJ_Weapons\magazines\mg42\
+  wheeliebins in wheeliebin\, DZ_Gear_Medical in DZ\gear\medical\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\, OV_Noparking2 in ov_sign7\
+  rag_baseitems_barrel_furnace in rag_baseitems\rag_baseitems_others\barrel_furnace\
+  CfgPatches_PACA_Vest in EFT\armor\paca\, UAZ_469_Hunter in UAZ_469_Hunter\
+  CDAJ_SyfyHelm_stuff in CDAJ_Items\clothing\helmets\syfy\
+  CDAJ_Warbelt_OCV2_Shit in CDAJ_Items\clothing\belt\opscore_v2\
+  CDAJ_Bucket_Stuff in CDAJ_Items\clothing\helmets\cdaj_bucket\
+  trerik4_graffiti in trerik4\city\graffiti\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+Mods: @Shark Spawner;@Waraeger Armory Mega Asset Pack;@Map Assets - MutatedMods;@Arsteinen Assets;@CF;@Arsteinen;@DayZ-Expansion-Licensed;@DayZ-Expansion-Animations;@AJs Items;@AJs Weapons;@CookZ;@DayZ Shark;@BaseBuildingPlus;@BBP Hotfix Enhanced Item Positioning and Stability;@BodyBags;@BuildingsMegaModPack;@CZ Optics;@Improvised Weapons;@Modular Dungeon;@RedFalcon Watercraft;@Search For Loot Improved;@sFramework;@sGunplay;@sVisual;@CannabisPlus;@Realistic Suppressors;@Fishy Buildings;@Central European Asset Pack;@Three Kings King of the Hill;@MMG - Mightys Military Gear;@Combinable Items;@RaG_Viking_Pack;@Escape From Tarkov;@RUSForma_vehicles;@TraderPlus;@TraderX;@DayZ Editor Loader;@BoomLay's Things;@BuilderItems;@TeleportMod;@Automated Turrets;@BBPItemPack;@Furniture Pack;@Imperium Assets;@Megaloot Tunnels;@OV_AllinOne;@RaG_Core;@RaG_BaseItems;@DayZ-Expansion-Map-Assets;@Ninjins-PvP-PvE;@VPPAdminTools;@Nemsis Craftingpack All in One;@PvZmoD_CustomisableZombies;@PvZmoD_Spawn_System;@DayZ-Expansion-Bundle;Version 1.28.161464
+Fault address:  35A22BE1 00:35A22BE1 Unknown module
+file:     empty
+world:    arsteinen
+Prev. code bytes: 8B 44 24 58 48 03 C9 48 C7 44 24 58 00 00 00 00
+Fault code bytes: 48 89 04 CA C7 44 CA 08 01 00 00 00 FF 43 0C 48
+Script:
+-------------------------------------------------------
+
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.arsteinen\init.c:11 Function main
+-------------------------------------------------------
+=======================================================
+note: Minidump has been generated into the file C:\TCAFiles\Users\gunners\1580\instance\DayZServer_x64_2026-01-19_18-11-22.mdmp

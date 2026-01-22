@@ -1,0 +1,133 @@
+{
+    "ConfigVersion": "1",
+    "DebugOn": 0,
+    "DateFormat": 6,
+    "MinPlayerAgeMinutes": 240,
+    "MinDistanceBetweenCrosses": 10.0,
+    "ShowPlayerInfoOnCross": 1,
+    "ShowPlayerName": 1,
+    "ShowPlayerAge": 1,
+    "BurySkeleton": 1,
+    "DeleteCrossOnDig": 1,
+    "ChanceOfGrave": 0.8999999761581421,
+    "ChanceOfSkeletonClothing": 0.8999999761581421,
+    "ChanceOfSkeletonItems": 0.33000001311302187,
+    "SkeletonItemHealthModifier": 0.5,
+    "Prefix": "RIP",
+    "UnknownPerson": "unknown",
+    "Description": "Here lies #name, who died #date #age",
+    "AgeText": "aged",
+    "Minutes": "minutes,",
+    "Days": "days,",
+    "Weeks": "weeks,",
+    "Hours": "hours,",
+    "CauseOfDeath": "from",
+    "ShowCauseOfDeath": 1,
+    "IgnoreSteamIDs": [
+        "xxx"
+    ],
+    "NoCrossZones": [
+        {
+            "Name": "Example",
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Distance": 1
+        }
+    ],
+    "CrossCauseOfDeath": [
+        {
+            "AmmoTypeCfg": "unknown",
+            "CauseMessage": "an unknown cause.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "falldamage",
+            "CauseMessage": "falling from a great height.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "melee",
+            "CauseMessage": "some kind of blunt force trauma.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "zombie",
+            "CauseMessage": "injuries inflicted by the infected.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "bullet",
+            "CauseMessage": "a gunshot wound.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "explosion",
+            "CauseMessage": "an explosion.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "grenade",
+            "CauseMessage": "an explosion.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "landmine",
+            "CauseMessage": "an explosion.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "transport",
+            "CauseMessage": "a vehicle collision.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "wolf",
+            "CauseMessage": "an animal attack.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "bear",
+            "CauseMessage": "an animal attack.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "fire",
+            "CauseMessage": "third-degree burns.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "bleeding",
+            "CauseMessage": "bleeding out.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "hunger",
+            "CauseMessage": "starvation.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "thirst",
+            "CauseMessage": "dehydration.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "woundinfection",
+            "CauseMessage": "wound infection.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "contamination",
+            "CauseMessage": "toxic contamination.",
+            "SpawnCross": 1
+        },
+        {
+            "AmmoTypeCfg": "suicide",
+            "CauseMessage": "suicide.",
+            "SpawnCross": 1
+        }
+    ],
+    "DeadPlayers": []
+}

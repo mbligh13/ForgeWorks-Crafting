@@ -1,0 +1,232 @@
+
+		
+		                   Material Gathering for Weapon Crafting
+		
+		
+		Gathering these materials will help you to make some improvised weapons
+		
+		
+Duct Tape
+		
+Wooden Log/Plank
+		
+Metal Pipe
+		
+Duct Tape
+		
+Hacksaw(any sharp object)
+		
+Screwdriver
+		
+Pliers
+		
+Pipe
+		
+MetalPlate or Barrels
+		
+Wooden Log or Plank
+		
+IWP Scrap Metal -- Hacksaw + Barrel/Metal Plate
+		
+IWP Scrap Spikes -- Hacksaw + Barrel/Metal Plate
+		
+IWP Spring -- Screw Driver/Pliers + Alarm Clock/Kitchen Timer
+		
+IWP Screws -- Screw Driver/Pliers + Alarm Clock/Kitchen Timer
+
+IWP Gunpowder -- Ammo + Pliers
+		
+		
+		
+		
+		
+		
+		
+								Deadly Baseball Bats 
+		
+		
+		These instructions will guide you to craft deadly baseball bats, very effective agains any enemy 
+		
+		
+Barbed Baseballbat  --  Baseballbat + Barbed Wire 
+		
+Spiked Baseballbat  --  Baseballbat + 25 IWP Scrap Spikes 
+		
+		
+		
+		
+		
+		
+								Single Shot Postol 
+		
+		
+		These instructions will guide you to craft a single shot pistol that fires .357 rounds 
+		
+		
+IWP Pistol Barrel  --  Hacksaw(any sharp object) + Pipe 
+		
+IWP Pistol Grip  --  5 IWP ScrapMetal + DuctTape 
+		
+IWP Pistol Body  --  IWP Pistol Barrel + IWP Pistol Grip 
+		
+IWP Pistol Trigger  --  5 IWP Scrap Metal + Pliers 
+		
+IWP Pistol COMPLETE  --  IWP Pistol Body + IWP Pistol Trigger 
+		
+		
+		
+		
+		
+		
+								Double Barrel Shotgun 
+		
+		
+		These instructions will guide you to craft a short double barrel shotgun. 
+		
+		
+IWP Shotgun Barrel  --  IWP Pistol Barrel + IWP Pistol Barrel 
+		
+IWP Shotgun Barrel Shroud  --  Hacksaw(any sharp object) + Wooden Log/Wooden Plank 
+		
+IWP Shotgun Barrel Assembly  --  IWP Barrel Shroud + IWP Shotgun Barrel 
+		
+IWP Shotgun Grip  --  Hacksaw(any sharp object) + Wooden Log/Wooden Plank 
+		
+IWP Shotgun Triggers  --  10 IWP Scrap Metal + Pliers 
+		
+IWP Shotgun Frame  --  IWP Shotgun Grip + 15 IWP Scrap Metal 
+		
+IWP Shotgun Frame Assembly  --  IWP Shotgun Frame + IWP Shotgun Triggers 
+		
+IWP Shotgun COMPLETE  --  IWP Barrel Assembly + IWP Shotgun Frame Assembly 
+		
+		
+		
+		
+		
+		
+								Sub Machine Gun 
+		
+		
+			These instructions will guide you to craft a sub machine gun and magazine, effective at short range. Fires .380 rounds. 
+		
+		
+IWP SMG Barrel  --  Hacksaw + Pipe 
+		
+IWP SMG Bolt  --  5 IWP Scrap Metal + 1 IWP Spring 
+		
+IWP SMG Barrel Assembly  --  IWP SMG Barrel + IWP SMG Bolt 
+		
+IWP SMG Grip  --  Hacksaw(any sharp object) + Wooden Log/Wooden Plank 
+		
+IWP SMG Frame  --  10 IWP Screws + 15 IWP Scrap Metal 
+		
+IWP SMG Frame Assembly  --  IWP SMG Frame + IWP SMG Grip 
+		
+IWP SMG COMPLETE  --  IWP Barrel Assembly + IWP SMG Frame Assembly 
+		
+IWP SMG Magazine  --  10 IWP Scrap Metal + IWP Spring 
+
+
+
+
+							Pistol Shotgun
+
+
+			These instructions will guide you to craft a pistol shotgun. Fires any shotgun round.
+
+
+
+IWP Pistol Shotgun Barrel -- Hacksaw + Pipe
+
+
+IWP Pistol Shotgun Frame -- 15 IWP Scrap Metal + Pliers
+
+
+IWP Pistol Shotgun Frame Assembly -- IWP Pistol Shotgun Frame + 10 IWP Screws
+
+
+IWP Pistol Shotgun Trigger (and Hammer) -- 5 IWP Scrap Metal + Hacksaw
+
+
+IWP Pistol Shotgun Body -- IWP Pistol Shotgun Frame Assembly + IWP Pistol Shotgun Barrel
+
+
+IWP Pistol Shotgun COMPLETE -- IWP Pistol Shotgun Body + IWP Pistol Shotgun Trigger
+
+
+
+
+
+
+
+							Bolt Action Rifle
+
+
+
+		These instructions will guide you to craft a bolt action rifle. Fires 762x54 rounds.
+
+
+
+IWP Bolt Action Rifle Barrel -- Hacksaw + Pipe
+
+
+IWP Bolt Action Rifle Chamber -- Hacksaw + IWP Bolt Action Rifle Barrel
+
+
+IWP Bolt Action Rifle Bolt -- 5 IWP Scrap Metal + IWP Spring
+
+
+IWP Bolt Action Rifle Trigger Assembly -- 6 IWP Scrap Metal + Pliers
+
+
+IWP Bolt Action Rifle Chamber Bolt Assembly -- IWP Bolt Action Rifle Chamber + IWP Bolt Action Rifle Bolt
+
+
+IWP Bolt Action Rifle Chamber Complete -- IWP Bolt Action Rifle Chamber Bolt Assembly + IWP Bolt Action Rifle Trigger Assembly
+
+
+IWP Bolt Action Rifle Body -- IWP Bolt Action Rifle Chamber Complete + IWP Bolt Action Rifle Barrel
+
+
+IWP Bolt Action Rifle Grip -- 5 IWP Scrap Metal + Pliers
+
+
+IWP Bolt Action Rifle Stock -- 10 IWP Scrap Metal + Pliers
+
+
+IWP Bolt Action Rifle Short (Complete) -- IWP Bolt Action Rifle Body + IWP Bolt Action Rifle Grip
+
+
+IWP Bolt Action Rifle (Complete) -- IWP Bolt Action Rifle Short + IWP Bolt Action Rifle Stock
+		
+
+
+
+
+
+							Sodacan Grenade
+
+
+
+			These instructions will guide you to craft a Sodacan Grenade
+
+
+
+IWP Gunpowder -- Ammo + Pliers
+
+
+IWP GunPowderShrapnel -- 10 IWP Screws + 10 IWP Gunpowder
+
+
+IWP GrenadeFuse -- 5 Matchbox + 10 IWP ScrapMetal
+
+
+IWP EmptyCan -- SodaCan + Screwdriver
+
+
+IWP PreppedCan -- IWP EmptyCan + 2 IWP GunpowderShrapnel
+
+
+IWP CanGrenade COMPLETE -- IWP PreppedCan + IWP GrenadeFuse
+

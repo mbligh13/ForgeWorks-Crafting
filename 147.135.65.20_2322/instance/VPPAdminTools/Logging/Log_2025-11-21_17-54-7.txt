@@ -1,0 +1,324 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-21_17-54-7
+====================================================================================
+17:54:7 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:54:7 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:54:7 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:54:7 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:54:7 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:54:7 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:54:7 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:54:7 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:54:7 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:54:7 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:54:7 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:54:7 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:54:7 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:54:7 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:54:7 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:54:7 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:54:7 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:54:7 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:54:7 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:54:8 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+17:54:8 | [PermissionManager] Adding Super Admin (76561198378002588)
+17:54:8 | [PermissionManager] Adding Super Admin (76561198074746423)
+17:54:8 | [PermissionManager] Adding Super Admin (76561199830923778)
+17:54:8 | [PermissionManager] Loaded UserGroups.json
+17:54:8 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:54:8 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:54:8 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:54:8 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:54:8 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:54:8 | Building Sets Loaded: 0
+17:54:8 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:3:27 | Player "SinVIIWrath" (steamId=76561198074746423) connected to server!
+18:4:28 | "SinVIIWrath" (steamid=76561198074746423) toggled godmode
+18:5:4 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=Catacombs)
+18:5:38 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=Morag Falls)
+18:6:51 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=Wendigo Castle)
+18:8:36 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<8752.120117, 518.708252, 7946.120117>)
+18:8:36 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=8752.12,0,7946.12)
+18:9:5 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<9025.299805, 518.705261, 8540.889648>)
+18:9:5 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=9025.3,0,8540.89)
+18:9:22 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<8092.830078, 480.256073, 9627.690430>)
+18:9:22 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=8092.83,0,9627.69)
+18:9:47 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<7757.790039, 492.417236, 9815.219727>)
+18:9:47 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=7757.79,0,9815.22)
+18:10:50 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<8459.389648, 486.268768, 9334.980469>)
+18:10:50 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=8459.39,0,9334.98)
+18:11:8 | "76561198074746423" (steamid=76561198074746423) teleported to (pos=<11003.900391, 434.972839, 5030.589844>)
+18:11:8 | "SinVIIWrath": (steamid=76561198074746423) teleported to (pos=11003.9,0,5030.59)
+18:12:13 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (SRP_RustRunnerPants_Colorbase)
+18:12:14 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (SRP_RustRunnerHelmet_Colorbase)
+18:12:15 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (SRP_RustRunnerBoots_Colorbase)
+18:12:15 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (SRP_RustRunner_Colorbase)
+18:12:56 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (ALV_Beard2_Brown)
+18:13:27 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_goku)
+18:14:5 | "SinVIIWrath" (steamid=76561198074746423) deleted object "TaloonBag_Blue" (pos=<11035.979492, 436.364777, 4994.415527>)
+18:14:9 | "SinVIIWrath" (steamid=76561198074746423) deleted object "AthleticShoes_Brown" (pos=<11035.979492, 436.250458, 4994.415527>)
+18:14:14 | "SinVIIWrath" (steamid=76561198074746423) deleted object "CanvasPantsMidi_Beige" (pos=<11035.979492, 436.251343, 4994.415527>)
+18:14:17 | "SinVIIWrath" (steamid=76561198074746423) deleted object "TShirt_Green" (pos=<11035.979492, 436.251343, 4994.415527>)
+18:14:59 | "SinVIIWrath" (steamid=76561198074746423) deleted objects using ESP
+18:15:5 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+18:15:40 | "76561198378002588" (steamid=76561198378002588) teleported to (pos=<11038.000000, 432.942719, 4981.399902>)
+18:15:40 | "Skullcruncher32": (steamid=76561198378002588) teleported to (pos=11038,0,4981.4)
+18:15:51 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+18:15:52 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+18:15:53 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+18:15:54 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+18:15:55 | "Skullcruncher32" (steamid=76561198378002588) gave godmode to (steamid=76561198378002588)
+18:15:55 | "Skullcruncher32" (steamid=76561198378002588) gave unlimited ammo to (steamid=76561198378002588)
+18:16:16 | [WeatherManager] Send Data Count is 1
+18:16:21 | [TimeManager] Applying preset 8/10/2025 10:58
+18:16:21 | [Weather Manager] ApplyWeatherSetting to: clear
+18:17:36 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_Silkies_Pink) on "Skullcruncher32" (steamid=76561198378002588)
+18:17:36 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_Silkies_Pink)
+18:18:17 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (EyeMask_ZenRabbit_Pink) on "Skullcruncher32" (steamid=76561198378002588)
+18:18:17 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (EyeMask_ZenRabbit_Pink)
+18:18:20 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (ALV_SmallBackpack_Pink) on "Skullcruncher32" (steamid=76561198378002588)
+18:18:20 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (ALV_SmallBackpack_Pink)
+18:18:29 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (MiniDress_Pink) on "Skullcruncher32" (steamid=76561198378002588)
+18:18:29 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (MiniDress_Pink)
+18:18:56 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_animegirl) on "Skullcruncher32" (steamid=76561198378002588)
+18:18:56 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_animegirl)
+18:19:9 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CDAJ_goku)
+18:19:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_exosuit)
+18:20:28 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Powerpack)
+18:20:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_fusioncell)
+18:20:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_fusioncell)
+18:20:40 | "SinVIIWrath" (steamid=76561198074746423) deleted object "" (pos=<11034.062500, 444.798584, 5010.164063>)
+18:20:48 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TaloonBag_Green" (pos=<11037.741211, 436.149902, 4993.103516>)
+18:20:59 | "Skullcruncher32" (steamid=76561198378002588) deleted object "AthleticShoes_Brown" (pos=<11037.741211, 436.035583, 4993.103516>)
+18:20:59 | "SinVIIWrath" (steamid=76561198074746423) deleted objects using ESP
+18:21:0 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TShirt_Blue" (pos=<11037.741211, 436.036469, 4993.103516>)
+18:21:1 | "SinVIIWrath" (steamid=76561198074746423) deleted objects using ESP
+18:21:2 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CanvasPantsMidi_Red" (pos=<11038.655273, 436.001038, 4992.857422>)
+18:22:2 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_exosuit" (pos=<11040.833008, 436.184387, 4994.155273>)
+18:22:3 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Powerpack" (pos=<11040.833008, 436.124786, 4994.155273>)
+18:22:4 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_fusioncell" (pos=<11040.833008, 436.125458, 4994.155273>)
+18:22:37 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy)
+18:22:41 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy)
+18:22:48 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy_Wheel)
+18:22:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy_Wheel)
+18:22:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy_Wheel)
+18:22:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy_Wheel)
+18:22:50 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy_Wheel)
+18:22:50 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapbuggy_Wheel)
+18:23:1 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Scrapbuggy_Wheel" (pos=<11048.050781, 435.655487, 4992.335449>)
+18:23:15 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Engine)
+18:23:27 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Engine" (pos=<11048.633789, 435.527679, 4992.289063>)
+18:23:36 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CarBattery)
+18:23:36 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CarBattery)
+18:23:43 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CarBattery" (pos=<11048.862305, 435.522186, 4992.445313>)
+18:23:56 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CarRadiator)
+18:23:59 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_banjo)
+18:24:7 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (SparkPlug)
+18:24:35 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CanisterGasoline)
+18:25:56 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_Boltthrower)
+18:26:18 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_Boltthrower)
+18:26:33 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:41 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:42 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:43 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:44 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:47 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:48 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:49 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Ammo_HuntingBolt)
+18:26:50 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:53 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:55 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:56 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:26:57 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11042.328125, 395.842194, 4891.476074>)
+18:27:2 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_juglansRegia_3s_summer" (pos=<11038.968750, 394.028564, 4896.099121>)
+18:27:2 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<11049.285156, 390.840332, 4905.105957>)
+18:27:32 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_Flamethrower)
+18:27:46 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_chainsaw)
+18:28:53 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (LargeGasCanister)
+18:29:3 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:29:6 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:29:8 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (SmallGasCanister)
+18:29:9 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (MediumGasCanister)
+18:29:23 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:29:31 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:29:32 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:29:33 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:29:34 | "Skullcruncher32" (steamid=76561198378002588) deleted object "TreeHard_t_PiceaAbies_3s_summer" (pos=<11045.520508, 385.934662, 4901.145996>)
+18:30:2 | "SinVIIWrath" (steamid=76561198074746423) deleted objects using ESP
+18:31:46 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_Sketch_flex2)
+18:32:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapcannon_Rust)
+18:32:55 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Flamethrower)
+18:33:3 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Gasoline)
+18:33:5 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_ADMIN_RECIPELIST)
+18:33:8 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Gasoline)
+18:33:21 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Gasoline)
+18:33:24 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Gasoline)
+18:33:44 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (LargeGasCanister)
+18:33:44 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (MediumGasCanister)
+18:33:45 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (SmallGasCanister)
+18:33:47 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (rag_baseitems_gascanister)
+18:33:51 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Gasoline)
+18:34:32 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_RGBolt)
+18:34:33 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Scrapbolt)
+18:34:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_ScrapboltCrossb)
+18:35:55 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Gasoline)
+18:36:5 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (SmallGasCanister)
+18:36:16 | "Skullcruncher32" (steamid=76561198378002588) deleted object "LargeGasCanister" (pos=<11056.754883, 397.716522, 4914.833008>)
+18:36:17 | "Skullcruncher32" (steamid=76561198378002588) deleted object "MediumGasCanister" (pos=<11056.754883, 397.632721, 4914.833008>)
+18:36:18 | "Skullcruncher32" (steamid=76561198378002588) deleted object "rag_baseitems_gascanister" (pos=<11056.290039, 397.947174, 4914.871094>)
+18:36:20 | "Skullcruncher32" (steamid=76561198378002588) deleted object "SmallGasCanister" (pos=<11056.754883, 397.612366, 4914.833008>)
+18:36:23 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_chainsaw" (pos=<11057.269531, 396.758514, 4912.797852>)
+18:36:26 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_banjo" (pos=<11058.347656, 398.050842, 4914.870605>)
+18:36:30 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_ScrapCanister_Mag)
+18:38:14 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_Dufflebag_Brown)
+18:38:19 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_ScrapCanister_Mag)
+18:38:45 | "SinVIIWrath" (steamid=76561198074746423) toggled godmode
+18:40:53 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Nailrifle)
+18:41:32 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_ADMIN_RECIPELIST)
+18:41:38 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:41:38 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:41:38 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:41:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:41:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:41:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:41:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Ammo_Nail)
+18:43:15 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_foxtail)
+18:43:16 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_AngleGrinder)
+18:43:38 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_foxhat)
+18:43:45 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (Battery9V)
+18:44:18 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_Powerpack)
+18:44:35 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_ammo)
+18:44:51 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Nailgun_Mag)
+18:44:52 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (AK101)
+18:45:33 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (CombatKnife)
+18:45:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Powerpack)
+18:45:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Powerpack)
+18:46:38 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Flamethrower" (pos=<11081.817383, 436.563354, 4981.209961>)
+18:47:10 | "SinVIIWrath" (steamid=76561198074746423) healed player (steamid=76561198074746423)
+18:47:13 | "SinVIIWrath" (steamid=76561198074746423) gave godmode to (steamid=76561198074746423)
+18:47:19 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+18:47:20 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+18:47:20 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+18:47:20 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+18:47:20 | "SinVIIWrath" (steamid=76561198074746423) just updated a health stat on (steamid=76561198074746423)
+18:47:39 | "SinVIIWrath" (steamid=76561198074746423) deleted objects using ESP
+18:47:58 | "SinVIIWrath" (steamid=76561198074746423) deleted objects using ESP
+18:48:12 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+18:48:17 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+18:48:20 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_FirearmKit)
+18:48:21 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_FirearmKit)
+18:48:21 | "SinVIIWrath" (steamid=76561198074746423) Spawned Item: (nm_FirearmKit)
+18:48:36 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Sketch_ammo" (pos=<11084.298828, 436.974915, 4987.310059>)
+18:48:37 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+18:48:39 | "Skullcruncher32" (steamid=76561198378002588) toggled godmode
+18:50:12 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Carchest)
+18:51:12 | "Skullcruncher32" (steamid=76561198378002588) deleted object "nm_Carchest" (pos=<11084.755859, 436.953949, 4987.963867>)
+18:52:6 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_paint4)
+18:52:55 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Sketch_flex2)
+18:54:26 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_AngleGrinder)
+18:54:26 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_AngleGrinder)
+18:54:43 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+18:54:43 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+18:54:44 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_FirearmKit)
+18:55:16 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_craftbox)
+18:55:16 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_craftbox)
+18:56:42 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_craftbox)
+18:56:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapmetal)
+18:56:57 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (nm_Scrapmetal)
+18:59:10 | Player "SinVIIWrath" (steamId=76561198074746423) disconnected from server.
+18:59:10 | Player "SinVIIWrath" (steamId=76561198074746423) initiated disconnect process...
+19:1:53 | Player "SinVIIWrath" (steamId=76561198074746423) connected to server!
+19:2:19 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.746094, -10.256116, 4040.576660>)
+19:2:19 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.723633, -9.499305, 4040.567627>)
+19:2:19 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.670898, -8.097841, 4040.544434>)
+19:2:19 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.659180, -7.733264, 4040.547363>)
+19:2:19 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.605469, -6.367871, 4040.522949>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.598633, -5.967847, 4040.515625>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.544922, -4.713110, 4040.472412>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.527344, -4.212300, 4040.441650>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.471680, -3.081201, 4040.402344>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.447266, -2.457701, 4040.372559>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.374023, -1.080524, 4040.319336>)
+19:2:20 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13637.326172, -0.077035, 4040.278564>)
+19:2:21 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<13561.414063, 1096.536743, 3977.504639>)
+19:2:28 | "SinVIIWrath" (steamid=76561198074746423) toggled godmode
+19:2:43 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<12972.399414, 15.325538, 4802.467773>)
+19:2:58 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.
+19:2:58 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+19:3:5 | "SinVIIWrath" (steamid=76561198074746423) teleported to crosshair (pos=<12777.001953, 5.135555, 5005.897461>)
+19:3:34 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+19:9:5 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.
+19:9:5 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+19:9:12 | Player "SinVIIWrath" (steamId=76561198074746423) disconnected from server.
+19:9:12 | Player "SinVIIWrath" (steamId=76561198074746423) initiated disconnect process...

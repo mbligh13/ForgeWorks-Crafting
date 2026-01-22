@@ -1,0 +1,40 @@
+ADDED:
+-Added all classnames and old types to Extras folders. (I'll fix types but i was a little rushed on typing this)
+-Adds clownhat to CDAJ_ZmbM_Clown
+-Items added:
+CDAJ_Fedora_Grey
+CDAJ_Fedora_Black
+CDAJ_Fedora_Brown
+CDAJ_Froghat
+CDAJ_PaperBag_Mask
+CDAJ_Master_Chef_MarkV_Green
+CDAJ_Master_Chef_MarkV_Red
+CDAJ_Master_Chef_MarkV_Blue
+CDAJ_Master_Chef_MarkV_Rainbow
+CDAJ_Trenchcoat_Light
+CDAJ_Trenchcoat_Brown
+CDAJ_Trenchcoat_Black
+CDAJ_Trenchcoat_RG
+
+CHANGES:
+-CLASSNAME CHANGES
+CDAJ_Master_Chef : CDAJ_Master_Chef_Green
+CDAJ_Master_Chef_MarkV : CDAJ_Master_Chef_MarkV_Green
+CDAJ_Master_Chef_VI : CDAJ_Master_Chef_VI_Green
+CDAJ_SyfyHelm : CDAJ_SyfyHelm_GoldenTouch
+CDAJ_TRexHelmet : CDAJ_TRexHelmet_Green
+CDAJ_GreyFox_Helm : CDAJ_GreyFox_Helm_Chrome
+
+FIXES:
+-Huge config cleanup; fixes alot of bad modding practices. ALOT
+-Damage system floats.
+-Poor inheritance on a few items.
+-Created baseclass where they needed to be.
+-ViewPilot on  CDAJ_Fedora_Grey,CDAJ_Fedora_Black,CDAJ_Fedora_Brown,CDAJ_Froghat,CDAJ_PaperBag_Mask
+-Invview on CDAJ_DKS
+-Textures, Materials, config, p3d for CDAJ_Katana. Basically i completely fixed it.
+-Textures and materials on CDAJ_GreyFox_Helm Varients fixed, reduced to 3 classnames
+
+KNOWN ISSUES:
+-CDAJ_ADMIN_RED may not actually show up. Its supposed to have a sign above the characters head that says "ADMIN" it still works but I've had a few reports saying its invisible. Unsure what the issue is.
+-CDAJ_Trenchcoat varients have poor weighting on the players left leg. I will correct this when I have time.

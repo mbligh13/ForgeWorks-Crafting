@@ -1,0 +1,91 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-27 at 18:00:27
+20:32:25 | Player "b1zz"(id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo=) is connected
+20:35:38 | Player "JAYBREEZ"(id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g=) is connected
+20:37:04 | Player "JAYBREEZ" (DEAD) (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<0, 0, 1000>) died. Stats> Water: 5000 Energy: 5000 Bleed sources: 0
+20:43:41 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1702.7, 9755.3, 2.6>)[HP: 84.4315] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+20:43:42 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1703.9, 9754.6, 2.6>)[HP: 82.5087] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+20:43:50 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1703.3, 9744.1, 2.6>)[HP: 82.427] hit by Infected into Block(-1) for 0 damage 
+20:44:23 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1702.0, 9783.8, 2.6>)[HP: 82.0993] hit by Infected into Block(-1) for 0 damage 
+20:44:24 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1704.4, 9784.5, 2.7>)[HP: 81.2892] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:44:32 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1703.5, 9785.3, 2.7>)[HP: 81.2073] hit by Infected into Block(-1) for 0 damage 
+20:44:35 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1705.4, 9784.2, 2.7>)[HP: 80.3693] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+20:46:58 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1883.3, 10027.3, 3.4>)[HP: 78.9379] hit by Infected into Block(-1) for 0 damage 
+20:47:00 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1881.5, 10028.1, 3.4>)[HP: 78.1276] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:47:02 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4511.6, 12438.6, 2.6>)[HP: 100] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+20:47:03 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1881.7, 10028, 3.4>)[HP: 76.1846] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+20:47:06 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4510.7, 12441.6, 2.6>)[HP: 99.2] hit by Infected into RightArm(17) for 4.75 damage (MeleeZombie)
+20:49:01 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4554.8, 12404.8, 3.1>)[HP: 99.0439] hit by Infected into Block(-1) for 0 damage 
+20:49:04 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4556.7, 12405.6, 3.1>)[HP: 97.1405] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+20:50:12 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4537.9, 12371.1, 2.6>)[HP: 97.3484] hit by Infected into Block(-1) for 0 damage 
+20:50:14 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4540.2, 12371.2, 2.6>)[HP: 89.2734] hit by Infected into Torso(1) for 8.075 damage (MeleeInfectedLong)
+20:50:15 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4540.3, 12370.8, 2.6>)[HP: 81.2075] hit by Infected into Torso(1) for 8.075 damage (MeleeInfectedLong)
+20:52:02 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4540.9, 12371.5, 2.6>)[HP: 81.5245] hit by Infected into Block(-1) for 0 damage 
+20:52:03 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4540.4, 12371.4, 2.6>)[HP: 75.3585] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+20:52:05 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4540.4, 12371.5, 2.6>)[HP: 73.446] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+20:53:28 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1927.5, 10237.8, 3.2>)[HP: 71.6342] hit by Infected into Torso(1) for 4.75 damage (MeleeZombie)
+20:53:57 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4437.0, 12288, 4.6>)[HP: 65.7058] hit by Infected into Torso(1) for 8.075 damage (MeleeSoldierInfected)
+20:55:16 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1881.6, 10258.3, 3.7>)[HP: 63.5187] hit by Infected into Torso(1) for 8.075 damage (MeleeSoldierInfected)
+20:55:17 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1882.0, 10258, 3.3>)[HP: 62.4823] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+20:55:26 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1882.3, 10257.6, 3.2>)[HP: 60.4551] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+20:55:27 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1882.2, 10257.7, 3.2>)[HP: 58.5225] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+20:55:28 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4404.9, 12260.4, 2.6>)[HP: 62.4326] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+20:56:39 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4406.6, 12247.6, 2.6>)[HP: 62.6502] hit by Infected into Block(-1) for 0 damage 
+20:56:44 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4407.4, 12249.2, 2.6>)[HP: 62.6682] hit by Infected into Block(-1) for 0 damage 
+20:56:51 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4419.4, 12252.1, 2.6>)[HP: 62.1239] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:56:52 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4421.1, 12252.6, 2.6>)[HP: 59.6489] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+20:56:55 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1880.4, 10305, 2.6>)[HP: 51.2634] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+20:56:59 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1874.3, 10317.9, 2.6>)[HP: 50.601] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+20:57:00 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1874.1, 10320.1, 2.6>)[HP: 48.6971] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+20:57:03 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1872.3, 10325.6, 2.6>)[HP: 47.8713] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+20:57:39 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4385.0, 12239.2, 2.7>)[HP: 57.1812] hit by Infected into LeftArm(18) for 4.75 damage (MeleeZombie)
+20:58:26 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1894.4, 10318.6, 6.2>)[HP: 44.5803] hit by Infected into LeftArm(18) for 10.45 damage (MeleeSoldierInfectedLong)
+20:58:29 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1894.3, 10321.1, 6.2>)[HP: 44.4438] hit by Infected into Block(-1) for 0 damage 
+20:58:33 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1892.5, 10319.9, 6.2>)[HP: 43.4906] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+20:58:33 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1893.0, 10319.2, 6.2>)[HP: 41.5347] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+20:59:04 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1949.6, 10370.5, 2.6>)[HP: 39.4226] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+20:59:17 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1950.2, 10399.3, 2.6>)[HP: 37.2195] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+20:59:20 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1958.5, 10404.9, 2.7>)[HP: 35.5419] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+21:00:40 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4355.2, 12190.8, 2.6>)[HP: 57.1066] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+21:00:53 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4317.2, 12203.1, 2.6>)[HP: 55.6804] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+21:00:57 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4325.3, 12212, 2.6>)[HP: 54.227] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:02:37 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12242.2, 2.9>)[HP: 52.0511] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+21:02:37 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12242.3, 2.9>)[HP: 45.8761] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+21:02:38 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4314.9, 12242.3, 2.9>)[HP: 37.8102] hit by Infected into Torso(1) for 8.075 damage (MeleeInfectedLong)
+21:02:39 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4314.8, 12242.1, 2.9>)[HP: 35.3308] hit by Infected into LeftLeg(8) for 9.9 damage (MeleeSoldierInfectedLong)
+21:02:39 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4314.8, 12242.1, 2.9>)[HP: 34.7133] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+21:02:40 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4314.8, 12242.2, 2.9>)[HP: 33.8587] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+21:02:40 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4314.8, 12241.2, 2.9>) is unconscious
+21:02:42 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4314.6, 12240.5, 2.9>)[HP: 27.6429] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+21:02:43 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 26.7391] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+21:02:44 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 25.8921] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+21:02:45 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 24.4296] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+21:02:45 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1956.1, 10404.3, 2.7>)[HP: 21.8897] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+21:02:45 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 22.9671] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:02:45 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 12.4458] hit by Infected into Torso(1) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:46 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 10.9833] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:02:46 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 9.52078] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:02:46 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1956.0, 10404.4, 2.7>)[HP: 20.7655] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:47 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 8.3366] hit by Infected into LeftArm(18) for 11 damage (MeleeSoldierInfectedLong)
+21:02:47 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 6.78907] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+21:02:47 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 0.289074] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+21:02:49 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 0] hit by Infected into RightArm(17) for 11 damage (MeleeSoldierInfectedLong)
+21:02:49 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 0] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+21:02:49 | Player "JAYBREEZ" (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 0] hit by Infected into Torso(1) for 8.5 damage (MeleeInfectedLong)
+21:02:49 | Player "JAYBREEZ" (DEAD) (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>) died. Stats> Water: 409.419 Energy: 364.657 Bleed sources: 1
+21:02:49 | Player "JAYBREEZ" (DEAD) (id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g= pos=<4315.4, 12240.6, 2.9>)[HP: 0] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:02:51 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 18.4123] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+21:02:52 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 17.1602] hit by Infected into LeftArm(18) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:54 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 14.5455] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+21:02:54 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>) is unconscious
+21:02:55 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 3.93772] hit by Infected into Torso(1) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:56 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 2.72132] hit by Infected into LeftArm(18) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:56 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 0] hit by Infected into Torso(1) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:57 | Player "JAYBREEZ"(id=xunU8vhQfwJhO1ofVVadWApGs6M_bGcBePJ3bPMJD5g=) has been disconnected
+21:02:57 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 0] hit by Infected into Torso(1) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:58 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 0] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+21:02:58 | Player "b1zz" (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>)[HP: 0] hit by Infected into LeftArm(18) for 10.45 damage (MeleeSoldierInfectedLong)
+21:02:58 | Player "b1zz" (DEAD) (id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo= pos=<1959.5, 10404.4, 2.7>) died. Stats> Water: 1170.03 Energy: 969.658 Bleed sources: 0
+21:03:07 | Player "b1zz"(id=VyMrgUrvH5kXCl3zF3G1K4R4y32FnBqVQcycZFXyywo=) has been disconnected

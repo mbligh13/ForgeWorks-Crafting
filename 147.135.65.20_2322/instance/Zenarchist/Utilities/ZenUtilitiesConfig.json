@@ -1,0 +1,17 @@
+{
+    "CONFIG_VERSION": "3",
+    "ShouldLogPVP": 1,
+    "ShouldLogDeathGear": 1,
+    "ShouldDeleteGhostItems": 1,
+    "ShouldLogItemCount": 0,
+    "ItemTextContains": 1,
+    "LogItemTypes": [
+        "Plastic_Explosive",
+        "ExpansionSatchel"
+    ],
+    "ShouldLogRaids": 0,
+    "RaidAmmo": [
+        "ExpansionC4_Ammo",
+        "Plastic_Explosive_Ammo"
+    ]
+}

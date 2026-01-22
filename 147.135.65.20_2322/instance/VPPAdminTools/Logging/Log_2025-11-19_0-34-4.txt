@@ -1,0 +1,150 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-19_0-34-4
+====================================================================================
+0:34:4 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:34:4 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:34:4 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:34:4 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:34:4 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:34:4 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:34:4 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:34:4 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:34:4 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:34:4 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:34:4 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:34:4 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:34:4 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:34:4 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:34:4 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:34:4 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:34:4 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:34:4 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:34:5 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:34:5 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:34:5 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:34:6 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+0:34:6 | [PermissionManager] Adding Super Admin (76561198378002588)
+0:34:6 | [PermissionManager] Adding Super Admin (76561198074746423)
+0:34:6 | [PermissionManager] Loaded UserGroups.json
+0:34:6 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:34:6 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:34:6 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:34:6 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:34:6 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:34:6 | Building Sets Loaded: 0
+0:34:6 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:36:57 | Player "Skullcruncher32" (steamId=76561198378002588) connected to server!
+0:38:29 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_Gewehr43_Wood)
+0:38:49 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (CDAJ_Ammo_8mm)
+0:38:56 | "Skullcruncher32" (steamid=76561198378002588) deleted object "ALV_CivieRifleSling_Brown" (pos=<7374.817383, 652.885864, 12554.422852>)
+0:39:15 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7409.191895, 657.539001, 12556.613281>)
+0:39:18 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7422.820801, 657.117981, 12558.470703>)
+0:39:25 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7349.735352, 652.858276, 12542.623047>)
+0:39:40 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AJW_Ammo_8mm)
+0:40:10 | "Skullcruncher32" (steamid=76561198378002588) gave godmode to (steamid=76561198378002588)
+0:40:10 | "Skullcruncher32" (steamid=76561198378002588) gave unlimited ammo to (steamid=76561198378002588)
+0:40:27 | "Skullcruncher32" (steamid=76561198378002588) gave unlimited ammo to (steamid=76561198378002588)
+0:40:28 | "Skullcruncher32" (steamid=76561198378002588) gave unlimited ammo to (steamid=76561198378002588)
+0:40:38 | "Skullcruncher32" (steamid=76561198378002588) deleted object "AJW_Gewehr43_Wood" (pos=<7382.365234, 652.925415, 12557.864258>)
+0:41:3 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_SMG01)
+0:41:23 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_SMG01_Mag)
+0:41:39 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_Can_Grenade_Pipsi)
+0:42:31 | "Skullcruncher32" (steamid=76561198378002588) deleted object "Crossbow" (pos=<7377.875977, 652.980103, 12556.607422>)
+0:42:55 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_BoltActionRifle)
+0:42:58 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_ImprovisedRifleOptic_Crosshair)
+0:43:6 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (AmmoBox_762x54_20Rnd)
+0:43:19 | "Skullcruncher32" (steamid=76561198378002588) deleted object "AmmoBox_762x54_20Rnd" (pos=<7376.811035, 652.974243, 12556.305664>)
+0:43:23 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_762x54)
+0:43:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_762x54)
+0:43:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_762x54)
+0:43:34 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_762x54)
+0:44:3 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7378.500977, 657.379944, 12540.395508>)
+0:44:14 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7413.896973, 661.987488, 12571.655273>)
+0:45:41 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (IWP_Pistol01)
+0:45:59 | "Skullcruncher32" (steamid=76561198378002588) Spawned Item: (Ammo_357)
+0:50:19 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7376.509277, 656.356201, 12575.614258>)
+0:50:21 | "Skullcruncher32" (steamid=76561198378002588) teleported to crosshair (pos=<7387.485352, 652.900024, 12560.474609>)
+0:53:10 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+0:53:11 | "Skullcruncher32" (steamid=76561198378002588) just updated a health stat on (steamid=76561198378002588)
+0:53:25 | [WeatherManager] Send Data Count is 0
+0:53:33 | [Time Manager] Setting Date to 2025/8/10 10:57
+0:53:41 | [TimeManager] Saving setting to 8/10/2025 10:58
+0:53:41 | [TimeManager] Saving to $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:54:20 | [WeatherManager] Save to $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:54:24 | [Weather Manager] ApplyWeatherSetting to: clear
+0:56:59 | Player "ianalexander574" (steamId=76561199885649337) connected to server!
+1:9:37 | "Skullcruncher32" (steamid=76561198378002588) deleted object "ZmbF_VillagerOld_White" (pos=<7385.420410, 652.940063, 12563.387695>)
+1:9:39 | "Skullcruncher32" (steamid=76561198378002588) deleted object "CDAJ_Ammo_8mm" (pos=<7385.908203, 652.944092, 12563.264648>)
+1:13:34 | Player "ianalexander574" (steamId=76561199885649337) initiated disconnect process...
+1:13:36 | Player "ianalexander574" (steamId=76561199885649337) disconnected early from server (EXIT NOW).
+1:15:5 | Player "Skullcruncher32" (steamId=76561198378002588) initiated disconnect process...
+1:15:21 | Player "Skullcruncher32" (steamId=76561198378002588) disconnected from server.

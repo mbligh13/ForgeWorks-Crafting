@@ -1,0 +1,10 @@
+{
+    "Master_ConfigVersion": 3,
+    "HUD_ForceMetric": 0,
+    "HUD_ForceImperial": 0,
+    "HUD_Allow1PP": 1,
+    "HUD_Allow3PP": 1,
+    "Control_Grounded": 0,
+    "Sound_EngineVolume": 100.0,
+    "Damage_AllowWeaponDamage": 1
+}

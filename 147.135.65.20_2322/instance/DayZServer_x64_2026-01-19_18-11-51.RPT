@@ -1,0 +1,1272 @@
+=====================================================================
+== C:\TCAFiles\Users\gunners\1580\DayZServer_x64.exe
+== "C:\TCAFiles\Users\gunners\1580\DayZServer_x64.exe" "-ip=147.135.65.20" "-port=2322" "-config=serverdz.cfg" "-bepath=C:\TCAFiles\Users\gunners\1580\Battleye" "-profiles=C:\TCAFiles\Users\gunners\1580\instance" "-autoinit" "-serverMod=@Shark Spawner;@Waraeger Armory Mega Asset Pack;@Map Assets - MutatedMods;@Arsteinen Assets" "-mod=@CF;@Arsteinen;@DayZ-Expansion-Licensed;@DayZ-Expansion-Animations;@AJs Items;@AJs Weapons;@CookZ;@DayZ Shark;@BaseBuildingPlus;@BBP Hotfix Enhanced Item Positioning and Stability;@BodyBags;@BuildingsMegaModPack;@CZ Optics;@Improvised Weapons;@Modular Dungeon;@RedFalcon Watercraft;@Search For Loot Improved;@sFramework;@sGunplay;@sVisual;@CannabisPlus;@Realistic Suppressors;@Fishy Buildings;@Central European Asset Pack;@Three Kings King of the Hill;@MMG - Mightys Military Gear;@Combinable Items;@RaG_Viking_Pack;@Escape From Tarkov;@RUSForma_vehicles;@TraderPlus;@TraderX;@DayZ Editor Loader;@BoomLay's Things;@BuilderItems;@TeleportMod;@Automated Turrets;@BBPItemPack;@Furniture Pack;@Imperium Assets;@Megaloot Tunnels;@OV_AllinOne;@RaG_Core;@RaG_BaseItems;@DayZ-Expansion-Map-Assets;@Ninjins-PvP-PvE;@VPPAdminTools;@Nemsis Craftingpack All in One;@PvZmoD_CustomisableZombies;@PvZmoD_Spawn_System;@DayZ-Expansion-Bundle;@Dabs Framework;@ForgeWorks - Weapon Crafting" "-noFilePatching" "-adminLog"
+=====================================================================
+Exe timestamp: 2025/12/08 07:44:59
+Current time:  2026/01/19 18:12:25
+Version 1.28.161464
+=====================================================================
+
+18:12:25.237 [Inputs] Loading inputs default "bin/constants.xml"
+18:12:25.240 [Inputs] Loading inputs default "bin/specific.xml"
+18:12:25.241 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:12:25.241 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:12:25.241 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+18:12:25.241 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:12:25.241 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:12:25.242 [Inputs] Loading inputs default "LIVEN/PvZmoD_CustomisableZombies/inputs.xml"
+18:12:25.242 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+18:12:25.242 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+18:12:25.243 [Inputs] Loading inputs default "NinjinsPvPPvE/data/inputs.xml"
+18:12:25.243 [Inputs] Loading inputs default "nm_Crafting_Core\data\inputs.xml"
+18:12:25.243 [Inputs] Loading inputs default "trerik4/scripts/inputs.xml"
+18:12:25.244 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+18:12:25.245 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+18:12:25.245 [Inputs] Loading inputs default "RFWC_Core/modded_Inputs.xml"
+18:12:25.246 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:12:25.246 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:12:25.246 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+18:12:25.246 [Inputs] Loading inputs default "DayZExpansion/Market/Scripts/Data/Inputs.xml"
+18:12:25.246 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+18:12:25.246 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:12:25.247 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+18:12:25.247 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:12:25.247 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+18:12:25.247 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:12:25.248 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+18:12:25.249 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+18:12:25.250 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+18:12:25.250 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:12:25.251 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+18:12:25.251 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:12:25.251 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+18:12:25.251 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+18:12:25.251 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+18:12:25.252 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\gunners\1580\instance\Users\Survivor\Server.core.xml"
+18:12:25.257 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\gunners\1580\instance\Users\Survivor\Server.core.xml"
+18:13:26.260 Hostname of server: "Sector88"
+18:13:45.905 [CE][Hive] :: Initializing OFFLINE
+18:13:45.905 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\
+18:13:45.905 [CE][Hive] :: Loading core data ... 
+18:13:45.906 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+18:14:36.875 !!! File "trerik4\ce\cfgspawnabletypes.xml" does not exist...
+18:14:36.875 !!! [ERROR][XML] :: load [trerik4\ce\cfgspawnabletypes.xml] failed
+18:14:36.875 !!! [ERROR][XML] :: Failed to open file
+18:14:36.880 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+18:14:36.880 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+18:14:36.880 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+18:14:36.880 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+18:14:36.880 [CE] :: WARNING :: Preset (cargo) with name 'moneyArmy' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyCity' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.881 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.882 [CE] :: WARNING :: Preset (cargo) with name 'moneyVillage' was not found.
+18:14:36.883 [CE][TypeSetup] :: 466 classes setuped...
+18:14:36.884 [CE][TypeSetup] :: 0 classes setuped...
+18:14:36.886 [CE][TypeSetup] :: 73 classes setuped...
+18:14:36.891 [CE][TypeSetup] :: 206 classes setuped...
+18:14:36.892 [CE][TypeSetup] :: 4 classes setuped...
+18:14:36.893 [CE][TypeSetup] :: 0 classes setuped...
+18:15:33.349 [CE][RegisterBind] :: 0 classes binded...
+18:15:33.350 [CE][RegisterConfig] :: 27263 config classes registered, 1 sub-counters...
+18:15:33.350 [CE][Hive] :: Loading map data ... 
+18:15:33.351 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 18 types
+18:15:33.430 [CE][LoadPrototype] :: loaded 481 prototypes
+18:15:33.430   945 containers, 12764 points
+18:15:33.430   47 dispatches, 196 proxies
+18:15:33.430 !!! [CE][LoadPrototype] 10 groups have no points...
+18:15:33.430 !!! [CE][LoadPrototype] 2 groups have wrong points...
+18:15:33.430 !!! [CE][LoadPrototype] 12 groups were defined more than once and skipped...
+18:15:33.430 [CE][LoadPrototype] :: last group name: StaticBoatFishing...
+18:15:33.438 [CE][LoadPrototype] :: loaded 0 prototypes
+18:15:33.438   56 containers, 235 points
+18:15:33.438   0 dispatches, 0 proxies
+18:15:33.438 [CE][LoadPrototype] :: last group name: Rail9...
+18:15:34.271 [CE][LoadMap] "Group" :: loaded 13688 groups, groups failed: 0, largest group range: 33.9
+18:15:34.277 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 33.9
+18:15:35.305 [CE][Links] found 7658 total links between groups, of 13688
+18:15:35.305 [CE][LoadClusters] "Cluster" :: Loading files...
+18:15:35.535 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 10 types, 50000 instances
+18:15:35.759 [CE][LoadClusters] :: file: "mapgroupcluster01", 10 types, 45698 instances
+18:15:35.775 [CE][Storage] ver:21 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.bin"
+18:15:35.776 [CE][Storage] ver:21 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.001"
+18:15:35.776 [CE][Storage] ver:21 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.002"
+18:15:35.776 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\types.bin".
+18:15:39.924 !!! [CE][offlineDB] :: No Shutdown message present.
+18:15:39.927 !!! [CE][DE] (StaticBoatMix) :: Unable to create child (StaticBoatFishing) as the type does not exist.
+18:15:39.927 [CE][offlineDB] :: Loaded 38 dynamic events 219 total types.
+18:15:39.930 !!! [CE][DE] (StaticBoatMix) :: Unable to create child (StaticBoatFishing) as the type does not exist.
+18:15:39.930 [CE][offlineDB] :: Loaded 38 dynamic events 219 total types.
+18:15:39.931 [CE][offlineDB] :: Loaded 39 dynamic events 226 total types.
+18:15:39.956 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:39.957 !!! [CE] :: Unknown value: 'Unique'.
+18:15:39.959 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+18:15:39.959 !!! [CE] :: Unknown value: 'Tier6'.
+18:15:39.989 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:39.990 !!! [CE] :: Unknown value: 'Unique'.
+18:15:39.992 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+18:15:39.992 !!! [CE] :: Unknown value: 'Tier6'.
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_RifleSling_1_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Patch_USA' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_CirclePatch_Outdoors' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Singlemags_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Singlemags_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Singlemags_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS1_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS1_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS2_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_AVS2_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Utility_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_Utility_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_SmallPouch_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_SmallPouch_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_DoublePistolMag_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_DoublePistolMag_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Pouch_40mmPouch_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_AssaultHelmetCover_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_WW2GasBag_Classic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_DuffleBag_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_HipsterBag_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_HipsterBag_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_HipsterBag_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_MilitaryBag_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_MilitaryBag_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_MechanicBelt_Leather' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_BisonBelt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_BisonBelt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_UtilityBelt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_UtilityBelt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_LeatherBelt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_LeatherBelt_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_MolleBelt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_MolleBelt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Smersh_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Smersh_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Comtacs_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Beret_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Beret_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.01 !!! [CE][offlineDB] :: Type 'ALV_Boonie_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Boonie_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Boonie_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Boonie_MC' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Pink' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Orange' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Beanie_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_TacCap_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_TacCap_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_TacCap_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_AssaultHelmet_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WW2Helmet_Classic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_BaseballCap_Forwards_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_BaseballCap_Forwards_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_BaseballCap_Forwards_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_SkullMask_Plain' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Parka_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Parka_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Parka_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Parka_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_Parka_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WinterJacket_Purple' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_YellowBlue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Orange' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_NauticJacket_BluWhite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PlaidJacket_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PlaidJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PlaidJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_MilitaryJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_SheriffJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HuntingVest_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_DenimJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_DenimJacket_Blue_Wool' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_DenimJacket_Black_Wool' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_ESP_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PCUL5Coat_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PatrolJacket_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PatrolJacket_STG_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PatrolJacket_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_Camo2' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HuntingCoat_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_TweedJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_TweedJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_WW2Coat_Classic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_PilotsJacket_Burgundy' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Orange' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_HikingJacket_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.02 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LightweightJacket_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Duster_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Duster_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Duster_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_MC' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_MCBLK' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_ESPN' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ScavangerTop_ESPNGry' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Blue_Kneepads' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Grey_Kneepads' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Black_Kneepads' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Brown_Kneepads' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Jeans_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Workpants_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Sheriffpants_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Sheriffpants_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Cargopants_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Cargopants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_MechanicPants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FirefighterPants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FirefighterPants_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ScrubsPants_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PatrolPants_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PatrolPants_STG_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PatrolPants_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_MC' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Pants_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CargoShorts_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CargoShorts_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SweatPants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SmartPants_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SmartPants_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WW2Pants_Classic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LeatherLeggings_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HunterPants_Kneepads_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_White' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Purple' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ShemaghScarf_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tie_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TatteredPoncho_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Open_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_FaceCover_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Open_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_FaceCover_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Open_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Balaclava_FaceCover_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf01_Cream' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf02_Cream' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Scarf03_Cream' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Linen' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_HoodedShawl_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WW2Boots_Classic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CottonTop_BlackWhite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_BlackWhite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_WhiteBlack' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Teal' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Pink' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RaglanTshirt_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_MC' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_EMR' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TacticalHoodie_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_White' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Red2' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FlannelShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SheriffShirt_Plain' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SheriffShirt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Beige' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_White' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Tshirt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Khaki' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_CreBlue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Cream' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_BlaGrn' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_OrgBlu' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_FleeceTop_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_MechanicTop_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ScrubsTop_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_BlackWhite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PulloverHoodie_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_White' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_DressShirt_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Shanka' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LongSleeve_Tshirt_Shanka_STG' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_VestShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Sweater_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Sweater_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Denim' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WorkersShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_MC_Rolled' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Tan_Rolled' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Black_Rolled' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Snow_Rolled' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_MC_Long' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Tan_Long' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Black_Long' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Snow_Long' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_MC_Cut' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Black_Cut' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Snow_Cut' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_G3Shirt_Tan_Cut6' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ReverendTop_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ModularVest_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ModularVest_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ModularVest_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_ESP_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_JPCVest_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_6B25Vest_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_6B25Vest_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_6B25Vest_Snow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ChestPouch_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ChestPouch_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ChestPouch_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_WW2Vest_Classic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_BikerVest_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PoliceVest_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_OpenShirt_Pink' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Overcoat_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Overcoat_Camel' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Overcoat_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CanvasBag_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_RollTopBag_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Satchel_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PlagueMask_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PlagueMask_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_MickeyMask' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_CivieRifleSling_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_White' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_Purple' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_SkiGoggles_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Camel' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_TurtleNeck_Orange' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PoliceShirt_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PrisonJumpsuit_Orange' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_PolicePants_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_AssaultVest_Tan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_AssaultVest_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ChestRig_Olive' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_ChestRig_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Monkrobes_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Monkrobes_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_Monkrobes_Abbot' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_DarkRed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.03 !!! [CE][offlineDB] :: Type 'ALV_LeatherJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+18:15:40.07 !!! [CE][offlineDB] :: Type 'BBP_Step_LadderKit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_Vest_TacTecV2_Full_MCB' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_TRexHelmet_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_adidas' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_blackgold' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_blackred' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_adidas_vanna' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_Master_Chef' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_Master_Chef_MarkV' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_Master_Chef_VI' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_Opscore_Cover_Jay' will be ignored. (Type does not exist. (Typo?))
+18:15:40.15 !!! [CE][offlineDB] :: Type 'CDAJ_SyfyHelm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.16 !!! [CE][offlineDB] :: Type 'AJW__Ammo_338' will be ignored. (Type does not exist. (Typo?))
+18:15:40.16 !!! [CE][offlineDB] :: Type 'AJW__AmmoBox_338mm_10Rnd' will be ignored. (Type does not exist. (Typo?))
+18:15:40.18 !!! [CE][offlineDB] :: Type 'AJW__AWM_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.18 !!! [CE][offlineDB] :: Type 'AJW__AWM_AOR2' will be ignored. (Type does not exist. (Typo?))
+18:15:40.18 !!! [CE] :: Unknown usage: 'Convoy'.
+18:15:40.18 !!! [CE] :: Unknown usage: 'Convoy'.
+18:15:40.18 !!! [CE][offlineDB] :: Type 'AJW__AWM_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.18 !!! [CE][offlineDB] :: Type 'AJW__AWM_Gold' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_B11' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_Goliaf_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_Goliaf_Copper' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AK74U_HNG_STD' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_M4_HKERGO_PGrip' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_SCAR_MREX_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_SCAR_MREX_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_SCAR_CASV_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_SCAR_CASV_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_SCAR_PMM_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_SCAR_PMM_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B30_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B30_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Hexagon_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Hexagon_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Hexagon_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulL_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulL_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_CMRD_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_CMRD_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_AK100' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B10_Plastic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.22 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B19_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_B19_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulS_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_MagpulS_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Shark_Wood' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_SLR_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Sport1_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Sport1_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Troy_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AKHNG_Troy_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AK74M_Plastic_Stock' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AK74M_PT1_Stock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_AK74M_PT3_Stock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_10_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_10_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_10_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_10_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_URGI_10_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_URGI_10_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_M4_BlockII_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_STD_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_STD_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_STD_Hndgrd_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_LVAW_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_LVAW_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_LT_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.23 !!! [CE][offlineDB] :: Type 'AJW_MCX_LT_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_LT_Hndgrd_OD' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_LCH_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_OD' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_KM_Hndgrd_AnaRed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE] :: Unknown value: 'Ungerground'.
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_BCM_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_BCM_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_DD_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_DD_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Cyan' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_OD' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Pink' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_F1_PGrip_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_Hogue_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_Hogue_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_MOE_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_MOE_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_MOEK2_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_MOEK2_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_TD_PGrip_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_TD_PGrip_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_M4_TD_PGrip_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_Bttstock_Crane_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.24 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Buffer_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Buffer_AnaRed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Collapsible_Open' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Collapsible_Closed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Skele' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_MiniSkele' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_MCX_Stock_Visor' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_AK12_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_B5_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_B5_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_BCM_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_BCM_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_CMMG_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_DD_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_DD_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_DS150_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_DS150_Bttstock_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_FAB_GLC_Bttstock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_Bttstock_Crane' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_M4_URX4_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_M4_LVOA_Hndgrd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_M4_LVOA_Hndgrd_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_PRS2_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_PRS2_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_HKG28_Stock_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_HKG28_Stock_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.25 !!! [CE][offlineDB] :: Type 'AJW_Magpul_MOE_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.26 !!! [CE][offlineDB] :: Type 'AJW_Magpul_MOE_OD' will be ignored. (Type does not exist. (Typo?))
+18:15:40.26 !!! [CE][offlineDB] :: Type 'AJW_Magpul_MOE_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.28 !!! [CE][offlineDB] :: Type 'AJW_Mag_CM_TaranTactical_9Rnd' will be ignored. (Type does not exist. (Typo?))
+18:15:40.28 !!! [CE][offlineDB] :: Type 'AJW__AWM_Magazine_5rnd' will be ignored. (Type does not exist. (Typo?))
+18:15:40.28 !!! [CE][offlineDB] :: Type 'BAW_Mag_Uzi_35Rnd' will be ignored. (Type does not exist. (Typo?))
+18:15:40.28 !!! [CE][offlineDB] :: Type 'BAW_Mag_DMR_20rnd' will be ignored. (Type does not exist. (Typo?))
+18:15:40.29 !!! [CE][offlineDB] :: Type 'AJW_Optic_LRHS_FDE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.29 !!! [CE][offlineDB] :: Type 'AJW_Optic_LRHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.33 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+18:15:40.33 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+18:15:40.33 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'Dogtag_Survivor' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'Dogtag_Hero' will be ignored. (Type does not exist. (Typo?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'Dogtag_Bandit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'Dogtag_Silver' will be ignored. (Type does not exist. (Typo?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'Dogtag_Granite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'Dogtag_Cobalt' will be ignored. (Type does not exist. (Typo?))
+18:15:40.35 !!! [CE][offlineDB] :: Type 'DogtagCase' will be ignored. (Type does not exist. (Typo?))
+18:15:40.40 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:40.41 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:40.41 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+18:15:40.46 !!! [CE][offlineDB] :: Type 'EFT_Vest_ReductM' will be ignored. (Type does not exist. (Typo?))
+18:15:40.47 !!! [CE][offlineDB] :: Type 'EFT_Insultatingtape' will be ignored. (Type does not exist. (Typo?))
+18:15:40.55 !!! [CE][offlineDB] :: Type 'MMG_tactical_shirt_dark_woodland' will be ignored. (Type does not exist. (Typo?))
+18:15:40.59 !!! [CE][offlineDB] :: Type 'MMG_assault_pack_multicam_tropic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.60 !!! [CE][offlineDB] :: Type 'MMG_mmps_nag_multicamblack' will be ignored. (Type does not exist. (Typo?))
+18:15:40.62 !!! [CE][offlineDB] :: Type 'EXAMPLE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.62 !!! [CE][offlineDB] :: Type 'EXAMPLE' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'opel_blitz' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3		' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_yellow		' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_white		' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_black		' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'dodge_power_wagonrus_doors_cargo3_red		' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_driver_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_codriver_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo1_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo2_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_hood_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_trunk_MCHS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_driver_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_codriver_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo1_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo2_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_hood_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_trunk_VP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_driver_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_codriver_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo1_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_cargo2_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_hood_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_3163_doors_trunk_emergency_service' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_469_milicia_wheel ' will be ignored. (Type does not exist. (Typo?))
+18:15:40.85 !!! [CE][offlineDB] :: Type 'UAZ_469_milicia_doors_cargo1	' will be ignored. (Type does not exist. (Typo?))
+18:15:40.86 !!! [CE][offlineDB] :: Type 'UAZ_27722_mchs_doors_cargo2_ambulancia' will be ignored. (Type does not exist. (Typo?))
+18:15:40.86 !!! [CE][offlineDB] :: Type 'IJ_2125_Kombi_wheel ' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'FWCraftingWorkbench' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'FWCraftingWorkbench_Military' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'FWCraftingWorkbench_Civilian' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE] :: Unknown usage: 'Loot'.
+18:15:40.92 !!! [CE] :: Unknown usage: 'Loot'.
+18:15:40.92 !!! [CE] :: Unknown usage: 'Loot'.
+18:15:40.92 !!! [CE] :: Unknown usage: 'Loot'.
+18:15:40.92 !!! [CE] :: Unknown value: 'Tier6'.
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolReceiver_22' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolReceiver_9mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolReceiver_45ACP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolReceiver_762x25' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolReceiver_380' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolHandle_22' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolHandle_9mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolHandle_45ACP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolHandle_762x25' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'PistolHandle_380' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_22' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_9mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_45ACP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_762x25' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_380' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_556' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_545' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_300BLK' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_762x39' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_939' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_762x54' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_308' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_300WM' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_338' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_408' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_50' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_8mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'Barrel_12Gauge' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_22' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_9mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_45ACP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_762x25' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_380' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_556' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_545' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_300BLK' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_762x39' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_939' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_762x54' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_308' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_300WM' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_338' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_408' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_50' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_8mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'LowerReceiver_12Gauge' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_22' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_9mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_45ACP' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_762x25' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_380' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_556' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_545' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_300BLK' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_762x39' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_939' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_762x54' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_308' will be ignored. (Type does not exist. (Typo?))
+18:15:40.92 !!! [CE][offlineDB] :: Type 'UpperReceiver_300WM' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'UpperReceiver_338' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'UpperReceiver_408' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'UpperReceiver_50' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'UpperReceiver_8mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'UpperReceiver_12Gauge' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_762x54' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_308' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_300WM' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_338' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_408' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_50' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Bolt_8mm' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'BarrelLiner_MatchGrade' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'BoltAssembly_Precision' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'ReceiverBracket_Reinforced' will be ignored. (Type does not exist. (Typo?))
+18:15:40.93 !!! [CE][offlineDB] :: Type 'Spring_Elite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_EternalFireplace' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CommunityBarrel' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CommunityBarrel_Holes' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'TentBag_Orel' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'TentBag_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'TentBag_Desert' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'TentBag_Arctic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'TentBag' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_DexBottle' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Taser_Yellow' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Taser_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Mag_ZenTaser' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Plant_ZenCannabis' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Cannabis' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CannabisSeeds' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CannabisSeedsPack' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenWatchGPS' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenQuiver' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Grey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Black_Deployed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Blue_Deployed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Green_Deployed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Grey_Deployed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleepingBag_Red_Deployed' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleep_Anesthetic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleep_Anesthetic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSleep_Amphetamine' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock4' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock5' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock6' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock7' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock8' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CombinationLock9' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_BoltCutter' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Spraycan_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Spraycan_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenJameson' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_ZenJameson' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenFlask' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_ZenFlask' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Canteen_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Mag_AK74_45Rnd_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Mag_AK74_45Rnd_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_M4_Suppressor_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_AK_Suppressor_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_PistolSuppressor_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ImprovisedSuppressor_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ImprovisedSuppressor_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_AK74_WoodBttstck_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_AK74_Hndgrd_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_TradingFlag' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Armband_ZenTrader' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_DarkCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Mich2001Helmet_Zenarchist' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_TacticalShirt_Black_Australia' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_TacticalShirt_Olive_Australia' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_TacticalShirt_Tan_Australia' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_BaseballCap_Camo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_BaseballCap_DarkCamo' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_BaseballCap_Zenarchist' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'MilitaryBoots_BlackPunk' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Shirt_HunterCat' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Shirt_PharaohCat' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_Shirt_BothCat' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmStation' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmRadar' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmStationKit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_RaidAlarmRadarKit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ArtillerySmokeGrenade' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ArtillerySmokeGrenadeChem' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenGraves_DeadPlayerCross' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenGraves_UndergroundStash' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenGraves_DeadPlayerSkeleton' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ImprovisedShelter' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CamoShelterKit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CarWorkbench' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CarWorkbenchKit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBoard' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessWhitePawn' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackPawn' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteBishop' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackBishop' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteKing' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackKing' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteKnight' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackKnight' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteQueen' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackQueen' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessWhiteRook' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ChessBlackRook' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ConcussionGrenade' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenFlint' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieSuit' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieHood' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieTop' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_GhillieAtt' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_CamoNet_Strip' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenNote' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenJournal' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Pen_Pink' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Pen_Purple' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Pen_Orange' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRaybans_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRaybans_Red' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRaybans_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRaybans_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ShelterStick' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ShelterFabric' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_ShelterLeather' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_VikingAxe' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_TireRack' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Zen_NBCCase' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenSwissKnife' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenZippoLighter' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenZippoLighter_Peace' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenZippoLighter_Anarchy' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenZippoLighter_Zenarchist' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenPetrolLighter' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Air' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Body' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Chaos' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Cosmic' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Earth' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Fire' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Law' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Mind' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Nature' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'ZenRune_Water' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Black' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Blue' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Green' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'EyeMask_ZenRabbit_Pink' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Pipsi' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Cola' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Spite' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Kvass' will be ignored. (Type does not exist. (Typo?))
+18:15:40.96 !!! [CE][offlineDB] :: Type 'Empty_SodaCan_Fronta' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_BoxCerealCrunchin' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Rice' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_PowderedMilk' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Marmalade' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Honey' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Marmalade_NoLiquid' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Honey_NoLiquid' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Zagorky' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_ZagorkyChocolate' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_ZagorkyPeanuts' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_SaltySticks' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Crackers' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Chips' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_BakedBeansCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_PeachesCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_TacticalBaconCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_SpaghettiCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_SardinesCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_TunaCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_DogFoodCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_CatFoodCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_PorkCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Lunchmeat_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_UnknownFoodCan_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_Pate_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Empty_BrisketSpread_Opened' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Used_SalineBagIV' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Used_BloodBagIV' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Used_Morphine' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Used_Epinephrine' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Used_AntiChemInjector' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_BoomBox' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Walkman' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_CassetteCase' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen1' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen2' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen3' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen4' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen5' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen6' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen7' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen8' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen9' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen10' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen11' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen12' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen13' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen14' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Zen15' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical1' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical2' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical3' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical4' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical5' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical6' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical7' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical8' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Classical9' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan1' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan2' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan3' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan4' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan5' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan6' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan7' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan8' will be ignored. (Type does not exist. (Typo?))
+18:15:40.97 !!! [CE][offlineDB] :: Type 'Zen_Cassette_Alan9' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo01' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo02' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo03' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo04' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo05' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo06' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo07' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo08' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo09' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo10' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo11' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo12' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo13' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo14' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo15' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo16' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo17' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo18' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo19' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo20' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo21' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo22' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo23' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo24' will be ignored. (Type does not exist. (Typo?))
+18:15:40.98 !!! [CE][offlineDB] :: Type 'ZenTreasure_Photo25' will be ignored. (Type does not exist. (Typo?))
+18:15:40.105 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:40.105 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+18:15:40.106 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+18:15:40.108 !!! [ERROR][XML] :: load [trerik4\ce\cfgeventgroups.xml] failed
+18:15:40.108 !!! [ERROR][XML] :: Failed to open file
+18:15:40.111 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticAirplaneCrate'.
+18:15:40.111 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticTrain'.
+18:15:40.111 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticMilitaryConvoy'.
+18:15:40.111 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticPoliceSituation'.
+18:15:40.111 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+18:15:40.111 [CE][DE][SPAWNS] :: Total positions: 555
+18:15:40.111 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+18:15:40.112 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.bin"
+18:15:40.113 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.001"
+18:15:40.113 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.002"
+18:15:40.113 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\events.bin".
+18:15:40.114 [CE][DynamicEvent] Load  Events:[39] Primary spawners: 39 Secondary spawners: 1
+18:15:40.115 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.bin"
+18:15:40.115 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.001"
+18:15:40.116 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.002"
+18:15:40.116 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_000.bin" 2834 items.
+18:15:47.813   2834 items loaded. (0 failed)
+18:15:47.825 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.bin"
+18:15:47.836 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.001"
+18:15:47.847 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.002"
+18:15:47.848 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_001.bin" 4420 items.
+18:15:59.458   4420 items loaded. (0 failed)
+18:15:59.470 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.bin"
+18:15:59.481 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.001"
+18:15:59.490 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.002"
+18:15:59.490 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_002.bin" 5756 items.
+18:16:14.165   5756 items loaded. (0 failed)
+18:16:14.177 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.bin"
+18:16:14.188 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.001"
+18:16:14.198 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.002"
+18:16:14.198 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_003.bin" 3905 items.
+18:16:24.967   3905 items loaded. (0 failed)
+18:16:24.980 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.bin"
+18:16:24.991 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.001"
+18:16:25.04 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.002"
+18:16:25.04 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_004.bin" 1526 items.
+18:16:29.57   1526 items loaded. (0 failed)
+18:16:29.68 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.bin"
+18:16:29.80 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.001"
+18:16:29.92 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.002"
+18:16:29.92 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_005.bin" 2015 items.
+18:16:34.496   2015 items loaded. (0 failed)
+18:16:34.515 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.bin"
+18:16:34.528 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.001"
+18:16:34.540 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.002"
+18:16:34.540 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_006.bin" 888 items.
+18:16:36.914   888 items loaded. (0 failed)
+18:16:36.924 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.bin"
+18:16:36.936 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.001"
+18:16:36.946 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.002"
+18:16:36.946 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_007.bin" 428 items.
+18:16:38.181   428 items loaded. (0 failed)
+18:16:38.192 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.bin"
+18:16:38.205 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.001"
+18:16:38.217 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.002"
+18:16:38.217 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_008.bin" 1587 items.
+18:16:42.683   1587 items loaded. (0 failed)
+18:16:42.695 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.bin"
+18:16:42.706 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.001"
+18:16:42.717 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.002"
+18:16:42.717 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_009.bin" 2655 items.
+18:16:50.210   2655 items loaded. (0 failed)
+18:16:50.220 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.bin"
+18:16:50.229 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.001"
+18:16:50.239 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.002"
+18:16:50.239 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_010.bin" 226 items.
+18:16:50.838   226 items loaded. (0 failed)
+18:16:50.846 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.bin"
+18:16:50.855 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.001"
+18:16:50.864 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.002"
+18:16:50.864 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\dynamic_011.bin" 0 items.
+18:16:50.864   0 items loaded. (0 failed)
+18:16:50.873 [CE][Storage] ver:26 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.bin"
+18:16:50.883 [CE][Storage] ver:26 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.001"
+18:16:50.893 [CE][Storage] ver:26 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.002"
+18:16:50.893 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\building.bin" 0 items.
+18:16:50.893   0 items loaded. (0 failed)
+18:16:50.904 [CE][Storage] ver:25 stamp:426, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.bin"
+18:16:50.915 [CE][Storage] ver:25 stamp:423, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.001"
+18:16:50.923 [CE][Storage] ver:25 stamp:424, valid:yes, name:"C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.002"
+18:16:50.923 [CE][Storage] Restoring file "C:\TCAFiles\Users\gunners\1580\mpmissions\empty.arsteinen\storage_1\data\vehicles.bin" 105 items.
+18:16:51.278   105 items loaded. (0 failed)
+18:16:51.316 [CE][Hive] :: Storage load took:71.20 seconds, recovery stamp:426
+18:16:51.316   entity: 27854, building: 0
+18:16:51.316   no lifetime: 8
+18:16:51.316   pathgraph's: 760
+18:16:51.317 [CE][Hive] :: Initializing ... 
+18:16:51.459 [CE][InitializeMap] :: initialized: 0
+18:16:51.459 [CE][Hive] :: Initializing spawners ... 
+18:16:51.460 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:27112, Total in Map: 28472 at 0 (sec)
+18:16:51.461   tests:0, repeats:0 fails:0, overtime:0
+18:16:51.593 !!! [CE][DE] DynamicEvent "StaticContaminatedArea" does not have position 'player', so it needs configured positions.
+18:16:51.593 !!!!!! [CE][DE] DynamicEvent "StaticContaminatedArea" setup is invalid, event will be disabled.
+18:16:51.630 !!! [CE][DE] DynamicEvent "VehicleCivilianSedan" does not have position 'player', so it needs configured positions.
+18:16:51.630 !!!!!! [CE][DE] DynamicEvent "VehicleCivilianSedan" setup is invalid, event will be disabled.
+18:16:51.630 !!! [CE][DE] DynamicEvent "VehicleHatchback02" does not have position 'player', so it needs configured positions.
+18:16:51.630 !!!!!! [CE][DE] DynamicEvent "VehicleHatchback02" setup is invalid, event will be disabled.
+18:16:51.630 !!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" does not have position 'player', so it needs configured positions.
+18:16:51.630 !!!!!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" setup is invalid, event will be disabled.
+18:16:51.630 !!! [CE][DE] DynamicEvent "VehicleSedan02" does not have position 'player', so it needs configured positions.
+18:16:51.630 !!!!!! [CE][DE] DynamicEvent "VehicleSedan02" setup is invalid, event will be disabled.
+18:16:51.630 !!! [CE][DE] DynamicEvent "VehicleTruck01" does not have position 'player', so it needs configured positions.
+18:16:51.630 !!!!!! [CE][DE] DynamicEvent "VehicleTruck01" setup is invalid, event will be disabled.
+18:16:51.630 !!! [CE][DE] DynamicEvent "VehicleBoat" does not have position 'player', so it needs configured positions.
+18:16:51.630 !!!!!! [CE][DE] DynamicEvent "VehicleBoat" setup is invalid, event will be disabled.
+18:16:51.633 [CE][DynEvent] :: 39 types
+18:16:51.633 [00] Loot
+18:16:51.633   Primary Spawner: "Loot", active: yes, repeat: 2
+18:16:51.633 [01] AmbientHen
+18:16:51.633   Primary Spawner: "Ambient", active: yes, repeat: 1
+18:16:51.633 [02] AnimalBear
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [03] AnimalCow
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [04] AnimalDeer
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [05] AnimalGoat
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [06] AnimalPig
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [07] AnimalRoeDeer
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [08] AnimalSheep
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [09] AnimalWildBoar
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [10] AnimalWolf
+18:16:51.633   Primary Spawner: "Animal", active: yes, repeat: 1
+18:16:51.633 [11] InfectedArmy
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [12] InfectedArmyHard
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [13] InfectedCity
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [14] InfectedCityTier1
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [15] InfectedFirefighter
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [16] InfectedIndustrial
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [17] InfectedMedic
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [18] InfectedNBC
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [19] InfectedNBCYellow
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [20] InfectedPolice
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [21] InfectedPoliceHard
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [22] InfectedPrisoner
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [23] InfectedReligious
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.633 [24] InfectedSolitude
+18:16:51.633   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.634 [25] InfectedVillage
+18:16:51.634   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.634 [26] InfectedVillageTier1
+18:16:51.634   Primary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.634 [27] ItemPlanks
+18:16:51.634   Primary Spawner: "Item", active: yes, repeat: 1
+18:16:51.634 [28] StaticContaminatedArea
+18:16:51.634   Primary Spawner: "Static", active: no, repeat: 1
+18:16:51.634 [29] StaticHeliCrash
+18:16:51.634   Primary Spawner: "Static", active: yes, repeat: 1
+18:16:51.634   Secondary Spawner: "Infected", active: yes, repeat: 1
+18:16:51.634 [30] VehicleCivilianSedan
+18:16:51.634   Primary Spawner: "Vehicle", active: no, repeat: 1
+18:16:51.634 [31] VehicleHatchback02
+18:16:51.634   Primary Spawner: "Vehicle", active: no, repeat: 1
+18:16:51.634 [32] VehicleOffroadHatchback
+18:16:51.634   Primary Spawner: "Vehicle", active: no, repeat: 1
+18:16:51.634 [33] VehicleSedan02
+18:16:51.634   Primary Spawner: "Vehicle", active: no, repeat: 1
+18:16:51.634 [34] VehicleTruck01
+18:16:51.634   Primary Spawner: "Vehicle", active: no, repeat: 1
+18:16:51.634 [35] VehicleBoat
+18:16:51.634   Primary Spawner: "Vehicle", active: no, repeat: 1
+18:16:51.634 [36] StaticBoatMix
+18:16:51.634   Primary Spawner: "Static", active: yes, repeat: 1
+18:16:51.634 [37] StaticScientist
+18:16:51.634   Primary Spawner: "Static", active: yes, repeat: 1

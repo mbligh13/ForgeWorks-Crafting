@@ -1,0 +1,40 @@
+ADDED:
+*check ALL_CLASSNAMES.txt for full list of new varients its alot.
+
+Vests- TBAS, TACTECV2 (regular, medium, and full variants) New TV110 camo variants.
+Attachements for TBAS - Spud mags and trauma roll
+Adds CDAJ_Tourniquet_AJI
+Textures for MOST OpscoreV2 items.
+Additional Textures for Silkies (as seen on rearmed)
+New Patch item- template texture provided for you to make your own patches.
+Will make a patch for helmets in the future that will use the same UV.
+Templates added for All UVs in \clothing\data
+Updated CDAJ_Types.xml
+
+CHANGED:
+Revised model for TV110 and radio attachments
+
+REMOVED:
+TRex helmet - CDAJ_TRexHelmet_Green - was added to this mod by mistake. sorry chubby <3
+/*
+THE FOLLOWING CLASSNAMES WERE REMOVED DURING THE TV110 REVISION
+CDAJ_TV110_MagPouches_MC
+CDAJ_TV110_MagPouches_Black
+CDAJ_TV110_AdminPouch_MC
+CDAJ_TV110_AdminPouch_Black
+CDAJ_TV110_GrenadePouch_MC
+CDAJ_TV110_GrenadePouch_Black
+CDAJ_TV110_Medkit_MC
+CDAJ_TV110_Medkit_Black
+CDAJ_TV110_UtilityPouch_MC
+CDAJ_TV110_UtilityPouch_Black
+*/
+
+FIXES:
+-More Damage system floats.
+
+KNOWN ISSUES:
+-CDAJ_ADMIN_RED may not actually show up. Its supposed to have a sign above the characters head that says "ADMIN" it still works but I've had a few reports saying its invisible. Unsure what the issue is.
+-CDAJ_Trenchcoat varients have poor weighting on the players left leg. I will correct this when I have time.
+-CDAJ_MSR_Tan, CDAJ_MSR, have no shot sounds, If you have Morty's Weapons loaded it works. This was a mistake during testing and i will eventually have my own soundsets for this weapon.
+-CDAJ_DKS shoots REALLY low and i think i know why, i just havent unfucked it.

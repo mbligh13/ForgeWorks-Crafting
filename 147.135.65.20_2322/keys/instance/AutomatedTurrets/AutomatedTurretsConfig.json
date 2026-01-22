@@ -1,0 +1,115 @@
+{
+    "Turrets": [
+        {
+            "m_sTurretClassName": "M60_Turret_Bottom_1000HP",
+            "m_vTurretPosition": [
+                1234.0,
+                123.0,
+                1234.0
+            ],
+            "m_vTurretRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_fTurretGuardRadius": 50.0,
+            "m_sTurretAmmoClassName": "Bullet_556x45",
+            "m_nTurretShootingRPM": 650,
+            "m_nTurretHitChance": 80,
+            "m_bTurretExplosiveRounds": 0,
+            "m_bTurretCanIdle": 1,
+            "m_fTurretMaxIdleAngle": 45.0,
+            "m_bTurretCanBeDestroyed": 1,
+            "m_nTurretTimeToRespawn": 3600,
+            "m_aTurretTargetsPlayers": [
+                "76561198180634871"
+            ],
+            "m_aTurretTargetsZombies": [
+                "REVERSE",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_NBC_Grey",
+                "ZmbF_PoliceWomanNormal"
+            ],
+            "m_aTurretTargetsAnimals": [
+                "NONE"
+            ],
+            "m_aTurretTargetsVehicles": [
+                "ALL"
+            ]
+        },
+        {
+            "m_sTurretClassName": "M134_Turret_Bottom_5000HP",
+            "m_vTurretPosition": [
+                1234.0,
+                123.0,
+                1234.0
+            ],
+            "m_vTurretRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_fTurretGuardRadius": 75.0,
+            "m_sTurretAmmoClassName": "Bullet_556x45",
+            "m_nTurretShootingRPM": 6000,
+            "m_nTurretHitChance": 25,
+            "m_bTurretExplosiveRounds": 0,
+            "m_bTurretCanIdle": 0,
+            "m_fTurretMaxIdleAngle": 0.0,
+            "m_bTurretCanBeDestroyed": 1,
+            "m_nTurretTimeToRespawn": 60,
+            "m_aTurretTargetsPlayers": [
+                "76561198180634871"
+            ],
+            "m_aTurretTargetsZombies": [
+                "REVERSE",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_NBC_Grey",
+                "ZmbF_PoliceWomanNormal"
+            ],
+            "m_aTurretTargetsAnimals": [
+                "NONE"
+            ],
+            "m_aTurretTargetsVehicles": [
+                "ALL"
+            ]
+        },
+        {
+            "m_sTurretClassName": "M2_Turret_Top_10000HP",
+            "m_vTurretPosition": [
+                1234.0,
+                123.0,
+                1234.0
+            ],
+            "m_vTurretRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_fTurretGuardRadius": 150.0,
+            "m_sTurretAmmoClassName": "Bullet_308Win",
+            "m_nTurretShootingRPM": 30,
+            "m_nTurretHitChance": 100,
+            "m_bTurretExplosiveRounds": 1,
+            "m_bTurretCanIdle": 1,
+            "m_fTurretMaxIdleAngle": 125.0,
+            "m_bTurretCanBeDestroyed": 0,
+            "m_nTurretTimeToRespawn": 0,
+            "m_aTurretTargetsPlayers": [
+                "76561198180634871"
+            ],
+            "m_aTurretTargetsZombies": [
+                "REVERSE",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_NBC_Grey",
+                "ZmbF_PoliceWomanNormal"
+            ],
+            "m_aTurretTargetsAnimals": [
+                "NONE"
+            ],
+            "m_aTurretTargetsVehicles": [
+                "ALL"
+            ]
+        }
+    ]
+}

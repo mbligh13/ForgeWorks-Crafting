@@ -1,0 +1,325 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "nm_Military_Poncho",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_Military_Poncho_b",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_Military_Poncho_c",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_PeltCoat_Human",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "nm_LeatherPants",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                {
+                    "ClassName": "nm_LeatherMoccasins",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_sandals",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "nm_LeatherGloves",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "MASK",
+            "Items": [
+                {
+                    "ClassName": "nm_Leathermask",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_Papermask",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_Skullmask",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Vest",
+            "Items": [
+                {
+                    "ClassName": "nm_Raider_Vest_Base",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_LeatherVest",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Hips",
+            "Items": [
+                {
+                    "ClassName": "nm_LeatherBelt",
+                    "Include": "",
+                    "Chance": 0.20000000298023225,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_Raider_Legprotecters_Base",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Melee",
+            "Items": [
+                {
+                    "ClassName": "nm_CulletKnife",
+                    "Include": "",
+                    "Chance": 0.05000000074505806,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_Hatchet_Bone",
+                    "Include": "",
+                    "Chance": 0.05000000074505806,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_SledgeHammer_Rust",
+                    "Include": "",
+                    "Chance": 0.05000000074505806,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_FirefighterAxe_Rust",
+                    "Include": "",
+                    "Chance": 0.05000000074505806,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_ScrapSpear",
+                    "Include": "",
+                    "Chance": 0.05000000074505806,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "nm_ScrapBat",
+                    "Include": "",
+                    "Chance": 0.05000000074505806,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [
+                        { "Min": 0.699999988079071, "Max": 1.0, "Zone": "" }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        }
+    ]
+}

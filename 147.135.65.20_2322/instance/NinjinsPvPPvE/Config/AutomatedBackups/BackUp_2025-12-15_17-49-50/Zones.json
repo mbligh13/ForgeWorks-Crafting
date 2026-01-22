@@ -1,0 +1,1874 @@
+{
+    "Zones": [
+        {
+            "name": "Nyheim",
+            "displayName": "",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 1,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 300.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                2021.47998046875,
+                35.369998931884769,
+                2698.81005859375
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": [
+                [
+                    3889.75927734375,
+                    38.62031936645508,
+                    2351.10400390625
+                ],
+                [
+                    3690.57275390625,
+                    78.58008575439453,
+                    1567.943359375
+                ],
+                [
+                    1239.33935546875,
+                    83.06697082519531,
+                    2369.495361328125
+                ],
+                [
+                    1504.8072509765626,
+                    50.29279708862305,
+                    3429.894775390625
+                ]
+            ]
+        },
+        {
+            "name": "Collector",
+            "displayName": "",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 200.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                5514.4501953125,
+                134.3699951171875,
+                2154.760009765625
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Odin",
+            "displayName": "",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 200.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                4746.7001953125,
+                5.228650093078613,
+                1812.3199462890626
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "King of The Hill",
+            "displayName": "King of The Hill",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 0,
+            "customTitle": "KOTH",
+            "customMessageEnter": "You have entered the King of The Hill event",
+            "customMessageExit": "You have left the King of The Hill event",
+            "customIcon": "",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 50.0,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "King of The Hill",
+            "Expansion3DIcon": "Flag",
+            "center": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Hansivaka",
+            "displayName": "",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 1200.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                4943.31005859375,
+                17.162200927734376,
+                9319.3095703125
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Zone 5",
+            "displayName": "Default Display Zone Text",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 700.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                7896.89990234375,
+                81.02469635009766,
+                818.1300048828125
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Zone 6",
+            "displayName": "Default Display Zone Text",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 400.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                6939.06982421875,
+                33.67259979248047,
+                1272.81005859375
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Zone 7",
+            "displayName": "Default Display Zone Text",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 6,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 200.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                3500.35009765625,
+                158.30999755859376,
+                4093.080078125
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Zone 8",
+            "displayName": "Default Display Zone Text",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 500.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                10213.2998046875,
+                22.036500930786134,
+                8113.10986328125
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "The Guys Favorite Place",
+            "displayName": "The Guys Favorite Place",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 500.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                323.885986328125,
+                192.37100219726563,
+                4235.7001953125
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Nyheim Airfield",
+            "displayName": "",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -6553,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 500.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                1973.719970703125,
+                142.1199951171875,
+                1170.77001953125
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "black market",
+            "displayName": "black market",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "New Zone",
+            "customMessageEnter": "You entered the New Zone!",
+            "customMessageExit": "You exited the New Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 1,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 1800.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                11893.7998046875,
+                22.036500930786134,
+                8935.08984375
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Trader",
+            "displayName": "",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 5,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 0,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "Trader",
+            "customMessageEnter": "You entered the Safe Zone!",
+            "customMessageExit": "You exited the Safe Zone!",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 1,
+            "drawStrikeZone": 0,
+            "radius": 500.0,
+            "noBuildRadius": -1.0,
+            "DrawNoBuildShape": 1,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "DefaultZone",
+            "Expansion3DIcon": "Ambush",
+            "center": [
+                1324.8399658203126,
+                255.5709991455078,
+                13377.900390625
+            ],
+            "ignoreHeightCheck": 0,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        }
+    ],
+    "OldVanillaMi8": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Old Mi8 Crash Zone",
+        "customMessageEnter": "You entered the Old Mi8 crash zone!",
+        "customMessageExit": "You exited the Old Mi8 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -6946561,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 150,
+        "zoneGreen": 0,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Custom Zone",
+        "Expansion3DIcon": "Compass",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "AirdropDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Airdrop Zone",
+        "customMessageEnter": "Entered Airdrop Zone",
+        "customMessageExit": "Exited Airdrop Zone",
+        "customIcon": "NinjinsPvPPvE/gui/airdrop.edds",
+        "notificationColor": -65281,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 0,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Airdrop Zone",
+        "Expansion3DIcon": "Airdrop",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "VanillaMi8Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Mi8 Crash Zone",
+        "customMessageEnter": "You entered the Mi8 crash zone!",
+        "customMessageExit": "You exited the Mi8 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -65536,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 0,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Mi8 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "VanillaUH1YWreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": 0,
+        "type": 1,
+        "priority": 1,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 0,
+        "customTitle": "",
+        "customMessageEnter": "",
+        "customMessageExit": "",
+        "customIcon": "",
+        "notificationColor": 0,
+        "dayConfigs": [],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 0,
+        "zoneBlue": 0,
+        "forceFirstPerson": 0,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "",
+        "Expansion3DIcon": "",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "CJ187C130Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "CJ187 C130 Crash Zone",
+        "customMessageEnter": "You entered the CJ187 C130 crash zone!",
+        "customMessageExit": "You exited the CJ187 C130 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -39936,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 100,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "CJ187 C130 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "CJ187Mi8Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "CJ187 Mi8 Crash Zone",
+        "customMessageEnter": "You entered the CJ187 Mi8 crash zone!",
+        "customMessageExit": "You exited the CJ187 Mi8 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -52586,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 50,
+        "zoneBlue": 150,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "CJ187 Mi8 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "CJ187UH1Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "CJ187 UH1 Crash Zone",
+        "customMessageEnter": "You entered the CJ187 UH1 crash zone!",
+        "customMessageExit": "You exited the CJ187 UH1 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -16738561,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 0,
+        "zoneGreen": 150,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "CJ187 UH1 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "ContaminatedZoneDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Contaminated Zone",
+        "customMessageEnter": "You have entered a contaminated PvP zone!",
+        "customMessageExit": "You have exited the contaminated PvP zone!",
+        "customIcon": "NinjinsPvPPvE/gui/gas.edds",
+        "notificationColor": -12517568,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 64,
+        "zoneGreen": 255,
+        "zoneBlue": 64,
+        "forceFirstPerson": 1,
+        "radius": 150.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Contaminated Area",
+        "Expansion3DIcon": "Gas Mask",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "FlagZoneDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 0,
+        "customTitle": "Territory Flag Zone",
+        "customMessageEnter": "You have entered a territory flag PvP zone!",
+        "customMessageExit": "You have left the territory flag PvP zone!",
+        "customIcon": "NinjinsPvPPvE/gui/flag.edds",
+        "notificationColor": -23296,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 165,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Territory Flag Zone",
+        "Expansion3DIcon": "Flag",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "KOTHZoneDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 0,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 1,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 0,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 0,
+        "customTitle": "",
+        "customMessageEnter": "",
+        "customMessageExit": "",
+        "customIcon": "",
+        "notificationColor": -23296,
+        "dayConfigs": [],
+        "zoneAlpha": 255,
+        "zoneRed": 0,
+        "zoneGreen": 155,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 50.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 1,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "King of The Hill",
+        "Expansion3DIcon": "Flag",
+        "drawShape": 1,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    }
+}

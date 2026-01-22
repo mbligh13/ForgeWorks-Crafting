@@ -1,0 +1,10 @@
+Authority:  ImperiumAssets
+Creation:   25/10/2025 22:35:48 (by DESKTOP-FJ0VKDN\sdorn)
+
+== PRIVATE KEY ==
+File: D:\mods\Imperium Assets\ImperiumAssets.biprivatekey
+MD5: e9d275a29f25742ef1b2099825fd8de1
+== PUBLIC KEY ==
+File: D:\mods\Imperium Assets\ImperiumAssets.bikey
+MD5: 1afa670cc05d6c5f482fcb152f5aefa3
+

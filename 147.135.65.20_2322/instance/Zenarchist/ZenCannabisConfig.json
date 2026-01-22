@@ -1,0 +1,10 @@
+{
+    "CONFIG_VERSION": "1",
+    "CannabisGardenPlotLifetime": 604800,
+    "DeleteUnwateredPlantSecs": 14400,
+    "SpoiledRemoveSecs": 3600,
+    "FullMaturitySecs": 14400,
+    "SpoilAfterFullMaturitySecs": 14400,
+    "InfestationChancePerStage": 0.20000000298023225,
+    "ChanceToDeletePlantOnHarvest": 1.0
+}

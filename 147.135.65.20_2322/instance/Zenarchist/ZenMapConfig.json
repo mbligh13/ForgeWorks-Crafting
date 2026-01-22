@@ -1,0 +1,68 @@
+{
+    "ClientConfig": {
+        "TakeMapToHandsOnHotkey": 1,
+        "MapsRepairableWithDuctTape": 1,
+        "SaveMarkersOntoMapItem": 1,
+        "AllowPlayerToDecide": 1,
+        "AllowCopyMapToMap": 1,
+        "RequirePenToMark": 1,
+        "MaxMarkerCountPerMapItem": 50,
+        "PenMarkerConsumeQuantityPercent": 10.0,
+        "DamageMapOnOpenPercent": 0.0,
+        "NoPenColors": [
+            -16119286,
+            -3664876,
+            -15165928,
+            -16760376,
+            -65374,
+            -16119286,
+            -27136
+        ],
+        "IconFiles": [
+            "DZ/gear/navigation/data/map_border_cross_ca.paa",
+            "ZenMap/data/icons/boat.paa",
+            "ZenMap/data/icons/car.paa",
+            "ZenMap/data/icons/cart.paa",
+            "DZ/gear/navigation/data/map_chapel_ca.paa",
+            "DZ/gear/navigation/data/map_church_ca.paa",
+            "ZenMap/data/icons/eye_closed.paa",
+            "ZenMap/data/icons/eye_open.paa",
+            "DZ/gear/navigation/data/map_factory_ca.paa",
+            "ZenMap/data/icons/flag.paa",
+            "DZ/gear/navigation/data/map_fir_ca.paa",
+            "DZ/gear/navigation/data/map_fuelstation_ca.paa",
+            "ZenMap/data/icons/guns.paa",
+            "DZ/gear/navigation/data/map_hill_ca.paa",
+            "DZ/gear/navigation/data/map_hospital_ca.paa",
+            "ZenMap/data/icons/heli.paa",
+            "ZenMap/data/icons/house.paa",
+            "ZenMap/data/icons/info.paa",
+            "DZ/gear/navigation/data/map_lighthouse_ca.paa",
+            "ZenMap/data/icons/marker.paa",
+            "DZ/gear/navigation/data/map_monument_ca.paa",
+            "DZ/gear/navigation/data/map_palm_ca.paa",
+            "ZenMap/data/icons/pin.paa",
+            "DZ/gear/navigation/data/map_quay_ca.paa",
+            "DZ/gear/navigation/data/map_rock_ca.paa",
+            "DZ/gear/navigation/data/map_ruin_ca.paa",
+            "ZenMap/data/icons/shovel.paa",
+            "DZ/gear/navigation/data/map_station_ca.paa",
+            "ZenMap/data/icons/tent.paa",
+            "DZ/gear/navigation/data/map_tourism_ca.paa",
+            "DZ/gear/navigation/data/map_waterpump_ca.paa",
+            "ZenMap/data/icons/warn.paa"
+        ]
+    },
+    "ServerMapMarkers": [
+        {
+            "Name": "Example Marker",
+            "Position": [
+                8229.091796875,
+                471.1855773925781,
+                9031.171875
+            ],
+            "Icon": "DZ/gear/navigation/data/map_border_cross_ca.paa",
+            "Color": -65536
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+ADDED:
+*check ALL_CLASSNAMES.txt for full list of new varients.
+
+Vests- Opscore Carrier Model Redux
+Attachements for Opscore Carrier Redux
+Textures for Opscore Carrier.
+Updated CDAJ_Types.xml
+
+CHANGED:
+Revised model for Opscore Carrier and attachments
+
+REMOVED:
+CDAJ_Opscore_Carrier_Arid
+
+NOTE: Removed classnames have been aliased, will remain in the mod for some time for servers to remove these classnames.
+Item will read as "DO NOT USE THIS ITEM!"
+Please remove these items from your economy
+
+/*
+THE FOLLOWING CLASSNAMES WERE REMOVED DURING THE OPSCORE REVISION
+CDAJ_Opscore_Carrier_Arid
+CDAJ_MagPouches_Camo
+CDAJ_MagPouches_ERDL
+CDAJ_MagPouches_Brown
+CDAJ_MagPouches_Multicam
+CDAJ_MagPouches_Grey
+CDAJ_MagPouches_Black
+CDAJ_MagPouches_Arid
+CDAJ_MagPouches_Moon
+CDAJ_MagPouches_Jay
+CDAJ_bigpouche_Camo
+CDAJ_bigpouche_ERDL
+CDAJ_bigpouche_Brown
+CDAJ_bigpouche_Multicam
+CDAJ_bigpouche_Black
+CDAJ_bigpouche_Grey
+CDAJ_bigpouche_Arid
+CDAJ_bigpouche_Moon
+CDAJ_bigpouche_Jay
+CDAJ_medkit_Camo
+CDAJ_medkit_ERDL
+CDAJ_medkit_Brown
+CDAJ_medkit_Multicam
+CDAJ_medkit_Grey
+CDAJ_medkit_Black
+CDAJ_medkit_Arid
+CDAJ_medkit_Moon
+CDAJ_medkit_Jay
+CDAJ_prc152_Camo
+CDAJ_prc152_ERDL
+CDAJ_prc152_Brown
+CDAJ_prc152_Multicam
+CDAJ_prc152_Black
+CDAJ_prc152_Grey
+CDAJ_prc152_Arid
+CDAJ_prc152_Jay
+*/
+
+FIXES:
+-More Damage system floats.
+
+KNOWN ISSUES:
+-CDAJ_ADMIN_RED may not actually show up. Its supposed to have a sign above the characters head that says "ADMIN" it still works but I've had a few reports saying its invisible. Unsure what the issue is.
+-CDAJ_Trenchcoat varients have poor weighting on the players left leg. I will correct this when I have time.
+-CDAJ_MSR_Tan, CDAJ_MSR, have no shot sounds, If you have Morty's Weapons loaded it works. This was a mistake during testing and i will eventually have my own soundsets for this weapon.
+-CDAJ_DKS shoots REALLY low and i think i know why, i just havent unfucked it.
+-CDAJ_Opscore_Carrier may have some clipping on certain shirts.

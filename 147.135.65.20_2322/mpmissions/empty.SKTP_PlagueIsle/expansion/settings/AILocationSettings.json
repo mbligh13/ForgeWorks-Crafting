@@ -1,0 +1,580 @@
+{
+    "m_Version": 2,
+    "RoamingLocations": [
+        {
+            "Name": "Rooftopolis",
+            "Position": [
+                11958.8603515625,
+                0.0,
+                9585.2099609375
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "BourtziFortress (Bourtzi Fortress)",
+            "Position": [
+                12790.73046875,
+                0.0,
+                14008.9599609375
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Agralea",
+            "Position": [
+                12300.6796875,
+                0.0,
+                11118.4599609375
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "FOBSword (FOB Sword)",
+            "Position": [
+                12103.25,
+                0.0,
+                12054.1298828125
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Bertopolis",
+            "Position": [
+                15465.76953125,
+                0.0,
+                9914.3603515625
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Astrea",
+            "Position": [
+                12941.1904296875,
+                0.0,
+                5232.7900390625
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Chios",
+            "Position": [
+                10505.83984375,
+                0.0,
+                11740.330078125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Tarakros",
+            "Position": [
+                13334.08984375,
+                0.0,
+                10222.0498046875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "PlagueFest (Plague Fest)",
+            "Position": [
+                11242.23046875,
+                0.0,
+                11526.8095703125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "CampSkoll (Camp Skoll)",
+            "Position": [
+                2893.719970703125,
+                0.0,
+                16385.490234375
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "CasaEscobert (Casa Escobert)",
+            "Position": [
+                15004.51953125,
+                0.0,
+                9951.9404296875
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "FortNoxx (Fort Noxx)",
+            "Position": [
+                6277.4501953125,
+                0.0,
+                4391.43017578125
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "StGeorgeMonastery (St George Monastery)",
+            "Position": [
+                11944.830078125,
+                0.0,
+                5902.169921875
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "DevilsCastle (Devils Castle)",
+            "Position": [
+                14834.9501953125,
+                0.0,
+                12211.240234375
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "MaragasQuarry (Maragas Quarry)",
+            "Position": [
+                7817.22998046875,
+                0.0,
+                14166.509765625
+            ],
+            "Radius": 100.0,
+            "Type": "RockArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "COPAlopekis (COP Alopekis)",
+            "Position": [
+                9187.4697265625,
+                0.0,
+                4393.56005859375
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Evergreen",
+            "Position": [
+                1906.47998046875,
+                0.0,
+                12475.9296875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "WendigoValley (Wendigo Valley)",
+            "Position": [
+                3226.56005859375,
+                0.0,
+                12822.650390625
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Kambi",
+            "Position": [
+                7341.91015625,
+                0.0,
+                6018.4501953125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "SwiftRetreat (Swift Retreat)",
+            "Position": [
+                7023.97998046875,
+                0.0,
+                12450.7998046875
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "Alexandria",
+            "Position": [
+                12619.7197265625,
+                0.0,
+                9269.2998046875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Keri",
+            "Position": [
+                11279.9501953125,
+                0.0,
+                2262.9599609375
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "KeriBarracks (Stratones Keri)",
+            "Position": [
+                12427.26953125,
+                0.0,
+                1909.75
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Elos",
+            "Position": [
+                12180.330078125,
+                0.0,
+                3608.580078125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Astesia",
+            "Position": [
+                9525.1298828125,
+                0.0,
+                3581.389892578125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "GamethecusPrison (Fylaki Gamethecus)",
+            "Position": [
+                7881.72021484375,
+                0.0,
+                7011.72021484375
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "MikriPoli (Mikri Poli)",
+            "Position": [
+                9530.73046875,
+                0.0,
+                7032.7099609375
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Kalamaki",
+            "Position": [
+                15681.5,
+                0.0,
+                7369.080078125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Pergamon",
+            "Position": [
+                14118.5302734375,
+                0.0,
+                6575.27001953125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Semeia",
+            "Position": [
+                11691.830078125,
+                0.0,
+                8329.0703125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "KastroPilino (Kastro Pilino)",
+            "Position": [
+                18264.08984375,
+                0.0,
+                4860.259765625
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Loutraki",
+            "Position": [
+                19920.08984375,
+                0.0,
+                6617.68017578125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "LoutrakiIndustrial (Loutraki Industrial)",
+            "Position": [
+                20252.91015625,
+                0.0,
+                5499.5
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "KastroAspessa (Kastro Aspessa)",
+            "Position": [
+                4192.330078125,
+                0.0,
+                19935.560546875
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "GeladaPandai (Gelada Pandai)",
+            "Position": [
+                5303.31005859375,
+                0.0,
+                19864.73046875
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "MaragasIndustrial (Maragas Industrial)",
+            "Position": [
+                9528.580078125,
+                0.0,
+                13761.0400390625
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Talontown",
+            "Position": [
+                1525.199951171875,
+                0.0,
+                13058.490234375
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "KastroLycophos (Kastro Lycophos)",
+            "Position": [
+                4230.43994140625,
+                0.0,
+                9055.2099609375
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Lycophos",
+            "Position": [
+                4225.33984375,
+                0.0,
+                9984.1796875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Nightbrook",
+            "Position": [
+                5623.97998046875,
+                0.0,
+                11540.01953125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Crowfall",
+            "Position": [
+                7911.080078125,
+                0.0,
+                11262.5595703125
+            ],
+            "Radius": 100.0,
+            "Type": "RockArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "HambleMarina",
+            "Position": [
+                13582.83984375,
+                0.0,
+                12967.580078125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "HambleIndustrial (Hamble Industrial)",
+            "Position": [
+                13025.2197265625,
+                0.0,
+                12805.5703125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Hamble",
+            "Position": [
+                14182.66015625,
+                0.0,
+                12225.0
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Minza",
+            "Position": [
+                14044.9404296875,
+                0.0,
+                11029.73046875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Luxantia",
+            "Position": [
+                9467.16015625,
+                0.0,
+                12139.0703125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "MoragFalls (Morag Falls)",
+            "Position": [
+                9797.419921875,
+                0.0,
+                4904.4501953125
+            ],
+            "Radius": 100.0,
+            "Type": "RockArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "AbderaCove (Abdera Cove)",
+            "Position": [
+                5382.66015625,
+                0.0,
+                18496.470703125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "LarissaAirfield (Larissa Airfield)",
+            "Position": [
+                3995.02001953125,
+                0.0,
+                16261.5400390625
+            ],
+            "Radius": 100.0,
+            "Type": "Airport",
+            "Enabled": 1
+        },
+        {
+            "Name": "IdesusCastle (Idesus Castle)",
+            "Position": [
+                9779.58984375,
+                0.0,
+                13019.2001953125
+            ],
+            "Radius": 100.0,
+            "Type": "StrongpointArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "Itopus",
+            "Position": [
+                11621.9501953125,
+                0.0,
+                13583.7001953125
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        }
+    ],
+    "ExcludedRoamingBuildings": [
+        "Land_CementWorks_Hall2_Grey",
+        "Land_Factory_Small",
+        "Land_House_1W09",
+        "Land_House_2W03",
+        "Land_HouseBlock_1F4",
+        "Land_Boathouse",
+        "Land_Mine_Building",
+        "Land_Shed_W2",
+        "Land_Tenement_Big",
+        "Land_Misc_Toilet_Mobile",
+        "Land_Ship_Medium2"
+    ],
+    "NoGoAreas": []
+}
