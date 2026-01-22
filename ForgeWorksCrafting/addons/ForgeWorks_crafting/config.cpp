@@ -21,44 +21,6 @@ class CfgPatches
     };
 };
 
-class CfgMods
-{
-    class ForgeWorks_Crafting
-    {
-        dir = "ForgeWorks_crafting";
-        name = "ForgeWorks Crafting System";
-        picture = "";
-        action = "";
-        hideName = 0;
-        hidePicture = 1;
-        credits = "Sector 88 Dev Team";
-        author = "Rook";
-        extra = 0;
-        type = "mod";
-        
-        dependencies[] = { "Game", "World", "Mission" };
-        
-        class defs
-        {
-            class gameScriptModule
-            {
-                value = "";
-                files[] = { "ForgeWorks_crafting/scripts/3_game" };
-            };
-            class worldScriptModule
-            {
-                value = "";
-                files[] = { "ForgeWorks_crafting/scripts/4_world" };
-            };
-            class missionScriptModule
-            {
-                value = "";
-                files[] = { "ForgeWorks_crafting/scripts/5_mission" };
-            };
-        };
-    };
-};
-
 class CfgVehicles
 {
     // Base game workbench for inheritance

@@ -12,7 +12,7 @@ class CfgMods
         credits = "Sector 88 Dev Team";
         author = "Rook";
         authorID = "76561198074746423";
-        version = "1.0.1";
+        version = "1.0.2";
         extra = 0;
         type = "mod";
         

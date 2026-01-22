@@ -9,23 +9,6 @@ class CfgPatches
     };
 };
 
-class CfgMods
-{
-    class ForgeWorks_WeaponParts
-    {
-        dir = "forgeworks_weaponparts";
-        name = "ForgeWorks Weapon Parts System";
-        picture = "";
-        action = "";
-        hideName = 0;
-        hidePicture = 0;
-        credits = "Sector 88 Dev Team";
-        author = "Rook";
-        extra = 0;
-        type = "mod";
-    };
-};
-
 class CfgVehicles
 {
     class Inventory_Base;
