@@ -16,7 +16,9 @@ class CfgPatches
             "DZ_Data",
             "DZ_Gear_Tools",
             "DZ_Scripts",
-            "ForgeWorks_WeaponParts"  // Require the weapon parts addon
+            "ForgeWorks_WeaponParts",  // Require the weapon parts addon
+            "DZ_Expansion_Core",       // DayZ Expansion - Core
+            "DZ_Expansion_Objects"     // DayZ Expansion - Objects (toolbox, etc.)
         };
     };
 };
