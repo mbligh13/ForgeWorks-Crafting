@@ -1,0 +1,27 @@
+{
+    "Name": "Break .308 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 150,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "FAL", "Amount": 1 },
+            { "ClassName": "M70_Tundra", "Amount": 1 },
+            { "ClassName": "HuntingRifle", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_308", "Amount": 1 },
+            { "ClassName": "UpperReceiver_308", "Amount": 1 },
+            { "ClassName": "LowerReceiver_308", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "FAL", "Amount": 1 },
+            { "ClassName": "M70_Tundra", "Amount": 1 },
+            { "ClassName": "HuntingRifle", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_BreakGun"]
+}

@@ -2,7 +2,7 @@ class CfgMods
 {
     class ForgeWorksCrafting
     {
-        dir = "ForgeWorksCrafting";
+        dir = "crafting";
         picture = "ForgeWorks_Crafting.paa";
         action = "";
         hideName = 0;
@@ -23,17 +23,17 @@ class CfgMods
             class gameScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorksCrafting/ForgeWorksCrafting/ForgeWorks_crafting/scripts/3_game" };
+                files[] = { "crafting/scripts/3_game" };
             };
             class worldScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorksCrafting/ForgeWorksCrafting/ForgeWorks_crafting/scripts/4_world" };
+                files[] = { "crafting/scripts/4_world" };
             };
             class missionScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorksCrafting/ForgeWorksCrafting/ForgeWorks_crafting/scripts/5_mission" };
+                files[] = { "crafting/scripts/5_mission" };
             };
         };
     };

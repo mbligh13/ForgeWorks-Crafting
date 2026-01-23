@@ -1,0 +1,26 @@
+{
+    "Name": "Craft .50 BMG Anti-Materiel Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 300,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "Barrel_50", "Amount": 1 },
+            { "ClassName": "Bolt_50", "Amount": 1 },
+            { "ClassName": "LowerReceiver_50", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "BarrettM82_50BMG", "Amount": 1 },
+            { "ClassName": "BarrettM107_50BMG", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Barrel_50", "Amount": 1 },
+            { "ClassName": "Bolt_50", "Amount": 1 },
+            { "ClassName": "LowerReceiver_50", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_MakeGun"]
+}

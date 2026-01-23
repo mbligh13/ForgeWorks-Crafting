@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ForgeWorks Crafting - String Table for Localization -->
+<Project name="ForgeWorks_Crafting">
+    <Package name="FW_Crafting">
+        <Container name="Strings">
+            
+            <!-- Menu strings -->
+            <Key name="STR_FW_CRAFT">
+                <Original>Open Crafting Menu</Original>
+                <English>Open Crafting Menu</English>
+                <Russian>Открыть меню крафта</Russian>
+                <German>Handwerksmenü öffnen</German>
+                <French>Ouvrir le menu de fabrication</French>
+                <Spanish>Abrir menú de fabricación</Spanish>
+            </Key>
+            
+            <Key name="STR_FW_CRAFT_QUICK">
+                <Original>Craft</Original>
+                <English>Craft</English>
+                <Russian>Крафт</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CATEGORY_PISTOLS">
+                <Original>Pistols</Original>
+                <English>Pistols</English>
+                <Russian>Пистолеты</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CATEGORY_SMGS">
+                <Original>SMGs</Original>
+                <English>SMGs</English>
+                <Russian>ПП</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CATEGORY_RIFLES">
+                <Original>Rifles</Original>
+                <English>Rifles</English>
+                <Russian>Винтовки</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CATEGORY_SNIPERS">
+                <Original>Snipers</Original>
+                <English>Snipers</English>
+                <Russian>Снайперские</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CATEGORY_SHOTGUNS">
+                <Original>Shotguns</Original>
+                <English>Shotguns</English>
+                <Russian>Дробовики</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CATEGORY_MAGAZINES">
+                <Original>Magazines</Original>
+                <English>Magazines</English>
+                <Russian>Магазины</Russian>
+            </Key>
+            
+            <Key name="STR_FW_ALL_RECIPES">
+                <Original>All recipes</Original>
+                <English>All recipes</English>
+                <Russian>Все рецепты</Russian>
+            </Key>
+            
+            <Key name="STR_FW_MATERIALS_REQUIRED">
+                <Original>Materials Required</Original>
+                <English>Materials Required</English>
+                <Russian>Требуемые материалы</Russian>
+            </Key>
+            
+            <Key name="STR_FW_ATTACHMENTS">
+                <Original>Attachments</Original>
+                <English>Attachments</English>
+                <Russian>Инструменты</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CRAFT_BUTTON">
+                <Original>CRAFT</Original>
+                <English>CRAFT</English>
+                <Russian>СОЗДАТЬ</Russian>
+            </Key>
+            
+            <Key name="STR_FW_MISSING_MATERIALS">
+                <Original>Missing required materials!</Original>
+                <English>Missing required materials!</English>
+                <Russian>Недостаточно материалов!</Russian>
+            </Key>
+            
+            <Key name="STR_FW_MISSING_TOOLS">
+                <Original>Workbench missing required tools</Original>
+                <English>Workbench missing required tools</English>
+                <Russian>На верстаке нет нужных инструментов</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CRAFTING_START">
+                <Original>Crafting...</Original>
+                <English>Crafting...</English>
+                <Russian>Создание...</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CRAFTING_SUCCESS">
+                <Original>crafted successfully!</Original>
+                <English>crafted successfully!</English>
+                <Russian>успешно создано!</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CRAFTING_CANCELLED">
+                <Original>Crafting cancelled.</Original>
+                <English>Crafting cancelled.</English>
+                <Russian>Создание отменено.</Russian>
+            </Key>
+            
+            <Key name="STR_FW_CLOSE_HINT">
+                <Original>[ESC] Close</Original>
+                <English>[ESC] Close</English>
+                <Russian>[ESC] Закрыть</Russian>
+            </Key>
+            
+        </Container>
+    </Package>
+</Project>

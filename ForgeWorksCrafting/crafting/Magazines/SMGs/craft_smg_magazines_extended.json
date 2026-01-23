@@ -1,0 +1,26 @@
+{
+    "Name": "Craft Extended SMG Magazines (50-64 Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "FW_SheetMetal_Small", "Amount": 2 },
+            { "ClassName": "FW_Spring_Large", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Mag_Bizon_64Rnd", "Amount": 1 },
+            { "ClassName": "AJW_Mag_MP5_50", "Amount": 1 },
+            { "ClassName": "AJW_Drum_MP5_50", "Amount": 1 }
+        ],
+
+        "Delete": [
+            { "ClassName": "FW_SheetMetal_Small", "Amount": 2 },
+            { "ClassName": "FW_Spring_Large", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_MakeMagazine"]
+}

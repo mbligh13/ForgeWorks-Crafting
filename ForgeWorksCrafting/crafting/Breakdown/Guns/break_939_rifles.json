@@ -1,0 +1,25 @@
+{
+    "Name": "Break 9x39 Rifles",
+    "ActionType": "Craft",
+    "CraftingTime": 100,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "VSS", "Amount": 1 },
+            { "ClassName": "ASVAL", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "Barrel_939", "Amount": 1 },
+            { "ClassName": "UpperReceiver_939", "Amount": 1 },
+            { "ClassName": "LowerReceiver_939", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "VSS", "Amount": 1 },
+            { "ClassName": "ASVAL", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_BreakGun"]
+}

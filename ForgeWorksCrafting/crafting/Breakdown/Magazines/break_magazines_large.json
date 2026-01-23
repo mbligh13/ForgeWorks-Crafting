@@ -1,0 +1,32 @@
+{
+    "Name": "Salvage Extended/Drum Magazines (40-100+ Rounds)",
+    "ActionType": "Craft",
+    "CraftingTime": 60,
+    "Animation": "WorkOnBench",    "Ingredients": {
+        "X": [
+            { "ClassName": "Mag_CMAG_40Rnd", "Amount": 1 },
+            { "ClassName": "Mag_CMAG_60Rnd", "Amount": 1 },
+            { "ClassName": "Mag_STANAGCoupled_30Rnd", "Amount": 1 },
+            { "ClassName": "Mag_AK74_Drum75Rnd", "Amount": 1 },
+            { "ClassName": "Belt_PKM_100Rnd", "Amount": 1 },
+            { "ClassName": "Mag_Bizon_64Rnd", "Amount": 1 }
+        ]
+    },
+
+    "Result": {
+        "Create": [
+            { "ClassName": "FW_SheetMetal_Large", "Amount": 1 },
+            { "ClassName": "FW_Spring_Large", "Amount": 1 }
+        ],
+        "Delete": [
+            { "ClassName": "Mag_CMAG_40Rnd", "Amount": 1 },
+            { "ClassName": "Mag_CMAG_60Rnd", "Amount": 1 },
+            { "ClassName": "Mag_STANAGCoupled_30Rnd", "Amount": 1 },
+            { "ClassName": "Mag_AK74_Drum75Rnd", "Amount": 1 },
+            { "ClassName": "Belt_PKM_100Rnd", "Amount": 1 },
+            { "ClassName": "Mag_Bizon_64Rnd", "Amount": 1 }
+        ]
+    },
+
+    "Tags": ["FW_BreakMagazine"]
+}

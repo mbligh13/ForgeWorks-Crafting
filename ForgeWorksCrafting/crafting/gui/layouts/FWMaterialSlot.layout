@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Sector 88 - Material Slot Layout (for required materials display) -->
+<widget name="MaterialSlotRoot" type="FrameWidget"
+        size="0.14 1.0"
+        hexcolor="#2A2A2AFF">
+    
+    <!-- Material Background -->
+    <widget name="MaterialBackground" type="ImageWidget"
+            pos="0 0" size="1 1"
+            stretch="true"
+            hexcolor="#1A1A1AFF"/>
+    
+    <!-- Material Icon -->
+    <widget name="MaterialIcon" type="ImageWidget"
+            pos="0.1 0.1" size="0.8 0.6"
+            stretch="keep_aspect"
+            filter="false"/>
+    
+    <!-- Material Count (e.g., "0/1500") -->
+    <widget name="MaterialCount" type="TextWidget"
+            pos="0 0.72" size="1 0.25"
+            text="0/1"
+            font="gui/fonts/MetronBold16"
+            style="shadow"
+            halign="center_ref"
+            valign="center_ref"
+            hexcolor="#FF0000FF"/>
+    
+    <!-- Border when requirement met -->
+    <widget name="MaterialBorder" type="ImageWidget"
+            pos="0 0" size="1 1"
+            stretch="true"
+            hexcolor="#00FF0044"
+            show="false"/>
+
+</widget>
