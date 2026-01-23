@@ -23,17 +23,17 @@ class CfgMods
             class gameScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorksCrafting/addons/ForgeWorks_crafting/scripts/3_game" };
+                files[] = { "ForgeWorksCrafting/ForgeWorksCrafting/ForgeWorks_crafting/scripts/3_game" };
             };
             class worldScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorksCrafting/addons/ForgeWorks_crafting/scripts/4_world" };
+                files[] = { "ForgeWorksCrafting/ForgeWorksCrafting/ForgeWorks_crafting/scripts/4_world" };
             };
             class missionScriptModule
             {
                 value = "";
-                files[] = { "ForgeWorksCrafting/addons/ForgeWorks_crafting/scripts/5_mission" };
+                files[] = { "ForgeWorksCrafting/ForgeWorksCrafting/ForgeWorks_crafting/scripts/5_mission" };
             };
         };
     };
